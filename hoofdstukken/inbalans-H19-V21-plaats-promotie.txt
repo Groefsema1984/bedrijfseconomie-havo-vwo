@@ -1,0 +1,117 @@
+# HOOFDSTUK h 19 / v 21 | Plaats en promotie
+wereld: h19, v21
+hoofdvraag: Hoe komt het product bij de klant en hoe maakt de onderneming het bekend?
+
+## § 19.1 / 21.1 | Plaats
+onderwerp: E.marketing
+deelvraag: Via welke kanalen komt een product bij de klant?
+### UITLEG Distributiekanalen
+Een distributiekanaal is de weg van producent naar consument. Direct: de producent verkoopt zelf aan de consument (eigen webshop, boerderijwinkel). Indirect: via tussenpersonen, zoals de groothandel en de detailhandel. Tussenpersonen voegen waarde toe: ze verkleinen grote partijen, bieden een assortiment aan en zitten dicht bij de klant.
+Distributie-intensiteit: intensief (overal te koop, zoals frisdrank), selectief (bij een beperkt aantal winkels, zoals merkkleding) of exclusief (bij één dealer per regio, zoals een duur automerk).
+Bij omnichannel kan de klant via alle kanalen (winkel, webshop, app) kopen, die met elkaar zijn verbonden. Bij franchising gebruikt een zelfstandige ondernemer (franchisenemer) de formule van een franchisegever tegen een vergoeding.
+### BEGRIPPEN
+Distributiekanaal = De weg die een product aflegt van producent naar consument.
+Directe distributie = De producent verkoopt zelf aan de consument.
+Indirecte distributie = Verkoop via tussenpersonen, zoals groothandel en detailhandel.
+Intensieve distributie = Het product is overal te koop.
+Exclusieve distributie = Het product is per regio bij één verkooppunt te koop.
+Omnichannel = Verkoop via verschillende kanalen die met elkaar verbonden zijn.
+Franchising = Een zelfstandige ondernemer gebruikt tegen betaling de formule van een franchisegever.
+### MC
+Een luxe horlogemerk is in heel Nederland bij slechts vier juweliers te koop. Welke distributie-intensiteit is dit?
+* Exclusief
+- Intensief
+- Selectief
+- Direct
+> Weinig verkooppunten past bij het exclusieve imago.
+### MC
+Wat is een voordeel van franchising voor de franchisenemer?
+* Hij gebruikt een bekende formule en krijgt ondersteuning, terwijl hij zelfstandig ondernemer blijft
+- Hij hoeft geen vergoeding te betalen
+- Hij mag zelf het assortiment en de huisstijl bepalen
+- Hij is in loondienst van de franchisegever
+> Minder risico dan helemaal zelf beginnen.
+
+## § 19.2 / 21.2 | Logistiek
+onderwerp: E.marketing
+deelvraag: Hoe zorgt een onderneming dat producten op tijd op de juiste plaats zijn?
+### UITLEG Logistiek
+Logistiek is het plannen en regelen van de goederenstroom: inkoop, opslag, transport en levering. Doel: het juiste product op de juiste tijd op de juiste plaats, tegen zo laag mogelijke kosten.
+Voorraadbeheer is een afweging: een grote voorraad voorkomt 'nee verkopen', maar kost geld (rente, opslag, veroudering). Een veiligheidsvoorraad vangt onverwachte vraag op. Bij just in time (JIT) worden goederen pas geleverd op het moment dat ze nodig zijn; de voorraadkosten zijn laag, maar de onderneming is afhankelijk van betrouwbare leveranciers.
+Bij webwinkels is de 'last mile' (de bezorging bij de klant thuis) vaak het duurste deel.
+### BEGRIPPEN
+Logistiek = Het plannen en regelen van de goederenstroom van inkoop tot levering.
+Voorraadkosten = Kosten van het aanhouden van voorraad, zoals rente, opslag en veroudering.
+Veiligheidsvoorraad = Extra voorraad om onverwachte vraag op te vangen.
+Just in time = Goederen worden geleverd op het moment dat ze nodig zijn.
+### MC
+Wat is een risico van just in time?
+* Bij een vertraging van de leverancier ligt de productie stil
+- De voorraadkosten worden te hoog
+- Er is te veel opslagruimte nodig
+- Producten verouderen in het magazijn
+> Geen buffer.
+### MC
+Waarom houdt een onderneming een veiligheidsvoorraad aan?
+* Om onverwacht hoge vraag of late levering op te vangen
+- Om de voorraadkosten te verlagen
+- Om just in time te kunnen werken
+- Omdat de Belastingdienst dat eist
+> Nee verkopen voorkomen.
+
+## § 19.3 / 21.3 | Promotie en reclame
+onderwerp: E.marketing
+deelvraag: Met welke promotie-instrumenten bereikt een onderneming haar doelgroep?
+### UITLEG Promotiemix
+De promotiemix bestaat uit: reclame (betaalde boodschap via media), public relations (een goed imago opbouwen, bijvoorbeeld via persberichten), sales promotion (tijdelijke acties zoals 1+1 gratis of sparen), persoonlijke verkoop (verkoopgesprek), sponsoring en online marketing (sociale media, zoekmachines, influencers).
+Het AIDA-model beschrijft wat reclame moet bereiken: Attention (aandacht trekken), Interest (interesse wekken), Desire (verlangen opwekken) en Action (tot kopen aanzetten).
+Doelen van promotie zijn bijvoorbeeld naamsbekendheid vergroten, een imago opbouwen of de afzet op korte termijn verhogen.
+### BEGRIPPEN
+Promotiemix = De combinatie van promotie-instrumenten die een onderneming inzet.
+Reclame = Betaalde boodschap via media om een product of merk onder de aandacht te brengen.
+Public relations = Activiteiten om een goed imago op te bouwen bij het publiek.
+Sales promotion = Tijdelijke acties om de verkoop te stimuleren.
+AIDA-model = Attention, interest, desire, action: de stappen die reclame moet bereiken.
+Sponsoring = Een organisatie of evenement steunen in ruil voor naamsbekendheid.
+### MC
+Een supermarkt heeft deze week een actie '2e halve prijs' op koffie. Welk promotie-instrument is dit?
+* Sales promotion
+- Public relations
+- Reclame
+- Sponsoring
+> Een tijdelijke actie.
+### MC
+Een energiebedrijf betaalt de shirts van een voetbalclub. Wat wil het bedrijf vooral bereiken?
+* Naamsbekendheid en een positief imago
+- Direct meer omzet op korte termijn
+- Lagere kosten
+- Een groter assortiment
+> Sponsoring werkt op de lange termijn.
+
+## § 19.4 / 21.4 | Medium
+onderwerp: E.marketing
+deelvraag: Welk medium kies je voor een campagne?
+### UITLEG Mediakeuze
+Media zijn de dragers van een boodschap: televisie, radio, kranten, tijdschriften, buitenreclame, internet en sociale media. Bij de keuze let je op: het bereik (hoeveel mensen uit de doelgroep zie je), de kosten per duizend contacten, de mogelijkheden (beeld, geluid, interactie) en de doelgroep.
+Massamedia (televisie) bereiken veel mensen tegelijk, maar zijn duur en weinig gericht. Online media kunnen heel gericht adverteren op basis van gegevens van gebruikers (targeting), en de resultaten zijn goed te meten (bijvoorbeeld het aantal klikken).
+Kosten per duizend contacten = kosten van de campagne / bereik × 1.000.
+### BEGRIPPEN
+Medium = Drager van een reclameboodschap.
+Bereik = Het aantal mensen dat de boodschap ziet of hoort.
+Kosten per duizend contacten = Kosten om duizend mensen met de boodschap te bereiken.
+Targeting = Adverteren gericht op een specifieke doelgroep.
+Influencer = Persoon met veel volgers op sociale media die producten aanprijst.
+### MC
+Een tv-spot kost € 30.000 en bereikt 1,5 miljoen kijkers. Wat zijn de kosten per duizend contacten?
+* € 20
+- € 2
+- € 50
+- € 200
+> 30.000 / 1.500.000 × 1.000 = € 20.
+### MC
+Waarom kiest een nieuw sportdrankje voor jongeren eerder voor sociale media dan voor de krant?
+* De doelgroep is daar beter en gerichter te bereiken
+- Sociale media hebben het grootste bereik onder alle leeftijden
+- Kranten zijn verboden voor reclame
+- Sociale media zijn altijd gratis
+> Kies het medium dat bij de doelgroep past.

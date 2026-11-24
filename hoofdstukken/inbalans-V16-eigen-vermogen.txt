@@ -1,0 +1,149 @@
+# HOOFDSTUK v 16 | Eigen vermogen
+wereld: v16
+hoofdvraag: Hoe komt een onderneming aan eigen vermogen en wat is een aandeel waard?
+
+## § 16.1 | Eenmanszaak en vof
+onderwerp: D.financ
+deelvraag: Hoe verandert het eigen vermogen van een eenmanszaak of vof?
+gens: eigenVermogen
+### UITLEG Eigen vermogen bij een eenmanszaak en vof
+Eigen vermogen is het vermogen dat de eigenaren zelf in de onderneming hebben gestoken, plus de winst die in de onderneming is gebleven. Het eigen vermogen is risicodragend: bij verlies daalt het als eerste.
+Bij een eenmanszaak of vof verandert het eigen vermogen door: privéstortingen (+), winst (+), verlies (−) en privéopnamen (−). Eigen vermogen eind = eigen vermogen begin + privéstortingen + winst − privéopnamen.
+Bij een vof heeft elke firmant een eigen kapitaalrekening.
+### BEGRIPPEN
+Eigen vermogen = Vermogen dat de eigenaren beschikbaar stellen plus de ingehouden winst.
+Risicodragend vermogen = Vermogen dat als eerste verloren gaat bij verlies.
+Privéstorting = Geld dat de eigenaar uit privé in de onderneming stopt.
+Privéopname = Geld dat de eigenaar uit de onderneming haalt voor privé.
+Kapitaalrekening = Rekening waarop het eigen vermogen van een firmant wordt bijgehouden.
+### MC
+Het eigen vermogen van een eenmanszaak is op 1 januari € 80.000. De winst is € 45.000, de privéopnamen zijn € 38.000 en er is € 5.000 privé gestort. Wat is het eigen vermogen op 31 december?
+* € 92.000
+- € 82.000
+- € 87.000
+- € 168.000
+> 80.000 + 5.000 + 45.000 − 38.000 = € 92.000.
+### MC
+Waarom heet eigen vermogen risicodragend?
+* Bij verlies of faillissement krijgen de eigenaren pas iets als alle schuldeisers zijn betaald
+- Omdat er altijd interest over moet worden betaald
+- Omdat het elk jaar moet worden afgelost
+- Omdat de bank het kan opeisen
+> Eigenaren lopen het meeste risico.
+
+## § 16.2 | Aandelenkapitaal
+onderwerp: D.financ
+deelvraag: Hoe is het aandelenkapitaal van een bv of nv opgebouwd?
+gens: dividendPerAandeel
+### UITLEG Aandelenkapitaal
+Het eigen vermogen van een bv of nv is verdeeld in aandelen. Elk aandeel heeft een nominale waarde (de waarde die op het aandeel staat).
+Het geplaatst aandelenkapitaal is het deel dat aan aandeelhouders is uitgegeven. Het gestort aandelenkapitaal is het deel dat de aandeelhouders daarvan al hebben betaald. Sommige vennootschappen werken met een maatschappelijk aandelenkapitaal: het maximale bedrag aan aandelen dat volgens de statuten mag worden uitgegeven.
+Gewone aandelen geven stemrecht en recht op dividend. Preferente aandelen geven voorrang bij de winstuitkering (een vast dividendpercentage), maar vaak minder zeggenschap. Prioriteitsaandelen geven bijzondere zeggenschap, bijvoorbeeld bij het benoemen van bestuurders.
+### BEGRIPPEN
+Nominale waarde = De waarde die op een aandeel staat.
+Geplaatst aandelenkapitaal = Het deel van het aandelenkapitaal dat aan aandeelhouders is uitgegeven.
+Gestort aandelenkapitaal = Het deel van het geplaatste kapitaal dat is betaald.
+Gewoon aandeel = Aandeel met stemrecht en recht op dividend.
+Preferent aandeel = Aandeel met voorrang bij de winstuitkering.
+Prioriteitsaandeel = Aandeel met bijzondere zeggenschap.
+### MC
+Een nv heeft 400.000 aandelen van € 5 geplaatst. Hoeveel is het geplaatst aandelenkapitaal?
+* € 2.000.000
+- € 400.000
+- € 80.000
+- € 5.000.000
+> 400.000 × 5 = € 2.000.000.
+### MC
+Waarom kiest een belegger voor preferente aandelen?
+* Hij krijgt voorrang bij de winstuitkering
+- Hij krijgt meer stemrecht
+- Hij kan de directie benoemen
+- Hij hoeft geen belasting te betalen over het dividend
+> Een vast dividend dat eerst wordt uitgekeerd.
+
+## § 16.3 | Emissie van aandelen
+onderwerp: D.financ
+deelvraag: Wat gebeurt er als een nv nieuwe aandelen uitgeeft?
+gens: agio
+### UITLEG Emissie
+Bij een emissie geeft een vennootschap nieuwe aandelen uit om extra eigen vermogen aan te trekken. De emissiekoers is de prijs die de nieuwe aandeelhouders betalen. Die ligt meestal boven de nominale waarde en onder de beurskoers, zodat de aandelen aantrekkelijk zijn.
+Het verschil tussen emissiekoers en nominale waarde is het agio. Het geplaatst aandelenkapitaal stijgt met het aantal nieuwe aandelen × de nominale waarde; de agioreserve stijgt met het aantal nieuwe aandelen × het agio.
+Bestaande aandeelhouders hebben vaak een voorkeursrecht: ze mogen als eerste nieuwe aandelen kopen, zodat hun belang niet verwatert.
+### BEGRIPPEN
+Emissie = Uitgifte van nieuwe aandelen.
+Emissiekoers = De prijs waarvoor nieuwe aandelen worden uitgegeven.
+Agio = Het bedrag dat boven de nominale waarde voor een aandeel wordt betaald.
+Agioreserve = Reserve waarop het agio bij een emissie wordt geboekt.
+Voorkeursrecht = Recht van bestaande aandeelhouders om als eerste nieuwe aandelen te kopen.
+Verwatering = Daling van het belang van bestaande aandeelhouders door uitgifte van nieuwe aandelen.
+### MC
+Een nv geeft 100.000 aandelen uit met een nominale waarde van € 2 tegen een emissiekoers van € 9. Met hoeveel stijgt de agioreserve?
+* € 700.000
+- € 900.000
+- € 200.000
+- € 1.100.000
+> (9 − 2) × 100.000 = € 700.000.
+### MC
+Waarom ligt de emissiekoers meestal onder de beurskoers?
+* Om de nieuwe aandelen aantrekkelijk te maken, zodat ze allemaal worden verkocht
+- Omdat dat wettelijk verplicht is
+- Om het agio zo groot mogelijk te maken
+- Omdat de nominale waarde dan stijgt
+> Een korting op de beurskoers trekt kopers.
+
+## § 16.4 | Reserves
+onderwerp: D.financ
+deelvraag: Welke reserves zijn er en hoe ontstaan ze?
+### UITLEG Reserves
+Reserves zijn het deel van het eigen vermogen naast het geplaatst aandelenkapitaal.
+Agioreserve: ontstaat bij een emissie boven de nominale waarde.
+Winstreserve (overige of algemene reserve): ontstaat door winst die niet als dividend wordt uitgekeerd (winstinhouding). Dit is interne financiering.
+Herwaarderingsreserve: ontstaat als een bezitting (bijvoorbeeld een gebouw) hoger wordt gewaardeerd dan de boekwaarde. Er is geen geld binnengekomen; het is een stille, niet-gerealiseerde waardestijging.
+Wettelijke en statutaire reserves mogen niet worden uitgekeerd. Reserves zijn geen geld in kas: ze staan aan de creditkant en het vermogen zit in de activa.
+### BEGRIPPEN
+Reserve = Deel van het eigen vermogen naast het geplaatst aandelenkapitaal.
+Winstreserve = Reserve die ontstaat door ingehouden winst.
+Herwaarderingsreserve = Reserve die ontstaat door een hogere waardering van bezittingen.
+Winstinhouding = Winst niet uitkeren maar in de onderneming laten.
+Interne financiering = Financiering met geld dat de onderneming zelf verdient.
+### MC
+Een nv waardeert haar gebouw op de balans € 300.000 hoger dan de boekwaarde. Wat verandert er aan de creditkant?
+* De herwaarderingsreserve stijgt met € 300.000
+- De winstreserve stijgt met € 300.000
+- De agioreserve stijgt met € 300.000
+- Er verandert niets aan de creditkant
+> Een niet-gerealiseerde waardestijging.
+### MC
+Een student zegt: 'Een nv met € 5 miljoen aan reserves heeft dus € 5 miljoen op de bank.' Wat is er fout aan?
+* Reserves staan aan de creditkant: ze laten zien waar het vermogen vandaan komt, niet in welke vorm het aanwezig is
+- Reserves zijn altijd schulden
+- Reserves mogen niet op de bank staan
+- Niets: reserves zijn liquide middelen
+> Het vermogen kan in gebouwen, voorraden enzovoort zitten.
+
+## § 16.5 | Intrinsieke waarde
+onderwerp: D.financ
+deelvraag: Wat is de intrinsieke waarde van een aandeel?
+gens: intrinsiekeWaarde
+### UITLEG Intrinsieke waarde
+De intrinsieke waarde van een aandeel is het eigen vermogen gedeeld door het aantal geplaatste aandelen. Eigen vermogen = geplaatst aandelenkapitaal + alle reserves (+ onverdeelde winst).
+De intrinsieke waarde is gebaseerd op de balans (het verleden). De beurskoers is gebaseerd op de verwachtingen van beleggers over toekomstige winsten. Daarom kan de beurskoers veel hoger of lager zijn dan de intrinsieke waarde.
+De intrinsieke waarde wordt gebruikt bij overnames en bij de verkoop van aandelen van een bv, waar geen beurskoers is.
+### BEGRIPPEN
+Intrinsieke waarde = Eigen vermogen gedeeld door het aantal geplaatste aandelen.
+Beurskoers = De prijs van een aandeel op de beurs.
+Onverdeelde winst = Winst waarover nog niet is besloten of hij wordt uitgekeerd of gereserveerd.
+### MC
+Geplaatst aandelenkapitaal € 2 miljoen (aandelen van € 1), agioreserve € 1 miljoen, overige reserves € 3 miljoen. Wat is de intrinsieke waarde per aandeel?
+* € 3
+- € 1
+- € 2
+- € 6
+> 6 miljoen / 2 miljoen aandelen = € 3.
+### MC
+Waarom ligt de beurskoers van een snelgroeiend techbedrijf vaak ver boven de intrinsieke waarde?
+* Beleggers verwachten hoge toekomstige winsten
+- De intrinsieke waarde wordt elke dag op de beurs bepaald
+- De nominale waarde is hoger dan de beurskoers
+- De reserves tellen niet mee voor de beurskoers
+> Beurskoers kijkt vooruit, de balans kijkt terug.

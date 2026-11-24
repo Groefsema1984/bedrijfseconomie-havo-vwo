@@ -1,0 +1,87 @@
+# HOOFDSTUK h 28 / v 34 | Regels winst-en-verliesrekening
+wereld: h28, v34
+hoofdvraag: Volgens welke regels wordt het resultaat bepaald en hoe ziet de winst-en-verliesrekening eruit?
+
+## § 28.1 / 34.1 | Algemene regels
+onderwerp: G.extern
+deelvraag: Wanneer neem je opbrengsten en kosten op in de winst-en-verliesrekening?
+gens: vooruitbetaald, vooruitontvangen
+### UITLEG Regels voor het resultaat
+Opbrengsten worden genomen als ze gerealiseerd zijn: als de prestatie is geleverd (realisatiebeginsel). Kosten worden toegerekend aan de periode van de bijbehorende opbrengsten (matchingprincipe). Verliezen worden genomen zodra ze bekend zijn (voorzichtigheidsbeginsel).
+De onderneming moet de grondslagen elk jaar op dezelfde manier toepassen (stelselmatigheid of consistentie), zodat de jaren vergelijkbaar zijn. Verandert ze van methode, dan moet ze dat in de toelichting melden en de gevolgen laten zien.
+Bijzondere posten (zoals een grote boekwinst op de verkoop van een gebouw of een reorganisatie) worden apart vermeld, zodat de gebruiker het normale resultaat kan beoordelen.
+### BEGRIPPEN
+Stelselmatigheid = Waarderingsgrondslagen elk jaar op dezelfde manier toepassen.
+Bijzondere post = Eenmalige bate of last die apart wordt vermeld.
+Boekwinst = Verkoopopbrengst van een bezit min de boekwaarde.
+### MC
+Waarom moet een onderneming elk jaar dezelfde afschrijvingsmethode gebruiken?
+* Zodat de resultaten van verschillende jaren vergelijkbaar zijn
+- Omdat de wet maar één methode toestaat
+- Omdat de Belastingdienst dat eist voor de btw
+- Om de winst zo hoog mogelijk te maken
+> Stelselmatigheid.
+### MC
+Een machine met een boekwaarde van € 40.000 wordt verkocht voor € 55.000. Wat is het gevolg?
+* Een boekwinst van € 15.000
+- Een boekverlies van € 15.000
+- Een omzet van € 55.000
+- Geen gevolg voor het resultaat
+> 55.000 − 40.000.
+
+## § 28.2 / 34.2 | Modellen
+onderwerp: G.extern
+deelvraag: Hoe ziet een categoriale en een functionele winst-en-verliesrekening eruit?
+gens: nettoresultaat
+### UITLEG Categoriaal en functioneel
+Categoriale winst-en-verliesrekening: de kosten worden ingedeeld naar soort: inkoopwaarde (of grondstofkosten), lonen en salarissen, sociale lasten, afschrijvingen, overige bedrijfskosten. Daarna volgen de financiële baten en lasten (interest) en de belastingen.
+Functionele winst-en-verliesrekening: omzet − kostprijs van de omzet = brutomarge; daarna verkoopkosten en algemene beheerskosten. Bij de functionele indeling zijn de lonen en afschrijvingen verdeeld over de functies.
+In beide modellen staan het bedrijfsresultaat (resultaat vóór interest en belasting), het resultaat vóór belasting en het resultaat na belasting.
+### BEGRIPPEN
+Categoriale winst-en-verliesrekening = Kosten ingedeeld naar soort, zoals lonen en afschrijvingen.
+Functionele winst-en-verliesrekening = Kosten ingedeeld naar functie, zoals productie, verkoop en beheer.
+Brutomarge = Omzet min kostprijs van de omzet.
+Financiële baten en lasten = Interestopbrengsten en interestkosten.
+Resultaat na belasting = Het resultaat nadat de winstbelasting is afgetrokken.
+### MC
+In welk model zie je direct hoeveel de onderneming in totaal aan lonen heeft betaald?
+* In de categoriale winst-en-verliesrekening
+- In de functionele winst-en-verliesrekening
+- In het kasstroomoverzicht
+- In de balans
+> Indeling naar kostensoort.
+### MC
+Bedrijfsresultaat € 400.000, interestkosten € 50.000, belasting 25% van het resultaat vóór belasting. Wat is het resultaat na belasting?
+* € 262.500
+- € 300.000
+- € 350.000
+- € 87.500
+> 350.000 × 0,75.
+
+## § - / 34.3 | EBIT(DA)
+onderwerp: G.kengetal
+deelvraag: Wat zijn EBIT en EBITDA en waarom gebruiken analisten ze?
+gens: ebitda
+### UITLEG EBIT en EBITDA
+EBIT (earnings before interest and taxes) is het resultaat vóór aftrek van interest en belasting: het bedrijfsresultaat. EBITDA is het resultaat vóór aftrek van interest, belasting, afschrijvingen op materiële vaste activa (depreciation) en afschrijvingen op immateriële vaste activa zoals goodwill (amortization).
+EBITDA = EBIT + afschrijvingen. Analisten gebruiken EBITDA om ondernemingen te vergelijken los van hun financiering (interest), belastingregime en afschrijvingsbeleid. Het geeft ook een indicatie van de operationele kasstroom.
+Kritiek: EBITDA negeert dat machines en gebouwen ooit vervangen moeten worden; een hoge EBITDA betekent niet automatisch een gezonde onderneming.
+### BEGRIPPEN
+EBIT = Resultaat vóór aftrek van interest en belasting.
+EBITDA = Resultaat vóór aftrek van interest, belasting en afschrijvingen.
+Depreciation = Afschrijving op materiële vaste activa.
+Amortization = Afschrijving op immateriële vaste activa.
+### MC
+EBIT € 800.000, afschrijvingen € 300.000, interest € 100.000. Wat is de EBITDA?
+* € 1.100.000
+- € 500.000
+- € 1.200.000
+- € 700.000
+> 800.000 + 300.000.
+### MC
+Waarom vergelijken analisten ondernemingen graag op EBITDA?
+* De vergelijking wordt niet beïnvloed door verschillen in financiering, belasting en afschrijvingsbeleid
+- EBITDA is altijd gelijk aan de nettowinst
+- EBITDA houdt rekening met vervangingsinvesteringen
+- EBITDA is wettelijk verplicht
+> Vergelijken van de operationele prestaties.

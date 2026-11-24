@@ -1,0 +1,121 @@
+# HOOFDSTUK h 9 / v 10 | Eigen onderneming?
+wereld: h9, v10
+hoofdvraag: Wat komt er kijken bij het starten van een eigen onderneming?
+
+## § 9.1 / 10.1 | Persoonlijk plan
+onderwerp: B.rechtsvorm
+deelvraag: Ben jij geschikt als ondernemer en waarom wil je starten?
+### UITLEG Het ondernemingsplan
+Een starter schrijft een ondernemingsplan. Daarin staan het persoonlijk plan, het marketingplan en het financieel plan. Het plan helpt de ondernemer om na te denken en is nodig om een bank of investeerder te overtuigen.
+### UITLEG Persoonlijk plan
+In het persoonlijk plan beschrijf je jezelf als ondernemer: je motieven (waarom wil je starten?), je opleiding en ervaring, en je ondernemerseigenschappen, zoals doorzettingsvermogen, creativiteit, zelfstandigheid en het durven nemen van risico.
+Met een persoonlijke SWOT-analyse breng je je sterke en zwakke punten in kaart, en de kansen en bedreigingen in de omgeving. Ook je privésituatie hoort erbij: hoeveel inkomen heb je minimaal nodig?
+### BEGRIPPEN
+Ondernemingsplan = Plan van een starter met een persoonlijk plan, een marketingplan en een financieel plan.
+Persoonlijk plan = Deel van het ondernemingsplan over de ondernemer zelf: motieven, kennis en eigenschappen.
+Ondernemerseigenschappen = Eigenschappen die een ondernemer nodig heeft, zoals doorzettingsvermogen en durf.
+SWOT-analyse = Overzicht van sterktes, zwaktes, kansen en bedreigingen.
+### MC
+Waarom vraagt een bank een starter om een ondernemingsplan?
+* Om te beoordelen of de onderneming haalbaar is en de lening kan worden terugbetaald
+- Omdat de wet dat voor elke onderneming verplicht
+- Om de belasting te kunnen berekenen
+- Om de onderneming in te schrijven bij de KvK
+> De bank wil weten of haar geld veilig is.
+### MC
+'Er komen steeds meer ouderen die hulp in huis nodig hebben.' Waar hoort dit in de SWOT-analyse van een starter in de thuiszorg?
+* Bij de kansen
+- Bij de sterktes
+- Bij de zwaktes
+- Bij de bedreigingen
+> Een ontwikkeling in de omgeving die gunstig is: een kans.
+
+## § 9.2 / 10.2 | Marketingplan
+onderwerp: E.marketing
+deelvraag: Wat staat er in het marketingplan van een starter?
+### UITLEG Marketingplan
+In het marketingplan beschrijf je de markt: wie is je doelgroep, wat zijn hun wensen en wie zijn je concurrenten? Daarna kies je je marketingmix, de vier P's:
+Product: wat verkoop je en wat maakt het bijzonder?
+Prijs: welke prijs vraag je?
+Plaats: waar en hoe verkoop je (winkel, webshop, op locatie)?
+Promotie: hoe maak je je bekend?
+Met een marktonderzoek verzamel je gegevens. Bij deskresearch gebruik je bestaande gegevens (bijvoorbeeld CBS-cijfers), bij fieldresearch verzamel je zelf nieuwe gegevens (bijvoorbeeld een enquête).
+### BEGRIPPEN
+Marketingplan = Deel van het ondernemingsplan over markt, doelgroep, concurrentie en marketingmix.
+Doelgroep = De groep klanten op wie de onderneming zich richt.
+Marketingmix = De combinatie van product, prijs, plaats en promotie.
+Deskresearch = Onderzoek met gegevens die al bestaan.
+Fieldresearch = Onderzoek waarbij je zelf nieuwe gegevens verzamelt.
+### MC
+Een starter met een koffiebar houdt een enquête onder 200 voorbijgangers. Welk soort marktonderzoek is dit?
+* Fieldresearch
+- Deskresearch
+- Concurrentieonderzoek
+- Marktsegmentatie
+> Zelf nieuwe gegevens verzamelen.
+### MC
+Welke beslissing hoort bij de P van plaats?
+* Of de producten in een winkel of via een webshop worden verkocht
+- Hoe hoog de verkoopprijs is
+- Welke advertenties op sociale media komen
+- Welke smaken er in het assortiment komen
+> Plaats = distributie.
+
+## § 9.3 / 10.3 | Financieel plan
+onderwerp: D.financ
+deelvraag: Uit welke begrotingen bestaat het financieel plan?
+gens: resultatenbegroting, liquiditeitsbegroting
+### UITLEG Vier begrotingen
+De investeringsbegroting laat zien wat je moet aanschaffen om te starten: inventaris, bedrijfsmiddelen, beginvoorraad en een buffer aan liquide middelen.
+De financieringsbegroting laat zien hoe je dat betaalt: met eigen vermogen (eigen geld) en vreemd vermogen (leningen). Totale investering = totale financiering.
+De exploitatiebegroting (resultatenbegroting) laat de verwachte opbrengsten, kosten en winst zien.
+De liquiditeitsbegroting laat per maand de ontvangsten, uitgaven en het saldo liquide middelen zien. Zo zie je of je tijdelijk geld tekortkomt.
+Een starter moet ook zijn privébestedingen begroten: de winst moet genoeg zijn om van te leven.
+### BEGRIPPEN
+Investeringsbegroting = Overzicht van alles wat nodig is om te starten en hoeveel dat kost.
+Financieringsbegroting = Overzicht van hoe de investeringen worden betaald: eigen en vreemd vermogen.
+Exploitatiebegroting = Begroting van de verwachte opbrengsten, kosten en winst.
+Liquiditeitsbegroting = Begroting van de ontvangsten, uitgaven en het saldo liquide middelen per periode.
+Privébegroting = Overzicht van wat de ondernemer privé nodig heeft om van te leven.
+### MC
+Welke begroting laat zien of een starter in maart tijdelijk rood komt te staan?
+* De liquiditeitsbegroting
+- De exploitatiebegroting
+- De investeringsbegroting
+- De financieringsbegroting
+> Het gaat om geldstromen per maand.
+### MC
+De investeringsbegroting van een starter komt uit op € 85.000. Hij heeft € 25.000 eigen geld. Hoeveel vreemd vermogen is er nodig?
+* € 60.000
+- € 85.000
+- € 110.000
+- € 25.000
+> Investering = financiering: 85.000 − 25.000.
+
+## § 9.4 / 10.4 | Praktische zaken
+onderwerp: B.rechtsvorm
+deelvraag: Wat moet je regelen als je een onderneming start?
+### UITLEG Regelen bij de start
+Je schrijft je onderneming in bij de Kamer van Koophandel (KvK) in het Handelsregister. Je krijgt een KvK-nummer, en de Belastingdienst geeft je een btw-identificatienummer.
+Je controleert of je een vergunning nodig hebt (bijvoorbeeld voor een horecazaak) en of het bestemmingsplan van de gemeente je activiteit op die plek toestaat. Je regelt verzekeringen, zoals een bedrijfsaansprakelijkheidsverzekering en een arbeidsongeschiktheidsverzekering.
+Om in aanmerking te komen voor fiscale ondernemersfaciliteiten (zoals de zelfstandigenaftrek) moet je ondernemer zijn voor de inkomstenbelasting en voldoen aan het urencriterium: minstens 1.225 uur per jaar aan je onderneming werken.
+### BEGRIPPEN
+Kamer van Koophandel = Organisatie waar je je onderneming inschrijft in het Handelsregister.
+Btw-identificatienummer = Nummer van de Belastingdienst voor de btw-administratie van een ondernemer.
+Vergunning = Toestemming van de overheid om een bepaalde activiteit uit te voeren.
+Bestemmingsplan = Plan van de gemeente dat bepaalt waarvoor een stuk grond of een gebouw gebruikt mag worden.
+Urencriterium = Je moet minstens 1.225 uur per jaar aan je onderneming besteden voor de ondernemersaftrek.
+### MC
+Waar schrijft een starter zijn onderneming in?
+* In het Handelsregister van de Kamer van Koophandel
+- In het Kadaster
+- Bij de ACM
+- Bij het UWV
+> Daarna krijg je ook een btw-nummer.
+### MC
+Een starter werkt 900 uur per jaar in zijn onderneming en heeft daarnaast een baan in loondienst. Wat is het gevolg?
+* Hij voldoet niet aan het urencriterium en krijgt geen zelfstandigenaftrek
+- Hij mag geen onderneming hebben
+- Hij betaalt geen inkomstenbelasting over zijn winst
+- Hij moet een bv oprichten
+> Het urencriterium is 1.225 uur.

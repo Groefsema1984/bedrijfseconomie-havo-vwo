@@ -1,0 +1,109 @@
+# HOOFDSTUK h 18 / v 20 | Product en prijs
+wereld: h18, v20
+hoofdvraag: Welk product biedt een onderneming aan en welke prijs vraagt ze?
+
+## § 18.1 / 20.1 | Het product
+onderwerp: E.marketing
+deelvraag: Uit welke lagen bestaat een product en hoe verloopt het leven van een product?
+### UITLEG Productniveaus
+Een product heeft drie niveaus. Het kernproduct is de behoefte die het vervult (bij een telefoon: communiceren). Het tastbare product zijn de eigenschappen die je ziet: ontwerp, kwaliteit, verpakking, merk. Het uitgebreide product zijn de extra's: garantie, service, bezorging.
+Het assortiment is het totaal aan producten dat een onderneming aanbiedt. De breedte is het aantal productgroepen, de diepte het aantal varianten binnen een groep.
+### UITLEG Productlevenscyclus
+Een product doorloopt de productlevenscyclus: introductie (lage afzet, hoge promotiekosten, vaak verlies), groei (afzet stijgt snel, concurrenten komen), volwassenheid (afzet stabiel, veel concurrentie), verzadiging en neergang (afzet daalt). In elke fase past een andere marketingmix.
+### BEGRIPPEN
+Kernproduct = De behoefte die een product vervult.
+Tastbaar product = De zichtbare eigenschappen van een product, zoals ontwerp, kwaliteit en verpakking.
+Uitgebreid product = De extra diensten bij een product, zoals garantie en service.
+Assortiment = Alle producten die een onderneming aanbiedt.
+Assortimentsbreedte = Het aantal productgroepen in het assortiment.
+Assortimentsdiepte = Het aantal varianten binnen een productgroep.
+Productlevenscyclus = De fasen die een product doorloopt, van introductie tot neergang.
+### MC
+Bij een nieuwe wasmachine krijg je gratis bezorging en vijf jaar garantie. Welk productniveau is dit?
+* Het uitgebreide product
+- Het kernproduct
+- Het tastbare product
+- Het assortiment
+> Extra's rond het product.
+### MC
+In welke fase van de productlevenscyclus zijn de promotiekosten hoog en is er vaak nog verlies?
+* Introductie
+- Groei
+- Volwassenheid
+- Neergang
+> Het product moet nog bekend worden.
+### MC
+Een ijssalon biedt 40 smaken aan, maar verkoopt alleen ijs. Wat geldt voor het assortiment?
+* Smal en diep
+- Breed en ondiep
+- Breed en diep
+- Smal en ondiep
+> Eén productgroep, veel varianten.
+
+## § 18.2 / 20.2 | Merk
+onderwerp: E.marketing
+deelvraag: Welke soorten merken zijn er en waarom zijn merken belangrijk?
+### UITLEG Merken
+Een merk is een naam, logo of symbool waarmee een onderneming haar product onderscheidt van concurrenten. Een sterk merk zorgt voor herkenning, vertrouwen en merktrouw, en daardoor kan een hogere prijs worden gevraagd.
+Fabrikantenmerk (A-merk): merk van de producent, landelijk bekend en vaak duurder. Huismerk (private label): merk van de winkelketen zelf, goedkoper. Een B-merk is minder bekend en goedkoper dan een A-merk.
+Merkstrategieën: één merknaam voor alle producten (paraplumerk) of een aparte naam per product.
+### BEGRIPPEN
+Merk = Naam of symbool waarmee een product zich onderscheidt van concurrenten.
+Fabrikantenmerk = Merk van de producent, ook wel A-merk.
+Huismerk = Merk van een winkelketen.
+Merktrouw = Klanten kopen steeds hetzelfde merk.
+Paraplumerk = Eén merknaam voor veel verschillende producten.
+### MC
+Waarom kan een A-merk een hogere prijs vragen dan een huismerk?
+* Klanten vertrouwen het merk en zijn bereid er meer voor te betalen
+- A-merken hebben altijd een betere kwaliteit
+- Huismerken mogen niet duurder zijn
+- A-merken betalen minder btw
+> Merkwaarde en merktrouw.
+### MC
+Een supermarkt verkoopt hagelslag onder haar eigen naam. Wat is dit?
+* Een huismerk
+- Een A-merk
+- Een paraplumerk van de fabrikant
+- Een fabrikantenmerk
+> Merk van de winkelketen.
+
+## § 18.3 / 20.3 | Prijsbeleid
+onderwerp: E.marketing
+deelvraag: Hoe bepaalt een onderneming de verkoopprijs?
+gens: verkoopprijsBtw, opslagPercentage, prijselasticiteit
+### UITLEG Methoden van prijsbepaling
+Kostengeoriënteerd: de kostprijs-plusmethode. Verkoopprijs = kostprijs + winstopslag. In de handel: inkoopprijs + brutowinstopslag. Daarna komt de btw erbij (21% of 9%).
+Vraaggeoriënteerd: de prijs hangt af van wat de klant wil betalen. Psychologische prijzen (€ 9,99), prijsdifferentiatie (verschillende prijzen voor verschillende groepen, zoals studentenkorting).
+Concurrentiegeoriënteerd: de prijs wordt afgestemd op die van concurrenten.
+### UITLEG Prijsstrategieën en elasticiteit
+Penetratieprijs: een lage introductieprijs om snel marktaandeel te winnen. Afroomprijs: een hoge introductieprijs voor klanten die het nieuwe product meteen willen hebben; later daalt de prijs.
+De prijselasticiteit van de vraag laat zien hoe sterk de afzet reageert op een prijsverandering: %Δ hoeveelheid / %Δ prijs. Bij een elastische vraag (absoluut groter dan 1) leidt een prijsverlaging tot een hogere omzet.
+### BEGRIPPEN
+Kostprijs-plusmethode = Verkoopprijs = kostprijs plus een winstopslag.
+Psychologische prijs = Prijs die goedkoper lijkt, zoals € 9,99.
+Prijsdifferentiatie = Verschillende prijzen vragen aan verschillende groepen klanten.
+Penetratieprijs = Lage introductieprijs om snel marktaandeel te winnen.
+Afroomprijs = Hoge introductieprijs die later daalt.
+Prijselasticiteit = De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele prijsverandering.
+### MC
+Een gameconsole komt op de markt voor € 699; een jaar later kost hij € 499. Welke prijsstrategie is dit?
+* Afroomprijs
+- Penetratieprijs
+- Psychologische prijs
+- Kostprijs-plusmethode
+> Eerst de kopers die veel willen betalen.
+### MC
+De prijselasticiteit van een product is −2. De onderneming verlaagt de prijs met 5%. Wat gebeurt er met de afzet?
+* Die stijgt met 10%
+- Die daalt met 10%
+- Die stijgt met 2,5%
+- Die stijgt met 5%
+> −2 × −5% = +10%.
+### MC
+Een product kost € 40 exclusief 21% btw. Wat betaalt de consument?
+* € 48,40
+- € 40,00
+- € 48,00
+- € 33,06
+> 40 × 1,21 = € 48,40.

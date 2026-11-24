@@ -1,0 +1,170 @@
+# HOOFDSTUK h 15 / v 17 | Vermogen / Vreemd vermogen
+wereld: h15, v17
+hoofdvraag: Op welke manieren kan een onderneming vermogen aantrekken?
+
+## § 15.1 / - | Eigen vermogen
+onderwerp: D.financ
+deelvraag: Wat is eigen vermogen en hoe trekt een onderneming het aan?
+gens: eigenVermogen, intrinsiekeWaarde, agio
+ook: v 16.1, v 16.3
+### UITLEG Eigen en vreemd vermogen
+De creditkant van de balans laat zien waar het vermogen vandaan komt: eigen vermogen (van de eigenaren) en vreemd vermogen (van schuldeisers, zoals banken en leveranciers). Vreemd vermogen moet worden terugbetaald en er moet interest over worden betaald; eigen vermogen niet.
+Bij een bv of nv bestaat het eigen vermogen uit het geplaatst aandelenkapitaal en de reserves (zoals de agioreserve en de winstreserve). De intrinsieke waarde van een aandeel = eigen vermogen / aantal geplaatste aandelen.
+Vreemd vermogen is lang (looptijd langer dan een jaar, zoals een hypothecaire lening) of kort (binnen een jaar, zoals crediteuren en rekening-courantkrediet). Vaste activa financier je met lang vermogen; dit heet de gouden balansregel.
+### BEGRIPPEN
+Vreemd vermogen = Vermogen dat schuldeisers beschikbaar stellen en dat moet worden terugbetaald.
+Lang vreemd vermogen = Schulden met een looptijd van meer dan een jaar.
+Kort vreemd vermogen = Schulden die binnen een jaar moeten worden betaald.
+Gouden balansregel = Vaste activa en de vaste voorraad worden gefinancierd met lang vermogen.
+Intrinsieke waarde = Eigen vermogen gedeeld door het aantal geplaatste aandelen.
+### MC
+Waarom financier je een machine die 10 jaar meegaat niet met rekening-courantkrediet?
+* De bank kan het krediet op korte termijn opeisen, terwijl de machine pas in 10 jaar wordt terugverdiend
+- Rekening-courantkrediet is te goedkoop
+- Een machine mag alleen met eigen vermogen worden gefinancierd
+- Rekening-courantkrediet staat aan de debetkant
+> De gouden balansregel.
+
+## § 15.2 / 17.1 | Onderhandse lening
+onderwerp: D.financ
+deelvraag: Wat is een onderhandse lening?
+gens: lineaireInterestLater, aflossingstabel
+### UITLEG Onderhandse lening
+Een onderhandse lening wordt rechtstreeks afgesloten tussen een geldgever (meestal een bank) en een onderneming, zonder tussenkomst van de beurs. De voorwaarden (bedrag, looptijd, interest, aflossing en zekerheden) worden onderling afgesproken.
+Als zekerheid kan de bank een hypotheekrecht (op onroerend goed) of pandrecht (op roerende zaken zoals voorraden en machines) vragen. Kan de onderneming niet betalen, dan mag de bank het onderpand verkopen.
+Aflossen kan lineair (elk jaar een gelijk bedrag) of annuïtair. De interest wordt berekend over de schuld aan het begin van de periode.
+### BEGRIPPEN
+Onderhandse lening = Lening die rechtstreeks tussen geldgever en onderneming wordt afgesloten.
+Hypotheekrecht = Recht van de geldgever om onroerend goed te verkopen als de lener niet betaalt.
+Pandrecht = Recht van de geldgever om roerende zaken te verkopen als de lener niet betaalt.
+Zekerheid = Garantie voor de geldgever dat hij zijn geld terugkrijgt.
+### MC
+Een bank verstrekt een lening en krijgt als zekerheid het recht om de voorraad te verkopen als de onderneming niet betaalt. Welk recht is dit?
+* Pandrecht
+- Hypotheekrecht
+- Voorkeursrecht
+- Borgtocht
+> Voorraad is een roerende zaak.
+### MC
+Een lening van € 120.000 wordt in 6 jaar lineair afgelost; de interest is 5%. Hoeveel interest betaal je in jaar 2?
+* € 5.000
+- € 6.000
+- € 1.000
+- € 25.000
+> Schuld begin jaar 2 = 120.000 − 20.000 = 100.000; 5% = € 5.000.
+
+## § 15.3 / 17.2 | Obligatielening
+onderwerp: D.financ
+deelvraag: Hoe werkt een obligatielening?
+gens: obligatieInterest, couponrendement
+### UITLEG Obligatielening
+Bij een obligatielening verdeelt een (grote) onderneming de lening in veel kleine stukken: obligaties. Beleggers kopen die obligaties. Zo kan de onderneming een groot bedrag lenen bij veel verschillende geldgevers.
+Elke obligatie heeft een nominale waarde (bijvoorbeeld € 1.000) en een couponrente: de interest per jaar als percentage van de nominale waarde. Obligaties zijn verhandelbaar op de beurs; de beurskoers kan afwijken van de nominale waarde, bijvoorbeeld als de marktrente verandert. De onderneming betaalt altijd interest over de nominale waarde.
+Een obligatielening wordt vaak in één keer afgelost aan het eind van de looptijd, of door uitloting.
+### BEGRIPPEN
+Obligatie = Verhandelbaar deel van een lening.
+Couponrente = Interest per jaar als percentage van de nominale waarde van een obligatie.
+Obligatielening = Lening die in veel verhandelbare stukken is verdeeld.
+Uitloting = Aflossing waarbij bij loting wordt bepaald welke obligaties worden afgelost.
+### MC
+Een onderneming heeft een obligatielening van € 5.000.000 met een couponrente van 4%. De obligaties noteren op de beurs op 95%. Hoeveel interest betaalt de onderneming per jaar?
+* € 200.000
+- € 190.000
+- € 47.500
+- € 237.500
+> 4% van de nominale waarde.
+### MC
+Wat gebeurt er meestal met de beurskoers van bestaande obligaties als de marktrente stijgt?
+* Die daalt, omdat nieuwe obligaties een hogere rente geven
+- Die stijgt
+- Die blijft altijd gelijk aan de nominale waarde
+- De couponrente stijgt mee
+> Oude obligaties worden minder aantrekkelijk.
+
+## § - / 17.3 | Converteerbare obligatielening
+onderwerp: D.financ
+deelvraag: Wat is een converteerbare obligatie?
+### UITLEG Converteerbare obligaties
+Een converteerbare obligatie mag de belegger onder bepaalde voorwaarden omwisselen (converteren) in aandelen van de onderneming. De conversievoorwaarden staan vast, bijvoorbeeld: één obligatie van € 1.000 plus € 200 bijbetaling geeft 40 aandelen.
+Omdat de belegger de kans heeft om goedkoop aandelen te krijgen, is de couponrente lager dan bij een gewone obligatie. Voor de onderneming is dat voordelig. Bij conversie wordt vreemd vermogen eigen vermogen: de solvabiliteit verbetert en er hoeft niet te worden afgelost.
+Een belegger converteert als de waarde van de aandelen hoger is dan de waarde van de obligatie plus een eventuele bijbetaling.
+### BEGRIPPEN
+Converteerbare obligatie = Obligatie die kan worden omgewisseld in aandelen.
+Conversie = Het omwisselen van obligaties in aandelen.
+Conversievoorwaarden = Afspraken over hoeveel obligaties en bijbetaling nodig zijn voor een aantal aandelen.
+### MC
+Waarom is de couponrente van een converteerbare obligatie lager dan die van een gewone obligatie?
+* De belegger krijgt het recht om de obligatie om te wisselen in aandelen
+- Converteerbare obligaties zijn risicovoller
+- Er hoeft nooit te worden afgelost
+- De nominale waarde is lager
+> Het conversierecht heeft waarde.
+### MC
+Wat gebeurt er met de balans van de onderneming als beleggers hun converteerbare obligaties omwisselen in aandelen?
+* Het vreemd vermogen daalt en het eigen vermogen stijgt
+- Het eigen vermogen daalt en het vreemd vermogen stijgt
+- De liquide middelen dalen
+- Er verandert niets
+> Schuld wordt eigen vermogen.
+### MC
+Conversievoorwaarde: 2 obligaties van € 500 geven 25 aandelen. De beurskoers van het aandeel is € 44. Is converteren voordelig?
+* Ja, want 25 × € 44 = € 1.100 is meer dan € 1.000
+- Nee, want € 1.000 is meer dan € 1.100
+- Ja, want de couponrente stijgt
+- Nee, want converteren kost altijd geld
+> De aandelen zijn meer waard dan de obligaties.
+
+## § 15.4 / 17.4 | Leverancierskrediet en afnemerskrediet
+onderwerp: D.financ
+deelvraag: Wat kost leverancierskrediet en wat is afnemerskrediet?
+gens: leverancierskrediet
+### UITLEG Leverancierskrediet
+Leverancierskrediet ontstaat als een leverancier de onderneming uitstel van betaling geeft (inkopen op rekening). Op de balans staat dit als crediteuren.
+Vaak biedt de leverancier korting voor snelle betaling, bijvoorbeeld '2% korting bij betaling binnen 10 dagen, anders binnen 30 dagen'. Wie geen gebruik maakt van de korting, betaalt eigenlijk 2% extra voor 20 dagen krediet. Op jaarbasis is dat 2/98 × 365/20 × 100% ≈ 37%: leverancierskrediet is dus erg duur.
+### UITLEG Afnemerskrediet
+Afnemerskrediet is een vooruitbetaling door de klant, bijvoorbeeld een aanbetaling bij een keuken of bij de bouw van een schip. De onderneming krijgt het geld voordat ze levert. Op de balans staat dit als een schuld: vooruitontvangen bedragen.
+### BEGRIPPEN
+Leverancierskrediet = Uitstel van betaling dat een leverancier aan een afnemer geeft.
+Afnemerskrediet = Vooruitbetaling door een klant aan de leverancier.
+Crediteuren = Schulden aan leveranciers.
+Korting voor contante betaling = Korting die een leverancier geeft bij snelle betaling.
+### MC
+Waarom is het vaak verstandig om de korting voor snelle betaling te gebruiken, ook als je daarvoor rood moet staan?
+* De rente op rekening-courant is meestal veel lager dan de kosten van het afzien van de korting
+- Rood staan is altijd gratis
+- Leverancierskrediet staat niet op de balans
+- De leverancier eist dat
+> Afzien van korting kost al snel meer dan 30% per jaar.
+### MC
+Een keukenbedrijf laat klanten bij bestelling 40% vooruitbetalen. Welk krediet is dit voor het keukenbedrijf?
+* Afnemerskrediet
+- Leverancierskrediet
+- Rekening-courantkrediet
+- Onderhandse lening
+> De afnemer financiert mee.
+
+## § 15.5 / 17.5 | Rekening-courantkrediet
+onderwerp: D.financ
+deelvraag: Wat is rekening-courantkrediet en waarvoor gebruik je het?
+### UITLEG Rekening-courantkrediet
+Bij een rekening-courantkrediet mag een onderneming tot een afgesproken kredietlimiet rood staan op haar bankrekening. Het is bedoeld voor tijdelijke tekorten, bijvoorbeeld door seizoensschommelingen.
+Interest betaal je alleen over het bedrag dat je echt opneemt (debetrente). Soms betaal je ook een vergoeding over de kredietlimiet (provisie). Het krediet is flexibel, maar duurder dan een lening en de bank kan het op korte termijn opzeggen. Het staat bij kort vreemd vermogen.
+### BEGRIPPEN
+Rekening-courantkrediet = Krediet waarbij je tot een limiet rood mag staan op de bankrekening.
+Kredietlimiet = Het maximale bedrag dat je rood mag staan.
+Debetrente = Interest over het bedrag dat je rood staat.
+Kredietprovisie = Vergoeding aan de bank over de toegezegde kredietlimiet.
+### MC
+Voor welke financieringsbehoefte is rekening-courantkrediet het meest geschikt?
+* Een tijdelijk tekort aan liquide middelen in de drukke zomermaanden
+- De aankoop van een bedrijfspand
+- Een machine die 15 jaar meegaat
+- De overname van een concurrent
+> Kort en wisselend.
+### MC
+Een onderneming staat gemiddeld € 40.000 rood bij een debetrente van 9% per jaar. Hoeveel interest betaalt ze per jaar?
+* € 3.600
+- € 4.000
+- € 36.000
+- € 360
+> 9% × 40.000 = € 3.600.

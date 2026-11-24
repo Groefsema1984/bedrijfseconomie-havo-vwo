@@ -1,0 +1,111 @@
+# HOOFDSTUK v 26 | Kosten en resultaten bij dienstverlening
+wereld: v26
+hoofdvraag: Hoe berekent een dienstverlener zijn kosten en hoe analyseert hij zijn resultaten?
+
+## § 26.1 | Kostenberekeningen
+onderwerp: F.kosten
+deelvraag: Hoe bereken je de kosten en het tarief van een dienst?
+gens: arbeidsuurtarief
+### UITLEG Kosten van een dienst
+Een dienstverlener (accountantskantoor, garage, kapper) verkoopt vooral arbeid. De kostprijs van een dienst bestaat uit de arbeidskosten (uren × arbeidsuurtarief), eventueel materiaal en een deel van de constante kosten (huur, inventaris, administratie).
+Het tarief per uur wordt berekend met de constante kosten per normaal aantal declarabele uren plus de variabele kosten per uur. Tarief = (constante kosten / normaal aantal declarabele uren) + variabele kosten per uur, eventueel met een winstopslag.
+Een dienst kun je niet op voorraad maken: wat vandaag niet verkocht is, is verloren (bijvoorbeeld een lege stoel in een vliegtuig).
+### BEGRIPPEN
+Dienst = Niet-tastbaar product, zoals advies of reparatie.
+Uurtarief = Prijs per uur die een dienstverlener in rekening brengt.
+Normaal aantal declarabele uren = Het verwachte aantal uren dat gemiddeld aan klanten kan worden doorberekend.
+Bederfelijkheid van diensten = Een dienst kan niet op voorraad worden gemaakt.
+### MC
+Een adviesbureau heeft € 600.000 constante kosten en verwacht normaal 8.000 declarabele uren. De variabele kosten zijn € 15 per uur. Wat is de kostprijs per uur?
+* € 90
+- € 75
+- € 15
+- € 80
+> 600.000 / 8.000 + 15 = 75 + 15.
+### MC
+Waarom is het voor een dienstverlener extra belangrijk om de bezetting hoog te houden?
+* Een dienst kan niet op voorraad worden gemaakt; uren die niet verkocht worden zijn verloren
+- Diensten hebben geen constante kosten
+- Diensten hebben geen variabele kosten
+- Een dienstverlener mag geen winstopslag rekenen
+> Lege uren leveren niets op.
+
+## § 26.2 | Efficiencyresultaten
+onderwerp: F.versch
+deelvraag: Hoe bereken je het efficiencyresultaat?
+gens: efficiencyresultaat, verschillenSchema
+### UITLEG Efficiencyresultaat
+Het efficiencyresultaat laat zien of er zuinig is omgegaan met de productiemiddelen (uren, materiaal).
+Efficiencyresultaat = (standaardhoeveelheid − werkelijke hoeveelheid) × standaardprijs = (SH − WH) × SP.
+De standaardhoeveelheid is de hoeveelheid die volgens de norm nodig is voor de werkelijke productie. Positief = voordelig (er is minder gebruikt), negatief = nadelig. De afdeling die het werk uitvoert is verantwoordelijk.
+### BEGRIPPEN
+Efficiencyresultaat = (SH − WH) × SP: het resultaat door zuinig of onzuinig gebruik.
+Standaardhoeveelheid = De hoeveelheid volgens de norm voor de werkelijke productie.
+Werkelijke hoeveelheid = De werkelijk gebruikte hoeveelheid.
+### MC
+Voor 500 reparaties is per reparatie 2 uur begroot à € 50. Er zijn 1.050 uren gebruikt. Wat is het efficiencyresultaat?
+* € 2.500 nadelig
+- € 2.500 voordelig
+- € 1.050 nadelig
+- € 50 nadelig
+> (1.000 − 1.050) × 50.
+### MC
+Wie is meestal verantwoordelijk voor een nadelig efficiencyresultaat op arbeidsuren?
+* De leiding van de uitvoerende afdeling
+- De afdeling inkoop
+- De aandeelhouders
+- De Belastingdienst
+> Het gaat om het gebruik, niet om de prijs.
+
+## § 26.3 | Prijsresultaten
+onderwerp: F.versch
+deelvraag: Hoe bereken je het prijsresultaat?
+gens: prijsresultaat
+### UITLEG Prijsresultaat
+Het prijsresultaat laat zien of de productiemiddelen duurder of goedkoper zijn ingekocht dan begroot.
+Prijsresultaat = (standaardprijs − werkelijke prijs) × werkelijke hoeveelheid = (SP − WP) × WH.
+Positief = voordelig. De afdeling inkoop (of de onderhandelaar over de lonen) is verantwoordelijk, al kunnen prijzen ook stijgen door de markt (zoals energieprijzen), waar niemand invloed op heeft.
+### BEGRIPPEN
+Prijsresultaat = (SP − WP) × WH: het resultaat door hogere of lagere inkoopprijzen.
+Werkelijke prijs = De werkelijk betaalde prijs per eenheid.
+### MC
+Er is 2.000 kg ingekocht voor € 4,20 per kg; de standaardprijs is € 4,00. Wat is het prijsresultaat?
+* € 400 nadelig
+- € 400 voordelig
+- € 420 nadelig
+- € 200 nadelig
+> (4,00 − 4,20) × 2.000.
+### MC
+Waarom wordt bij het prijsresultaat met de werkelijke hoeveelheid gerekend en niet met de standaardhoeveelheid?
+* Het prijsverschil geldt voor alle eenheden die werkelijk zijn gekocht
+- Omdat de standaardhoeveelheid onbekend is
+- Omdat dat altijd een voordelig resultaat geeft
+- Omdat het efficiencyresultaat dan nul wordt
+> Zo overlappen de twee resultaten elkaar niet.
+
+## § 26.4 | Resultaten op constante kosten
+onderwerp: F.versch
+deelvraag: Welke resultaten ontstaan er op de constante kosten?
+gens: bezettingsresultaat
+### UITLEG Budgetresultaat en bezettingsresultaat
+Op de constante kosten kunnen twee resultaten ontstaan.
+Budgetresultaat = begrote constante kosten − werkelijke constante kosten. Zijn de werkelijke kosten lager dan het budget, dan is het voordelig.
+Bezettingsresultaat = (werkelijke bezetting − normale bezetting) × C/N. Bij een dienstverlener gaat het om declarabele uren: worden er meer uren verkocht dan normaal, dan is het voordelig.
+### BEGRIPPEN
+Budget = Het begrote bedrag aan constante kosten.
+Budgetresultaat = Begrote min werkelijke constante kosten.
+Bezettingsresultaat = (Werkelijke − normale bezetting) × constante kosten per eenheid.
+### MC
+Begrote constante kosten € 400.000, werkelijke constante kosten € 412.000. Wat is het budgetresultaat?
+* € 12.000 nadelig
+- € 12.000 voordelig
+- € 412.000 nadelig
+- € 0
+> 400.000 − 412.000.
+### MC
+Een advocatenkantoor verkocht 9.600 uur in plaats van de normale 10.000 uur. C = € 800.000. Wat is het bezettingsresultaat?
+* € 32.000 nadelig
+- € 32.000 voordelig
+- € 80.000 nadelig
+- € 40.000 nadelig
+> (9.600 − 10.000) × 80.

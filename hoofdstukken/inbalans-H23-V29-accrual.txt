@@ -1,0 +1,119 @@
+# HOOFDSTUK h 23 / v 29 | Accrual-accounting en matchingprincipe
+wereld: h23, v29
+hoofdvraag: Bij welke periode horen kosten en opbrengsten, los van het moment van betalen?
+
+## § 23.1 / 29.1 | Kosten en uitgaven
+onderwerp: F.perio
+deelvraag: Wat is het verschil tussen kosten en uitgaven?
+leerdoelen: BECO-PERIO-01, BECO-PERIO-02
+gens: kostenUitgaven, vooruitbetaald
+### UITLEG Kosten en uitgaven
+Kosten zijn het waardeverbruik in een periode: de opofferingen om opbrengsten te behalen. Uitgaven zijn betalingen: geld gaat de onderneming uit.
+Bij accrual-accounting (het toerekeningsbeginsel) boek je kosten in de periode waarin het verbruik plaatsvindt, ongeacht wanneer er betaald wordt.
+Voorbeelden: een afschrijving is kosten maar geen uitgave. Een aflossing of een aankoop van een machine is een uitgave maar geen kosten. Een privéopname is geen kosten.
+Vooruitbetaalde kosten: je hebt al betaald, maar het verbruik komt later (bijvoorbeeld huur voor volgend jaar). Op de balans staat dit aan de debetkant (een vordering). Nog te betalen kosten: het verbruik heeft al plaatsgevonden, maar je hebt nog niet betaald (bijvoorbeeld interest over december die in januari wordt betaald). Op de balans staat dit aan de creditkant (een schuld).
+### BEGRIPPEN
+Kosten = Het waardeverbruik in een periode om opbrengsten te behalen.
+Uitgaven = Betalingen waardoor geld de onderneming verlaat.
+Accrual-accounting = Kosten en opbrengsten toerekenen aan de periode waarin ze ontstaan, los van de betaling.
+Vooruitbetaalde kosten = Al betaalde kosten die bij een volgende periode horen; staan debet op de balans.
+Nog te betalen kosten = Kosten van deze periode die nog niet zijn betaald; staan credit op de balans.
+### MC
+Een onderneming betaalt op 1 oktober € 12.000 huur voor één jaar vooruit. Hoeveel huurkosten zijn er in dit kalenderjaar?
+* € 3.000
+- € 12.000
+- € 9.000
+- € 0
+> Oktober, november en december: 3/12 × 12.000.
+### MC
+Waar staat de nog te betalen interest op de balans van 31 december?
+* Aan de creditkant, bij het kort vreemd vermogen
+- Aan de debetkant, bij de vlottende activa
+- Bij het eigen vermogen
+- Niet op de balans, alleen in de resultatenrekening
+> Het is een schuld.
+
+## § 23.2 / 29.2 | Opbrengsten en ontvangsten
+onderwerp: F.perio
+deelvraag: Wat is het verschil tussen opbrengsten en ontvangsten?
+leerdoelen: BECO-PERIO-04
+gens: vooruitontvangen
+### UITLEG Opbrengsten en ontvangsten
+Opbrengsten zijn de waarde van de geleverde prestaties in een periode, zoals de omzet. Ontvangsten zijn de geldbedragen die binnenkomen.
+Een verkoop op rekening is een opbrengst, maar nog geen ontvangst (er ontstaat een vordering op debiteuren). Een aanbetaling door een klant is een ontvangst, maar nog geen opbrengst.
+Vooruitontvangen opbrengsten: je hebt het geld al, maar je moet nog leveren (bijvoorbeeld abonnementsgeld voor volgend jaar). Op de balans is dit een schuld aan de creditkant. Nog te ontvangen opbrengsten: je hebt al geleverd, maar nog geen geld ontvangen (bijvoorbeeld rente over december die in januari wordt bijgeschreven). Dit staat aan de debetkant.
+### BEGRIPPEN
+Opbrengsten = De waarde van de geleverde prestaties in een periode.
+Ontvangsten = Geldbedragen die de onderneming binnenkomen.
+Vooruitontvangen opbrengsten = Al ontvangen bedragen voor prestaties die nog moeten worden geleverd; staan credit op de balans.
+Nog te ontvangen opbrengsten = Opbrengsten van deze periode die nog niet zijn ontvangen; staan debet op de balans.
+### MC
+Een sportschool ontvangt in december € 24.000 aan jaarabonnementen voor het volgende jaar. Wat staat er op 31 december op de balans?
+* € 24.000 vooruitontvangen opbrengsten aan de creditkant
+- € 24.000 omzet in de resultatenrekening
+- € 24.000 vooruitbetaalde kosten aan de debetkant
+- Niets
+> De sportschool moet de prestatie nog leveren.
+### MC
+Een verkoop op rekening in december, betaald in januari. Wanneer is dit een opbrengst?
+* In december
+- In januari
+- In december en in januari ieder de helft
+- Nooit
+> De prestatie is in december geleverd.
+
+## § 23.3 / 29.3 | Het matchingprincipe
+onderwerp: F.perio
+deelvraag: Wat houdt het matchingprincipe in?
+leerdoelen: BECO-PERIO-03
+gens: nogTeBetalenInterest
+### UITLEG Matching
+Volgens het matchingprincipe worden kosten toegerekend aan dezelfde periode als de opbrengsten waar ze bij horen. De inkoopwaarde van de verkochte goederen hoort bij de periode van de verkoop, niet bij de periode van de inkoop. De provisie voor een verkoper hoort bij de periode van de verkoop.
+Ook garantiekosten die pas later worden gemaakt, horen bij de periode van de verkoop. Daarvoor wordt een voorziening gevormd.
+Zo geeft het resultaat van een periode een eerlijk beeld: tegenover de opbrengsten staan precies de kosten die nodig waren om die opbrengsten te behalen.
+### BEGRIPPEN
+Matchingprincipe = Kosten worden toegerekend aan de periode van de opbrengsten waar ze bij horen.
+Voorziening = Verplichting voor kosten in de toekomst die bij een eerdere periode horen.
+Garantievoorziening = Voorziening voor toekomstige garantiekosten van verkochte producten.
+### MC
+Een fietsenwinkel koopt in december 50 fietsen in en verkoopt ze in maart. Wanneer zijn de inkoopwaarde van de fietsen kosten?
+* In maart, bij de verkoop
+- In december, bij de inkoop
+- Bij de betaling aan de leverancier
+- Verdeeld over de levensduur van de fietsen
+> Matchingprincipe.
+### MC
+Een witgoedwinkel geeft 2 jaar garantie. Waarom vormt hij in het jaar van verkoop al een garantievoorziening?
+* De garantiekosten horen bij de periode waarin de opbrengst is behaald
+- Omdat de garantiekosten in dat jaar al zijn betaald
+- Om minder omzet te boeken
+- Omdat de klant dat eist
+> Kosten horen bij de opbrengsten.
+
+## § 23.4 / 29.4 | Alle varianten op een rij
+onderwerp: F.perio
+deelvraag: Hoe verwerk je alle overlopende posten op de balans en in de resultatenrekening?
+gens: vooruitbetaald, nogTeBetalenInterest, vooruitontvangen
+### UITLEG Overlopende posten
+Overlopende posten zijn bedragen op de balans die ontstaan doordat betaling en toerekening in verschillende perioden vallen:
+Debet (overlopende activa): vooruitbetaalde kosten en nog te ontvangen opbrengsten. De onderneming heeft er nog iets tegoed.
+Credit (overlopende passiva): nog te betalen kosten en vooruitontvangen opbrengsten. De onderneming is nog iets verschuldigd.
+Ezelsbruggetje: alles wat je 'tegoed' hebt is debet, alles wat je 'moet' is credit.
+### BEGRIPPEN
+Overlopende activa = Vooruitbetaalde kosten en nog te ontvangen opbrengsten.
+Overlopende passiva = Nog te betalen kosten en vooruitontvangen opbrengsten.
+Overlopende post = Balanspost die ontstaat doordat betaling en toerekening in verschillende perioden vallen.
+### MC
+Welke post staat aan de debetkant van de balans?
+* Nog te ontvangen interest
+- Nog te betalen loon
+- Vooruitontvangen huur
+- Crediteuren
+> De onderneming heeft het nog tegoed.
+### MC
+Een onderneming heeft op 31 december € 2.000 nog te betalen energiekosten. Wat is het gevolg voor het resultaat van dit jaar?
+* Het resultaat is € 2.000 lager, want de kosten horen bij dit jaar
+- Het resultaat is € 2.000 hoger
+- Het resultaat verandert pas bij betaling
+- Er is geen gevolg
+> Accrual: kosten bij het jaar van verbruik.

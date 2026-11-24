@@ -1,0 +1,134 @@
+# HOOFDSTUK h 29 / v 35 | Kengetallen / Liquiditeit, cashflow en solvabiliteit
+wereld: h29, v35
+hoofdvraag: Hoe beoordeel je de financiële gezondheid van een onderneming met kengetallen?
+
+## § 29.1 / 35.1 | Liquiditeitskengetallen / Current ratio
+onderwerp: G.kengetal
+deelvraag: Kan de onderneming haar kortlopende schulden betalen?
+gens: currentRatio, quickRatio
+### UITLEG Liquiditeit
+Liquiditeit is het vermogen van een onderneming om haar kortlopende schulden op tijd te betalen.
+Current ratio = vlottende activa (inclusief liquide middelen) / kort vreemd vermogen. Een current ratio van minstens 1,5 à 2 wordt als voldoende gezien: er zijn genoeg vlottende activa om de kortlopende schulden te betalen.
+Een te hoge current ratio is ook niet goed: dan zit er veel geld in voorraden of op de bank dat niets oplevert.
+Kengetallen zeggen pas iets als je ze vergelijkt: met vorige jaren, met de branche of met de eisen van de bank.
+### BEGRIPPEN
+Liquiditeit = Het vermogen om kortlopende schulden op tijd te betalen.
+Current ratio = Vlottende activa gedeeld door kort vreemd vermogen.
+Vlottende activa = Activa die binnen een jaar in geld worden omgezet, inclusief liquide middelen.
+### MC
+Vlottende activa € 300.000, kort vreemd vermogen € 200.000. Wat is de current ratio?
+* 1,5
+- 0,67
+- 100.000
+- 2,5
+> 300.000 / 200.000.
+### MC
+Waarom is een zeer hoge current ratio niet altijd gunstig?
+* Er zit dan veel vermogen in voorraden of liquide middelen dat weinig rendement oplevert
+- Dan kan de onderneming haar schulden niet betalen
+- Dan is de solvabiliteit negatief
+- Dan is er geen eigen vermogen
+> Liquiditeit kost rendement.
+
+## § - / 35.2 | Quick ratio
+onderwerp: G.kengetal
+deelvraag: Wat meet de quick ratio?
+gens: quickRatio
+### UITLEG Quick ratio
+De quick ratio (acid test) = (vlottende activa − voorraden) / kort vreemd vermogen.
+De voorraden tellen niet mee, omdat die niet altijd snel in geld kunnen worden omgezet: ze moeten eerst worden verkocht, en bij een gedwongen verkoop leveren ze minder op. Een quick ratio van minstens 1 wordt als voldoende gezien.
+Bij een supermarkt, waar de voorraad snel wordt verkocht en klanten direct betalen, is een lage quick ratio minder erg dan bij een meubelfabrikant.
+### BEGRIPPEN
+Quick ratio = Vlottende activa min voorraden, gedeeld door kort vreemd vermogen.
+Acid test = Andere naam voor de quick ratio.
+### MC
+Vlottende activa € 240.000, waarvan voorraden € 90.000, kort vreemd vermogen € 120.000. Wat is de quick ratio?
+* 1,25
+- 2,0
+- 0,75
+- 1,0
+> (240.000 − 90.000) / 120.000.
+### MC
+Waarom laat de quick ratio de voorraden weg?
+* Voorraden kunnen niet altijd snel en tegen volle waarde in geld worden omgezet
+- Voorraden zijn geen activa
+- Voorraden staan bij het vreemd vermogen
+- Voorraden worden niet gewaardeerd
+> Strengere maatstaf voor liquiditeit.
+
+## § - / 35.3 | Cashflow
+onderwerp: G.kengetal
+deelvraag: Wat zegt de cashflow over een onderneming?
+gens: cashflow
+### UITLEG Cashflow en kasstroomoverzicht
+De cashflow (indirecte methode) = nettowinst + afschrijvingen (+ toevoeging aan voorzieningen). Het is het geld dat de onderneming zelf verdient en kan gebruiken voor investeringen, aflossingen en dividend.
+In het kasstroomoverzicht worden de geldstromen ingedeeld in: kasstroom uit operationele activiteiten (de normale bedrijfsvoering), kasstroom uit investeringsactiviteiten (aankoop en verkoop van vaste activa) en kasstroom uit financieringsactiviteiten (leningen, aflossingen, emissie, dividend).
+Een onderneming met een negatieve operationele kasstroom heeft op den duur een probleem, ook als ze op papier winst maakt.
+### BEGRIPPEN
+Cashflow = Nettowinst plus afschrijvingen: het geld dat de onderneming zelf verdient.
+Operationele kasstroom = Geldstroom uit de normale bedrijfsvoering.
+Kasstroom uit investeringsactiviteiten = Geldstroom door aankoop en verkoop van vaste activa.
+Kasstroom uit financieringsactiviteiten = Geldstroom door leningen, aflossingen, emissies en dividend.
+### MC
+Een dividenduitkering valt in het kasstroomoverzicht onder:
+* Kasstroom uit financieringsactiviteiten
+- Operationele kasstroom
+- Kasstroom uit investeringsactiviteiten
+- Geen kasstroom
+> Vergoeding aan vermogensverschaffers.
+### MC
+Nettowinst € 120.000, afschrijvingen € 80.000. Wat is de cashflow?
+* € 200.000
+- € 40.000
+- € 120.000
+- € 80.000
+> 120.000 + 80.000.
+
+## § 29.2 / 35.4 | Solvabiliteitskengetallen / Solvabiliteit
+onderwerp: G.kengetal
+deelvraag: Kan de onderneming al haar schulden betalen als ze zou stoppen?
+gens: solvabiliteit
+### UITLEG Solvabiliteit
+Solvabiliteit is het vermogen van een onderneming om al haar schulden te betalen, ook als ze zou worden opgeheven. Kengetallen:
+Solvabiliteitspercentage = eigen vermogen / totaal vermogen × 100%.
+Debt ratio = vreemd vermogen / totaal vermogen.
+Een hoge solvabiliteit betekent een grote buffer van eigen vermogen: de onderneming kan verliezen opvangen en de schuldeisers lopen weinig risico. Banken eisen vaak een minimale solvabiliteit (bijvoorbeeld 25 à 30%).
+### BEGRIPPEN
+Solvabiliteit = Het vermogen om alle schulden te betalen, ook bij opheffing.
+Solvabiliteitspercentage = Eigen vermogen gedeeld door totaal vermogen, maal 100%.
+Debt ratio = Vreemd vermogen gedeeld door totaal vermogen.
+### MC
+Eigen vermogen € 250.000, vreemd vermogen € 750.000. Wat is de solvabiliteit (EV/TV)?
+* 25%
+- 33,3%
+- 75%
+- 300%
+> 250.000 / 1.000.000.
+### MC
+Welke gebeurtenis verbetert de solvabiliteit?
+* Een emissie van aandelen
+- Het afsluiten van een nieuwe lening
+- Een verlies
+- Een dividenduitkering
+> Meer eigen vermogen.
+
+## § 29.3 / - | Rentabiliteitskengetallen
+onderwerp: G.kengetal
+deelvraag: Hoeveel rendement levert het vermogen op?
+gens: rtv, rev
+ook: v 36.1, v 36.2
+### UITLEG Rentabiliteit
+Rentabiliteit is de winst in verhouding tot het vermogen waarmee die winst is behaald.
+RTV (rentabiliteit van het totale vermogen) = EBIT (resultaat vóór aftrek van interest en belasting) / gemiddeld totaal vermogen × 100%.
+REV (rentabiliteit van het eigen vermogen) = nettowinst / gemiddeld eigen vermogen × 100%.
+Je gebruikt het gemiddelde vermogen ((begin + eind) / 2), omdat de winst gedurende het hele jaar wordt behaald.
+### BEGRIPPEN
+Rentabiliteit = Winst in procenten van het vermogen waarmee die winst is behaald.
+Gemiddeld vermogen = (Vermogen begin + vermogen eind) / 2.
+### MC
+Waarom reken je bij rentabiliteit met het gemiddelde vermogen?
+* De winst is in de loop van het hele jaar behaald, met het vermogen dat in die periode beschikbaar was
+- Omdat het eindvermogen onbekend is
+- Omdat dat altijd een hogere rentabiliteit geeft
+- Omdat de bank dat eist
+> Winst over een periode tegenover vermogen over dezelfde periode.

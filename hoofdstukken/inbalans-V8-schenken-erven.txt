@@ -1,0 +1,123 @@
+# HOOFDSTUK v 8 | Schenken en erven
+wereld: v8
+hoofdvraag: Hoe gaat een schenking of erfenis in zijn werk en hoeveel belasting betaal je erover?
+
+## § 8.1 | Schenken
+onderwerp: B.erven
+deelvraag: Wanneer betaal je schenkbelasting?
+gens: schenkbelasting
+### UITLEG Schenken
+Een schenking is een gift tijdens het leven van de schenker. De ontvanger (de begiftigde) betaalt schenkbelasting over het deel boven de vrijstelling.
+Er zijn vrijstellingen: ouders mogen hun kinderen elk jaar een bedrag belastingvrij schenken, en voor kinderen van 18 tot 40 jaar is er eenmalig een hogere vrijstelling. Voor anderen geldt een lagere jaarlijkse vrijstelling.
+Het tarief hangt af van de relatie: kinderen en partners betalen het laagste tarief, anderen (bijvoorbeeld neven, vrienden) een hoger tarief.
+Schenken kan ook 'op papier': de schenker erkent een schuld aan de begiftigde, die pas bij overlijden wordt betaald. Zo wordt de latere erfenis kleiner.
+### BEGRIPPEN
+Schenking = Gift van geld of goederen tijdens het leven van de schenker.
+Schenkbelasting = Belasting die de ontvanger betaalt over een schenking boven de vrijstelling.
+Vrijstelling = Bedrag waarover je geen belasting hoeft te betalen.
+Begiftigde = Degene die de schenking ontvangt.
+Schenking op papier = De schenker erkent een schuld die pas later wordt betaald.
+### MC
+Wie betaalt de schenkbelasting?
+* De ontvanger van de schenking
+- De schenker
+- De notaris
+- Schenker en ontvanger ieder de helft
+> De begiftigde doet aangifte en betaalt.
+### MC
+Waarom betaalt een vriend over dezelfde schenking meer belasting dan een kind?
+* Het tarief is hoger en de vrijstelling lager voor verkrijgers die geen familie in de eerste lijn zijn
+- Een vriend mag geen schenking ontvangen
+- Een kind betaalt nooit schenkbelasting
+- Vrienden betalen ook inkomstenbelasting over de schenking
+> Tarief en vrijstelling hangen af van de relatie.
+
+## § 8.2 | Erven civiel
+onderwerp: B.erven
+deelvraag: Wie erft er volgens de wet en wat kun je met een testament regelen?
+gens: legitieme
+### UITLEG Wettelijk erfrecht
+Iemand die overlijdt heet de erflater. Zonder testament bepaalt de wet wie erft. De erfgenamen zijn ingedeeld in groepen: eerst de echtgenoot (of geregistreerd partner) en de kinderen, daarna ouders, broers en zussen, dan grootouders, enzovoort.
+Wettelijke verdeling: de langstlevende echtgenoot krijgt alle bezittingen. De kinderen krijgen een vordering in geld op de langstlevende, die pas opeisbaar is als ook de langstlevende overlijdt. Zo kan de partner in het huis blijven wonen.
+### UITLEG Testament
+In een testament (bij de notaris) bepaal je zelf wie wat krijgt. Een legaat is een bepaald bedrag of voorwerp voor een bepaalde persoon. Een kind dat onterfd wordt, kan zich beroepen op de legitieme portie: de helft van het wettelijk erfdeel, uit te betalen in geld.
+### BEGRIPPEN
+Erflater = Degene die overlijdt en een nalatenschap achterlaat.
+Erfgenaam = Persoon die (een deel van) de nalatenschap krijgt.
+Wettelijke verdeling = De langstlevende partner krijgt alles, de kinderen krijgen een geldvordering.
+Testament = Notariële akte waarin iemand bepaalt wat er na zijn overlijden met zijn vermogen gebeurt.
+Legaat = Bepaald bedrag of voorwerp dat in een testament aan iemand wordt nagelaten.
+Legitieme portie = Het minimale deel waar een kind recht op heeft: de helft van het wettelijk erfdeel.
+### MC
+Een vader overlijdt zonder testament. Hij laat een vrouw en twee kinderen achter. Wat gebeurt er volgens de wettelijke verdeling?
+* De vrouw krijgt alles; de kinderen krijgen een vordering die pas opeisbaar is na haar overlijden
+- De bezittingen worden direct in drie gelijke delen verdeeld
+- De kinderen krijgen alles en de vrouw krijgt alimentatie
+- De Staat krijgt alles
+> Zo wordt de langstlevende beschermd.
+### MC
+Wat is een legaat?
+* Een bepaald bedrag of voorwerp dat in een testament aan iemand wordt nagelaten
+- Het deel van de erfenis waar een kind altijd recht op heeft
+- De belasting die een erfgenaam betaalt
+- Een schenking op papier
+> Bijvoorbeeld: 'mijn horloge gaat naar mijn neef'.
+
+## § 8.3 | Afwikkeling nalatenschap
+onderwerp: B.erven
+deelvraag: Hoe wordt een erfenis afgehandeld en wat kun je als erfgenaam kiezen?
+### UITLEG Aanvaarden of verwerpen
+Een nalatenschap bestaat uit bezittingen én schulden. Een erfgenaam kan kiezen:
+Zuiver aanvaarden: je krijgt alles, ook de schulden. Zijn de schulden groter dan de bezittingen, dan betaal je het tekort zelf.
+Beneficiair aanvaarden: je aanvaardt alleen als de bezittingen de schulden overtreffen. Je hoeft nooit schulden uit eigen zak te betalen.
+Verwerpen: je wordt geen erfgenaam en krijgt niets, ook geen schulden.
+### UITLEG Afhandeling
+Een executeur (benoemd in het testament) regelt de afwikkeling: schulden betalen, bezittingen verdelen en de aangifte erfbelasting doen. Met een verklaring van erfrecht van de notaris kunnen erfgenamen laten zien dat zij de erfgenamen zijn, bijvoorbeeld bij de bank.
+### BEGRIPPEN
+Nalatenschap = Alle bezittingen en schulden die iemand bij overlijden achterlaat.
+Zuiver aanvaarden = De erfenis inclusief alle schulden accepteren.
+Beneficiair aanvaarden = De erfenis aanvaarden zonder dat je schulden uit eigen vermogen hoeft te betalen.
+Verwerpen = De erfenis weigeren.
+Executeur = Persoon die de nalatenschap afwikkelt.
+Verklaring van erfrecht = Notariële verklaring waaruit blijkt wie de erfgenamen zijn.
+### MC
+Lisa erft van haar oom, maar ze weet niet of hij veel schulden had. Wat kan ze het beste doen?
+* Beneficiair aanvaarden
+- Zuiver aanvaarden
+- Een legaat aanvragen
+- Een schenking op papier doen
+> Dan hoeft ze nooit schulden uit eigen zak te betalen.
+### MC
+Een nalatenschap bestaat uit € 40.000 bezittingen en € 65.000 schulden. Wat gebeurt er als de enige erfgenaam zuiver aanvaardt?
+* De erfgenaam moet € 25.000 aan schulden uit eigen vermogen betalen
+- De erfgenaam krijgt € 40.000
+- De schulden vervallen
+- De bank betaalt het tekort
+> Zuiver aanvaarden betekent ook de schulden erven.
+
+## § 8.4 | Erven fiscaal
+onderwerp: B.erven
+deelvraag: Hoeveel erfbelasting betaalt een erfgenaam?
+gens: erfbelasting
+### UITLEG Erfbelasting
+Een erfgenaam betaalt erfbelasting over wat hij erft, min de vrijstelling. De vrijstelling is voor de partner het hoogst, voor kinderen lager en voor anderen het laagst.
+Het tarief is progressief: een laag percentage over het eerste deel en een hoger percentage over het meerdere. Partners en kinderen betalen het laagste tarief (10% en 20%), kleinkinderen iets meer en anderen het meest.
+Goede doelen met een ANBI-status betalen geen erfbelasting.
+### BEGRIPPEN
+Erfbelasting = Belasting die een erfgenaam betaalt over wat hij erft boven de vrijstelling.
+Progressief tarief = Tarief dat stijgt naarmate het bedrag hoger is.
+ANBI = Algemeen nut beogende instelling; een goed doel dat geen erf- of schenkbelasting betaalt.
+### MC
+Waarom laten sommige mensen via een testament geld na aan een ANBI in plaats van aan een vriend?
+* Een ANBI betaalt geen erfbelasting, zodat het hele bedrag naar het goede doel gaat
+- Een vriend mag geen erfgenaam zijn
+- Een ANBI betaalt de erfbelasting van de andere erfgenamen
+- Een ANBI krijgt automatisch de legitieme portie
+> Bij een vriend gaat een flink deel naar de fiscus.
+### MC
+Een kind erft € 50.000. De vrijstelling is € 23.474 en het tarief 10%. Hoeveel erfbelasting betaalt het kind?
+* € 2.652,60
+- € 5.000
+- € 2.347,40
+- € 0
+> (50.000 − 23.474) × 10% = € 2.652,60.

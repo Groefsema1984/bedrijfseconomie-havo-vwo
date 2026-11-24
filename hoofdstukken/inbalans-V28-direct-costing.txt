@@ -1,0 +1,110 @@
+# HOOFDSTUK v 28 | Direct costing
+wereld: v28
+hoofdvraag: Hoe bereken je het resultaat als alleen de variabele kosten aan de producten worden toegerekend?
+
+## § 28.1 | Dekkingsbijdrage en bedrijfsresultaat
+onderwerp: F.breakeven
+deelvraag: Hoe bereken je het resultaat met direct costing?
+gens: directCostingResultaat, dekkingsbijdrage
+### UITLEG Direct costing
+Bij direct costing worden alleen de variabele kosten aan de producten toegerekend. De constante kosten worden in hun geheel ten laste van de periode gebracht.
+Dekkingsbijdrage per stuk = verkoopprijs − variabele kosten per stuk. Totale dekkingsbijdrage = dekkingsbijdrage per stuk × afzet.
+Bedrijfsresultaat = totale dekkingsbijdrage − constante kosten.
+Er is bij direct costing geen bezettingsresultaat: alle constante kosten worden direct afgetrokken.
+### BEGRIPPEN
+Direct costing = Kostprijsberekening waarbij alleen de variabele kosten aan de producten worden toegerekend.
+Totale dekkingsbijdrage = Dekkingsbijdrage per stuk maal de afzet.
+Periodekosten = Kosten die in hun geheel ten laste van de periode komen.
+### MC
+Verkoopprijs € 40, variabele kosten € 25, afzet 18.000 stuks, constante kosten € 230.000. Wat is het bedrijfsresultaat volgens direct costing?
+* € 40.000
+- € 270.000
+- € 50.000
+- − € 40.000
+> 15 × 18.000 − 230.000.
+### MC
+Waarom is er bij direct costing geen bezettingsresultaat?
+* Alle constante kosten worden direct ten laste van de periode gebracht
+- Omdat er geen constante kosten zijn
+- Omdat de normale productie altijd gelijk is aan de werkelijke
+- Omdat de variabele kosten nul zijn
+> De constante kosten zitten niet in de kostprijs.
+
+## § 28.2 | Nacalculatie, analyse en beleid
+onderwerp: F.versch
+deelvraag: Hoe analyseer je resultaten met direct costing?
+gens: efficiencyresultaat, prijsresultaat
+### UITLEG Analyse bij direct costing
+Ook bij direct costing kun je de werkelijke resultaten vergelijken met de begroting. Op de variabele kosten bereken je prijs- en efficiencyresultaten, op de constante kosten alleen een budgetresultaat. Daarnaast is er een verschil in totale dekkingsbijdrage door een andere afzet of een andere verkoopprijs.
+Voordeel van direct costing voor het management: het verband tussen afzet en resultaat is direct zichtbaar. Elk extra product levert de dekkingsbijdrage per stuk op.
+### BEGRIPPEN
+Afzetresultaat = Verschil in totale dekkingsbijdrage door een andere afzet dan begroot.
+Budgetresultaat = Verschil tussen begrote en werkelijke constante kosten.
+### MC
+De begrote afzet was 10.000 stuks, de werkelijke afzet 11.000 stuks. De dekkingsbijdrage is € 12 per stuk. Hoeveel hoger is de totale dekkingsbijdrage dan begroot?
+* € 12.000
+- € 132.000
+- € 120.000
+- € 1.000
+> 1.000 × 12.
+### MC
+Waarom vinden managers direct costing vaak overzichtelijk?
+* Je ziet direct hoeveel elk extra verkocht product aan het resultaat bijdraagt
+- Omdat er geen constante kosten meer zijn
+- Omdat de winst altijd hoger is
+- Omdat de voorraad niet meer hoeft te worden geteld
+> Dekkingsbijdrage per stuk.
+
+## § 28.3 | Hulpmiddel voor keuze
+onderwerp: F.breakeven
+deelvraag: Wanneer accepteer je een extra order onder de kostprijs?
+### UITLEG Beslissen met de dekkingsbijdrage
+Bij korte-termijnbeslissingen tellen alleen de kosten die door de beslissing veranderen (relevante kosten). Als er onderbezetting is, veranderen de constante kosten niet door een extra order.
+Een extra order is dan aantrekkelijk zolang de prijs hoger is dan de variabele kosten per stuk: elke order met een positieve dekkingsbijdrage verhoogt de winst, ook als de prijs lager is dan de integrale kostprijs.
+Let wel op: de vaste klanten mogen niet merken dat anderen minder betalen (anders willen zij ook korting), en de capaciteit moet er zijn.
+Ook bij de keuze tussen zelf maken of uitbesteden (make or buy) vergelijk je alleen de relevante kosten.
+### BEGRIPPEN
+Relevante kosten = Kosten die veranderen door een beslissing.
+Extra order = Eenmalige order naast de normale verkopen.
+Onderbezetting = De capaciteit wordt niet volledig gebruikt.
+Make or buy = Keuze tussen zelf produceren en uitbesteden.
+### MC
+Een fabriek heeft onderbezetting. Kostprijs € 50 (waarvan € 30 variabel). Een buitenlandse klant biedt € 38 per stuk voor een extra order. Wat is het effect op de winst per stuk?
+* De winst stijgt met € 8 per stuk
+- De winst daalt met € 12 per stuk
+- De winst blijft gelijk
+- De winst daalt met € 8 per stuk
+> Dekkingsbijdrage 38 − 30 = € 8.
+### MC
+Waarom tellen de constante kosten niet mee bij de beslissing over een extra order bij onderbezetting?
+* Ze veranderen niet door de extra order
+- Ze zijn al betaald door de klant
+- Ze zijn altijd nul
+- Ze worden door de overheid vergoed
+> Alleen relevante kosten tellen.
+
+## § 28.4 | Verschil absorption costing en direct costing
+onderwerp: F.versch
+deelvraag: Waarom geven absorption costing en direct costing een ander resultaat?
+gens: absorptionResultaat, directCostingResultaat, verschilAbsorptionDirect
+### UITLEG Het verschil
+Bij absorption costing zit een deel van de constante kosten (C/N per stuk) in de waarde van de voorraad gereed product. Bij direct costing niet: daar komen alle constante kosten ten laste van de periode.
+Als productie en afzet gelijk zijn, is het resultaat bij beide methoden gelijk. Als de voorraad stijgt (productie groter dan afzet), is het resultaat volgens absorption costing hoger: een deel van de constante kosten wordt 'meegenomen' naar volgend jaar in de voorraad. Als de voorraad daalt, is het resultaat volgens absorption costing lager.
+Verschil = voorraadmutatie × C/N.
+### BEGRIPPEN
+Voorraadmutatie = Verandering van de voorraad gereed product (productie min afzet).
+Voorraadwaardering = De waarde waartegen de voorraad op de balans staat.
+### MC
+Productie 22.000 stuks, afzet 20.000 stuks, C/N = € 12. Hoeveel is het resultaat volgens absorption costing hoger dan volgens direct costing?
+* € 24.000
+- € 264.000
+- − € 24.000
+- € 0
+> 2.000 × 12.
+### MC
+Wanneer geven absorption costing en direct costing hetzelfde resultaat?
+* Als de productie gelijk is aan de afzet, zodat de voorraad niet verandert
+- Als de constante kosten nul zijn
+- Als de verkoopprijs gelijk is aan de kostprijs
+- Nooit
+> Geen voorraadmutatie, geen verschil.

@@ -1,0 +1,88 @@
+# HOOFDSTUK h 21 / v 24 | Break-evenanalyse
+wereld: h21, v24
+hoofdvraag: Bij welke afzet maakt een onderneming geen winst en geen verlies?
+
+## § 21.1 / 24.1 | Variabele en constante kosten
+onderwerp: F.breakeven
+deelvraag: Hoe gedragen kosten zich bij een andere afzet?
+leerdoelen: BECO-KOSTE-01
+gens: integraleKostprijs
+### UITLEG Kostengedrag
+Totale kosten (TK) = constante kosten (TCK) + variabele kosten (TVK). TVK = variabele kosten per stuk × afzet.
+Bij een grotere afzet blijven de constante kosten in totaal gelijk, maar dalen de constante kosten per stuk. De variabele kosten per stuk blijven gelijk, maar stijgen in totaal.
+Met de integrale kostprijs reken je alle kosten toe aan het product: kostprijs = C/N + V/W, met C = constante kosten, N = normale productie, V/W = variabele kosten per stuk.
+### BEGRIPPEN
+Totale kosten = Constante kosten plus variabele kosten.
+Integrale kostprijs = Constante kosten per stuk bij normale productie plus variabele kosten per stuk.
+Normale productie = De productie die gemiddeld over een aantal jaren wordt verwacht.
+### MC
+De constante kosten zijn € 120.000 en de variabele kosten € 8 per stuk. Wat zijn de totale kosten bij een afzet van 10.000 stuks?
+* € 200.000
+- € 128.000
+- € 120.080
+- € 80.000
+> 120.000 + 8 × 10.000.
+### MC
+Wat gebeurt er met de totale variabele kosten als de afzet verdubbelt?
+* Die verdubbelen
+- Die blijven gelijk
+- Die halveren
+- Die stijgen met de constante kosten
+> Proportioneel variabel.
+
+## § 21.2 / 24.2 | Break-evenanalyse
+onderwerp: F.breakeven
+deelvraag: Hoe bereken je de break-evenafzet en de break-evenomzet?
+leerdoelen: BECO-BREAK-01, BECO-BREAK-03
+gens: dekkingsbijdrage, breakEven, breakEvenOmzet
+### UITLEG Dekkingsbijdrage en break-even
+De dekkingsbijdrage per stuk = verkoopprijs − variabele kosten per stuk. Dit bedrag draagt bij aan het dekken van de constante kosten (en daarna aan de winst).
+Break-evenafzet = constante kosten / dekkingsbijdrage per stuk. Bij die afzet is de winst nul. Break-evenomzet = break-evenafzet × verkoopprijs.
+Resultaat = (afzet − break-evenafzet) × dekkingsbijdrage per stuk. De veiligheidsmarge is hoeveel de afzet mag dalen voordat er verlies ontstaat: (werkelijke afzet − break-evenafzet) / werkelijke afzet × 100%.
+### BEGRIPPEN
+Dekkingsbijdrage = Verkoopprijs min variabele kosten per stuk.
+Break-evenafzet = Afzet waarbij de winst nul is.
+Break-evenomzet = Omzet waarbij de winst nul is.
+Veiligheidsmarge = Hoeveel procent de afzet kan dalen voordat er verlies ontstaat.
+### MC
+Verkoopprijs € 25, variabele kosten € 15 per stuk, constante kosten € 60.000. Wat is de break-evenafzet?
+* 6.000 stuks
+- 2.400 stuks
+- 4.000 stuks
+- 1.500 stuks
+> 60.000 / (25 − 15).
+### MC
+Wat gebeurt er met de break-evenafzet als de verkoopprijs stijgt en de kosten gelijk blijven?
+* Die daalt
+- Die stijgt
+- Die blijft gelijk
+- Die wordt nul
+> Hogere dekkingsbijdrage per stuk.
+
+## § 21.3 / 24.3 | Grafieken van de break-evenanalyse
+onderwerp: F.breakeven
+deelvraag: Hoe lees je een break-evengrafiek?
+leerdoelen: BECO-BREAK-02
+gens: grafBreakEven, grafWinst, grafVerlies, grafCK
+### UITLEG De grafiek
+In een break-evengrafiek staat de afzet op de horizontale as en staan bedragen op de verticale as. De omzetlijn (TO) begint in de oorsprong. De totale kostenlijn (TK) begint bij de constante kosten.
+Het snijpunt van TO en TK is het break-evenpunt. Rechts daarvan ligt TO boven TK: winstgebied. Links ligt TO onder TK: verliesgebied. De afstand tussen beide lijnen is de winst of het verlies.
+Ook kun je de totale dekkingsbijdrage tekenen: die snijdt de lijn van de constante kosten bij de break-evenafzet.
+### BEGRIPPEN
+Break-evenpunt = Snijpunt van de totale opbrengstenlijn en de totale kostenlijn.
+Winstgebied = Deel van de grafiek waar de opbrengsten hoger zijn dan de kosten.
+Verliesgebied = Deel van de grafiek waar de kosten hoger zijn dan de opbrengsten.
+### MC
+Waar begint de lijn van de totale kosten in een break-evengrafiek?
+* Bij de constante kosten op de verticale as
+- In de oorsprong
+- In het break-evenpunt
+- Bij de verkoopprijs
+> Bij afzet nul zijn er alleen constante kosten.
+### MC
+Wat gebeurt er met de TK-lijn als de constante kosten stijgen?
+* De lijn schuift evenwijdig omhoog, zodat het break-evenpunt naar rechts gaat
+- De lijn wordt steiler
+- De TO-lijn schuift omhoog
+- Het break-evenpunt gaat naar links
+> Hogere constante kosten, hogere break-evenafzet.

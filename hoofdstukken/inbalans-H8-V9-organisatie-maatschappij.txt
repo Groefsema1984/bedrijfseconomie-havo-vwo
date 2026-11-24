@@ -1,0 +1,137 @@
+# HOOFDSTUK h 8 / v 9 | Organisatie en maatschappij
+wereld: h8, v9
+hoofdvraag: Wat doen organisaties voor de maatschappij en wat is maatschappelijk verantwoord ondernemen?
+
+## § 8.1 / 9.1 | Organisaties
+onderwerp: B.maatsch
+deelvraag: Wat is een organisatie en welke soorten zijn er?
+### UITLEG Organisaties
+Een organisatie is een samenwerkingsverband van mensen met een gezamenlijk doel. Een gezin, een school, een voetbalclub en een supermarkt zijn allemaal organisaties.
+Commerciële organisaties (bedrijven of ondernemingen) streven naar winst. Ze verkopen producten of diensten tegen een prijs die hoger is dan de kosten.
+Niet-commerciële organisaties hebben geen winstoogmerk. Ze hebben een maatschappelijk of sociaal doel, bijvoorbeeld een sportvereniging, een ziekenhuis of een goed doel. Ook zij moeten wel hun kosten kunnen betalen, uit contributie, subsidie, giften of bijdragen.
+Overheidsorganisaties (gemeente, Rijk) leveren collectieve voorzieningen en betalen die vooral uit belastingen.
+### BEGRIPPEN
+Organisatie = Samenwerkingsverband van mensen met een gezamenlijk doel.
+Commerciële organisatie = Organisatie die streeft naar winst.
+Niet-commerciële organisatie = Organisatie zonder winstoogmerk, met een maatschappelijk of sociaal doel.
+Winstoogmerk = Het doel om winst te maken.
+Subsidie = Bijdrage van de overheid aan een organisatie of activiteit.
+### MC
+Welke organisatie is een commerciële organisatie?
+* Een kledingwinkel in het centrum
+- Een hockeyvereniging
+- De Dierenbescherming
+- Een openbare bibliotheek die door de gemeente wordt betaald
+> De kledingwinkel streeft naar winst.
+### MC
+Waarom moet ook een niet-commerciële organisatie letten op haar inkomsten en kosten?
+* Omdat ze haar kosten moet kunnen betalen om te blijven bestaan
+- Omdat ze winst moet uitkeren aan de eigenaren
+- Omdat ze vennootschapsbelasting betaalt over haar omzet
+- Omdat ze anders geen leden mag hebben
+> Geen winstoogmerk betekent niet dat geld er niet toe doet.
+
+## § 8.2 / 9.2 | Maatschappelijke behoeften
+onderwerp: B.maatsch
+deelvraag: In welke maatschappelijke behoeften voorziet een organisatie?
+### UITLEG De economische kringloop
+In de economische kringloop werken gezinnen, bedrijven en de overheid samen. Gezinnen leveren arbeid aan bedrijven en krijgen daarvoor inkomen. Met dat inkomen kopen ze producten van bedrijven. De overheid heft belasting en levert collectieve voorzieningen.
+Organisaties voorzien zo in maatschappelijke behoeften: ze leveren producten en diensten, bieden werkgelegenheid (en dus inkomen), zorgen voor innovatie en betalen belasting.
+### UITLEG Maatschappelijke ontwikkelingen
+Organisaties moeten inspelen op ontwikkelingen in de maatschappij, zoals vergrijzing, digitalisering en duurzaamheid. Circulariteit is het streven naar een economie waarin grondstoffen en producten zo veel mogelijk opnieuw worden gebruikt, zodat er geen afval ontstaat.
+De ACM (Autoriteit Consument en Markt) is een onafhankelijke toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt, bijvoorbeeld door kartels te verbieden.
+### BEGRIPPEN
+Economische kringloop = De geldstromen en goederenstromen tussen gezinnen, bedrijven en de overheid.
+Werkgelegenheid = Het aantal banen dat er in een land of sector is.
+Innovatie = Vernieuwing van producten of productiemethoden.
+Circulariteit = Economie waarin grondstoffen en producten opnieuw worden gebruikt om afval te voorkomen.
+ACM = Toezichthouder die let op eerlijke concurrentie en consumenten beschermt.
+Kartel = Verboden afspraak tussen concurrenten over bijvoorbeeld prijzen.
+### MC
+Welke bijdrage aan de maatschappij levert een fabriek die 300 mensen in dienst heeft?
+* Werkgelegenheid en dus inkomen voor gezinnen
+- Collectieve voorzieningen
+- Subsidie aan de overheid
+- Toezicht op eerlijke concurrentie
+> Arbeid levert de werknemers inkomen op.
+### MC
+Drie bouwbedrijven spreken af dat ze bij aanbestedingen allemaal minstens € 2 miljoen vragen. Welke organisatie treedt hiertegen op?
+* De ACM
+- De AFM
+- De Belastingdienst
+- De Kamer van Koophandel
+> Prijsafspraken zijn een verboden kartel; de ACM houdt daar toezicht op.
+### MC
+Een telefoonmaker gebruikt de onderdelen van ingeleverde oude toestellen opnieuw in nieuwe toestellen. Bij welk begrip past dit?
+* Circulariteit
+- Innovatie
+- Greenwashing
+- Werkgelegenheid
+> Grondstoffen worden opnieuw gebruikt.
+
+## § 8.3 / 9.3 | Maatschappelijk verantwoord ondernemen
+onderwerp: B.maatsch
+deelvraag: Wat is maatschappelijk verantwoord ondernemen (MVO) en wat zijn de drie P's?
+### UITLEG MVO en de drie P's
+Maatschappelijk verantwoord ondernemen (MVO) is ondernemen met oog voor de gevolgen voor mens en milieu, niet alleen voor de winst. Daarbij gaat het om de drie P's:
+People: zorg voor mensen, zoals goede arbeidsomstandigheden en eerlijke lonen, ook bij leveranciers.
+Planet: zorg voor het milieu, zoals minder CO2-uitstoot, minder afval en duurzame grondstoffen.
+Profit: winst maken. Dat is nodig om te kunnen blijven bestaan en investeren.
+De Arbowet stelt regels voor veiligheid, gezondheid en welzijn op het werk (People). Met een ISO-certificaat laat een organisatie zien dat ze werkt volgens internationale normen voor kwaliteit of milieu.
+Greenwashing is je duurzamer voordoen dan je bent, bijvoorbeeld met een groen logo zonder echte maatregelen.
+### BEGRIPPEN
+MVO = Ondernemen met aandacht voor mens, milieu en winst.
+People = Zorg voor mensen binnen en buiten de organisatie.
+Planet = Zorg voor het milieu.
+Profit = Winst maken om te kunnen blijven bestaan.
+Arbowet = Wet met regels voor veiligheid, gezondheid en welzijn op het werk.
+ISO-standaard = Internationale norm voor kwaliteits- of milieumanagement.
+Greenwashing = Je duurzamer of groener voordoen dan je echt bent.
+### MC
+Een kledingbedrijf controleert of de naaiateliers in Bangladesh veilig zijn en een leefbaar loon betalen. Bij welke P hoort dit?
+* People
+- Planet
+- Profit
+- Product
+> Het gaat om de mensen in de keten.
+### MC
+Een vliegmaatschappij zet groene blaadjes op haar vliegtuigen en noemt vliegen 'duurzaam', maar de uitstoot daalt niet. Hoe heet dit?
+* Greenwashing
+- Circulariteit
+- MVO
+- True pricing
+> Duurzamer lijken dan je bent.
+### MC
+Waarom hoort profit ook bij MVO?
+* Zonder winst kan een onderneming op den duur niet blijven bestaan en niet investeren in mens en milieu
+- Omdat MVO alleen over winst gaat
+- Omdat de wet een minimale winst voorschrijft
+- Omdat aandeelhouders anders hun aandelen moeten verkopen
+> Duurzaam ondernemen moet ook financieel vol te houden zijn.
+
+## § - / 9.4 | True pricing
+onderwerp: B.maatsch
+deelvraag: Wat is de echte prijs van een product en waarom is die vaak hoger dan de winkelprijs?
+### UITLEG True pricing
+Bij de productie van veel producten ontstaan kosten die niet in de prijs zitten, zoals milieuvervuiling, CO2-uitstoot of te lage lonen in de productieketen. Deze kosten worden afgewenteld op de maatschappij: dat zijn negatieve externe effecten.
+True pricing berekent de echte prijs: de winkelprijs plus de verborgen maatschappelijke kosten. Een kilo goedkope koffie kan in de winkel € 8 kosten, terwijl de true price veel hoger is.
+Een onderneming kan de verborgen kosten verlagen (bijvoorbeeld eerlijke lonen betalen) of de consument vragen een toeslag te betalen. De overheid kan ze in de prijs laten meetellen met heffingen, zoals een CO2-heffing.
+### BEGRIPPEN
+True price = De winkelprijs plus de verborgen maatschappelijke kosten van een product.
+Extern effect = Gevolg van productie of consumptie voor anderen dat niet in de prijs zit.
+Verborgen kosten = Maatschappelijke kosten, zoals vervuiling of onderbetaling, die niet in de winkelprijs zitten.
+Heffing = Belasting die de overheid gebruikt om schadelijk gedrag duurder te maken.
+### MC
+Een chocoladereep kost € 2,00 in de winkel. Uit onderzoek blijkt dat de milieuschade € 0,40 per reep is en de onderbetaling van cacaoboeren € 0,35. Wat is de true price?
+* € 2,75
+- € 2,00
+- € 2,40
+- € 1,25
+> 2,00 + 0,40 + 0,35 = € 2,75.
+### MC
+Waarom zijn verborgen kosten een probleem voor de maatschappij?
+* Anderen betalen ervoor, bijvoorbeeld via vervuiling of slechte arbeidsomstandigheden
+- De onderneming betaalt er dubbel belasting over
+- De consument betaalt er btw over
+- Ze maken de winkelprijs te hoog
+> Het zijn negatieve externe effecten.

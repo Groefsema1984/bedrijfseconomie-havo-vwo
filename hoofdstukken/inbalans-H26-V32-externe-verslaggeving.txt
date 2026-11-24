@@ -1,0 +1,119 @@
+# HOOFDSTUK h 26 / v 32 | Externe verslaggeving
+wereld: h26, v32
+hoofdvraag: Welke informatie moet een onderneming openbaar maken en wie controleert die?
+
+## § 26.1 / 32.1 | Verschil interne en externe verslaggeving
+onderwerp: G.extern
+deelvraag: Wat is het verschil tussen interne en externe verslaggeving?
+### UITLEG Intern en extern
+Interne verslaggeving is bedoeld voor het management: gedetailleerd, vaak per maand of per afdeling, en vrij in vorm. Het doel is de onderneming te sturen.
+Externe verslaggeving is bedoeld voor belanghebbenden buiten de onderneming (stakeholders): aandeelhouders, banken, leveranciers, werknemers, de overheid en de samenleving. Omdat zij afhankelijk zijn van de informatie, gelden er wettelijke regels (Titel 9 Boek 2 van het Burgerlijk Wetboek) en richtlijnen. Beursgenoteerde ondernemingen volgen de internationale regels (IFRS).
+Elke stakeholder heeft eigen vragen: een bank wil weten of de onderneming kan aflossen, een aandeelhouder of er dividend komt, een werknemer of zijn baan zeker is.
+### BEGRIPPEN
+Interne verslaggeving = Financiële informatie voor het management.
+Externe verslaggeving = Financiële informatie voor belanghebbenden buiten de onderneming.
+Stakeholder = Belanghebbende bij een onderneming.
+IFRS = Internationale regels voor de jaarverslaggeving van beursgenoteerde ondernemingen.
+Titel 9 Boek 2 BW = Wettelijke regels voor de jaarverslaggeving in Nederland.
+### MC
+Waarom gelden er wel wettelijke regels voor externe verslaggeving en niet voor interne?
+* Externe gebruikers kunnen de informatie niet zelf controleren en moeten erop kunnen vertrouwen
+- Interne verslaggeving is minder belangrijk
+- De Belastingdienst gebruikt alleen interne verslaggeving
+- Interne verslaggeving bevat geen bedragen
+> Bescherming van stakeholders.
+### MC
+Welke stakeholder is vooral geïnteresseerd in de solvabiliteit van een onderneming?
+* De bank die een lening heeft verstrekt
+- De klant die een broodje koopt
+- De concurrent
+- De gemeente die vergunningen verleent
+> Kan de onderneming haar schulden betalen?
+
+## § 26.2 / 32.2 | Jaarstukken en modellen
+onderwerp: G.extern
+deelvraag: Uit welke onderdelen bestaan de jaarstukken?
+### UITLEG Jaarstukken
+De jaarstukken bestaan uit de jaarrekening, het bestuursverslag en de overige gegevens. De jaarrekening bestaat uit de balans, de winst-en-verliesrekening en de toelichting; grote ondernemingen voegen een kasstroomoverzicht toe. Het bestuursverslag beschrijft de gang van zaken en de verwachtingen. Bij de overige gegevens staat onder andere de controleverklaring van de accountant.
+Ondernemingen worden ingedeeld in micro, klein, middelgroot en groot (op basis van balanstotaal, omzet en aantal werknemers). Hoe groter, hoe meer informatie ze moeten publiceren (deponeren bij de Kamer van Koophandel).
+De wet schrijft modellen voor. De balans mag in scontrovorm (debet en credit naast elkaar) of in staffelvorm (onder elkaar). De winst-en-verliesrekening kan categoriaal (naar kostensoort: lonen, afschrijvingen, ...) of functioneel (naar functie: kostprijs van de omzet, verkoopkosten, algemene beheerskosten).
+### BEGRIPPEN
+Jaarstukken = De jaarrekening, het bestuursverslag en de overige gegevens.
+Jaarrekening = Balans, winst-en-verliesrekening en toelichting.
+Bestuursverslag = Verslag van het bestuur over de gang van zaken en de verwachtingen.
+Deponeren = De jaarstukken openbaar maken bij de Kamer van Koophandel.
+Categoriale indeling = Winst-en-verliesrekening ingedeeld naar kostensoort.
+Functionele indeling = Winst-en-verliesrekening ingedeeld naar functie, zoals verkoopkosten.
+Kasstroomoverzicht = Overzicht van de geldstromen uit operationele, investerings- en financieringsactiviteiten.
+### MC
+Wat hoort niet bij de jaarrekening?
+* Het bestuursverslag
+- De balans
+- De winst-en-verliesrekening
+- De toelichting
+> Het bestuursverslag hoort wel bij de jaarstukken, maar niet bij de jaarrekening.
+### MC
+Een winst-en-verliesrekening met de posten 'kostprijs van de omzet', 'verkoopkosten' en 'algemene beheerskosten' is:
+* Functioneel ingedeeld
+- Categoriaal ingedeeld
+- In scontrovorm
+- Een kasstroomoverzicht
+> Indeling naar functie.
+
+## § 26.3 / 32.3 | Accountant
+onderwerp: G.extern
+deelvraag: Wat doet de accountant en wat betekent zijn verklaring?
+### UITLEG Controle door de accountant
+Middelgrote en grote ondernemingen moeten hun jaarrekening laten controleren door een externe accountant. Die geeft een controleverklaring:
+Goedkeurend: de jaarrekening geeft een getrouw beeld.
+Met beperking: op een onderdeel na geeft ze een getrouw beeld.
+Afkeurend: de jaarrekening geeft geen getrouw beeld.
+Oordeelonthouding: de accountant kon onvoldoende controleren en geeft geen oordeel.
+Kleine ondernemingen laten de jaarrekening vaak alleen samenstellen; dan is er een samenstellingsverklaring, zonder controle. De interne accountant (internal audit) werkt in de onderneming en controleert de interne processen.
+### BEGRIPPEN
+Accountant = Deskundige die de jaarrekening controleert of samenstelt.
+Controleverklaring = Oordeel van de accountant over de jaarrekening.
+Getrouw beeld = De jaarrekening geeft een juist en volledig beeld van de financiële positie.
+Oordeelonthouding = De accountant geeft geen oordeel omdat hij onvoldoende kon controleren.
+Samenstellingsverklaring = Verklaring dat de accountant de jaarrekening heeft opgesteld, zonder controle.
+### MC
+De accountant vindt dat de voorraad € 2 miljoen te hoog is gewaardeerd en de rest klopt. Welke verklaring past?
+* Een controleverklaring met beperking
+- Een goedkeurende verklaring
+- Een oordeelonthouding
+- Een samenstellingsverklaring
+> Op één onderdeel na een getrouw beeld.
+### MC
+Waarom zijn banken blij met een goedkeurende controleverklaring?
+* Een onafhankelijke deskundige heeft vastgesteld dat de cijfers betrouwbaar zijn
+- Dan krijgt de bank meer interest
+- Dan hoeft de onderneming niet af te lossen
+- Dan is de onderneming winstgevend
+> Betrouwbare informatie.
+
+## § - / 32.4 | Social accounting
+onderwerp: G.extern
+deelvraag: Hoe legt een onderneming verantwoording af over haar maatschappelijke prestaties?
+### UITLEG Duurzaamheidsverslaggeving
+Social accounting (maatschappelijke verslaggeving) is verslag doen over de gevolgen van de onderneming voor mens en milieu: de People en Planet van MVO. Denk aan CO2-uitstoot, energieverbruik, afval, arbeidsomstandigheden in de keten en diversiteit.
+Grote Europese ondernemingen moeten volgens de CSRD (Corporate Sustainability Reporting Directive) een duurzaamheidsverslag opnemen in hun bestuursverslag, volgens vaste Europese standaarden (ESRS), en dat laten controleren.
+Daarbij geldt dubbele materialiteit: de onderneming rapporteert zowel over de invloed van duurzaamheid op de onderneming (financiële risico's) als over de invloed van de onderneming op mens en milieu.
+### BEGRIPPEN
+Social accounting = Verslag doen over de gevolgen van de onderneming voor mens en milieu.
+Duurzaamheidsverslag = Verslag over de prestaties op het gebied van milieu, mens en bestuur.
+CSRD = Europese richtlijn die grote ondernemingen verplicht over duurzaamheid te rapporteren.
+Dubbele materialiteit = Rapporteren over de invloed van duurzaamheid op de onderneming én van de onderneming op mens en milieu.
+### MC
+Waarom moet een duurzaamheidsverslag volgens de CSRD ook worden gecontroleerd?
+* Om greenwashing te voorkomen en de informatie betrouwbaar te maken
+- Om de belasting te berekenen
+- Omdat er anders geen dividend mag worden uitgekeerd
+- Omdat de AFM het verslag schrijft
+> Betrouwbare duurzaamheidsinformatie.
+### MC
+Een bierbrouwer beschrijft hoe droogte door klimaatverandering de gerstoogst en dus haar kosten bedreigt. Welke kant van dubbele materialiteit is dit?
+* De invloed van duurzaamheid op de onderneming
+- De invloed van de onderneming op het milieu
+- Social accounting over personeel
+- Een controleverklaring
+> Financiële risico's voor de onderneming.

@@ -1,0 +1,150 @@
+# HOOFDSTUK h 17 / v 19 | Marketingbeleid
+wereld: h17, v19
+hoofdvraag: Hoe stelt een onderneming haar marketingdoelen en wie zijn haar klanten?
+
+## § 17.1 / 19.1 | Marketingdoelstellingen
+onderwerp: E.marketing
+deelvraag: Hoe formuleer je een goede marketingdoelstelling?
+### UITLEG Marketing en doelstellingen
+Marketing omvat alle activiteiten om producten af te stemmen op de wensen van klanten en ze te verkopen. Het marketingbeleid volgt uit de ondernemingsdoelstellingen.
+Marketingdoelstellingen gaan bijvoorbeeld over afzet, omzet, marktaandeel, naamsbekendheid of klanttevredenheid. Een goede doelstelling is SMART: specifiek, meetbaar, acceptabel, realistisch en tijdgebonden.
+Om haar doelen te halen kiest de onderneming een marketingmix: product, prijs, plaats en promotie. Met een SWOT-analyse onderzoekt ze vooraf de sterke en zwakke punten van de onderneming en de kansen en bedreigingen op de markt.
+### BEGRIPPEN
+Marketing = Alle activiteiten om producten af te stemmen op de wensen van de klant en ze te verkopen.
+Marketingdoelstelling = Doel op het gebied van bijvoorbeeld afzet, omzet, marktaandeel of naamsbekendheid.
+SMART = Specifiek, meetbaar, acceptabel, realistisch en tijdgebonden.
+Marketingmix = De combinatie van product, prijs, plaats en promotie.
+### MC
+Welke doelstelling is SMART?
+* De omzet in de webshop stijgt in 2026 met 10% ten opzichte van 2025
+- We willen meer klanten
+- Onze producten moeten bekender worden
+- De komende jaren groeien we flink
+> Specifiek, meetbaar en met een termijn.
+### MC
+'Een nieuwe concurrent opent een filiaal in dezelfde straat.' Waar hoort dit in de SWOT-analyse?
+* Bij de bedreigingen
+- Bij de zwaktes
+- Bij de kansen
+- Bij de sterktes
+> Een externe, ongunstige ontwikkeling.
+
+## § 17.2 / 19.2 | Marktaandeel
+onderwerp: E.marketing
+deelvraag: Hoe bereken je het marktaandeel?
+gens: marktaandeel
+### UITLEG Marktaandeel
+Het marktaandeel is het deel van de totale markt dat een onderneming in handen heeft. Je kunt het berekenen in afzet (aantallen) of in omzet (euro's):
+Marktaandeel = afzet onderneming / totale afzet van de markt × 100%, of omzet onderneming / totale marktomzet × 100%.
+Het marktpotentieel is de maximale afzet die op een markt mogelijk is; de marktomvang is de werkelijke afzet. Een markt met een grote groei biedt kansen; op een verzadigde markt kun je alleen groeien door marktaandeel van concurrenten af te pakken.
+Een marktaandeel in afzet kan anders zijn dan in omzet: een merk met een hoge prijs heeft in omzet een groter aandeel dan in afzet.
+### BEGRIPPEN
+Marktaandeel = Het deel van de totale markt (in afzet of omzet) van een onderneming.
+Marktomvang = De werkelijke totale afzet op een markt.
+Marktpotentieel = De maximale afzet die op een markt mogelijk is.
+Verzadigde markt = Markt die niet meer groeit.
+### MC
+Op een markt worden 2 miljoen fietsen verkocht. Merk B verkoopt er 150.000. Wat is het marktaandeel in afzet?
+* 7,5%
+- 13,3%
+- 15%
+- 0,75%
+> 150.000 / 2.000.000 × 100%.
+### MC
+Een luxe merk heeft een marktaandeel van 5% in afzet. Wat geldt waarschijnlijk voor het marktaandeel in omzet?
+* Dat is groter dan 5%, omdat de prijs hoger is dan gemiddeld
+- Dat is kleiner dan 5%
+- Dat is altijd precies 5%
+- Dat kun je niet berekenen
+> Duurdere producten wegen zwaarder in de omzet.
+
+## § 17.3 / 19.3 | Aankoopgedrag
+onderwerp: E.marketing
+deelvraag: Hoe nemen consumenten en bedrijven een aankoopbeslissing?
+### UITLEG Koopproces
+Het koopproces van een consument kent fasen: behoefte herkennen, informatie zoeken, alternatieven vergelijken, kopen en evalueren na de aankoop.
+Soorten aankopen: routineaankopen (dagelijkse boodschappen, weinig nadenken), impulsaankopen (zonder plan, bijvoorbeeld bij de kassa) en weloverwogen aankopen (duur en zelden, zoals een auto: veel informatie zoeken).
+Het aankoopgedrag wordt beïnvloed door persoonlijke factoren (inkomen, leeftijd, leefstijl), sociale factoren (familie, vrienden, influencers) en psychologische factoren (motivatie, ervaringen).
+Bij een bedrijf beslist vaak een groep mensen: de DMU (decision making unit), met gebruikers, inkopers, beslissers, beïnvloeders en adviseurs.
+### BEGRIPPEN
+Koopproces = De fasen die een koper doorloopt, van behoefte tot evaluatie.
+Routineaankoop = Aankoop die vaak en zonder veel nadenken wordt gedaan.
+Impulsaankoop = Ongeplande aankoop.
+Weloverwogen aankoop = Aankoop waarbij de koper veel informatie zoekt en vergelijkt.
+DMU = Groep personen die bij een organisatie de aankoopbeslissing neemt.
+### MC
+Waarom liggen er snoep en kauwgom bij de kassa van de supermarkt?
+* Om impulsaankopen uit te lokken
+- Omdat het routineaankopen zijn
+- Omdat het weloverwogen aankopen zijn
+- Omdat de DMU dat beslist
+> Ongeplande aankopen tijdens het wachten.
+### MC
+Bij de aankoop van nieuwe laptops voor een school zijn de ICT-coördinator, de docenten en de directeur betrokken. Hoe heet deze groep?
+* De DMU
+- De doelgroep
+- Het marktsegment
+- De ondernemingsraad
+> Decision making unit.
+
+## § 17.4 / 19.4 | Marktsegmentatie
+onderwerp: E.marketing
+deelvraag: Hoe deelt een onderneming de markt in en kiest ze een doelgroep?
+### UITLEG Segmenteren
+Bij marktsegmentatie deel je de markt in groepen klanten met dezelfde kenmerken of wensen. Segmentatiecriteria:
+Geografisch: land, regio, stad of platteland.
+Demografisch: leeftijd, geslacht, inkomen, gezinssituatie.
+Psychografisch: leefstijl, waarden, interesses.
+Gedragskenmerken: gebruiksintensiteit, merktrouw, gezochte voordelen.
+Daarna kies je een of meer segmenten als doelgroep en stem je de marketingmix daarop af. Ongedifferentieerde marketing: één marketingmix voor de hele markt. Gedifferentieerde marketing: een eigen mix per segment. Geconcentreerde marketing: richten op één segment (een niche).
+Positionering is het beeld dat de onderneming bij de doelgroep wil oproepen ten opzichte van concurrenten.
+### BEGRIPPEN
+Marktsegmentatie = Het indelen van de markt in groepen klanten met dezelfde kenmerken.
+Marktsegment = Groep klanten met dezelfde kenmerken of wensen.
+Demografische segmentatie = Indelen naar bijvoorbeeld leeftijd, geslacht en inkomen.
+Psychografische segmentatie = Indelen naar leefstijl, waarden en interesses.
+Gedifferentieerde marketing = Een aparte marketingmix voor elk segment.
+Positionering = Het beeld dat een onderneming bij de doelgroep wil oproepen ten opzichte van concurrenten.
+### MC
+Een reisorganisatie richt zich op 'avontuurlijke mensen die duurzaam willen reizen'. Welk segmentatiecriterium gebruikt ze?
+* Psychografisch
+- Geografisch
+- Demografisch
+- Gebruiksintensiteit
+> Leefstijl en waarden.
+### MC
+Een autofabrikant maakt een goedkoop model voor starters en een luxe model voor gezinnen met een hoog inkomen, elk met eigen reclame. Welke strategie is dit?
+* Gedifferentieerde marketing
+- Ongedifferentieerde marketing
+- Geconcentreerde marketing
+- Massamarketing
+> Een eigen mix per segment.
+
+## § 17.5 / 19.5 | Consumentenorganisaties en overheid
+onderwerp: E.marketing
+deelvraag: Hoe wordt de consument beschermd?
+### UITLEG Consumentenbescherming
+De consument wordt beschermd door de overheid en door consumentenorganisaties.
+Wetten: een product moet doen wat je ervan mag verwachten (conformiteit); is dat niet zo, dan moet de verkoper het repareren of vervangen. Bij online kopen heb je 14 dagen bedenktijd (herroepingsrecht). De Warenwet stelt eisen aan de veiligheid van producten.
+Toezicht: de ACM let op eerlijke concurrentie en misleidende verkooppraktijken. De NVWA controleert voedselveiligheid.
+De Consumentenbond test producten en komt op voor consumenten. Bij de Reclame Code Commissie kun je klagen over misleidende reclame. Een geschillencommissie beslecht klachten zonder rechter.
+### BEGRIPPEN
+Conformiteit = Een product moet de eigenschappen hebben die de koper mag verwachten.
+Herroepingsrecht = Recht om een online aankoop binnen 14 dagen te annuleren.
+Consumentenbond = Organisatie die producten test en opkomt voor consumenten.
+Reclame Code Commissie = Instantie die klachten over reclame beoordeelt.
+Geschillencommissie = Instantie die geschillen tussen consument en ondernemer beslecht zonder rechter.
+### MC
+Je koopt online een jas en hebt er na vijf dagen spijt van. Wat geldt?
+* Je mag hem binnen 14 dagen retourneren dankzij het herroepingsrecht
+- Je hebt geen recht om te retourneren
+- Je mag alleen ruilen in de winkel
+- Je moet naar de geschillencommissie
+> 14 dagen bedenktijd bij kopen op afstand.
+### MC
+Een reclame belooft '50% minder vet', maar dat blijkt niet waar. Waar kan een consument klagen?
+* Bij de Reclame Code Commissie
+- Bij de AFM
+- Bij de ondernemingsraad
+- Bij het Kadaster
+> Misleidende reclame.

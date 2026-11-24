@@ -1,0 +1,167 @@
+# HOOFDSTUK h 12 / v 13 | Communicatieproces
+wereld: h12, v13
+hoofdvraag: Hoe verloopt communicatie in een organisatie en hoe worden besluiten genomen?
+
+## § 12.1 / 13.1 | Communicatie
+onderwerp: C.comm
+deelvraag: Wat is communicatie en waarom is die belangrijk in een organisatie?
+### UITLEG Communicatie
+Communicatie is het overbrengen van informatie van een zender naar een ontvanger. In een organisatie is goede communicatie nodig om taken af te stemmen, beslissingen te nemen en medewerkers te motiveren.
+Interne communicatie vindt plaats binnen de organisatie (overleg, intranet, personeelsblad). Externe communicatie is gericht op mensen buiten de organisatie, zoals klanten, leveranciers en de pers.
+Communicatie kan verticaal zijn (tussen niveaus: van leidinggevende naar medewerker of omgekeerd), horizontaal (tussen collega's op hetzelfde niveau) of diagonaal (tussen verschillende niveaus én afdelingen).
+### BEGRIPPEN
+Communicatie = Het overbrengen van informatie van een zender naar een ontvanger.
+Interne communicatie = Communicatie binnen de organisatie.
+Externe communicatie = Communicatie met mensen en organisaties buiten de organisatie.
+Verticale communicatie = Communicatie tussen verschillende niveaus in de hiërarchie.
+Horizontale communicatie = Communicatie tussen medewerkers op hetzelfde niveau.
+### MC
+Het hoofd inkoop overlegt met het hoofd verkoop over de planning. Welke vorm van communicatie is dit?
+* Horizontale communicatie
+- Verticale communicatie
+- Externe communicatie
+- Diagonale communicatie
+> Zelfde niveau, andere afdeling.
+### MC
+Een persbericht over een nieuw product is een voorbeeld van:
+* Externe communicatie
+- Interne communicatie
+- Verticale communicatie
+- Informele communicatie
+> Gericht op mensen buiten de organisatie.
+
+## § 12.2 / 13.2 | Uitbreiding van het ZMBO-model
+onderwerp: C.comm
+deelvraag: Hoe ziet het communicatieproces eruit?
+### UITLEG Het ZMBO-model
+Het ZMBO-model beschrijft communicatie met vier onderdelen: zender, medium, boodschap en ontvanger. De zender codeert de boodschap (zet haar in woorden, beeld of gebaren), het medium brengt haar over (gesprek, e-mail, telefoon, vergadering) en de ontvanger decodeert haar (geeft er betekenis aan).
+In het uitgebreide model komen er bij: feedback (de reactie van de ontvanger, waarmee de zender kan controleren of de boodschap is aangekomen), het referentiekader van zender en ontvanger (kennis, ervaring, cultuur, normen) en ruis (alles wat de communicatie verstoort).
+### BEGRIPPEN
+ZMBO-model = Communicatiemodel met zender, medium, boodschap en ontvanger.
+Coderen = De zender zet de boodschap om in woorden, beelden of gebaren.
+Decoderen = De ontvanger geeft betekenis aan de boodschap.
+Feedback = Reactie van de ontvanger waarmee de zender controleert of de boodschap goed is overgekomen.
+Referentiekader = Kennis, ervaring, normen en waarden van waaruit iemand een boodschap begrijpt.
+Medium = Het middel waarmee de boodschap wordt overgebracht.
+### MC
+Een manager vraagt na een instructie: 'Kun je in je eigen woorden vertellen wat je gaat doen?' Welk onderdeel van het communicatieproces gebruikt hij?
+* Feedback
+- Coderen
+- Ruis
+- Medium
+> Hij controleert of de boodschap is aangekomen.
+### MC
+Een ervaren monteur gebruikt vaktaal die een nieuwe stagiair niet begrijpt. Waardoor gaat de communicatie mis?
+* Het referentiekader van zender en ontvanger verschilt
+- Er is geen medium
+- De ontvanger geeft te veel feedback
+- De boodschap is extern
+> Verschillende kennis en ervaring.
+
+## § 12.3 / 13.3 | Verstoringen en problemen bij communicatie
+onderwerp: C.comm
+deelvraag: Wat kan er misgaan bij communicatie?
+### UITLEG Verstoringen
+Ruis is alles wat de communicatie verstoort. Externe ruis: lawaai, een slechte verbinding. Interne ruis: vermoeidheid, emoties of vooroordelen.
+Andere problemen: selectieve waarneming (je hoort alleen wat je wilt horen), filtering (bij het doorgeven van informatie via veel schakels gaat er informatie verloren of wordt die gekleurd), een verkeerd gekozen medium (slecht nieuws per e-mail), en informatie-overload (te veel informatie tegelijk).
+Hoe meer lagen in een organisatie, hoe groter de kans op filtering.
+### BEGRIPPEN
+Ruis = Alles wat de communicatie verstoort.
+Selectieve waarneming = Alleen waarnemen wat je verwacht of wilt horen.
+Filtering = Informatie gaat verloren of verandert als ze via meerdere personen wordt doorgegeven.
+Informatie-overload = Te veel informatie, zodat de ontvanger de belangrijke informatie mist.
+### MC
+Een besluit van de directie wordt via drie managers doorgegeven aan de medewerkers. Uiteindelijk begrijpen de medewerkers iets anders dan bedoeld. Wat is de oorzaak?
+* Filtering
+- Feedback
+- Decoderen door de zender
+- Een platte organisatie
+> Veel schakels geven veel kans op filtering.
+### MC
+Wat is een voorbeeld van interne ruis?
+* De ontvanger is boos en luistert daardoor slecht
+- Een drilboor op de achtergrond
+- Een haperende internetverbinding
+- Een onduidelijk lettertype
+> Ruis bij de persoon zelf.
+
+## § - / 13.4 | Eenzijdige, tweezijdige en meerzijdige communicatie
+onderwerp: C.comm
+deelvraag: Wat is het verschil tussen eenzijdige, tweezijdige en meerzijdige communicatie?
+### UITLEG Richting van communicatie
+Eenzijdige communicatie: de informatie gaat één kant op, zonder directe feedback (een memo, een mededeling op het intranet). Snel en geschikt voor eenvoudige informatie, maar je weet niet of de boodschap goed is aangekomen.
+Tweezijdige communicatie: zender en ontvanger wisselen informatie uit en reageren op elkaar (een gesprek). Dit kost meer tijd, maar misverstanden worden sneller opgelost en het draagvlak is groter.
+Meerzijdige communicatie: meerdere personen communiceren met elkaar, zoals in een vergadering of teamoverleg. Goed om ideeën te verzamelen en samen te beslissen, maar het kost veel tijd.
+### BEGRIPPEN
+Eenzijdige communicatie = Informatie gaat één kant op, zonder directe feedback.
+Tweezijdige communicatie = Zender en ontvanger reageren op elkaar.
+Meerzijdige communicatie = Meerdere personen communiceren met elkaar, bijvoorbeeld in een vergadering.
+Draagvlak = De mate waarin mensen achter een besluit staan.
+### MC
+De directie wil dat medewerkers een ingrijpende reorganisatie begrijpen en accepteren. Welke vorm van communicatie past het best?
+* Tweezijdige of meerzijdige communicatie, zodat medewerkers vragen kunnen stellen
+- Eenzijdige communicatie via een memo
+- Geen communicatie, om onrust te voorkomen
+- Alleen externe communicatie
+> Zo ontstaat draagvlak.
+### MC
+Wat is een voordeel van eenzijdige communicatie?
+* Ze is snel en geschikt voor eenvoudige mededelingen
+- Ze zorgt voor veel draagvlak
+- Misverstanden worden direct opgelost
+- De zender krijgt direct feedback
+> Geen tijd voor reacties nodig.
+
+## § 12.4 / 13.5 | Formele en informele communicatie
+onderwerp: C.comm
+deelvraag: Wat is het verschil tussen formele en informele communicatie?
+### UITLEG Formeel en informeel
+Formele communicatie verloopt via de officiële kanalen die in het organogram staan: werkoverleg, rapporten, officiële e-mails. Ze is vastgelegd en controleerbaar.
+Informele communicatie verloopt buiten de officiële kanalen: bij de koffieautomaat, in een appgroep, tijdens de lunch. Ze is snel en goed voor de sfeer, maar er kunnen geruchten ontstaan (het geruchtencircuit of de wandelgangen).
+Een organisatie kan informele communicatie niet verbieden, maar wel zorgen voor goede formele communicatie, zodat geruchten minder kans krijgen.
+### BEGRIPPEN
+Formele communicatie = Communicatie via de officiële kanalen van de organisatie.
+Informele communicatie = Communicatie buiten de officiële kanalen om.
+Geruchtencircuit = Informele verspreiding van onzekere informatie in een organisatie.
+### MC
+Medewerkers horen bij de koffieautomaat dat er ontslagen vallen, voordat de directie iets heeft gezegd. Wat kan de directie het beste doen?
+* Snel en duidelijk formeel communiceren over de plannen
+- De koffieautomaat weghalen
+- Informele communicatie verbieden
+- Niets doen, geruchten gaan vanzelf weg
+> Goede formele communicatie beperkt geruchten.
+### MC
+Welk voorbeeld is formele communicatie?
+* Het verslag van het maandelijkse werkoverleg
+- Een gesprek tijdens de lunch
+- Een privéappje tussen collega's
+- Een praatje bij de koffieautomaat
+> Via de officiële kanalen.
+
+## § 12.5 / 13.6 | Besluitvorming
+onderwerp: C.comm
+deelvraag: Hoe komt een organisatie tot een goed besluit?
+### UITLEG Fasen van besluitvorming
+Een besluit komt in fasen tot stand: probleem vaststellen, informatie verzamelen, alternatieven bedenken, alternatieven beoordelen met criteria, een keuze maken, het besluit uitvoeren en evalueren.
+Bij groepsbesluitvorming worden meer ideeën en meer kennis gebruikt en is er meer draagvlak, maar het kost meer tijd. Een risico is groepsdenken: iedereen gaat mee met de meerderheid en kritiek blijft achterwege.
+Technieken: brainstormen (eerst zo veel mogelijk ideeën, pas daarna beoordelen) en een beslismatrix (alternatieven scoren op gewogen criteria).
+### BEGRIPPEN
+Besluitvorming = Het proces waarin een keuze wordt gemaakt uit alternatieven.
+Groepsdenken = Groepsleden passen zich aan de meerderheid aan en uiten geen kritiek.
+Brainstormen = Techniek om zo veel mogelijk ideeën te bedenken zonder ze meteen te beoordelen.
+Beslismatrix = Tabel waarin alternatieven worden gescoord op gewogen criteria.
+Alternatief = Een van de mogelijke keuzes.
+### MC
+Wat is een nadeel van groepsbesluitvorming?
+* Het kost meer tijd en er is kans op groepsdenken
+- Er is minder draagvlak
+- Er worden minder ideeën bedacht
+- Er is minder kennis beschikbaar
+> Meer mensen, meer tijd.
+### MC
+In een beslismatrix scoort alternatief A 8 op prijs (weging 3) en 5 op kwaliteit (weging 2). Wat is de totaalscore?
+* 34
+- 13
+- 40
+- 26
+> 8 × 3 + 5 × 2 = 24 + 10 = 34.

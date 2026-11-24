@@ -1,0 +1,119 @@
+# HOOFDSTUK h 22 / v 25 | Resultaten, belastingen en winstverdeling
+wereld: h22, v25
+hoofdvraag: Hoe ontstaat het resultaat, hoeveel belasting betaalt een onderneming en hoe wordt de winst verdeeld?
+
+## § 22.1 / 25.1 | Resultaat en verschillenanalyse handel
+onderwerp: F.versch
+deelvraag: Uit welke deelresultaten bestaat het resultaat van een handelsonderneming?
+leerdoelen: BECO-VERSC-01, BECO-VERSC-03
+gens: verkoopresultaat, bezettingsresultaat
+### UITLEG Verkoopresultaat en bezettingsresultaat
+Een onderneming die met een integrale kostprijs rekent, kan het bedrijfsresultaat splitsen in deelresultaten:
+Verkoopresultaat = (verkoopprijs − kostprijs) × afzet. Dit is de winst die volgens de kostprijs op de verkopen wordt gemaakt.
+Bezettingsresultaat = (werkelijke afzet of productie − normale afzet of productie) × C/N. Verkoopt de onderneming meer dan normaal, dan worden er meer constante kosten 'gedekt' dan er zijn: een voordelig (positief) bezettingsresultaat. Verkoopt ze minder dan normaal, dan is het nadelig.
+Bedrijfsresultaat = verkoopresultaat + bezettingsresultaat.
+### BEGRIPPEN
+Verkoopresultaat = Verschil tussen verkoopprijs en kostprijs, maal de afzet.
+Bezettingsresultaat = Verschil tussen werkelijke en normale bezetting, maal de constante kosten per stuk.
+Bedrijfsresultaat = Verkoopresultaat plus bezettingsresultaat.
+Verschillenanalyse = Het verklaren van het verschil tussen begrote en werkelijke resultaten.
+### MC
+Normale afzet 10.000 stuks, werkelijke afzet 9.000 stuks, constante kosten € 200.000. Wat is het bezettingsresultaat?
+* € 20.000 nadelig
+- € 20.000 voordelig
+- € 18.000 nadelig
+- € 200.000 nadelig
+> (9.000 − 10.000) × 20 = − € 20.000.
+### MC
+Waarom ontstaat een nadelig bezettingsresultaat als de afzet lager is dan normaal?
+* In de kostprijs is gerekend met de normale afzet, waardoor niet alle constante kosten via de verkopen worden terugverdiend
+- De variabele kosten stijgen
+- De verkoopprijs daalt automatisch
+- De constante kosten dalen
+> Er wordt te weinig van C 'meegenomen' in de verkopen.
+
+## § 22.2 / - | Resultaat en verschillenanalyse dienstverlening
+onderwerp: F.versch
+deelvraag: Hoe analyseer je de resultaten van een dienstverlener?
+leerdoelen: BECO-VERSC-02, BECO-VERSC-04
+gens: prijsresultaat, efficiencyresultaat, verschillenSchema
+ook: v 26.2, v 26.3
+### UITLEG Verschillen bij dienstverlening
+Een dienstverlener (bijvoorbeeld een garage of schoonmaakbedrijf) begroot hoeveel uren een klus kost (de standaardhoeveelheid, SH) en wat een uur kost (de standaardprijs, SP).
+Achteraf vergelijk je met de werkelijke uren (WH) en de werkelijke prijs (WP):
+Efficiencyresultaat = (SH − WH) × SP. Minder uren gebruikt dan begroot: voordelig.
+Prijsresultaat = (SP − WP) × WH. Lagere werkelijke prijs dan begroot: voordelig.
+Zo zie je wie verantwoordelijk is: de afdeling die het werk uitvoert (efficiency) of de afdeling die inkoopt en loon onderhandelt (prijs).
+### BEGRIPPEN
+Standaardhoeveelheid = De begrote hoeveelheid (uren of materiaal) voor de werkelijke productie.
+Standaardprijs = De begrote prijs per eenheid.
+Efficiencyresultaat = (SH − WH) × SP.
+Prijsresultaat = (SP − WP) × WH.
+### MC
+Begroot: 120 uur à € 45. Werkelijk: 130 uur à € 44. Wat is het efficiencyresultaat?
+* € 450 nadelig
+- € 450 voordelig
+- € 130 voordelig
+- € 440 nadelig
+> (120 − 130) × 45 = − € 450.
+
+## § 22.3 / 25.2 | Ondernemingsfaciliteiten en winstbelastingen
+onderwerp: B.rechtsvorm
+deelvraag: Hoeveel belasting betaalt een onderneming over de winst?
+gens: ondernemersaftrek, vpb
+### UITLEG Inkomstenbelasting voor ondernemers
+De winst van een eenmanszaak, vof of maatschap is inkomen van de eigenaren (box 1). Van de winst gaan eerst de ondernemersaftrek (onder andere de zelfstandigenaftrek en de startersaftrek, als je aan het urencriterium voldoet) en daarna de mkb-winstvrijstelling (een percentage van de winst na ondernemersaftrek). Over wat overblijft betaal je inkomstenbelasting volgens de progressieve schijven.
+Een ondernemer kan ook een fiscale oudedagsvoorziening of investeringsaftrek gebruiken, zoals de kleinschaligheidsinvesteringsaftrek (KIA).
+### UITLEG Vennootschapsbelasting
+Een bv of nv betaalt vennootschapsbelasting (Vpb): 19% over de eerste € 200.000 winst en 25,8% over het meerdere. Over uitgekeerd dividend wordt bij de aandeelhouder nog dividendbelasting ingehouden (15%) en betaalt een aanmerkelijk belanghouder inkomstenbelasting in box 2.
+### BEGRIPPEN
+Ondernemersaftrek = Aftrekposten voor ondernemers, zoals de zelfstandigenaftrek.
+Startersaftrek = Extra aftrek voor ondernemers in de eerste jaren.
+Mkb-winstvrijstelling = Percentage van de winst dat onbelast blijft.
+Kleinschaligheidsinvesteringsaftrek = Extra aftrek van de winst bij kleine investeringen.
+Dividendbelasting = Belasting die wordt ingehouden op uitgekeerd dividend.
+Box 2 = Deel van de inkomstenbelasting voor inkomen uit aanmerkelijk belang.
+### MC
+Een bv maakt € 300.000 winst. Hoeveel vennootschapsbelasting betaalt ze (19% tot € 200.000, 25,8% daarboven)?
+* € 63.800
+- € 57.000
+- € 77.400
+- € 38.000
+> 0,19 × 200.000 + 0,258 × 100.000 = 38.000 + 25.800.
+### MC
+In welke volgorde gaan de ondernemersaftrek en de mkb-winstvrijstelling van de winst af?
+* Eerst de ondernemersaftrek, dan de mkb-winstvrijstelling over het restant
+- Eerst de mkb-winstvrijstelling, dan de ondernemersaftrek
+- Ze worden tegelijk over de hele winst berekend
+- Alleen een bv krijgt deze aftrekposten
+> De vrijstelling is een percentage van de winst ná ondernemersaftrek.
+
+## § 22.4 / 25.3 | Winstverdeling
+onderwerp: B.rechtsvorm
+deelvraag: Hoe wordt de winst van een vof of een nv verdeeld?
+gens: winstverdelingVof, dividendPerAandeel
+### UITLEG Winstverdeling vof
+Bij een vof wordt de winst verdeeld volgens het vennootschapscontract, vaak in stappen: eerst een arbeidsvergoeding per firmant, dan interest over het ingebrachte kapitaal, dan de rest volgens een vaste verdeling.
+### UITLEG Winstverdeling nv en bv
+De winst na belasting van een nv of bv kan worden uitgekeerd als dividend of worden toegevoegd aan de reserves (winstinhouding). Soms krijgen de bestuurders of commissarissen een deel van de winst: tantième. Preferente aandeelhouders krijgen eerst hun vaste dividend, daarna de gewone aandeelhouders.
+Dividend per aandeel = uit te keren winst / aantal geplaatste aandelen. Uitkering kan in contanten of in aandelen (stockdividend).
+### BEGRIPPEN
+Arbeidsvergoeding = Vergoeding voor het werk van een firmant, vooraf uit de winst.
+Tantième = Winstaandeel voor bestuurders of commissarissen.
+Stockdividend = Dividend in de vorm van nieuwe aandelen.
+Winstinhouding = Winst toevoegen aan de reserves in plaats van uitkeren.
+Pay-out ratio = Het deel van de winst dat als dividend wordt uitgekeerd.
+### MC
+Een nv heeft € 2.000.000 winst na belasting en keert 40% daarvan uit als dividend. Er zijn 500.000 geplaatste aandelen. Hoeveel dividend krijgt een aandeelhouder per aandeel?
+* € 1,60
+- € 4,00
+- € 2,40
+- € 0,80
+> 0,4 × 2.000.000 / 500.000.
+### MC
+Waarom kiest een nv voor stockdividend in plaats van dividend in contanten?
+* Er blijft geld in de onderneming, terwijl de aandeelhouders toch een vergoeding krijgen
+- Stockdividend is verplicht bij een nv
+- Daardoor daalt het eigen vermogen
+- Aandeelhouders betalen dan nooit belasting
+> Goed voor de liquiditeit.

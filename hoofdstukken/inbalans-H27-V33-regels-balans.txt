@@ -1,0 +1,179 @@
+# HOOFDSTUK h 27 / v 33 | Regels balans
+wereld: h27, v33
+hoofdvraag: Volgens welke regels worden de posten op de balans gewaardeerd?
+
+## § 27.1 / 33.1 | Waarderingsgrondslagen
+onderwerp: G.extern
+deelvraag: Tegen welke waarde komen bezittingen op de balans?
+### UITLEG Waarderingsgrondslagen
+De waarderingsgrondslag bepaalt tegen welke waarde een post op de balans staat. De belangrijkste:
+Historische kostprijs (verkrijgingsprijs): de prijs die bij aanschaf is betaald, min afschrijvingen. Objectief en controleerbaar.
+Actuele waarde: de waarde van nu, bijvoorbeeld de vervangingswaarde (wat het nu zou kosten om het opnieuw aan te schaffen) of de marktwaarde (wat je ervoor zou krijgen).
+Voorzichtigheidsbeginsel: verliezen neem je zodra ze bekend zijn, winsten pas als ze gerealiseerd zijn (realisatiebeginsel). Daarom waardeer je voorraden tegen de laagste van kostprijs en marktwaarde.
+Continuïteitsbeginsel (going concern): je waardeert alsof de onderneming blijft bestaan.
+### BEGRIPPEN
+Waarderingsgrondslag = De methode waarmee de waarde van een balanspost wordt bepaald.
+Historische kostprijs = De prijs die bij aanschaf is betaald.
+Actuele waarde = De waarde op dit moment, zoals de vervangingswaarde.
+Voorzichtigheidsbeginsel = Verliezen nemen zodra ze bekend zijn, winsten pas als ze gerealiseerd zijn.
+Realisatiebeginsel = Een winst wordt pas genomen als hij gerealiseerd is, bijvoorbeeld door verkoop.
+Going concern = Waarderen in de veronderstelling dat de onderneming blijft bestaan.
+### MC
+Een voorraad is ingekocht voor € 50.000, maar door een modewijziging is hij nog maar € 35.000 waard. Tegen welke waarde komt hij op de balans?
+* € 35.000
+- € 50.000
+- € 42.500
+- € 0
+> Laagste van kostprijs en marktwaarde.
+### MC
+Een gebouw is gekocht voor € 1 miljoen en nu € 1,5 miljoen waard, maar het is niet verkocht. Wat zegt het realisatiebeginsel?
+* De waardestijging is geen winst zolang het gebouw niet is verkocht
+- De winst van € 500.000 moet direct in de resultatenrekening
+- Het gebouw moet worden afgewaardeerd
+- Het gebouw moet worden verkocht
+> Winst pas bij realisatie.
+
+## § 27.2 / 33.2 | Vaste activa
+onderwerp: G.extern
+deelvraag: Hoe worden de vaste activa ingedeeld en gewaardeerd?
+gens: afschrijving, boekwaarde
+### UITLEG Vaste activa
+Vaste activa blijven langer dan een jaar in de onderneming. Ze worden ingedeeld in:
+Immateriële vaste activa: niet tastbaar, zoals goodwill, octrooien, licenties en software.
+Materiële vaste activa: tastbaar, zoals gebouwen, machines en inventaris.
+Financiële vaste activa: deelnemingen in andere ondernemingen en langlopende leningen u/g.
+Materiële vaste activa worden gewaardeerd tegen de verkrijgingsprijs min afschrijvingen, of tegen actuele waarde; bij een opwaardering ontstaat een herwaarderingsreserve. Als de waarde duurzaam lager is dan de boekwaarde, wordt een bijzondere waardevermindering geboekt.
+Goodwill ontstaat bij een overname: de betaalde prijs min de waarde van de overgenomen bezittingen en schulden. Goodwill wordt afgeschreven.
+### BEGRIPPEN
+Immateriële vaste activa = Niet-tastbare vaste activa, zoals goodwill en octrooien.
+Materiële vaste activa = Tastbare vaste activa, zoals gebouwen en machines.
+Financiële vaste activa = Deelnemingen en langlopende vorderingen.
+Goodwill = Het bedrag dat bij een overname meer wordt betaald dan het eigen vermogen van de overgenomen onderneming.
+Bijzondere waardevermindering = Extra afwaardering als een bezit duurzaam minder waard is dan de boekwaarde.
+### MC
+Een onderneming koopt een concurrent voor € 5 miljoen. Het eigen vermogen van de concurrent is € 3,5 miljoen. Hoeveel goodwill ontstaat er?
+* € 1,5 miljoen
+- € 5 miljoen
+- € 3,5 miljoen
+- € 8,5 miljoen
+> 5 − 3,5.
+### MC
+Bij welke groep hoort een octrooi?
+* Immateriële vaste activa
+- Materiële vaste activa
+- Financiële vaste activa
+- Vlottende activa
+> Niet tastbaar.
+
+## § 27.3 / 33.3 | Vlottende activa
+onderwerp: G.extern
+deelvraag: Hoe worden voorraden en vorderingen gewaardeerd?
+gens: fifo
+### UITLEG Voorraden
+Voorraden worden gewaardeerd tegen de verkrijgingsprijs of de lagere marktwaarde. Om de verkrijgingsprijs te bepalen bij wisselende inkoopprijzen gebruik je FIFO, LIFO of de gemiddelde inkoopprijs. Bij stijgende prijzen geeft FIFO een hogere voorraadwaarde en een hogere winst dan LIFO. Onder IFRS is LIFO niet toegestaan.
+### UITLEG Vorderingen
+Debiteuren worden gewaardeerd tegen de nominale waarde, min een voorziening voor dubieuze debiteuren: het deel waarvan je verwacht dat klanten het niet betalen. Zo staan de vorderingen niet te hoog op de balans (voorzichtigheid).
+Liquide middelen staan tegen de nominale waarde.
+### BEGRIPPEN
+Voorraadwaardering = Methode om de waarde van de voorraad op de balans te bepalen.
+Dubieuze debiteuren = Klanten van wie onzeker is of ze zullen betalen.
+Voorziening dubieuze debiteuren = Bedrag dat op de debiteuren in mindering wordt gebracht voor verwachte oninbare vorderingen.
+Nominale waarde = Het bedrag dat op de vordering staat.
+### MC
+Debiteuren € 80.000. Naar verwachting wordt 5% niet betaald. Wat staat er netto op de balans?
+* € 76.000
+- € 80.000
+- € 4.000
+- € 84.000
+> 80.000 − 4.000.
+### MC
+De inkoopprijzen stijgen. Welke methode geeft de hoogste waarde van de eindvoorraad?
+* FIFO
+- LIFO
+- Beide even hoog
+- Dat hangt af van de verkoopprijs
+> Bij FIFO blijven de nieuwste, duurdere goederen in voorraad.
+
+## § 27.4 / 33.4 | Eigen vermogen
+onderwerp: G.extern
+deelvraag: Uit welke posten bestaat het eigen vermogen op de balans van een nv of bv?
+gens: intrinsiekeWaarde
+### UITLEG Posten eigen vermogen
+Het eigen vermogen van een nv of bv staat op de balans in deze posten:
+Geplaatst kapitaal: het aandelenkapitaal dat is uitgegeven.
+Agioreserve: het bedrag boven de nominale waarde bij een emissie.
+Herwaarderingsreserve: ontstaat bij waardering tegen actuele waarde boven de verkrijgingsprijs.
+Wettelijke en statutaire reserves: reserves die niet mogen worden uitgekeerd.
+Overige reserves: ingehouden winsten uit eerdere jaren.
+Onverdeelde winst: de winst van het boekjaar waarover nog moet worden besloten.
+### BEGRIPPEN
+Geplaatst kapitaal = Het aandelenkapitaal dat aan aandeelhouders is uitgegeven.
+Herwaarderingsreserve = Reserve door waardering van activa boven de verkrijgingsprijs.
+Wettelijke reserve = Reserve die volgens de wet niet mag worden uitgekeerd.
+Overige reserves = Ingehouden winsten uit eerdere jaren.
+### MC
+Een nv waardeert haar gebouwen voortaan tegen actuele waarde, die € 2 miljoen boven de boekwaarde ligt. Welke post stijgt?
+* De herwaarderingsreserve
+- De overige reserves
+- De agioreserve
+- Het geplaatst kapitaal
+> Niet-gerealiseerde waardestijging.
+### MC
+Waarom staat de onverdeelde winst apart op de balans?
+* De aandeelhouders moeten nog besluiten welk deel als dividend wordt uitgekeerd
+- Omdat het een schuld aan de Belastingdienst is
+- Omdat het geen eigen vermogen is
+- Omdat het al is uitgekeerd
+> De winstbestemming is nog niet vastgesteld.
+
+## § 27.5 / 33.5 | Voorzieningen
+onderwerp: G.extern
+deelvraag: Wat is een voorziening en wanneer vorm je die?
+### UITLEG Voorzieningen
+Een voorziening is een verplichting voor toekomstige uitgaven waarvan de omvang of het moment onzeker is, maar die wel bij deze of eerdere perioden horen. Het vormen van een voorziening is een kostenpost; als de uitgave later plaatsvindt, wordt die ten laste van de voorziening gebracht (dan zijn het geen kosten meer).
+Voorbeelden: garantievoorziening, voorziening voor groot onderhoud, reorganisatievoorziening, pensioenvoorziening en voorziening voor een rechtszaak.
+Een voorziening staat aan de creditkant, tussen het eigen vermogen en de schulden. Het is vreemd vermogen.
+### BEGRIPPEN
+Voorziening = Verplichting voor toekomstige uitgaven met een onzekere omvang die bij de huidige of eerdere perioden horen.
+Voorziening groot onderhoud = Voorziening om de kosten van groot onderhoud gelijkmatig over de jaren te verdelen.
+Reorganisatievoorziening = Voorziening voor de kosten van een aangekondigde reorganisatie.
+### MC
+Een onderneming verwacht over 5 jaar € 100.000 aan groot onderhoud aan haar pand. Hoe verwerkt ze dit volgens het matchingprincipe?
+* Elk jaar € 20.000 toevoegen aan een voorziening groot onderhoud als kosten
+- Alles als kosten in het jaar van het onderhoud
+- Niets: onderhoud is geen kosten
+- Het pand € 100.000 opwaarderen
+> De kosten horen bij alle jaren van gebruik.
+### MC
+Waar staat een voorziening op de balans?
+* Aan de creditkant, als vreemd vermogen
+- Aan de debetkant, bij de vlottende activa
+- Bij het eigen vermogen
+- Niet op de balans
+> Een verplichting.
+
+## § 27.6 / 33.6 | Langlopende en kortlopende schulden
+onderwerp: G.extern
+deelvraag: Hoe worden schulden op de balans ingedeeld?
+### UITLEG Schulden
+Langlopende schulden hebben een looptijd van meer dan een jaar, zoals hypothecaire leningen, onderhandse leningen en obligatieleningen. Kortlopende schulden moeten binnen een jaar worden betaald, zoals crediteuren, rekening-courantkrediet, te betalen belastingen en overlopende passiva.
+Let op: het deel van een langlopende lening dat volgend jaar moet worden afgelost (de aflossingsverplichting), staat bij de kortlopende schulden. Dat is belangrijk voor de liquiditeitskengetallen.
+Schulden worden gewaardeerd tegen de nominale waarde (het bedrag dat moet worden terugbetaald).
+### BEGRIPPEN
+Langlopende schulden = Schulden met een looptijd van meer dan een jaar.
+Kortlopende schulden = Schulden die binnen een jaar moeten worden betaald.
+Aflossingsverplichting = Het deel van een langlopende schuld dat binnen een jaar moet worden afgelost.
+### MC
+Een lening van € 300.000 wordt in 10 jaar lineair afgelost. Hoeveel staat er aan het begin van de looptijd bij de kortlopende schulden?
+* € 30.000
+- € 300.000
+- € 270.000
+- € 0
+> De aflossing van volgend jaar.
+### MC
+Waarom is het belangrijk dat de aflossingsverplichting bij de kortlopende schulden staat?
+* Het geld moet binnen een jaar worden betaald, wat invloed heeft op de liquiditeit
+- Omdat de interest dan lager is
+- Omdat de lening dan niet hoeft te worden afgelost
+- Omdat de solvabiliteit dan stijgt
+> Een juist beeld van de liquiditeit.

@@ -1,0 +1,157 @@
+# HOOFDSTUK h 10 / v 11 | Keuze rechtsvorm
+wereld: h10, v11
+hoofdvraag: Welke rechtsvorm past bij een onderneming en wat zijn de gevolgen voor aansprakelijkheid en belasting?
+
+## § 10.1 / 11.1 | Natuurlijk persoon
+onderwerp: B.rechtsvorm
+deelvraag: Wat is het verschil tussen een natuurlijk persoon en een rechtspersoon?
+### UITLEG Natuurlijk persoon en rechtspersoon
+Een natuurlijk persoon is een mens. Een rechtspersoon is een organisatie die zelf rechten en plichten heeft, net als een mens: ze kan bezittingen hebben, schulden aangaan, contracten sluiten en worden aangeklaagd. Voorbeelden: de bv, de nv, de vereniging en de stichting.
+Bij een rechtsvorm zonder rechtspersoonlijkheid (eenmanszaak, vof, cv, maatschap) is de eigenaar met zijn privévermogen aansprakelijk voor de schulden van het bedrijf. Bij een rechtspersoon is in principe alleen het vermogen van de rechtspersoon zelf aansprakelijk.
+Bij de keuze van een rechtsvorm let je op: aansprakelijkheid, belasting, de kosten van oprichten, de hoeveelheid eigenaren en hoe makkelijk je vermogen kunt aantrekken.
+### BEGRIPPEN
+Natuurlijk persoon = Een mens, die rechten en plichten heeft.
+Rechtspersoon = Organisatie die zelfstandig rechten en plichten heeft, zoals een bv of stichting.
+Rechtsvorm = De juridische vorm van een onderneming of organisatie.
+Aansprakelijkheid = Het moeten betalen van de schulden van de onderneming.
+### MC
+Welke rechtsvorm is een rechtspersoon?
+* Besloten vennootschap (bv)
+- Eenmanszaak
+- Vennootschap onder firma (vof)
+- Maatschap
+> De bv heeft rechtspersoonlijkheid.
+### MC
+Waarom is aansprakelijkheid belangrijk bij de keuze van een rechtsvorm?
+* Omdat het bepaalt of de ondernemer met zijn privévermogen moet betalen als het bedrijf failliet gaat
+- Omdat het bepaalt hoeveel btw de onderneming betaalt
+- Omdat het bepaalt hoeveel personeel er mag worden aangenomen
+- Omdat het bepaalt welke producten verkocht mogen worden
+> Zonder rechtspersoonlijkheid kan het huis van de ondernemer op het spel staan.
+
+## § 10.2 / 11.2 | Eenmanszaak
+onderwerp: B.rechtsvorm
+deelvraag: Wat zijn de kenmerken van een eenmanszaak?
+gens: ondernemersaftrek
+### UITLEG Eenmanszaak
+Een eenmanszaak heeft één eigenaar. Hij mag wel personeel hebben. Oprichten is eenvoudig: inschrijven bij de KvK is genoeg.
+De eigenaar is met zijn hele privévermogen aansprakelijk voor de schulden van de zaak.
+De winst is inkomen van de eigenaar en valt in box 1 van de inkomstenbelasting. Hij heeft recht op ondernemersfaciliteiten, zoals de zelfstandigenaftrek en de mkb-winstvrijstelling, als hij aan het urencriterium voldoet. Omdat het tarief progressief is, wordt de eenmanszaak bij een hoge winst fiscaal minder gunstig dan een bv.
+### BEGRIPPEN
+Eenmanszaak = Onderneming met één eigenaar die met zijn privévermogen aansprakelijk is.
+Zelfstandigenaftrek = Vast bedrag dat een ondernemer van zijn winst mag aftrekken.
+Mkb-winstvrijstelling = Percentage van de winst (na ondernemersaftrek) dat onbelast blijft.
+Box 1 = Deel van de inkomstenbelasting voor inkomen uit werk en woning, waaronder winst uit onderneming.
+### MC
+Een eenmanszaak gaat failliet met € 30.000 aan schulden die het bedrijf niet kan betalen. Wie moet dat bedrag betalen?
+* De eigenaar, uit zijn privévermogen
+- Niemand, de schulden vervallen
+- De Kamer van Koophandel
+- Het personeel
+> Volledige aansprakelijkheid.
+### MC
+In welke box van de inkomstenbelasting valt de winst van een eenmanszaak?
+* Box 1
+- Box 2
+- Box 3
+- Geen box: de eenmanszaak betaalt vennootschapsbelasting
+> Winst uit onderneming is inkomen uit werk.
+
+## § 10.3 / 11.3 | Vennootschap onder firma
+onderwerp: B.rechtsvorm
+deelvraag: Hoe werken de vof, de cv en de maatschap?
+gens: winstverdelingVof
+### UITLEG Vof
+Een vennootschap onder firma (vof) heeft twee of meer eigenaren, de firmanten. Ze leggen afspraken vast in een vennootschapscontract: wie brengt wat in, hoe wordt de winst verdeeld en wat gebeurt er bij uittreden.
+Elke firmant is hoofdelijk aansprakelijk: een schuldeiser kan de hele schuld bij één firmant halen, ook als een andere firmant de schuld heeft gemaakt. De winst wordt verdeeld en elke firmant betaalt inkomstenbelasting over zijn deel.
+Winstverdeling gaat vaak in stappen: eerst een arbeidsvergoeding, dan interest over het ingebrachte kapitaal, dan de rest volgens een afgesproken verdeling.
+### UITLEG Cv en maatschap
+Een commanditaire vennootschap (cv) heeft beherende vennoten (volledig aansprakelijk) en stille vennoten (commanditaire vennoten), die alleen geld inbrengen en alleen voor hun inbreng aansprakelijk zijn, zolang ze niet meebeslissen.
+Een maatschap is een samenwerking van vrije beroepen, zoals artsen of advocaten. De maten zijn voor gelijke delen aansprakelijk.
+### BEGRIPPEN
+Vof = Vennootschap onder firma; samenwerking van twee of meer firmanten zonder rechtspersoonlijkheid.
+Hoofdelijke aansprakelijkheid = Een schuldeiser kan de hele schuld bij één vennoot halen.
+Vennootschapscontract = Afspraken tussen de vennoten over inbreng, winstverdeling en uittreden.
+Commanditaire vennootschap = Vennootschap met beherende en stille vennoten.
+Stille vennoot = Vennoot die alleen geld inbrengt en alleen voor zijn inbreng aansprakelijk is.
+Maatschap = Samenwerking van beoefenaars van vrije beroepen.
+### MC
+Firmant Piet heeft zonder overleg een lening van € 50.000 afgesloten voor de vof. De vof kan niet betalen. Bij wie kan de bank het geld halen?
+* Bij elk van de firmanten, voor het hele bedrag
+- Alleen bij Piet
+- Bij elke firmant voor de helft
+- Bij niemand, want er was geen overleg
+> Hoofdelijke aansprakelijkheid.
+### MC
+Waarom moet een stille vennoot zich niet met de leiding bemoeien?
+* Dan wordt hij net als een beherende vennoot volledig aansprakelijk
+- Dan verliest hij zijn recht op winst
+- Dan moet hij vennootschapsbelasting betalen
+- Dan wordt de cv automatisch een bv
+> Zijn beperkte aansprakelijkheid geldt alleen als hij stil blijft.
+
+## § 10.4 / 11.4 | Besloten vennootschap en naamloze vennootschap
+onderwerp: B.rechtsvorm
+deelvraag: Wat zijn de kenmerken van de bv en de nv?
+gens: vpb, dividendPerAandeel
+### UITLEG Bv en nv
+De bv en de nv zijn rechtspersonen. Het eigen vermogen is verdeeld in aandelen. De aandeelhouders zijn alleen aansprakelijk voor het bedrag dat ze voor hun aandelen hebben betaald. Een bank vraagt bij een kleine bv vaak wel dat de directeur-grootaandeelhouder (dga) privé borg staat.
+Oprichting gaat met een notariële akte met de statuten. Een bv heeft geen minimumkapitaal. Aandelen van een bv staan op naam en zijn niet vrij verhandelbaar. Een nv heeft een minimumkapitaal van € 45.000; haar aandelen kunnen vrij verhandelbaar zijn en op de beurs worden genoteerd. Grote ondernemingen kiezen vaak voor de nv.
+### UITLEG Belasting
+De bv of nv betaalt vennootschapsbelasting over de winst: 19% over het eerste deel en 25,8% daarboven. Wat de vennootschap uitkeert als dividend, is voor de aandeelhouder belast: er wordt dividendbelasting ingehouden en een aanmerkelijk belanghouder (5% of meer van de aandelen) betaalt inkomstenbelasting in box 2. De dga is in loondienst van zijn eigen bv en krijgt loon.
+### BEGRIPPEN
+Besloten vennootschap = Rechtspersoon met aandelen op naam die niet vrij verhandelbaar zijn.
+Naamloze vennootschap = Rechtspersoon met aandelen die vrij verhandelbaar kunnen zijn, ook op de beurs.
+Aandeel = Bewijs van eigendom van een deel van het eigen vermogen van een bv of nv.
+Statuten = Regels van een rechtspersoon, vastgelegd in de oprichtingsakte bij de notaris.
+Vennootschapsbelasting = Belasting die een bv of nv betaalt over haar winst.
+Dividend = Het deel van de winst dat aan de aandeelhouders wordt uitgekeerd.
+Dga = Directeur-grootaandeelhouder: eigenaar en directeur van een bv.
+### MC
+Waarom kiest een ondernemer met een hoge winst vaak voor een bv in plaats van een eenmanszaak?
+* De vennootschapsbelasting is bij een hoge winst lager dan het hoogste tarief van de inkomstenbelasting
+- Een bv betaalt geen belasting
+- Bij een bv heeft hij recht op meer zelfstandigenaftrek
+- Een bv hoeft geen jaarrekening te maken
+> Belasting en beperkte aansprakelijkheid zijn de belangrijkste redenen.
+### MC
+Welk verschil tussen een bv en een nv is juist?
+* Aandelen van een nv kunnen vrij verhandelbaar zijn en op de beurs komen, aandelen van een bv niet
+- Een bv is een rechtspersoon, een nv niet
+- Bij een nv zijn de aandeelhouders hoofdelijk aansprakelijk
+- Een nv betaalt inkomstenbelasting, een bv vennootschapsbelasting
+> Beide zijn rechtspersonen met aandelen.
+### MC
+Een bank wil een lening aan een kleine bv alleen verstrekken als de dga privé borg staat. Wat is het gevolg?
+* De dga wordt voor deze lening toch privé aansprakelijk
+- De bv wordt een eenmanszaak
+- De bv betaalt geen vennootschapsbelasting meer
+- De dga krijgt meer dividend
+> Borgtocht doorbreekt de beperkte aansprakelijkheid.
+
+## § 10.5 / 11.5 | Vereniging en stichting
+onderwerp: B.rechtsvorm
+deelvraag: Wat is het verschil tussen een vereniging en een stichting?
+### UITLEG Vereniging en stichting
+Een vereniging heeft leden. De algemene ledenvergadering (ALV) is het hoogste orgaan: die kiest het bestuur en beslist over bijvoorbeeld de contributie. Voorbeelden: sportclubs en muziekverenigingen. Een vereniging met volledige rechtsbevoegdheid is opgericht bij de notaris; dan zijn bestuurders niet privé aansprakelijk.
+Een stichting heeft geen leden. Een bestuur beheert een vermogen voor een doel dat in de statuten staat, zoals een museum of een goed doel. Oprichten gaat altijd via de notaris.
+Beide mogen winst maken, maar die mag niet worden uitgekeerd aan leden of bestuurders: hij moet ten goede komen aan het doel.
+### BEGRIPPEN
+Vereniging = Rechtspersoon met leden die samen een doel nastreven.
+Algemene ledenvergadering = Hoogste orgaan van een vereniging, waarin alle leden stemrecht hebben.
+Stichting = Rechtspersoon zonder leden die met een vermogen een doel nastreeft.
+Contributie = Bijdrage die leden betalen aan hun vereniging.
+### MC
+Wie beslist bij een vereniging over een verhoging van de contributie?
+* De algemene ledenvergadering
+- Het bestuur alleen
+- De notaris
+- De Kamer van Koophandel
+> De leden hebben het laatste woord.
+### MC
+Wat is het belangrijkste verschil tussen een vereniging en een stichting?
+* Een stichting heeft geen leden
+- Een vereniging mag geen winst maken
+- Een stichting is geen rechtspersoon
+- Een vereniging moet altijd bij de notaris worden opgericht
+> Bij een stichting beslist het bestuur.

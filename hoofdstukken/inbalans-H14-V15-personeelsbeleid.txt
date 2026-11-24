@@ -1,0 +1,124 @@
+# HOOFDSTUK h 14 / v 15 | Personeelsbeleid
+wereld: h14, v15
+hoofdvraag: Hoe zorgt een organisatie voor voldoende en goed gemotiveerd personeel?
+
+## § 14.1 / 15.1 | Personeelsbeleid en instroom / Beleid en instroom
+onderwerp: C.personeel
+deelvraag: Hoe werft en selecteert een organisatie nieuwe medewerkers?
+leerdoelen: BECO-PERSO-01
+### UITLEG Personeelsbeleid
+Personeelsbeleid (HRM) zorgt dat de organisatie nu en in de toekomst over de juiste mensen beschikt. Met personeelsplanning vergelijk je de benodigde personeelsbezetting met de huidige en de verwachte bezetting. Ontstaat er een tekort, dan moet je werven.
+### UITLEG Werving en selectie
+Eerst stel je een functieomschrijving op (taken en verantwoordelijkheden) en een functieprofiel (de eisen aan de kandidaat: opleiding, ervaring, vaardigheden). Met functiewaardering bepaal je de zwaarte van de functie en daarmee de salarisschaal.
+Werven kan intern (een medewerker van de eigen organisatie: snel en goedkoop, motiverend, maar geen nieuwe ideeën) of extern (vacaturesites, sociale media, wervingsbureau: meer keus en nieuwe ideeën, maar duurder).
+Bij selectie gebruik je brieven en cv's, sollicitatiegesprekken, assessments en referenties. Na aanname volgt de introductie (onboarding).
+### BEGRIPPEN
+Personeelsplanning = Vergelijking van de benodigde en de beschikbare personeelsbezetting.
+Functieomschrijving = Beschrijving van de taken en verantwoordelijkheden van een functie.
+Functieprofiel = De eisen die aan een kandidaat voor een functie worden gesteld.
+Functiewaardering = Bepalen van de zwaarte van een functie om de beloning vast te stellen.
+Interne werving = Werven binnen de eigen organisatie.
+Externe werving = Werven buiten de eigen organisatie.
+Assessment = Test waarin een kandidaat praktijksituaties uitvoert.
+### MC
+'Je hebt minimaal een hbo-diploma en drie jaar ervaring als accountmanager.' Waar staat deze zin?
+* In het functieprofiel
+- In de functieomschrijving
+- In de functiewaardering
+- In de cao
+> Eisen aan de kandidaat.
+### MC
+Wat is een voordeel van interne werving?
+* Het is sneller en goedkoper en de kandidaat kent de organisatie al
+- Er komen nieuwe ideeën de organisatie binnen
+- Er zijn meer kandidaten om uit te kiezen
+- Er ontstaat geen nieuwe vacature
+> Wel ontstaat er vaak een nieuwe vacature op de oude plek.
+
+## § 14.2 / 15.2 | Doorstroom en uitstroom / Doorstroom
+onderwerp: C.personeel
+deelvraag: Hoe ontwikkelt een organisatie haar medewerkers?
+ook: v 15.3
+### UITLEG Doorstroom
+Doorstroom gaat over de ontwikkeling van medewerkers binnen de organisatie: opleidingen, cursussen, een andere functie (horizontaal) of promotie (verticaal).
+In een functioneringsgesprek praten medewerker en leidinggevende in gelijkwaardigheid over het werk, de samenwerking en de ontwikkeling. In een beoordelingsgesprek beoordeelt de leidinggevende de prestaties; dat kan gevolgen hebben voor salaris of promotie. In een persoonlijk ontwikkelingsplan (POP) legt de medewerker zijn ontwikkeldoelen vast.
+Loopbaanplanning helpt medewerkers groeien en voorkomt dat goede mensen vertrekken.
+### BEGRIPPEN
+Doorstroom = Het veranderen van functie of ontwikkelen binnen de organisatie.
+Promotie = Overstap naar een hogere functie.
+Functioneringsgesprek = Gesprek in gelijkwaardigheid over werk, samenwerking en ontwikkeling.
+Beoordelingsgesprek = Gesprek waarin de leidinggevende de prestaties beoordeelt, met mogelijke gevolgen voor het salaris.
+POP = Persoonlijk ontwikkelingsplan met de ontwikkeldoelen van een medewerker.
+### MC
+Wat is het verschil tussen een functioneringsgesprek en een beoordelingsgesprek?
+* Bij een beoordelingsgesprek oordeelt de leidinggevende, met gevolgen voor bijvoorbeeld het salaris
+- Een functioneringsgesprek gaat altijd over ontslag
+- Bij een functioneringsgesprek is de OR aanwezig
+- Er is geen verschil
+> Functioneren: gelijkwaardig gesprek; beoordelen: eenzijdig oordeel.
+### MC
+Een verkoper wordt teamleider verkoop. Welke vorm van doorstroom is dit?
+* Verticale doorstroom (promotie)
+- Horizontale doorstroom
+- Uitstroom
+- Instroom
+> Een hogere functie.
+
+## § - / 15.3 | Uitstroom
+onderwerp: C.personeel
+deelvraag: Waarom verlaten medewerkers een organisatie?
+### UITLEG Uitstroom
+Uitstroom is het vertrek van medewerkers. Natuurlijk verloop: pensioen, verhuizing, een andere baan. Gedwongen uitstroom: ontslag door de werkgever, bijvoorbeeld bij een reorganisatie.
+Het verloopcijfer is het aantal vertrokken medewerkers in procenten van het gemiddeld aantal medewerkers. Een hoog verloop kost veel geld (werving, inwerken) en kan wijzen op ontevredenheid.
+In een exitgesprek vraagt de organisatie waarom iemand vertrekt, zodat ze van de antwoorden kan leren. Bij een reorganisatie kan de organisatie natuurlijk verloop gebruiken om gedwongen ontslagen te beperken.
+### BEGRIPPEN
+Uitstroom = Het vertrek van medewerkers uit de organisatie.
+Natuurlijk verloop = Vertrek van medewerkers zonder ontslag door de werkgever, zoals pensioen of een andere baan.
+Verloopcijfer = Aantal vertrokken medewerkers in procenten van het gemiddeld aantal medewerkers.
+Exitgesprek = Gesprek met een vertrekkende medewerker over de reden van vertrek.
+### MC
+Een bedrijf heeft gemiddeld 200 medewerkers. Dit jaar zijn er 30 vertrokken. Wat is het verloopcijfer?
+* 15%
+- 30%
+- 6,7%
+- 85%
+> 30 / 200 × 100% = 15%.
+### MC
+Waarom is een hoog verloopcijfer nadelig voor een organisatie?
+* Werven en inwerken van nieuwe mensen kost veel tijd en geld en er gaat kennis verloren
+- Het verlaagt de loonkosten
+- Het verhoogt de solvabiliteit
+- Het is wettelijk verboden
+> Verloop is duur.
+
+## § 14.3 / 15.4 | Beloning
+onderwerp: C.personeel
+deelvraag: Hoe beloont een organisatie haar medewerkers en wat kost een medewerker?
+leerdoelen: BECO-PERSO-03
+gens: loonkosten
+### UITLEG Arbeidsvoorwaarden
+Primaire arbeidsvoorwaarden: het loon en de vakantiebijslag. Secundaire arbeidsvoorwaarden: pensioen, vakantiedagen, een leaseauto, reiskostenvergoeding, opleidingen. Tertiaire arbeidsvoorwaarden: extra's zoals sportabonnement, kinderopvang, bedrijfsuitjes.
+Prestatiebeloning (bonus, provisie, winstdeling) beloont goede prestaties. Een functieschaal met periodieken laat het loon stijgen met de ervaring.
+### UITLEG Loonkosten
+De loonkosten voor de werkgever zijn hoger dan het brutoloon. Loonkosten = brutoloon + vakantiegeld (8% van het brutoloon) + werkgeverslasten (premies voor sociale verzekeringen en pensioen). De werknemer ontvangt het nettoloon: brutoloon min loonheffing en eigen pensioenpremie.
+### BEGRIPPEN
+Primaire arbeidsvoorwaarden = Het loon en de vakantiebijslag.
+Secundaire arbeidsvoorwaarden = Arbeidsvoorwaarden naast het loon, zoals pensioen en vakantiedagen.
+Tertiaire arbeidsvoorwaarden = Extra voorzieningen, zoals een sportabonnement of kinderopvang.
+Prestatiebeloning = Beloning die afhangt van de prestaties, zoals een bonus of provisie.
+Werkgeverslasten = Premies die de werkgever betaalt bovenop het brutoloon.
+Loonkosten = Brutoloon plus vakantiegeld plus werkgeverslasten.
+### MC
+Een leaseauto is een voorbeeld van een:
+* Secundaire arbeidsvoorwaarde
+- Primaire arbeidsvoorwaarde
+- Tertiaire arbeidsvoorwaarde
+- Werkgeverslast
+> Een arbeidsvoorwaarde naast het loon.
+### MC
+Een werknemer heeft een brutoloon van € 40.000 per jaar inclusief vakantiegeld. De werkgeverslasten zijn 25%. Wat zijn de loonkosten?
+* € 50.000
+- € 40.000
+- € 43.200
+- € 30.000
+> 40.000 × 1,25 = € 50.000.

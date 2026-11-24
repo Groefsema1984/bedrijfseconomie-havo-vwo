@@ -1,0 +1,160 @@
+# HOOFDSTUK h 20 / v 23 | Kostensoorten
+wereld: h20, v23
+hoofdvraag: Welke kosten maakt een onderneming en hoe bereken je ze?
+
+## § 20.1 / 23.1 | Inkopen / Inkoopprijs verkopen
+onderwerp: F.kosten
+deelvraag: Hoe bereken je de inkoopwaarde van de omzet en de verkoopprijs in de handel?
+gens: brutoresultaat, verkoopprijsBtw, fifo
+### UITLEG Inkoopwaarde van de omzet
+Een handelsonderneming koopt producten in en verkoopt ze door. De inkoopwaarde van de omzet is de inkoopprijs van de verkochte goederen. Brutoresultaat (brutowinst) = omzet − inkoopwaarde van de omzet.
+De inkoopprijs omvat ook bijkomende kosten, zoals transport. De btw telt niet mee: die draagt de onderneming af aan de Belastingdienst.
+Als de inkoopprijzen veranderen, moet je kiezen welke prijs je aan de verkochte goederen toerekent. Bij FIFO (first in, first out) worden de oudste goederen eerst verkocht. Bij LIFO (last in, first out) de laatst ingekochte. Je kunt ook werken met een gemiddelde inkoopprijs.
+### UITLEG Verkoopprijs in de handel
+Verkoopprijs exclusief btw = inkoopprijs + brutowinstopslag. Consumentenprijs = verkoopprijs exclusief btw × (1 + btw-percentage). Het hoge btw-tarief is 21%, het lage tarief (bijvoorbeeld voor voedingsmiddelen) 9%.
+### BEGRIPPEN
+Inkoopwaarde van de omzet = De inkoopprijs van de verkochte goederen.
+Brutoresultaat = Omzet min inkoopwaarde van de omzet.
+FIFO = First in, first out: de oudste voorraad wordt als eerste verkocht.
+LIFO = Last in, first out: de laatst ingekochte voorraad wordt als eerste verkocht.
+Brutowinstopslag = Opslag op de inkoopprijs om de verkoopprijs te bepalen.
+Btw = Belasting over de toegevoegde waarde, die de consument uiteindelijk betaalt.
+### MC
+Een winkel koopt een product in voor € 25 en rekent een brutowinstopslag van 60%. De btw is 21%. Wat is de consumentenprijs?
+* € 48,40
+- € 40,00
+- € 45,25
+- € 30,25
+> 25 × 1,6 = 40; 40 × 1,21 = € 48,40.
+### MC
+Waarom hoort de btw niet bij de kosten van een handelsonderneming?
+* De onderneming draagt de btw af aan de Belastingdienst; de consument betaalt hem uiteindelijk
+- Btw is een opbrengst van de onderneming
+- Btw wordt pas na tien jaar betaald
+- Btw is een privéuitgave van de eigenaar
+> De onderneming int de btw voor de overheid.
+### MC
+De inkoopprijzen stijgen. Welke methode geeft dan de hoogste inkoopwaarde van de omzet?
+* LIFO
+- FIFO
+- Beide geven hetzelfde
+- Dat hangt af van de verkoopprijs
+> De laatst ingekochte, duurdere goederen worden eerst als verkocht geboekt.
+
+## § - / 23.2 | Kosten materialen en grondstoffen
+onderwerp: F.kosten
+deelvraag: Hoe bereken je de grondstofkosten van een industriële onderneming?
+gens: materiaalverbruik
+### UITLEG Grondstofkosten
+Een industriële onderneming verwerkt grondstoffen en materialen tot producten. De grondstofkosten zijn het verbruik in een periode, niet de inkoop. Verbruik = beginvoorraad + inkoop − eindvoorraad.
+De verbruikte hoeveelheid wordt vaak gewaardeerd tegen een vaste verrekenprijs: een vooraf vastgestelde prijs per eenheid. Zo hebben schommelingen in de inkoopprijs geen invloed op de kostprijs. Het verschil tussen de werkelijke inkoopprijs en de verrekenprijs is een prijsresultaat.
+Bij de productie kan er uitval of afval zijn; daarvoor reken je meer grondstof per product.
+### BEGRIPPEN
+Grondstofkosten = De waarde van de verbruikte grondstoffen in een periode.
+Verbruik = Beginvoorraad plus inkoop min eindvoorraad.
+Vaste verrekenprijs = Vooraf vastgestelde prijs waartegen grondstoffen worden gewaardeerd.
+Prijsresultaat op inkoop = Verschil tussen verrekenprijs en werkelijke inkoopprijs.
+### MC
+Beginvoorraad 400 kg, inkoop 2.000 kg, eindvoorraad 600 kg. Hoeveel kg is verbruikt?
+* 1.800 kg
+- 2.000 kg
+- 3.000 kg
+- 1.000 kg
+> 400 + 2.000 − 600.
+### MC
+Waarom werkt een fabriek met een vaste verrekenprijs voor grondstoffen?
+* Zodat schommelingen in de inkoopprijs de kostprijs niet steeds veranderen
+- Omdat de leverancier dat eist
+- Om minder btw te betalen
+- Omdat de werkelijke prijs niet bekend is
+> Een stabiele kostprijs.
+
+## § 20.2 / 23.3 | Kosten van duurzame productiemiddelen
+onderwerp: F.kosten
+deelvraag: Hoe bereken je de afschrijvingskosten?
+leerdoelen: BECO-AFSCH-01, BECO-AFSCH-02
+gens: afschrijving, boekwaarde
+### UITLEG Afschrijving
+Duurzame productiemiddelen (machines, gebouwen, bestelbussen) gaan meerdere jaren mee. De waardedaling per jaar is een kostenpost: afschrijving.
+Lineair: elk jaar hetzelfde bedrag. Afschrijving per jaar = (aanschafwaarde − restwaarde) / economische levensduur.
+Vast percentage van de boekwaarde: in de eerste jaren veel, later minder (degressief). Op basis van gebruik: bijvoorbeeld per gereden kilometer of per machine-uur.
+De boekwaarde is de aanschafwaarde min de totale afschrijving tot dan toe. Verkoop je een bezit voor meer dan de boekwaarde, dan heb je een boekwinst.
+Naast afschrijving horen ook interest over het geïnvesteerde vermogen en onderhoud bij de kosten van duurzame productiemiddelen.
+### BEGRIPPEN
+Duurzaam productiemiddel = Bezit dat meerdere jaren meegaat, zoals een machine.
+Afschrijving = De waardedaling van een duurzaam productiemiddel als kosten per periode.
+Lineaire afschrijving = Elk jaar een gelijk bedrag afschrijven.
+Restwaarde = De verwachte opbrengst aan het eind van de levensduur.
+Boekwaarde = Aanschafwaarde min de totale afschrijving tot dan toe.
+Economische levensduur = De periode waarin een bezit rendabel kan worden gebruikt.
+### MC
+Een machine kost € 80.000, de restwaarde is € 8.000 en de levensduur 6 jaar. Wat is de lineaire afschrijving per jaar?
+* € 12.000
+- € 13.333
+- € 14.667
+- € 8.000
+> (80.000 − 8.000) / 6.
+### MC
+Waarom kan een vrachtwagen beter worden afgeschreven op basis van gereden kilometers dan lineair?
+* De waardedaling hangt vooral af van het gebruik, en dat verschilt per jaar
+- Omdat kilometers geen kosten zijn
+- Omdat lineair afschrijven bij vrachtwagens verboden is
+- Omdat de restwaarde dan nul is
+> Afschrijving volgt dan het werkelijke gebruik.
+
+## § 20.3 / 23.4 | Personeelskosten, arbeidsuurtarief en factureertarief
+onderwerp: F.kosten
+deelvraag: Wat kost een uur arbeid en welk tarief reken je aan de klant?
+gens: loonkosten, arbeidsuurtarief
+### UITLEG Arbeidsuurtarief
+De personeelskosten zijn de loonkosten: brutoloon + vakantiegeld + werkgeverslasten, plus andere kosten zoals opleiding.
+Niet alle betaalde uren zijn productief: er gaan uren af voor vakantie, ziekte, opleiding en overleg. Het arbeidsuurtarief = loonkosten per jaar / aantal declarabele (productieve) uren.
+Het factureertarief is het tarief dat de klant per uur betaalt. Dat is het arbeidsuurtarief plus een opslag voor de overige kosten (huur, auto, administratie) en de winst.
+### BEGRIPPEN
+Personeelskosten = Alle kosten van personeel, zoals loonkosten en opleidingskosten.
+Declarabel uur = Uur dat aan een klant in rekening kan worden gebracht.
+Arbeidsuurtarief = Loonkosten gedeeld door het aantal declarabele uren.
+Factureertarief = Tarief per uur dat de klant betaalt, inclusief opslag voor overige kosten en winst.
+### MC
+Een loodgieter kost € 54.000 per jaar en is 1.350 uur declarabel. Wat is het arbeidsuurtarief?
+* € 40
+- € 54
+- € 25,96
+- € 30
+> 54.000 / 1.350.
+### MC
+Waarom is het factureertarief hoger dan het arbeidsuurtarief?
+* Het factureertarief moet ook de overige kosten en de winst dekken
+- Het factureertarief bevat de btw al
+- Het arbeidsuurtarief bevat de winst
+- Omdat de klant minder uren betaalt
+> Opslag voor overige kosten en winst.
+
+## § 20.4 / 23.5 | Overige kosten
+onderwerp: F.kosten
+deelvraag: Welke andere kosten zijn er en hoe deel je kosten in?
+leerdoelen: BECO-KOSTE-01
+### UITLEG Overige kosten
+Overige kosten zijn bijvoorbeeld huur, energie, verzekeringen, reclame, telefoon en administratie. Ook interest is een kostenpost: de vergoeding voor het gebruik van vreemd vermogen.
+Kosten kun je indelen naar hun gedrag bij een verandering van de productie. Constante kosten veranderen niet bij een andere productieomvang (huur, afschrijving, vaste lonen). Variabele kosten veranderen mee met de productie (grondstoffen, verpakking, provisie). Proportioneel variabele kosten stijgen in dezelfde verhouding als de productie.
+Directe kosten kun je rechtstreeks aan een product toerekenen (grondstof); indirecte kosten niet (de huur van het gebouw).
+### BEGRIPPEN
+Constante kosten = Kosten die niet veranderen als de productieomvang verandert.
+Variabele kosten = Kosten die veranderen met de productieomvang.
+Proportioneel variabele kosten = Variabele kosten die in dezelfde verhouding stijgen als de productie.
+Directe kosten = Kosten die rechtstreeks aan een product kunnen worden toegerekend.
+Indirecte kosten = Kosten die niet rechtstreeks aan een product kunnen worden toegerekend.
+### MC
+Welke kostensoort is variabel bij een bakkerij?
+* Meel
+- Huur van het pand
+- Afschrijving op de oven
+- Verzekering van het pand
+> Meer brood bakken = meer meel.
+### MC
+Een fabriek gaat 20% meer produceren. Wat gebeurt er met de constante kosten per product?
+* Die dalen
+- Die stijgen
+- Die blijven gelijk
+- Die stijgen met 20%
+> Dezelfde constante kosten over meer producten.

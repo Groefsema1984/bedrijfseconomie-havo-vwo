@@ -1,0 +1,114 @@
+# HOOFDSTUK v 36 | Overige kengetallen
+wereld: v36
+hoofdvraag: Hoe rendabel is een onderneming en wat is een aandeel waard voor een belegger?
+
+## § 36.1 | Rentabiliteit van het totale vermogen
+onderwerp: G.kengetal
+deelvraag: Hoe bereken je de RTV?
+gens: rtv
+### UITLEG RTV
+De rentabiliteit van het totale vermogen (RTV) laat zien hoeveel winst er is behaald met al het vermogen, eigen én vreemd.
+RTV = EBIT / gemiddeld totaal vermogen × 100%.
+Je gebruikt de EBIT (het resultaat vóór aftrek van interest en belasting), omdat de interest de beloning is voor het vreemd vermogen, dat ook in het totaal vermogen zit.
+De RTV is onafhankelijk van de manier van financieren en geschikt om ondernemingen te vergelijken.
+### BEGRIPPEN
+RTV = Rentabiliteit van het totale vermogen: EBIT gedeeld door het gemiddeld totaal vermogen.
+EBIT = Resultaat vóór aftrek van interest en belasting.
+### MC
+Totaal vermogen 1 januari € 2,0 miljoen en 31 december € 2,4 miljoen. EBIT € 264.000. Wat is de RTV?
+* 12%
+- 13,2%
+- 11%
+- 10%
+> 264.000 / 2.200.000 × 100%.
+### MC
+Waarom gebruik je bij de RTV de winst vóór aftrek van interest?
+* Omdat het totale vermogen ook het vreemd vermogen bevat, waarvoor de interest de beloning is
+- Omdat interest geen kosten zijn
+- Omdat de winst dan lager is
+- Omdat de Belastingdienst dat voorschrijft
+> Teller en noemer moeten bij elkaar passen.
+
+## § 36.2 | Rentabiliteit van het eigen vermogen
+onderwerp: G.kengetal
+deelvraag: Hoe bereken je de REV?
+gens: rev
+### UITLEG REV
+De rentabiliteit van het eigen vermogen (REV) laat zien wat de eigenaren verdienen op hun vermogen.
+REV = nettowinst (na interest, vóór of na belasting; let op wat er gevraagd wordt) / gemiddeld eigen vermogen × 100%.
+Een eigenaar vergelijkt de REV met wat hij elders zou kunnen verdienen, rekening houdend met het risico. Omdat eigen vermogen risicodragend is, verwacht hij een hogere vergoeding dan de rente op een spaarrekening.
+### BEGRIPPEN
+REV = Rentabiliteit van het eigen vermogen: nettowinst gedeeld door gemiddeld eigen vermogen.
+Nettowinst = Winst na aftrek van interest (en eventueel belasting).
+### MC
+Gemiddeld eigen vermogen € 800.000, nettowinst na belasting € 96.000. Wat is de REV na belasting?
+* 12%
+- 8,3%
+- 9,6%
+- 1,2%
+> 96.000 / 800.000 × 100%.
+### MC
+Waarom verwacht een aandeelhouder een hogere REV dan de rente op een spaarrekening?
+* Eigen vermogen is risicodragend
+- Omdat aandelen gratis zijn
+- Omdat de REV altijd gelijk is aan de RTV
+- Omdat spaarrekeningen verboden zijn voor bedrijven
+> Meer risico, hogere verwachte beloning.
+
+## § 36.3 | Hefboomwerking
+onderwerp: G.kengetal
+deelvraag: Hoe beïnvloedt vreemd vermogen de rentabiliteit van het eigen vermogen?
+gens: hefboom
+### UITLEG Hefboomformule
+REV = RTV + (RTV − IVV) × VV/EV, met IVV = interest vreemd vermogen (in %) en VV/EV = de verhouding tussen vreemd en eigen vermogen. Dit is de REV vóór belasting.
+Positieve hefboomwerking: als de RTV hoger is dan de IVV, verdient de onderneming met geleend geld meer dan het kost; meer vreemd vermogen verhoogt dan de REV.
+Negatieve hefboomwerking: als de RTV lager is dan de IVV, verlaagt elk geleend euro de REV.
+Meer vreemd vermogen betekent ook meer risico: de REV schommelt sterker en de solvabiliteit daalt.
+### BEGRIPPEN
+Hefboomwerking = Het effect van vreemd vermogen op de rentabiliteit van het eigen vermogen.
+IVV = Interestpercentage over het vreemd vermogen.
+Positieve hefboomwerking = De RTV is hoger dan de IVV, zodat vreemd vermogen de REV verhoogt.
+Negatieve hefboomwerking = De RTV is lager dan de IVV, zodat vreemd vermogen de REV verlaagt.
+### MC
+RTV 10%, IVV 6%, VV/EV = 2. Wat is de REV vóór belasting?
+* 18%
+- 14%
+- 16%
+- 22%
+> 10 + (10 − 6) × 2.
+### MC
+Wanneer is het aantrekkelijk om meer vreemd vermogen aan te trekken?
+* Als de RTV hoger is dan de IVV
+- Als de RTV lager is dan de IVV
+- Als de solvabiliteit laag is
+- Altijd, want vreemd vermogen is goedkoop
+> Positieve hefboomwerking.
+
+## § 36.4 | Beleggerskengetallen
+onderwerp: G.kengetal
+deelvraag: Met welke kengetallen beoordeelt een belegger een aandeel?
+gens: koersWinst, dividendrendement, dividendPerAandeel
+### UITLEG Beleggerskengetallen
+Winst per aandeel = nettowinst / aantal geplaatste aandelen.
+Koers-winstverhouding (K/W) = beurskoers / winst per aandeel. Een hoge K/W betekent dat beleggers veel betalen voor de huidige winst: ze verwachten groei.
+Dividendrendement = dividend per aandeel / beurskoers × 100%.
+Pay-out ratio = dividend / nettowinst × 100%: welk deel van de winst wordt uitgekeerd.
+### BEGRIPPEN
+Winst per aandeel = Nettowinst gedeeld door het aantal geplaatste aandelen.
+Koers-winstverhouding = Beurskoers gedeeld door de winst per aandeel.
+Dividendrendement = Dividend per aandeel in procenten van de beurskoers.
+Pay-out ratio = Het deel van de winst dat als dividend wordt uitgekeerd.
+### MC
+Winst per aandeel € 2,50, beurskoers € 40. Wat is de koers-winstverhouding?
+* 16
+- 6,25
+- 100
+- 37,5
+> 40 / 2,50.
+### MC
+Dividend € 1,20 per aandeel, beurskoers € 30. Wat is het dividendrendement?
+* 4%
+- 25%
+- 3,6%
+- 2,5%
+> 1,20 / 30 × 100%.

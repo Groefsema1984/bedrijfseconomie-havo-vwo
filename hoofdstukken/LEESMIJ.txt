@@ -10,13 +10,18 @@ Formaat:
   wereld: hv3                   (hv1..hv7 gelijk voor beide, h8..h29 havo, v8..v36 vwo; zie src/data-basis.js)
   hoofdvraag: ...
 
+  Een hoofdstuk dat havo en vwo allebei hebben, maar met een ander nummer, staat in één bestand:
+  # HOOFDSTUK h 11 / v 12 | Organisaties en management
+  wereld: h11, v12
+  ## § 11.2 / 12.3 | Titel havo / Titel vwo    ('-' = deze paragraaf bestaat niet op dat niveau)
+
   ## § 3.1 | Titel van de paragraaf
   onderwerp: B.verzeker         (een code uit EINDTERMEN in src/data-basis.js)
   deelvraag: ...                (wordt het doel van het level)
   niv: v                        (optioneel: paragraaf alleen voor havo (h) of vwo (v))
   leerdoelen: BECO-PERIO-01     (optioneel: oefenopgaven en examenvragen uit bibliotheek/ erbij)
   gens: verzekeringPremie       (optioneel: rekengeneratoren, zie GENS in src/core.js en src/extra.js)
-  ook: h 5.3                    (optioneel: neem uitleg, meerkeuzevragen en begrippen van een andere paragraaf over)
+  ook: h 5.3, v 16.1           (optioneel: neem uitleg, meerkeuzevragen en begrippen van andere paragrafen over)
   ### UITLEG Kopje
   tekst
   ### BEGRIPPEN
@@ -28,6 +33,8 @@ Formaat:
   - fout antwoord
   - fout antwoord
   > uitleg die de leerling na het antwoorden ziet
+
+Eén hoofdstuk per bestand (een gedeeld havo/vwo-hoofdstuk telt als één).
 
 Bron: de kaderbestanden (01_KADER_...) in VAK_BEDRIJFSECONOMIE op de Drive van de sectie en de inhoudsopgave van
 Bedrijfseconomie in balans. Uitleg, begrippen en vragen zijn daarop gebaseerd en door Claude uitgeschreven: lees ze na.

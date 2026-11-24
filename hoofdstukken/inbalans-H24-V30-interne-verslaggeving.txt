@@ -1,0 +1,91 @@
+# HOOFDSTUK h 24 / v 30 | Interne verslaggeving
+wereld: h24, v30
+hoofdvraag: Welke informatie gebruikt het management om de onderneming te sturen?
+
+## § 24.1 / 30.1 | Balans en winst-en-verliesrekening
+onderwerp: F.planning
+deelvraag: Hoe stel je een balans en een winst-en-verliesrekening op?
+gens: balansInvullen, balansMutatie, resultatenbegroting
+### UITLEG Balans
+De balans geeft de financiële positie op één moment. Debet: de activa (bezittingen), ingedeeld in vaste activa (gebouwen, machines), vlottende activa (voorraden, debiteuren) en liquide middelen. Credit: de passiva, ingedeeld in eigen vermogen, lang vreemd vermogen en kort vreemd vermogen. Debet = credit.
+### UITLEG Winst-en-verliesrekening
+De winst-en-verliesrekening (resultatenrekening) laat de opbrengsten en kosten over een periode zien. Bij een handelsonderneming: omzet − inkoopwaarde van de omzet = brutoresultaat; brutoresultaat − bedrijfskosten (loon, huur, afschrijving, enzovoort) = bedrijfsresultaat; daarna interest en belasting: nettoresultaat.
+Intern gebruikt het management deze overzichten vaak per maand of per afdeling, met meer detail dan in de jaarrekening.
+### BEGRIPPEN
+Balans = Overzicht van de bezittingen en het vermogen op één moment.
+Activa = De bezittingen van een onderneming, aan de debetkant van de balans.
+Passiva = Eigen en vreemd vermogen, aan de creditkant van de balans.
+Winst-en-verliesrekening = Overzicht van opbrengsten en kosten over een periode.
+Bedrijfsresultaat = Brutoresultaat min de bedrijfskosten.
+Nettoresultaat = Resultaat na interest en belasting.
+### MC
+Welke post hoort bij de vlottende activa?
+* Debiteuren
+- Inventaris
+- Crediteuren
+- Hypothecaire lening
+> Vorderingen op klanten.
+### MC
+Omzet € 500.000, inkoopwaarde € 300.000, overige kosten € 150.000. Wat is het bedrijfsresultaat?
+* € 50.000
+- € 200.000
+- € 350.000
+- € 150.000
+> 500.000 − 300.000 − 150.000.
+
+## § 24.2 / 30.2 | Liquiditeitsbegroting
+onderwerp: A.liquid
+deelvraag: Hoe stel je een liquiditeitsbegroting op?
+gens: liquiditeitsbegroting, liquiditeit
+### UITLEG Liquiditeitsbegroting
+Een liquiditeitsbegroting toont per periode (meestal per maand) de verwachte ontvangsten en uitgaven en het saldo liquide middelen. Eindsaldo = beginsaldo + ontvangsten − uitgaven.
+Let op het verschil met de resultatenbegroting: in de liquiditeitsbegroting staan geen afschrijvingen (geen uitgave), maar wel aflossingen, investeringen en privéopnamen (wel uitgaven). Verkopen op rekening tellen pas mee als de klant betaalt.
+Als het saldo negatief dreigt te worden, kan de onderneming maatregelen nemen: rekening-courantkrediet aanvragen, klanten sneller laten betalen, een investering uitstellen of leveranciers later betalen.
+### BEGRIPPEN
+Ontvangsten = Geld dat binnenkomt.
+Uitgaven = Geld dat de onderneming uitgaat.
+Liquiditeitstekort = Er is (tijdelijk) te weinig geld om de uitgaven te betalen.
+Debiteurentermijn = De gemiddelde tijd die klanten nemen om te betalen.
+### MC
+Welke post staat wel in de resultatenbegroting, maar niet in de liquiditeitsbegroting?
+* Afschrijving op de inventaris
+- Betaling van de huur
+- Aflossing van een lening
+- Inkoop van goederen tegen contante betaling
+> Afschrijving is geen uitgave.
+### MC
+De liquiditeitsbegroting laat in mei een tekort zien. Welke maatregel helpt het snelst?
+* Klanten korting geven bij snelle betaling
+- Lineair afschrijven in plaats van degressief
+- De verkoopprijs voor volgend jaar verhogen
+- Meer voorraad inkopen
+> Ontvangsten naar voren halen.
+
+## § 24.3 / 30.3 | Prestatie-indicatoren
+onderwerp: G.kengetal
+deelvraag: Met welke indicatoren meet het management de prestaties?
+gens: omloopsnelheidVoorraad
+### UITLEG KPI's
+Prestatie-indicatoren (key performance indicators, KPI's) zijn meetbare gegevens waarmee het management controleert of de doelen worden gehaald. Ze kunnen financieel zijn (omzet, brutowinstmarge, kosten per product) of niet-financieel (klanttevredenheid, ziekteverzuim, levertijd, aantal klachten).
+Voorbeelden: omzet per medewerker, omzet per m² winkeloppervlak, gemiddelde voorraad, omloopsnelheid van de voorraad (inkoopwaarde van de omzet / gemiddelde voorraad), percentage op tijd geleverd.
+Een KPI is pas zinvol als je hem vergelijkt: met de norm, met vorige perioden of met concurrenten (benchmarking). Het dashboard is een overzicht van de belangrijkste KPI's.
+### BEGRIPPEN
+Prestatie-indicator = Meetbaar gegeven waarmee je controleert of een doel wordt gehaald.
+KPI = Key performance indicator: belangrijke prestatie-indicator.
+Benchmarking = Je eigen prestaties vergelijken met die van andere ondernemingen.
+Omloopsnelheid van de voorraad = Hoe vaak per jaar de voorraad gemiddeld wordt verkocht.
+Dashboard = Overzicht van de belangrijkste KPI's.
+### MC
+Welke KPI is niet-financieel?
+* Het percentage klanten dat de service een 8 of hoger geeft
+- De brutowinstmarge
+- De omzet per medewerker
+- De kosten per product
+> Klanttevredenheid wordt niet in euro's gemeten.
+### MC
+Inkoopwaarde van de omzet € 600.000, gemiddelde voorraad € 100.000. Wat is de omloopsnelheid van de voorraad?
+* 6
+- 0,17
+- 60
+- 1,7
+> 600.000 / 100.000 = 6 keer per jaar.

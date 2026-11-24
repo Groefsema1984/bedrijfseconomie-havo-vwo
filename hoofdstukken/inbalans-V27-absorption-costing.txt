@@ -1,0 +1,135 @@
+# HOOFDSTUK v 27 | Absorption costing
+wereld: v27
+hoofdvraag: Hoe bereken je kostprijs en resultaat als alle kosten aan de producten worden toegerekend?
+
+## § 27.1 | Verkoopprijs
+onderwerp: F.kosten
+deelvraag: Hoe kom je van integrale kostprijs naar verkoopprijs?
+gens: integraleKostprijs, opslagPercentage
+### UITLEG Kostprijs en verkoopprijs
+Bij absorption costing (integrale kostprijsberekening) worden zowel de variabele als de constante kosten aan de producten toegerekend: kostprijs = C/N + V/W.
+De verkoopprijs = kostprijs + winstopslag; de consumentenprijs = verkoopprijs + btw. Omdat je de constante kosten verdeelt over de normale productie, verandert de kostprijs niet als de werkelijke productie schommelt. Zo voorkom je dat je in slechte jaren de prijs verhoogt, wat de afzet nog verder zou verlagen.
+### BEGRIPPEN
+Absorption costing = Kostprijsberekening waarbij alle kosten, ook de constante, aan de producten worden toegerekend.
+Winstopslag = Bedrag of percentage bovenop de kostprijs.
+### MC
+Waarom wordt bij de integrale kostprijs gedeeld door de normale productie en niet door de werkelijke productie?
+* Zodat de kostprijs niet schommelt met de werkelijke productie
+- Omdat de werkelijke productie altijd hoger is
+- Omdat de Belastingdienst dat eist
+- Omdat de variabele kosten dan nul zijn
+> Een stabiele kostprijs.
+### MC
+C = € 300.000, N = 20.000 stuks, variabele kosten € 10 per stuk, winstopslag 20%. Wat is de verkoopprijs exclusief btw?
+* € 30
+- € 25
+- € 27
+- € 32
+> Kostprijs 15 + 10 = 25; × 1,2 = 30.
+
+## § 27.2 | Voorcalculatie
+onderwerp: F.kosten
+deelvraag: Hoe stel je een standaardkostprijs op?
+### UITLEG Standaardkostprijs
+Bij voorcalculatie bereken je vooraf de standaardkostprijs: de kostprijs volgens de normen. Je gebruikt standaardhoeveelheden (hoeveel materiaal en uren zijn nodig per product) en standaardprijzen.
+Voorbeeld: 3 kg grondstof à € 4 + 0,5 uur arbeid à € 40 + constante kosten per product € 6 = standaardkostprijs € 38.
+De standaardkostprijs wordt gebruikt om de verkoopprijs te bepalen en om achteraf (nacalculatie) de werkelijke kosten te vergelijken met de norm.
+### BEGRIPPEN
+Voorcalculatie = Vooraf berekenen van de kostprijs volgens normen.
+Standaardkostprijs = Kostprijs berekend met standaardhoeveelheden en standaardprijzen.
+Nacalculatie = Achteraf vergelijken van de werkelijke kosten met de standaardkosten.
+### MC
+Per product is 2 kg grondstof à € 5 en 1,5 uur arbeid à € 30 nodig. De constante kosten per product zijn € 8. Wat is de standaardkostprijs?
+* € 63
+- € 55
+- € 43
+- € 53
+> 10 + 45 + 8.
+### MC
+Waarvoor wordt de standaardkostprijs onder andere gebruikt?
+* Om achteraf de werkelijke kosten met de norm te vergelijken
+- Om de winst na belasting te berekenen
+- Om de liquiditeit te meten
+- Om de dividendbelasting te berekenen
+> Basis voor de nacalculatie.
+
+## § 27.3 | Nacalculatie met werkelijke gegevens
+onderwerp: F.versch
+deelvraag: Hoe vergelijk je achteraf de werkelijke kosten met de standaardkosten?
+gens: prijsresultaat, efficiencyresultaat, verschillenSchema
+### UITLEG Nacalculatie
+Bij nacalculatie vergelijk je de werkelijke kosten met de standaardkosten van de werkelijke productie. Het verschil splits je op in:
+Prijsresultaat = (SP − WP) × WH.
+Efficiencyresultaat = (SH − WH) × SP.
+Op de constante kosten: budgetresultaat en bezettingsresultaat.
+Samen met het verkoopresultaat vormen deze resultaten het totale bedrijfsresultaat.
+### BEGRIPPEN
+Totaal bedrijfsresultaat = Verkoopresultaat plus alle resultaten op variabele en constante kosten.
+Standaardkosten van de werkelijke productie = Werkelijke productie × standaardkostprijs.
+### MC
+Waarmee vergelijk je bij nacalculatie de werkelijke kosten?
+* Met de standaardkosten van de werkelijke productie
+- Met de standaardkosten van de normale productie
+- Met de kosten van vorig jaar
+- Met de omzet
+> Zo zie je verschillen in prijs en efficiency.
+### MC
+Er is meer grondstof gebruikt dan de norm, maar tegen een lagere prijs. Wat geldt?
+* Nadelig efficiencyresultaat en voordelig prijsresultaat
+- Voordelig efficiencyresultaat en nadelig prijsresultaat
+- Beide voordelig
+- Beide nadelig
+> Meer verbruik is nadelig, lagere prijs voordelig.
+
+## § 27.4 | Nacalculatorisch budget, analyse en beleid
+onderwerp: F.versch
+deelvraag: Wat is een flexibel budget en welke maatregelen volgen uit de analyse?
+### UITLEG Flexibel budget
+Een vast budget gaat uit van de begrote productie. Als de werkelijke productie afwijkt, kun je de werkelijke kosten daar niet eerlijk mee vergelijken.
+Een nacalculatorisch (flexibel) budget past het budget aan de werkelijke productie aan: budget = constante kosten + werkelijke productie × variabele kosten per stuk. Het verschil met de werkelijke kosten zegt dan echt iets over de prestaties van de afdeling.
+Na de analyse kan het management maatregelen nemen: een andere leverancier zoeken (prijsresultaat), werkmethoden verbeteren of medewerkers opleiden (efficiencyresultaat), of de capaciteit aanpassen (bezettingsresultaat).
+### BEGRIPPEN
+Vast budget = Budget op basis van de begrote productie.
+Flexibel budget = Budget dat wordt aangepast aan de werkelijke productie.
+Beheersbaar resultaat = Resultaat waar een manager zelf invloed op heeft.
+### MC
+Constante kosten € 100.000, variabele kosten € 6 per stuk, werkelijke productie 12.000 stuks. Hoe hoog is het flexibele budget?
+* € 172.000
+- € 100.000
+- € 72.000
+- € 160.000
+> 100.000 + 12.000 × 6.
+### MC
+Waarom is een flexibel budget eerlijker om een afdelingsmanager mee te beoordelen?
+* Het houdt rekening met de werkelijke productie, waar de manager vaak geen invloed op heeft
+- Het is altijd hoger dan de werkelijke kosten
+- Het bevat geen variabele kosten
+- Het wordt pas na tien jaar opgesteld
+> Alleen beheersbare verschillen tellen.
+
+## § 27.5 | Nacalculatie, analyse en beleid bij opslagen
+onderwerp: F.kosten
+deelvraag: Hoe werkt een kostprijsberekening met opslagen?
+### UITLEG Opslagmethoden
+Indirecte kosten (zoals huur en leiding) kun je niet direct aan een product toerekenen. Met een opslagmethode reken je ze toe als percentage van de directe kosten.
+Enkelvoudige opslag: alle indirecte kosten als één percentage van de totale directe kosten. Meervoudige opslag: aparte percentages per soort directe kosten, bijvoorbeeld een opslag op het directe materiaal en een opslag op het directe loon. Dat is nauwkeuriger als producten verschillend zijn samengesteld.
+Opslagpercentage = begrote indirecte kosten / begrote directe kosten × 100%. Achteraf ontstaat een resultaat als de doorberekende indirecte kosten afwijken van de werkelijke.
+### BEGRIPPEN
+Opslagmethode = Indirecte kosten toerekenen als percentage van de directe kosten.
+Enkelvoudige opslag = Eén opslagpercentage voor alle indirecte kosten.
+Meervoudige opslag = Verschillende opslagpercentages per soort directe kosten.
+Opslagpercentage = Begrote indirecte kosten in procenten van de begrote directe kosten.
+### MC
+De begrote indirecte kosten zijn € 240.000 en de begrote directe kosten € 600.000. Wat is het enkelvoudige opslagpercentage?
+* 40%
+- 25%
+- 250%
+- 60%
+> 240.000 / 600.000 × 100%.
+### MC
+Wanneer is meervoudige opslag beter dan enkelvoudige opslag?
+* Als producten heel verschillend zijn samengesteld uit materiaal en arbeid
+- Als er maar één product is
+- Als er geen indirecte kosten zijn
+- Als de directe kosten nul zijn
+> Dan geeft één percentage een scheef beeld.

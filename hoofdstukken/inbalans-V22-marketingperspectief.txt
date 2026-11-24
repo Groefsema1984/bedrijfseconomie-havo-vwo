@@ -1,0 +1,118 @@
+# HOOFDSTUK v 22 | Marketingperspectief
+wereld: v22
+hoofdvraag: Hoe kijk je vanuit de klant naar marketing en hoe kiest een onderneming waar ze in investeert?
+
+## § 22.1 | Customer solution en customer cost to satisfy
+onderwerp: E.marketing
+deelvraag: Wat betekenen de eerste twee C's?
+### UITLEG Van 4 P's naar 4 C's
+De 4 P's kijken vanuit de onderneming. De 4 C's kijken vanuit de klant:
+Customer solution (in plaats van product): welk probleem van de klant lost het product op?
+Customer cost to satisfy (in plaats van prijs): wat zijn alle kosten voor de klant, niet alleen de prijs maar ook tijd, moeite, reiskosten en de kosten van gebruik?
+Een product dat goedkoop is in aanschaf maar duur in gebruik (zoals een printer met dure inkt) heeft hoge customer costs.
+### BEGRIPPEN
+4 C's = Customer solution, customer cost to satisfy, convenience to buy en communication.
+Customer solution = Het probleem van de klant dat het product oplost.
+Customer cost to satisfy = Alle kosten die de klant maakt, zoals prijs, tijd en moeite.
+### MC
+Een printer kost € 49, maar de inktpatronen kosten € 35 per stuk. Welke C laat zien dat de printer voor de klant duur is?
+* Customer cost to satisfy
+- Customer solution
+- Convenience to buy
+- Communication
+> Alle kosten, niet alleen de aanschafprijs.
+### MC
+Wat is het belangrijkste verschil tussen de 4 P's en de 4 C's?
+* De 4 C's kijken vanuit de klant, de 4 P's vanuit de onderneming
+- De 4 C's gaan alleen over prijzen
+- De 4 P's zijn bedoeld voor diensten
+- Er is geen verschil
+> Klantperspectief.
+
+## § 22.2 | Customer convenience to buy en communication
+onderwerp: E.marketing
+deelvraag: Wat betekenen de laatste twee C's?
+### UITLEG Convenience en communication
+Convenience to buy (in plaats van plaats): hoe makkelijk kan de klant het product kopen? Denk aan openingstijden, bezorgen, betalen met een app, ophalen in de winkel.
+Communication (in plaats van promotie): niet alleen zenden, maar een dialoog met de klant, bijvoorbeeld via sociale media, reviews en klantenservice.
+### BEGRIPPEN
+Convenience to buy = Het gemak waarmee de klant het product kan kopen.
+Communication = Tweezijdige communicatie tussen onderneming en klant.
+Review = Beoordeling van een product door een klant.
+### MC
+Een supermarkt laat klanten online bestellen en binnen twee uur bezorgen. Bij welke C past dit?
+* Convenience to buy
+- Customer solution
+- Customer cost to satisfy
+- Communication
+> Gemak bij het kopen.
+### MC
+Een merk reageert op sociale media op vragen en klachten van klanten. Bij welke C past dit?
+* Communication
+- Convenience to buy
+- Customer solution
+- Customer cost to satisfy
+> Dialoog met de klant.
+
+## § 22.3 | Portfolioanalyse
+onderwerp: E.marketing
+deelvraag: Hoe beoordeel je de producten van een onderneming met de BCG-matrix?
+### UITLEG BCG-matrix
+Met de BCG-matrix (Boston Consulting Group) deel je de producten in op twee assen: de marktgroei en het relatieve marktaandeel (het eigen marktaandeel ten opzichte van de grootste concurrent).
+Question mark: hoge marktgroei, laag marktaandeel. Kost veel geld; investeren of stoppen?
+Star: hoge marktgroei, hoog marktaandeel. Groeit hard, vraagt nog investeringen.
+Cash cow: lage marktgroei, hoog marktaandeel. Levert veel geld op, waarmee question marks en stars worden gefinancierd.
+Dog: lage marktgroei, laag marktaandeel. Weinig toekomst, vaak afstoten.
+Een evenwichtige portfolio heeft genoeg cash cows om de nieuwe producten te betalen.
+### BEGRIPPEN
+BCG-matrix = Indeling van producten naar marktgroei en relatief marktaandeel.
+Question mark = Product met hoge marktgroei en laag marktaandeel.
+Star = Product met hoge marktgroei en hoog marktaandeel.
+Cash cow = Product met lage marktgroei en hoog marktaandeel dat veel geld oplevert.
+Dog = Product met lage marktgroei en laag marktaandeel.
+Relatief marktaandeel = Eigen marktaandeel gedeeld door het marktaandeel van de grootste concurrent.
+### MC
+Een frisdrankmerk is marktleider op een markt die nauwelijks groeit. Hoe heet dit product in de BCG-matrix?
+* Cash cow
+- Star
+- Question mark
+- Dog
+> Hoog aandeel, lage groei.
+### MC
+Waarvoor gebruikt een onderneming het geld dat haar cash cows opleveren?
+* Om question marks en stars te financieren
+- Om dogs te laten groeien
+- Om de marktgroei te verlagen
+- Om meer cash cows te kopen
+> De cash cow is de geldmachine.
+
+## § 22.4 | Groeistrategieën
+onderwerp: E.marketing
+deelvraag: Op welke manieren kan een onderneming groeien?
+### UITLEG Ansoff-matrix
+De Ansoff-matrix zet bestaande en nieuwe producten tegenover bestaande en nieuwe markten:
+Marktpenetratie: bestaande producten, bestaande markt (meer verkopen aan dezelfde klanten, bijvoorbeeld met acties).
+Productontwikkeling: nieuwe producten voor de bestaande markt.
+Marktontwikkeling: bestaande producten op een nieuwe markt (bijvoorbeeld in het buitenland of voor een nieuwe doelgroep).
+Diversificatie: nieuwe producten op een nieuwe markt. Dit is het meest riskant.
+Groei kan ook extern: door een overname of fusie.
+### BEGRIPPEN
+Ansoff-matrix = Overzicht van groeistrategieën met bestaande en nieuwe producten en markten.
+Marktpenetratie = Meer verkopen van bestaande producten op de bestaande markt.
+Productontwikkeling = Nieuwe producten voor de bestaande markt.
+Marktontwikkeling = Bestaande producten op een nieuwe markt verkopen.
+Diversificatie = Nieuwe producten op een nieuwe markt.
+### MC
+Een Nederlandse fietsenfabrikant gaat zijn bestaande fietsen ook in Duitsland verkopen. Welke strategie is dit?
+* Marktontwikkeling
+- Marktpenetratie
+- Productontwikkeling
+- Diversificatie
+> Bestaand product, nieuwe markt.
+### MC
+Welke groeistrategie heeft het grootste risico?
+* Diversificatie
+- Marktpenetratie
+- Productontwikkeling
+- Marktontwikkeling
+> Zowel het product als de markt zijn nieuw.

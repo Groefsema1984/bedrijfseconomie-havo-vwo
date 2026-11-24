@@ -1,0 +1,177 @@
+# HOOFDSTUK h 16 / v 18 | Investeringsanalyse en financiering
+wereld: h16, v18
+hoofdvraag: Is een investering de moeite waard en hoe komt een onderneming aan het geld?
+
+## § 16.1 / 18.1 | Investeringen
+onderwerp: D.invest
+deelvraag: Wat is een investering en welke soorten zijn er?
+gens: cashflow
+leerdoelen: BECO-INVES-01
+### UITLEG Investeren
+Investeren is geld vastleggen in bezittingen (activa) om daarmee in de toekomst geld te verdienen, bijvoorbeeld een machine, een gebouw, een bestelbus of een nieuw computersysteem.
+Soorten: vervangingsinvestering (een oude machine vervangen), uitbreidingsinvestering (meer capaciteit), vernieuwingsinvestering (een nieuw product of nieuwe techniek) en MVO-investering (bijvoorbeeld zonnepanelen).
+Om te beoordelen of een investering loont, kijk je naar de cashflows: de geldstromen die de investering oplevert. Met de indirecte methode: cashflow = nettowinst + afschrijvingen. Afschrijvingen zijn kosten, maar geen uitgaven; daarom tel je ze weer op.
+### BEGRIPPEN
+Investering = Geld vastleggen in activa om in de toekomst geld te verdienen.
+Vervangingsinvestering = Investering om een versleten bezit te vervangen.
+Uitbreidingsinvestering = Investering om de capaciteit te vergroten.
+Cashflow = Nettowinst plus afschrijvingen: de geldstroom die een investering oplevert.
+Indirecte methode = Cashflow berekenen door de afschrijvingen bij de nettowinst op te tellen.
+### MC
+Waarom tel je bij het berekenen van de cashflow de afschrijvingen op bij de nettowinst?
+* Afschrijvingen zijn wel kosten, maar geen uitgaven
+- Afschrijvingen zijn opbrengsten
+- Afschrijvingen zijn uitgaven die later worden terugbetaald
+- Omdat de Belastingdienst dat eist
+> Het geld is al bij de aankoop uitgegeven.
+### MC
+Een bakkerij koopt een tweede oven omdat de vraag sterk is gestegen. Welk soort investering is dit?
+* Uitbreidingsinvestering
+- Vervangingsinvestering
+- MVO-investering
+- Desinvestering
+> Meer capaciteit.
+
+## § 16.2 / 18.2 | Terugverdientijd
+onderwerp: D.invest
+deelvraag: Hoe snel verdien je een investering terug?
+gens: terugverdientijd
+leerdoelen: BECO-INVES-02
+### UITLEG Terugverdientijd
+De terugverdientijd is de tijd die nodig is om het investeringsbedrag terug te verdienen met de cashflows. Bij gelijke cashflows: terugverdientijd = investering / cashflow per jaar. Bij ongelijke cashflows tel je de cashflows jaar voor jaar op tot het investeringsbedrag is bereikt; het laatste deel reken je om naar maanden.
+Hoe korter de terugverdientijd, hoe kleiner het risico. Nadelen van deze methode: je kijkt niet naar de cashflows ná de terugverdientijd, en de tijdswaarde van geld (interest) telt niet mee.
+### BEGRIPPEN
+Terugverdientijd = Tijd die nodig is om het investeringsbedrag terug te verdienen met de cashflows.
+Tijdswaarde van geld = Een euro nu is meer waard dan een euro later, omdat je hem kunt beleggen.
+### MC
+Een investering van € 90.000 levert vier jaar lang een cashflow op van € 36.000 per jaar. Wat is de terugverdientijd?
+* 2,5 jaar
+- 2 jaar
+- 4 jaar
+- 3 jaar
+> 90.000 / 36.000 = 2,5 jaar = 2 jaar en 6 maanden.
+### MC
+Wat is een nadeel van de terugverdientijdmethode?
+* De cashflows na de terugverdientijd tellen niet mee
+- De methode is te ingewikkeld
+- Je hebt de cashflows niet nodig
+- Je moet de nettocontantewaarde al weten
+> Een investering die later veel oplevert, scoort onterecht slecht.
+
+## § 16.3 / 18.3 | Nettocontantewaardemethode
+onderwerp: D.invest
+deelvraag: Hoe bereken en beoordeel je de nettocontante waarde van een investering?
+gens: ncw, tijdlijnCW
+leerdoelen: BECO-INVES-03
+### UITLEG NCW
+Bij de nettocontantewaardemethode reken je alle toekomstige cashflows (en een eventuele restwaarde) terug naar nu met de vermogenskostenvoet: contante waarde = bedrag × (1 + i)⁻ᵗ.
+NCW = som van de contante waarden van de cashflows − investeringsbedrag.
+Is de NCW positief, dan levert de investering meer op dan de vermogenskosten: investeren. Is de NCW negatief, dan niet. Bij meerdere projecten kies je het project met de hoogste NCW.
+Voordeel: de tijdswaarde van geld en alle cashflows tellen mee. Nadeel: de cashflows zijn schattingen.
+### BEGRIPPEN
+Nettocontante waarde = Contante waarde van alle cashflows min het investeringsbedrag.
+Vermogenskostenvoet = Percentage dat de onderneming minimaal moet verdienen om de vermogensverschaffers te belonen.
+Restwaarde = Opbrengst van een bezit aan het eind van de gebruiksduur.
+Contante waarde = Waarde nu van een bedrag dat je later ontvangt.
+### MC
+De NCW van een investering is − € 12.000. Wat betekent dit?
+* De investering levert minder op dan de vermogenskosten: niet investeren
+- De investering verdient zich in 12 jaar terug
+- De investering levert € 12.000 winst op
+- Het investeringsbedrag is € 12.000
+> Negatieve NCW: niet doen.
+### MC
+Waarom tel je een cashflow van € 10.000 over 3 jaar niet gewoon voor € 10.000 mee?
+* Geld dat je later ontvangt is nu minder waard, door de interest die je misloopt
+- Omdat er belasting over moet worden betaald
+- Omdat de cashflow kan dalen
+- Omdat afschrijving geen uitgave is
+> Tijdswaarde van geld.
+
+## § 16.4 / 18.4 | Eisen financiers
+onderwerp: D.financ
+deelvraag: Waar letten banken en investeerders op als ze geld verstrekken?
+### UITLEG Eisen van financiers
+Een bank kijkt bij een kredietaanvraag naar: het ondernemingsplan, de ondernemer zelf (ervaring, betrouwbaarheid), de verwachte winst en cashflow (kan de onderneming interest en aflossing betalen?), de zekerheden (hypotheek, pandrecht, borgtocht) en kengetallen zoals solvabiliteit en liquiditeit.
+De bank wil vaak dat de onderneming zelf voldoende eigen vermogen inbrengt. Hoe meer eigen vermogen, hoe kleiner het risico voor de bank.
+Een bank kan in het contract convenanten opnemen: voorwaarden waaraan de onderneming moet blijven voldoen, zoals een minimale solvabiliteit. Anders mag de bank de lening opeisen.
+Een investeerder die eigen vermogen inbrengt (zoals een informal investor of een participatiemaatschappij) kijkt vooral naar de groeikansen en wil vaak meebeslissen.
+### BEGRIPPEN
+Kredietwaardigheid = De mate waarin een onderneming in staat wordt geacht een lening terug te betalen.
+Convenant = Voorwaarde in een leningscontract waaraan de lener moet blijven voldoen.
+Borgtocht = Een ander staat garant voor de schuld als de lener niet betaalt.
+Participatiemaatschappij = Onderneming die eigen vermogen verschaft aan andere ondernemingen.
+Informal investor = Particulier die eigen vermogen inbrengt in een startende onderneming.
+### MC
+Een bank eist dat de solvabiliteit van de onderneming niet onder 30% komt. Hoe heet zo'n afspraak?
+* Een convenant
+- Een borgtocht
+- Een pandrecht
+- Een emissie
+> Een voorwaarde in het leningscontract.
+### MC
+Waarom wil een bank dat een starter zelf ook eigen vermogen inbrengt?
+* Dan loopt de ondernemer zelf ook risico en is er een buffer voor verliezen
+- Omdat eigen vermogen goedkoper is voor de bank
+- Omdat de bank dan geen interest hoeft te ontvangen
+- Omdat de wet dat verplicht
+> Eigen vermogen is de buffer voor de schuldeisers.
+
+## § 16.5 / 18.5 | Vraag en aanbod vermogensmarkt
+onderwerp: D.financ
+deelvraag: Hoe komt de prijs van vermogen (de interest) tot stand?
+### UITLEG De vermogensmarkt
+Op de vermogensmarkt komen vraag naar en aanbod van vermogen samen. Vragers: ondernemingen die willen investeren, de overheid, gezinnen (hypotheken). Aanbieders: spaarders, pensioenfondsen, verzekeraars en beleggers.
+De interest is de prijs van vermogen. Bij meer vraag naar vermogen of minder aanbod stijgt de interest. De Europese Centrale Bank beïnvloedt de rente met haar beleid.
+De interest die een onderneming betaalt hangt ook af van het risico (een onderneming met een lage solvabiliteit betaalt meer) en de looptijd (langer lenen is meestal duurder).
+### BEGRIPPEN
+Vermogensmarkt = Markt waar vraag naar en aanbod van vermogen samenkomen.
+Interest = De prijs voor het gebruik van vermogen.
+Risico-opslag = Extra interest die een geldgever vraagt bij een groter risico.
+ECB = Europese Centrale Bank, die de rente in de eurozone beïnvloedt.
+### MC
+Veel ondernemingen willen tegelijk investeren, terwijl het aanbod van spaargeld gelijk blijft. Wat gebeurt er met de interest?
+* Die stijgt
+- Die daalt
+- Die blijft gelijk
+- Die wordt nul
+> Meer vraag bij gelijk aanbod.
+### MC
+Waarom betaalt een onderneming met een lage solvabiliteit een hogere interest?
+* De geldgever loopt meer risico en vraagt een risico-opslag
+- De ECB bepaalt dat
+- Ze leent altijd voor een kortere looptijd
+- Ze heeft meer eigen vermogen
+> Meer risico, hogere prijs.
+
+## § 16.6 / 18.6 | Deelmarkten en toezicht
+onderwerp: D.financ
+deelvraag: Welke deelmarkten heeft de vermogensmarkt en wie houdt er toezicht?
+### UITLEG Deelmarkten
+De geldmarkt is de markt voor kort vermogen (korter dan een jaar), de kapitaalmarkt voor lang vermogen. Op de primaire markt worden nieuwe aandelen en obligaties uitgegeven (emissie); op de secundaire markt (de beurs) worden bestaande effecten verhandeld.
+Er zijn ook andere vormen van financiering, zoals crowdfunding (veel particulieren leggen via een platform een klein bedrag in), leasing (een bezit huren in plaats van kopen) en factoring (vorderingen op debiteuren verkopen aan een factormaatschappij).
+### UITLEG Toezicht
+De Nederlandsche Bank (DNB) houdt prudentieel toezicht: zijn banken, verzekeraars en pensioenfondsen financieel gezond? De Autoriteit Financiële Markten (AFM) houdt gedragstoezicht: gedragen financiële instellingen zich eerlijk tegenover klanten en is de informatie op de beurs juist (bijvoorbeeld geen handel met voorkennis)?
+### BEGRIPPEN
+Geldmarkt = Markt voor kortlopend vermogen.
+Kapitaalmarkt = Markt voor langlopend vermogen.
+Primaire markt = Markt waarop nieuwe effecten worden uitgegeven.
+Secundaire markt = Markt waarop bestaande effecten worden verhandeld, zoals de beurs.
+Crowdfunding = Financiering doordat veel mensen via een platform een klein bedrag inbrengen.
+Factoring = Verkoop van vorderingen op debiteuren aan een factormaatschappij.
+DNB = De Nederlandsche Bank; houdt toezicht op de financiële gezondheid van financiële instellingen.
+AFM = Autoriteit Financiële Markten; houdt toezicht op het gedrag op de financiële markten.
+### MC
+Een belegger koopt aandelen die een ander via de beurs verkoopt. Op welke markt gebeurt dit?
+* De secundaire markt
+- De primaire markt
+- De geldmarkt
+- De arbeidsmarkt
+> Bestaande effecten.
+### MC
+Een bestuurder koopt aandelen van zijn eigen bedrijf vlak voordat slecht nieuws over een concurrent bekend wordt, omdat hij dat nieuws al kende. Welke toezichthouder treedt op?
+* De AFM
+- DNB
+- De ACM
+- De Belastingdienst
+> Handel met voorkennis is gedragstoezicht.

@@ -2,7 +2,7 @@ import os,sys
 d=os.path.dirname(os.path.abspath(__file__))
 r=lambda f:open(os.path.join(d,f),encoding='utf-8').read()
 # Volgorde is belangrijk: eerst de basis, dan de examens, de hoofdstukken en de bibliotheek, dan de app zelf.
-js_files=['data-basis.js','data-examen.js','data-hoofdstukken.js','data-bibliotheek.js','core.js','ui.js','examen.js','docent.js','extra.js','oefen.js']
+js_files=['data-basis.js','data-examen.js','data-hoofdstukken.js','data-bibliotheek.js','core.js','ui.js','examen.js','docent.js','extra.js','oefen.js','reken2.js']
 js='\n'.join(r(f) for f in js_files if os.path.exists(os.path.join(d,f)))
 out=r('shell.html').replace('/*CSS*/',r('app.css')).replace('/*JS*/',js)
 url=os.environ.get('ENDPOINT','')

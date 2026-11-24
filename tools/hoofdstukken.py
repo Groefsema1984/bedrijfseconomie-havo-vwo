@@ -47,18 +47,18 @@ def bibliotheek_vragen():
 
 def lees(pad):
     t = open(pad, encoding='utf-8').read()
-    m = re.search(r'^# HOOFDSTUK (hv|h|v) (\w+) \| (.+)$', t, re.M)
+    m = re.search(r'^# HOOFDSTUK (hv|h|v) (\w+)(?: / v (\w+))? \| (.+)$', t, re.M)
     if not m: raise SystemExit(f'{pad}: geen kop "# HOOFDSTUK h 2 | Titel"')
-    h = {'niv': m.group(1), 'nr': m.group(2), 'titel': m.group(3).strip(), 'par': []}
+    h = {'niv': m.group(1), 'nr': m.group(2), 'vnr': m.group(3), 'titel': m.group(4).strip(), 'par': [], 'pad': pad}
     kop, *pars = re.split(r'^## ', t, flags=re.M)
     for r in kop.split('\n'):
         mm = re.match(r'^(\w+):\s*(.*)$', r.strip())
         if mm: h[mm.group(1)] = mm.group(2).strip()
     for p in pars:
         eerste, _, body = p.partition('\n')
-        mm = re.match(r'§\s*([\w.]+)\s*\|\s*(.+)', eerste.strip())
+        mm = re.match(r'§\s*([\w.-]+)(?:\s*/\s*([\w.-]+))?\s*\|\s*(.+)', eerste.strip())
         if not mm: raise SystemExit(f'{pad}: paragraafkop onleesbaar: {eerste}')
-        par = {'nr': mm.group(1), 'titel': mm.group(2).strip(), 'uitleg': [], 'begrippen': [], 'mc': []}
+        par = {'nr': mm.group(1), 'vnr': mm.group(2), 'titel': mm.group(3).strip(), 'uitleg': [], 'begrippen': [], 'mc': []}
         meta, *delen = re.split(r'^### ', body, flags=re.M)
         for r in meta.split('\n'):
             mm = re.match(r'^(\w+):\s*(.*)$', r.strip())
@@ -84,12 +84,29 @@ def lees(pad):
         h['par'].append(par)
     return h
 
+def splits(h):
+    """Een gedeeld hoofdstuk '# HOOFDSTUK h 11 / v 12' wordt een havo- en een vwo-hoofdstuk.
+    Paragraafkop '§ 11.2 / 12.3 | Titel havo / Titel vwo'; '-' = deze paragraaf bestaat niet op dat niveau."""
+    if not h.get('vnr'): return [h]
+    w = [x.strip() for x in h.get('wereld', '').split(',')]
+    if len(w) != 2: raise SystemExit(f'{h["pad"]}: gedeeld hoofdstuk heeft "wereld: hX, vY" nodig')
+    uit = []
+    for k, (niv, nr, wid) in enumerate((('h', h['nr'], w[0]), ('v', h['vnr'], w[1]))):
+        pars = []
+        for p in h['par']:
+            pnr = p['nr'] if k == 0 else p['vnr']
+            if not pnr or pnr == '-': continue
+            t = [x.strip() for x in p['titel'].split(' / ')]
+            pars.append(dict(p, nr=pnr, niv=niv, titel=t[min(k, len(t) - 1)]))
+        uit.append(dict(h, niv=niv, nr=nr, wereld=wid, par=pars))
+    return uit
+
 def main():
     random.seed(7)
-    hst = [lees(f) for f in sorted(glob.glob(os.path.join(ROOT, 'hoofdstukken', '*.txt'))) if not os.path.basename(f).upper().startswith('LEESMIJ')]
+    hst = [x for f in sorted(glob.glob(os.path.join(ROOT, 'hoofdstukken', '*.txt'))) if not os.path.basename(f).upper().startswith('LEESMIJ') for x in splits(lees(f))]
     index = {(p.get('niv', h['niv']), p['nr']): p for h in hst for p in h['par']}
     bibv = bibliotheek_vragen()
-    core = ''.join(open(os.path.join(ROOT, 'src', f), encoding='utf-8').read() for f in ('core.js', 'extra.js', 'oefen.js'))
+    core = ''.join(open(os.path.join(ROOT, 'src', f), encoding='utf-8').read() for f in ('core.js', 'extra.js', 'oefen.js', 'reken2.js'))
     gens_ok = set(re.findall(r'^\s+(\w+)\(\)\s*\{', core, re.M))
     levels, begrippen, fouten = {}, {}, []
     for h in sorted(hst, key=lambda x: (x['wereld'], x['niv'])):
@@ -98,11 +115,14 @@ def main():
         # alle begrippen van het hoofdstuk: afleiders voor de begrippenvragen
         alle_b = []
         for p in h['par']:
-            ook = index.get(tuple(p['ook'].split())) if p.get('ook') else None
-            if p.get('ook') and not ook: fouten.append(f'{h["wereld"]} §{p["nr"]}: "ook: {p["ook"]}" niet gevonden')
-            p['_b'] = p['begrippen'] + (ook['begrippen'] if ook else [])
-            p['_mc'] = p['mc'] + (ook['mc'] if ook else [])
-            if ook and not p['uitleg']: p['uitleg'] = ook['uitleg']
+            ooks = []
+            for o in [x.strip() for x in p.get('ook', '').split(',') if x.strip()]:
+                ook = index.get(tuple(o.split()))
+                if not ook: fouten.append(f'{h["wereld"]} §{p["nr"]}: "ook: {o}" niet gevonden'); continue
+                ooks.append(ook)
+            p['_b'] = p['begrippen'] + [b for o in ooks for b in o['begrippen']]
+            p['_mc'] = p['mc'] + [m for o in ooks for m in o['mc']]
+            p['_uitleg'] = p['uitleg'] + [u for o in ooks for u in o['uitleg'] if u not in p['uitleg']]
             alle_b += p['_b']
         for p in h['par']:
             niv = p.get('niv', hniv)
@@ -142,7 +162,7 @@ def main():
             lvl = {'id': lid, 'hfd': hfd, 'niv': niv, 'naam': (f'§{p["nr"]} ' if re.match(r'^\d', p['nr']) else '') + p['titel'], 'kort': p.get('kort', h.get('hoofdvraag', '')),
                    'vragen': vr, 'gens': [g.strip() for g in p.get('gens', '').split(',') if g.strip()]}
             if p.get('deelvraag'): lvl['doel'] = p['deelvraag']; lvl['kort'] = p['deelvraag']
-            if p['uitleg']: lvl['uitleg'] = p['uitleg']
+            if p['_uitleg']: lvl['uitleg'] = p['_uitleg']
             for g in lvl['gens']:
                 if g not in gens_ok: fouten.append(f'{d} §{p["nr"]}: generator {g} bestaat niet')
             if len(vr) < 4: fouten.append(f'{d} §{p["nr"]}: maar {len(vr)} vragen')

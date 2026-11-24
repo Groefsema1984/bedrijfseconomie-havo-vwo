@@ -1,0 +1,94 @@
+# HOOFDSTUK h 25 / v 31 | Financiële planning
+wereld: h25, v31
+hoofdvraag: Hoe maak je een financiële planning voor het komende jaar?
+
+## § 25.1 / 31.1 | Begrote beginbalans
+onderwerp: F.planning
+deelvraag: Waarom begint een financiële planning met een (begrote) beginbalans?
+gens: balansInvullen, eigenVermogen
+### UITLEG De begrote beginbalans
+Een financiële planning bestaat uit samenhangende begrotingen: de beginbalans, de resultatenbegroting, de liquiditeitsbegroting en de begrote eindbalans.
+De beginbalans is vaak de verwachte balans aan het begin van het jaar (de begrote eindbalans van het lopende jaar). Een starter stelt een openingsbalans op uit de investerings- en financieringsbegroting: de investeringen aan de debetkant, de financiering aan de creditkant.
+De beginbalans geeft de uitgangspositie: hoeveel liquide middelen er zijn, welke vorderingen en schulden er openstaan (die in het nieuwe jaar worden ontvangen of betaald) en hoe groot het eigen vermogen is.
+### BEGRIPPEN
+Financiële planning = Samenhangende begrotingen voor een komende periode.
+Begrote beginbalans = De verwachte balans aan het begin van de planperiode.
+Openingsbalans = De balans van een onderneming bij de start.
+Balansvergelijking = Activa = eigen vermogen + vreemd vermogen.
+### MC
+Op de beginbalans staat € 18.000 debiteuren. Wat betekent dit voor de liquiditeitsbegroting?
+* Er komen in de eerste periode(n) ontvangsten van € 18.000 binnen van deze klanten
+- Er zijn € 18.000 extra uitgaven
+- De omzet is € 18.000 hoger
+- Er verandert niets
+> Openstaande vorderingen worden ontvangen.
+### MC
+Activa € 400.000, vreemd vermogen € 250.000. Hoeveel is het eigen vermogen?
+* € 150.000
+- € 650.000
+- € 250.000
+- € 400.000
+> 400.000 − 250.000.
+
+## § 25.2 / 31.2 | Resultatenbegroting en liquiditeitsbegroting
+onderwerp: F.planning
+deelvraag: Hoe hangen de resultatenbegroting en de liquiditeitsbegroting samen?
+gens: resultatenbegroting, liquiditeitsbegroting, kostenUitgaven
+### UITLEG Twee begrotingen
+De resultatenbegroting (exploitatiebegroting) laat de verwachte opbrengsten en kosten zien en dus de verwachte winst. De liquiditeitsbegroting laat de verwachte ontvangsten en uitgaven per maand zien.
+Ze verschillen door:
+Afschrijving (wel kosten, geen uitgave).
+Investeringen en aflossingen (wel uitgaven, geen kosten).
+Verkopen en inkopen op rekening (de ontvangst of uitgave valt later).
+Vooruitbetaalde en nog te betalen bedragen.
+Privéopnamen en privéstortingen (bij een eenmanszaak).
+Een onderneming kan dus winst maken en toch geldgebrek hebben, bijvoorbeeld door een grote investering.
+### BEGRIPPEN
+Resultatenbegroting = Begroting van de verwachte opbrengsten, kosten en winst.
+Exploitatiebegroting = Ander woord voor resultatenbegroting.
+Liquiditeitsprobleem = Te weinig liquide middelen om de uitgaven te betalen.
+### MC
+Hoe kan een onderneming winst maken en toch rood komen te staan?
+* Door grote uitgaven die geen kosten zijn, zoals een investering of aflossing
+- Door hoge afschrijvingen
+- Door een hoge omzet
+- Dat kan niet
+> Winst is geen geld.
+### MC
+Een onderneming verkoopt in december voor € 30.000 op rekening; klanten betalen in januari. Waar staat dit bedrag in de begrotingen voor december?
+* In de resultatenbegroting (omzet), niet in de liquiditeitsbegroting van december
+- In de liquiditeitsbegroting van december, niet in de resultatenbegroting
+- In beide in december
+- In geen van beide
+> Opbrengst in december, ontvangst in januari.
+
+## § 25.3 / 31.3 | Begrote eindbalans
+onderwerp: F.planning
+deelvraag: Hoe stel je de begrote eindbalans op?
+gens: balansMutatie
+### UITLEG De begrote eindbalans
+De begrote eindbalans volgt uit de beginbalans, de resultatenbegroting en de liquiditeitsbegroting:
+Vaste activa eind = begin + investeringen − afschrijvingen.
+Liquide middelen eind = het eindsaldo van de liquiditeitsbegroting.
+Debiteuren en crediteuren eind = wat aan het eind nog openstaat.
+Eigen vermogen eind = begin + begrote winst (− privéopnamen of dividend).
+Lening eind = begin − aflossingen.
+Als debet en credit niet gelijk zijn, zit er een fout in een van de begrotingen. Met de begrote eindbalans kan het management ook kengetallen berekenen, zoals de verwachte solvabiliteit.
+### BEGRIPPEN
+Begrote eindbalans = De verwachte balans aan het eind van de planperiode.
+Eindsaldo liquide middelen = Het saldo aan het eind van de liquiditeitsbegroting.
+Aflossing = Terugbetaling van een deel van een lening.
+### MC
+Inventaris begin € 60.000, investering € 20.000, afschrijving € 12.000. Wat staat er op de begrote eindbalans?
+* € 68.000
+- € 80.000
+- € 72.000
+- € 48.000
+> 60.000 + 20.000 − 12.000.
+### MC
+Waar komt het bedrag aan liquide middelen op de begrote eindbalans vandaan?
+* Uit het eindsaldo van de liquiditeitsbegroting
+- Uit het nettoresultaat van de resultatenbegroting
+- Uit de beginbalans
+- Uit de afschrijvingen
+> De begrotingen sluiten op elkaar aan.

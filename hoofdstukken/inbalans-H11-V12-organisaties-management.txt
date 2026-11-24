@@ -1,0 +1,197 @@
+# HOOFDSTUK h 11 / v 12 | Organisaties en management
+wereld: h11, v12
+hoofdvraag: Hoe is een organisatie opgebouwd en hoe stuurt het management de medewerkers aan?
+
+## § 11.1 / 12.1 | Besturen van organisaties
+onderwerp: C.org
+deelvraag: Welke taken heeft het management?
+### UITLEG Managementtaken
+Het management bestuurt de organisatie. De taken volgen de beleidscyclus: plannen (doelen stellen en bepalen hoe je ze haalt), organiseren (taken verdelen en mensen en middelen inzetten), leiden (medewerkers aansturen en motiveren) en controleren (nagaan of de doelen zijn gehaald en bijsturen). Dit heet ook de PDCA-cyclus: plan, do, check, act.
+### UITLEG Niveaus van beslissingen
+Het topmanagement neemt strategische beslissingen voor de lange termijn (bijvoorbeeld een nieuwe markt betreden). Het middenmanagement neemt tactische beslissingen voor de middellange termijn (bijvoorbeeld het budget per afdeling). Het lager management neemt operationele beslissingen over het dagelijkse werk (bijvoorbeeld het rooster).
+Een missie beschrijft waarom de organisatie bestaat; een visie beschrijft waar ze over een aantal jaren wil staan.
+### BEGRIPPEN
+Management = De leiding van een organisatie.
+PDCA-cyclus = Plan, do, check, act: de cyclus van plannen, uitvoeren, controleren en bijsturen.
+Strategische beslissing = Beslissing voor de lange termijn over de richting van de hele organisatie.
+Tactische beslissing = Beslissing voor de middellange termijn over hoe de strategie wordt uitgevoerd.
+Operationele beslissing = Beslissing over het dagelijkse werk.
+Missie = Waarom de organisatie bestaat.
+Visie = Waar de organisatie in de toekomst wil staan.
+### MC
+De teamleider van een supermarkt maakt het werkrooster voor volgende week. Wat voor beslissing is dit?
+* Een operationele beslissing
+- Een strategische beslissing
+- Een tactische beslissing
+- Een missie
+> Het dagelijkse werk.
+### MC
+Een bedrijf vergelijkt aan het eind van het kwartaal de werkelijke omzet met het doel en past daarna de plannen aan. Welke managementtaak is vooral het vergelijken?
+* Controleren
+- Plannen
+- Organiseren
+- Leiden
+> Check in de PDCA-cyclus.
+
+## § 11.2 / - | Organisatiestructuren
+onderwerp: C.org
+deelvraag: Welke organisatiestructuren zijn er?
+ook: v 12.2, v 12.3
+
+## § - / 12.2 | Lijn en lijn-staforganisatie
+onderwerp: C.org
+deelvraag: Wat is het verschil tussen een lijnorganisatie en een lijn-staforganisatie?
+gens: organogram
+### UITLEG Organogram en lijnorganisatie
+Een organogram is een schema van de organisatiestructuur: wie geeft leiding aan wie. In een lijnorganisatie heeft elke medewerker één baas en lopen de bevelen van boven naar beneden. Voordeel: duidelijk wie de baas is. Nadeel: lange communicatielijnen en de leidinggevenden moeten alles weten.
+### UITLEG Lijn-staforganisatie
+In een lijn-staforganisatie zijn er ook stafafdelingen of stafmedewerkers. Zij adviseren de lijn met hun specialistische kennis (bijvoorbeeld juridisch advies of P&O), maar hebben geen bevoegdheid om opdrachten te geven aan de lijn. In het organogram staat de staf vaak met een stippellijn of opzij van de lijn.
+Nadeel: soms conflicten tussen staf (specialist) en lijn (die de beslissing neemt).
+### BEGRIPPEN
+Organogram = Schematische weergave van de organisatiestructuur.
+Lijnorganisatie = Organisatie waarin elke medewerker één leidinggevende heeft en opdrachten van boven naar beneden gaan.
+Lijn-staforganisatie = Lijnorganisatie met stafafdelingen die adviseren zonder bevoegdheid in de lijn.
+Staffunctie = Adviserende functie zonder bevoegdheid om opdrachten te geven.
+Hiërarchie = Rangorde van functies in een organisatie.
+### MC
+Wat is een kenmerk van een staffunctie?
+* Ze adviseert, maar mag geen opdrachten geven aan de lijn
+- Ze heeft de hoogste bevoegdheid in de organisatie
+- Ze voert het productiewerk uit
+- Ze heeft altijd de grootste spanwijdte
+> Advies zonder zeggenschap.
+### MC
+Wat is een nadeel van een lijnorganisatie in een grote organisatie?
+* De communicatielijnen zijn lang, zodat beslissingen traag gaan
+- Medewerkers hebben meerdere bazen
+- Er is geen duidelijke hiërarchie
+- Er zijn te veel stafafdelingen
+> Alles moet via de lijn.
+
+## § - / 12.3 | Andere organisatiestructuren
+onderwerp: C.org
+deelvraag: Welke andere organisatiestructuren zijn er?
+### UITLEG Andere structuren
+Functionele organisatie: een medewerker krijgt opdrachten van verschillende specialisten, elk voor hun eigen vakgebied (bedacht door Taylor). Voordeel: specialistische leiding. Nadeel: meerdere bazen.
+Matrixorganisatie: een medewerker valt onder een functionele leidinggevende (bijvoorbeeld hoofd ICT) én onder een product- of projectleider. Goed voor samenwerking tussen afdelingen, maar er kunnen conflicten zijn over wie voorrang krijgt.
+Projectorganisatie: tijdelijk team uit verschillende afdelingen voor één project.
+Indeling van afdelingen kan naar functie (inkoop, productie, verkoop), naar product (divisies per productgroep) of naar markt of regio. Bij centralisatie worden beslissingen hoog in de organisatie genomen; bij decentralisatie laag in de organisatie.
+Een platte organisatie heeft weinig hiërarchische lagen; een hoge (steile) organisatie veel.
+### BEGRIPPEN
+Functionele organisatie = Organisatie waarin medewerkers opdrachten krijgen van verschillende specialisten.
+Matrixorganisatie = Organisatie waarin medewerkers onder een functionele leidinggevende en een product- of projectleider vallen.
+Projectorganisatie = Tijdelijke organisatie voor de uitvoering van een project.
+Centralisatie = Beslissingen worden hoog in de organisatie genomen.
+Decentralisatie = Beslissingen worden lager in de organisatie genomen.
+Platte organisatie = Organisatie met weinig hiërarchische lagen.
+### MC
+Een programmeur werkt voor hoofd ICT en tegelijk voor de projectleider van een nieuwe app. Welke structuur is dit?
+* Matrixorganisatie
+- Lijnorganisatie
+- Lijn-staforganisatie
+- Platte organisatie
+> Twee leidinggevenden: functioneel en project.
+### MC
+Een winkelketen laat de filiaalmanagers zelf beslissen over het assortiment en de openingstijden. Hoe heet dit?
+* Decentralisatie
+- Centralisatie
+- Hiërarchie
+- Functionele organisatie
+> De beslissingen liggen lager in de organisatie.
+
+## § 11.3 / 12.4 | Motivatie
+onderwerp: C.org
+deelvraag: Wat motiveert medewerkers?
+### UITLEG Maslow
+Volgens de behoeftepiramide van Maslow heeft een mens vijf soorten behoeften: lichamelijke behoeften, veiligheid, sociale behoeften, erkenning (waardering) en zelfontplooiing. Pas als een lagere behoefte vervuld is, gaat een hogere behoefte motiveren.
+Voor een werkgever betekent dit bijvoorbeeld: een goed loon en een vast contract (lager in de piramide), een goede sfeer, complimenten en promotie, en uitdagend werk met ruimte om te groeien (hoger in de piramide).
+### UITLEG Herzberg en McGregor
+Herzberg onderscheidt hygiënefactoren (loon, arbeidsomstandigheden, zekerheid) en motivatoren (erkenning, verantwoordelijkheid, uitdaging). Slechte hygiënefactoren maken ontevreden, maar goede hygiënefactoren motiveren niet. Motivatie komt van de motivatoren.
+McGregor beschrijft twee mensbeelden: theorie X (de mens werkt niet graag en moet worden gecontroleerd) en theorie Y (de mens wil verantwoordelijkheid en werkt graag).
+### BEGRIPPEN
+Motivatie = De drijfveer om iets te doen.
+Behoeftepiramide van Maslow = Vijf lagen behoeften, van lichamelijke behoeften tot zelfontplooiing.
+Zelfontplooiing = De behoefte om je talenten te ontwikkelen.
+Hygiënefactoren = Factoren zoals loon en werkomstandigheden die ontevredenheid voorkomen, maar niet motiveren.
+Motivatoren = Factoren zoals erkenning en verantwoordelijkheid die echt motiveren.
+Theorie X en Y = Twee mensbeelden van McGregor: de mens moet worden gecontroleerd (X) of wil zelf verantwoordelijkheid (Y).
+### MC
+Volgens Herzberg: wat gebeurt er als een bedrijf het loon verhoogt terwijl het werk saai blijft?
+* De ontevredenheid neemt af, maar de motivatie neemt nauwelijks toe
+- De motivatie stijgt sterk
+- De medewerkers worden ontevredener
+- Er verandert niets aan de tevredenheid
+> Loon is een hygiënefactor.
+### MC
+Een manager laat zijn team zelf de planning maken omdat hij gelooft dat ze graag verantwoordelijkheid nemen. Bij welk mensbeeld past dit?
+* Theorie Y
+- Theorie X
+- Hygiënefactoren
+- Lichamelijke behoeften
+> Vertrouwen in de medewerker.
+### MC
+Bij welke laag van Maslow hoort een vast contract?
+* Veiligheid
+- Sociale behoeften
+- Erkenning
+- Zelfontplooiing
+> Zekerheid over werk en inkomen.
+
+## § 11.4 / 12.5 | Omspanningsvermogen en spanwijdte
+onderwerp: C.org
+deelvraag: Aan hoeveel medewerkers kan een leidinggevende leiding geven?
+leerdoelen: BECO-ORGAN-02
+gens: organogram
+### UITLEG Spanwijdte en spandiepte
+De spanwijdte is het aantal medewerkers dat direct onder één leidinggevende valt. De spandiepte is het aantal hiërarchische niveaus in de organisatie.
+Het omspanningsvermogen is het aantal medewerkers waaraan een leidinggevende goed leiding kan geven. Dat hangt af van: de aard van het werk (eenvoudig, gelijksoortig werk: grote spanwijdte), de deskundigheid en zelfstandigheid van de medewerkers, de kwaliteiten van de leidinggevende en de hulpmiddelen (zoals ICT en staf).
+Bij een kleine spanwijdte heb je meer lagen nodig (hoge organisatie); bij een grote spanwijdte minder lagen (platte organisatie).
+### BEGRIPPEN
+Spanwijdte = Aantal medewerkers dat direct onder één leidinggevende valt.
+Spandiepte = Aantal hiërarchische niveaus in een organisatie.
+Omspanningsvermogen = Aantal medewerkers waaraan iemand goed leiding kan geven.
+### MC
+Wanneer kan de spanwijdte van een leidinggevende groot zijn?
+* Als de medewerkers eenvoudig, gelijksoortig werk doen en zelfstandig zijn
+- Als het werk ingewikkeld en steeds anders is
+- Als de medewerkers net in dienst zijn
+- Als er veel stafafdelingen zijn die opdrachten geven
+> Weinig begeleiding nodig.
+### MC
+Een organisatie maakt de spanwijdte van de managers groter. Wat gebeurt er met de spandiepte als het aantal medewerkers gelijk blijft?
+* Die wordt kleiner: er zijn minder lagen nodig
+- Die wordt groter
+- Die blijft gelijk
+- Die wordt nul
+> De organisatie wordt platter.
+
+## § 11.5 / 12.6 | Managementmethoden
+onderwerp: C.org
+deelvraag: Welke managementmethoden en leiderschapsstijlen zijn er?
+### UITLEG Managementmethoden
+Management by objectives (MBO): leidinggevende en medewerker spreken samen doelen af; de medewerker bepaalt zelf hoe hij die haalt.
+Management by exception (MBE): de medewerker werkt zelfstandig en de leidinggevende grijpt alleen in bij grote afwijkingen.
+Management by walking around (MBWA): de leidinggevende loopt regelmatig rond op de werkvloer om contact te houden.
+### UITLEG Leiderschapsstijlen
+Autoritair (directief): de leider beslist en geeft opdrachten. Democratisch (participatief): de leider betrekt medewerkers bij beslissingen. Laissez-faire: de leider laat de medewerkers vrij.
+Situationeel leiderschap (Hersey en Blanchard): de leider past zijn stijl aan de taakvolwassenheid van de medewerker aan. Een beginner krijgt veel sturing (instrueren), een ervaren en gemotiveerde medewerker krijgt veel ruimte (delegeren); daartussen liggen overtuigen en ondersteunen.
+### BEGRIPPEN
+Management by objectives = Leidinggevende en medewerker spreken doelen af; de medewerker kiest zelf de aanpak.
+Management by exception = De leidinggevende grijpt alleen in bij grote afwijkingen.
+Management by walking around = De leidinggevende houdt contact door op de werkvloer rond te lopen.
+Situationeel leiderschap = De leiderschapsstijl past zich aan de taakvolwassenheid van de medewerker aan.
+Delegeren = Taken en bevoegdheden overdragen aan een medewerker.
+### MC
+Een verkoper spreekt met zijn manager af dat hij dit jaar 40 nieuwe klanten werft. Hoe hij dat doet, mag hij zelf weten. Welke methode is dit?
+* Management by objectives
+- Management by exception
+- Management by walking around
+- Autoritair leiderschap
+> Doelen afspreken.
+### MC
+Welke stijl past volgens situationeel leiderschap het best bij een nieuwe, onervaren medewerker?
+* Instrueren: duidelijke opdrachten en veel controle
+- Delegeren: alle verantwoordelijkheid overdragen
+- Laissez-faire
+- Management by exception
+> Lage taakvolwassenheid vraagt veel sturing.

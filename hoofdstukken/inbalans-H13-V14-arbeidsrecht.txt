@@ -1,0 +1,148 @@
+# HOOFDSTUK h 13 / v 14 | Arbeidsrecht
+wereld: h13, v14
+hoofdvraag: Welke regels gelden er tussen werkgever en werknemer?
+
+## § 13.1 / 14.1 | Arbeidsovereenkomst
+onderwerp: C.arbeid
+deelvraag: Wat is een arbeidsovereenkomst en welke regels horen erbij?
+leerdoelen: BECO-PERSO-02
+### UITLEG Kenmerken
+Er is sprake van een arbeidsovereenkomst als aan drie eisen is voldaan: de werknemer verricht persoonlijk arbeid, de werkgever betaalt loon, en er is een gezagsverhouding (de werkgever mag opdrachten geven).
+Een contract kan voor bepaalde tijd zijn (tijdelijk) of voor onbepaalde tijd (vast). Volgens de ketenregeling krijg je na drie tijdelijke contracten, of na drie jaar, automatisch een vast contract.
+Een proeftijd is maximaal 1 maand bij een tijdelijk contract van langer dan 6 maanden en maximaal 2 maanden bij een vast contract. Bij een contract van 6 maanden of korter mag geen proeftijd.
+### UITLEG Cao en andere afspraken
+In een cao (collectieve arbeidsovereenkomst) maken werkgevers(organisaties) en vakbonden afspraken voor een hele bedrijfstak of onderneming, bijvoorbeeld over lonen, werktijden en vakantie. De overheid kan een cao algemeen verbindend verklaren: dan geldt hij voor alle werkgevers in die bedrijfstak.
+Het wettelijk minimumloon is het laagste loon dat een werkgever mag betalen. Met een concurrentiebeding mag een werknemer na vertrek een tijd niet bij een concurrent werken; bij een tijdelijk contract mag dat alleen als de werkgever het goed motiveert.
+### BEGRIPPEN
+Arbeidsovereenkomst = Overeenkomst waarbij de werknemer persoonlijk arbeid verricht tegen loon, in een gezagsverhouding.
+Gezagsverhouding = De werkgever mag de werknemer opdrachten geven.
+Ketenregeling = Na drie tijdelijke contracten of drie jaar ontstaat een vast contract.
+Proeftijd = Periode aan het begin van een contract waarin beide partijen direct kunnen opzeggen.
+Cao = Collectieve arbeidsovereenkomst: afspraken tussen werkgevers en vakbonden voor een bedrijfstak of onderneming.
+Concurrentiebeding = Afspraak dat een werknemer na vertrek een tijd niet bij een concurrent mag werken.
+### MC
+Een webbouwer maakt voor een vaste prijs een website en bepaalt zelf hoe en wanneer hij werkt. Waarom is dit geen arbeidsovereenkomst?
+* Er is geen gezagsverhouding
+- Er wordt geen arbeid verricht
+- Er is geen proeftijd afgesproken
+- Hij krijgt geen minimumloon
+> Hij werkt als opdrachtnemer, niet als werknemer.
+### MC
+Sanne krijgt een tijdelijk contract van 6 maanden met een proeftijd van 1 maand. Klopt dat?
+* Nee, bij een contract van 6 maanden of korter is geen proeftijd toegestaan
+- Ja, 1 maand is altijd toegestaan
+- Nee, de proeftijd moet 2 maanden zijn
+- Ja, als het in de cao staat mag het altijd
+> Proeftijd mag pas bij een contract van langer dan 6 maanden.
+### MC
+Wanneer krijgt een werknemer volgens de ketenregeling een vast contract?
+* Na meer dan drie tijdelijke contracten of na meer dan drie jaar
+- Na één jaar
+- Na het eerste tijdelijke contract
+- Alleen als de cao dat zegt
+> Drie contracten of drie jaar.
+
+## § 13.2 / 14.2 | Wetgeving ontslag en Arbo
+onderwerp: C.arbeid
+deelvraag: Hoe kan een arbeidsovereenkomst eindigen en wat regelt de Arbowet?
+leerdoelen: BECO-PERSO-05, BECO-PERSO-06, BECO-PERSO-07
+gens: transitievergoeding
+### UITLEG Ontslagroutes
+Een tijdelijk contract eindigt vanzelf aan het eind van de looptijd (wel aanzeggen: een maand van tevoren laten weten of het contract wordt verlengd). Een vast contract kan eindigen op deze manieren:
+Met wederzijds goedvinden: werkgever en werknemer sluiten een vaststellingsovereenkomst.
+Via het UWV: bij ontslag om bedrijfseconomische redenen (reorganisatie, slechte resultaten) of na twee jaar ziekte.
+Via de kantonrechter: bij redenen die met de persoon te maken hebben, zoals disfunctioneren, verwijtbaar gedrag of een verstoorde arbeidsrelatie.
+Ontslag op staande voet: bij een dringende reden, zoals diefstal of geweld. Dit moet direct en de reden moet direct worden genoemd.
+Bij ontslag op initiatief van de werkgever krijgt de werknemer meestal een transitievergoeding: 1/3 maandsalaris per dienstjaar.
+### UITLEG Arbo en ziekte
+De Arbowet verplicht de werkgever te zorgen voor veilige en gezonde arbeidsomstandigheden. Bij ziekte betaalt de werkgever het loon twee jaar lang door (minstens 70%). Tijdens ziekte geldt een opzegverbod. Werkgever en werknemer moeten samen werken aan re-integratie.
+### BEGRIPPEN
+Vaststellingsovereenkomst = Overeenkomst waarin werkgever en werknemer afspraken maken over het beëindigen van het contract.
+UWV-route = Ontslag met toestemming van het UWV bij bedrijfseconomische redenen of langdurige ziekte.
+Kantonrechter = Rechter die beslist over ontslag om redenen die met de persoon te maken hebben.
+Ontslag op staande voet = Direct ontslag wegens een dringende reden.
+Transitievergoeding = Vergoeding bij ontslag: 1/3 maandsalaris per dienstjaar.
+Opzegverbod = Verbod om een werknemer te ontslaan tijdens bijvoorbeeld ziekte.
+Re-integratie = Terugkeer van een zieke werknemer naar werk.
+### MC
+Een fabriek moet een afdeling sluiten omdat de omzet sterk is gedaald. Welke ontslagroute hoort hierbij?
+* Via het UWV
+- Via de kantonrechter
+- Ontslag op staande voet
+- Er is geen ontslag mogelijk
+> Bedrijfseconomische redenen.
+### MC
+Een werknemer verdient € 3.600 per maand en heeft 6 jaar gewerkt. Hoe hoog is de transitievergoeding?
+* € 7.200
+- € 21.600
+- € 3.600
+- € 10.800
+> 1/3 × 3.600 × 6 = € 7.200.
+### MC
+Hoe lang betaalt een werkgever het loon door van een zieke werknemer?
+* Twee jaar, minstens 70%
+- Zes weken
+- Een jaar, 100%
+- Niet: het UWV betaalt vanaf de eerste dag
+> Loondoorbetaling bij ziekte.
+
+## § 13.3 / 14.3 | Zzp en overige diensten van derden
+onderwerp: C.arbeid
+deelvraag: Welke vormen van flexibele arbeid zijn er en wat zijn de voor- en nadelen?
+leerdoelen: BECO-PERSO-04
+### UITLEG Flexibele arbeid
+Een zzp'er (zelfstandige zonder personeel) werkt op basis van een opdracht, niet van een arbeidsovereenkomst. Voor de opdrachtgever zijn er geen werkgeverslasten, geen loondoorbetaling bij ziekte en geen ontslagregels. Wel is het uurtarief vaak hoger. Er mag geen sprake zijn van schijnzelfstandigheid: als de zzp'er eigenlijk werkt als werknemer, kan de Belastingdienst toch loonheffing eisen.
+Een uitzendkracht is in dienst van het uitzendbureau en werkt bij een inlener. Bij payrolling is de werknemer formeel in dienst van een payrollbedrijf, maar wordt hij geworven en aangestuurd door de opdrachtgever. Bij detachering leent een bedrijf een specialist uit aan een ander bedrijf.
+Een oproepkracht werkt als het werk er is (bijvoorbeeld met een nulurencontract).
+### BEGRIPPEN
+Zzp'er = Zelfstandige zonder personeel die opdrachten uitvoert.
+Schijnzelfstandigheid = Iemand werkt als zelfstandige, maar is in werkelijkheid een werknemer.
+Uitzendkracht = Werknemer van een uitzendbureau die bij een ander bedrijf werkt.
+Payrolling = De werknemer is formeel in dienst van een payrollbedrijf, maar werkt en wordt aangestuurd bij de opdrachtgever.
+Detachering = Een bedrijf leent een eigen werknemer uit aan een ander bedrijf.
+Oproepkracht = Werknemer die alleen werkt als hij wordt opgeroepen.
+### MC
+Waarom huurt een bedrijf voor een project van drie maanden een zzp'er in?
+* Er zijn geen werkgeverslasten, geen loondoorbetaling bij ziekte en geen ontslagregels
+- Een zzp'er is altijd goedkoper per uur
+- Een zzp'er valt onder de cao van het bedrijf
+- Een zzp'er heeft een proeftijd van twee maanden
+> Flexibel en zonder werkgeversrisico's.
+### MC
+Bij wie is een uitzendkracht in dienst?
+* Bij het uitzendbureau
+- Bij het bedrijf waar hij werkt
+- Bij het UWV
+- Bij niemand, hij is zzp'er
+> Het bedrijf is de inlener.
+
+## § 13.4 / 14.4 | Ondernemingsraad, medezeggenschapsraad en vakbond
+onderwerp: C.arbeid
+deelvraag: Hoe hebben werknemers invloed op hun organisatie?
+leerdoelen: BECO-PERSO-08
+### UITLEG Ondernemingsraad
+Een onderneming met 50 of meer werknemers moet een ondernemingsraad (OR) hebben. De OR wordt gekozen door de werknemers en praat namens hen mee met de bestuurder.
+Rechten van de OR: informatierecht (de OR krijgt informatie over de gang van zaken), adviesrecht (bij belangrijke economische besluiten, zoals een fusie, reorganisatie, verhuizing of grote investering), instemmingsrecht (bij regelingen voor het personeel, zoals werktijden, pensioen, beoordeling en arbo) en initiatiefrecht (zelf voorstellen doen).
+In het onderwijs heet het medezeggenschapsorgaan de medezeggenschapsraad (MR), met ouders, leerlingen en personeel.
+### UITLEG Vakbond
+Een vakbond komt op voor de belangen van werknemers in een bedrijfstak. De vakbond onderhandelt met werkgevers over de cao, geeft leden juridisch advies en kan acties organiseren, zoals een staking.
+### BEGRIPPEN
+Ondernemingsraad = Gekozen vertegenwoordiging van het personeel in ondernemingen met minstens 50 werknemers.
+Adviesrecht = Recht van de OR om advies te geven bij belangrijke economische besluiten.
+Instemmingsrecht = Recht van de OR om in te stemmen met regelingen die het personeel raken.
+Medezeggenschapsraad = Medezeggenschapsorgaan op een school.
+Vakbond = Organisatie die de belangen van werknemers behartigt en over de cao onderhandelt.
+### MC
+De directie wil een nieuwe regeling voor werktijden invoeren. Welk recht heeft de OR?
+* Instemmingsrecht
+- Adviesrecht
+- Alleen informatierecht
+- Geen enkel recht
+> Personeelsregelingen vragen instemming.
+### MC
+De directie wil de onderneming laten fuseren met een concurrent. Welk recht heeft de OR?
+* Adviesrecht
+- Instemmingsrecht
+- Vetorecht
+- Initiatiefrecht
+> Belangrijk economisch besluit.
