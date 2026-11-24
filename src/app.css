@@ -322,3 +322,7 @@ th{font:800 12px var(--kop);text-transform:uppercase;letter-spacing:.05em;color:
 .schema input,.schema select{min-height:0;height:38px;padding:4px 8px}
 .schema th[scope=row]{font:600 15px var(--tekst,inherit);text-transform:none;letter-spacing:0;color:var(--ink);background:var(--kaart)}
 .schema td{vertical-align:middle}
+/* casustrainer */
+details.casusIntro{font-size:14px;color:var(--zacht);margin:0 0 8px}
+details.casusIntro summary{cursor:pointer;font-weight:600}
+.hint{display:block;background:color-mix(in srgb,var(--acc) 12%,transparent);border-radius:10px;padding:8px 12px;font-size:15px}

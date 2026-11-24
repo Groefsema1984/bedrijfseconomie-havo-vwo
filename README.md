@@ -29,3 +29,10 @@ python3 tools/examen_beco.py --img MAP  # pdf's uit MAP ({ex}-o/b/u.pdf) -> exam
 ```
 
 De tekstbestanden in examens/bron zijn gemaakt met `pdftotext -layout` uit de pdf's in 04_COMPLETE_EINDEXAMENS op de Drive.
+
+## Casustrainer (src/casus.js)
+Grote opgaven in stappen over één bedrijf, zoals op het examen, elke keer met nieuwe getallen. Een casus staat in `CASUSSEN`
+met `maak()`, die een intro en een lijst stappen teruggeeft. Een stap is een gewone vraag (`reken`, `mc` of `schema`), eventueel met
+`hint`, `niv:'v'` (alleen vwo) en `tol` (toegestane afwijking). Casussen staan onder Leren → Casustrainer en bij de Toponderwerpen.
+In hetzelfde bestand: de Werkplaats-oefeningen tijdlijn van een lening, voordelig of nadelig en teller en noemer, en extra formules
+voor de formulekaart.
