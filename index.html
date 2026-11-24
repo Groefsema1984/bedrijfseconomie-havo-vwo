@@ -66625,13 +66625,29 @@ const _klaarC=klaar; klaar=function(){ if(Q.modus!=='casus') return _klaarC(); c
 
 // ---------- scherm ----------
 FOTO.casus=FOTO.dF||FOTO.dA;
-function casusKnop(top){ const c=casusVoor().filter(x=>x.top.includes(top)); return c.map(x=>`<button class="knop zacht" style="min-height:36px;padding:4px 12px;font-size:14px" onclick="startCasus('${x.id}')">🧩 Casus: ${esc(x.titel)}</button>`).join('') }
+function casusKnop(top){ const c=casusRang().filter(x=>x.top.includes(top)); return c.map(x=>`<button class="knop zacht" style="min-height:36px;padding:4px 12px;font-size:14px" onclick="startCasus('${x.id}')">🧩 Casus: ${esc(x.titel)}</button>`).join('') }
+// Volgorde en keuze volgen het eindexamen van het eigen niveau: gewicht = aandeel van de examenpunten (2021-2026) van de onderwerpen van de casus.
+// Dekking: welk deel van een examenonderwerp de casus oefent (een breed onderwerp als vreemd vermogen telt maar deels mee).
+const CASUS_DEKKING={lening:{vreemdvermogen:.5,periodisering:1},annuiteit:{vreemdvermogen:.3,woning:.5},krediet:{vreemdvermogen:.2,prive:.3},
+  pand:{periodisering:.5,liquiditeitsbegroting:.7,afschrijving:1},nacalc:{kostprijs:.5,verschillen:1},breakeven:{breakeven:1,kostprijs:.5},
+  emissie:{aandelen:.7},winst:{winstverdeling:1,vpb:.7},kengetal:{kengetallen:1,cashflow:.7},eindbalans:{balans:.7,resultaat:.5,verslaggeving:.3},
+  obligatie:{obligaties:1,beleggen:.3},afschrijving:{afschrijving:1}};
+function casusGewicht(c){ const t=typeof exTop==='function'?exTop():[]; const dk=CASUS_DEKKING[c.id]||{}; return Math.round(t.filter(o=>c.top.includes(o.id)).reduce((a,o)=>a+o.pct*(dk[o.id]??1),0)*10)/10 }
+const casusRang = () => casusVoor().map(c=>Object.assign({},c,{w:casusGewicht(c)})).sort((a,b)=>b.w-a.w);
+// Examentraining: kies een casus naar examengewicht, met voorrang voor casussen die je nog niet (goed) gemaakt hebt.
+function startCasusExamen(){ const l=casusRang(); const sc=c=>{ const r=(S.cs||{})[c.id]; return Math.max(0.5,c.w)*(r?Math.max(0.25,1-r.b/100):1.5) };
+  let x=Math.random()*l.reduce((a,c)=>a+sc(c),0); for(const c of l){ x-=sc(c); if(x<=0) return startCasus(c.id) } startCasus(l[0].id) }
 SCHERMEN.casus=function(){
-  const groep=(p,t)=>{ const l=casusVoor().filter(c=>c.prio===p); return l.length?`<div class="sectie">${t}</div><div class="kaart">${l.map(c=>{ const r=(S.cs||{})[c.id]; const top=c.top.map(t=>((typeof EX_ONDERWERPEN!=='undefined'&&EX_ONDERWERPEN.find(o=>o.id===t))||{}).naam).filter(Boolean);
-    return `<button class="uitdaging" onclick="startCasus('${c.id}')"><span class="thumb" style="background:var(--bg);display:grid;place-items:center;font-size:28px">${c.ic}</span><span><b>${esc(c.titel)}${c.niv==='v'?' <span class="chip" style="font-size:11px">vwo</span>':''}</b><small>${esc(c.sub)}${top.length?` · examen: ${esc(top.join(', '))}`:''}${r?` · beste score ${r.b}% (${r.n}×)`:''}</small></span></button>` }).join('')}</div>`:'' };
+  const l=casusRang(), max=Math.max(1,...l.map(c=>c.w));
+  const tegel=c=>{ const r=(S.cs||{})[c.id]; const top=c.top.map(t=>((typeof EX_ONDERWERPEN!=='undefined'&&EX_ONDERWERPEN.find(o=>o.id===t))||{}).naam).filter(Boolean);
+    return `<button class="uitdaging" onclick="startCasus('${c.id}')"><span class="thumb" style="background:var(--bg);display:grid;place-items:center;font-size:28px">${c.ic}</span><span style="flex:1"><b>${esc(c.titel)}${c.niv==='v'?' <span class="chip" style="font-size:11px">vwo</span>':''}</b><small>${esc(c.sub)}</small>
+      <small><b>oefent ${nl1(c.w)}% van de examenpunten ${NIVEAUS[niv()]}</b>${top.length?` (${esc(top.join(', '))})`:''}${r?` · jouw beste score ${r.b}% (${r.n}×)`:' · nog niet gemaakt'}</small><div class="balk" style="margin-top:6px"><i style="width:${Math.round(c.w/max*100)}%"></i></div></span></button>` };
+  const g1=l.slice(0,4), g2=l.slice(4,8), g3=l.slice(8);
+  const groep=(x,t)=>x.length?`<div class="sectie">${t}</div><div class="kaart">${x.map(tegel).join('')}</div>`:'';
   return `<div class="wrap" style="max-width:760px">${kop('Casustrainer',"go('leren')")}
-   <div class="kaart" style="margin-bottom:6px"><p style="margin:0">Een casus is een grote opgave over één bedrijf, in stappen die op elkaar voortbouwen, net als op het examen. Elke keer andere getallen. Weet je het niet? Gebruik de 💡 hint. Heb je een stap fout, dan zie je het juiste antwoord en reken je daarmee verder.</p></div>
-   ${groep(1,'Meeste examenpunten')}${groep(2,'Vaak op het examen')}${groep(3,'Ook belangrijk')}</div>${VOET()}`;
+   <div class="kaart" style="margin-bottom:6px"><p style="margin:0 0 10px">Een casus is een grote opgave over één bedrijf, in stappen die op elkaar voortbouwen, net als op het examen. Elke keer andere getallen. De casussen staan op volgorde van hoeveel punten hun onderwerpen opleverden in de centrale examens ${NIVEAUS[niv()]} van 2021 tot en met 2026. Weet je het niet? Gebruik de 💡 hint. Heb je een stap fout, dan zie je het juiste antwoord en reken je daarmee verder.</p>
+   <button class="knop" onclick="startCasusExamen()">🎯 Examentraining: kies een casus voor mij</button><p class="zacht" style="font-size:13px;margin:6px 0 0">Kiest vaker de casussen met veel examenpunten en de casussen waar jij nog niet goed in bent.</p></div>
+   ${groep(g1,'Meeste examenpunten: begin hier')}${groep(g2,'Vaak op het examen')}${groep(g3,'Minder vaak op het examen')}</div>${VOET()}`;
 };
 const _lerenC=SCHERMEN.leren; SCHERMEN.leren=function(){ return _lerenC().replace('<div class="kaart">',`<div class="kaart"><button class="uitdaging" onclick="go('casus')"><span class="thumb" style="background:var(--bg);display:grid;place-items:center;font-size:28px">🧩</span><span><b>Casustrainer</b><small>Grote opgaven in stappen: lening op een tijdlijn, nacalculatie, winstverdeling, kengetallen en meer</small></span></button>`) };
 
