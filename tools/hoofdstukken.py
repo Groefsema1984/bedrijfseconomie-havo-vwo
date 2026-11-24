@@ -89,7 +89,7 @@ def main():
     hst = [lees(f) for f in sorted(glob.glob(os.path.join(ROOT, 'hoofdstukken', '*.txt'))) if not os.path.basename(f).upper().startswith('LEESMIJ')]
     index = {(p.get('niv', h['niv']), p['nr']): p for h in hst for p in h['par']}
     bibv = bibliotheek_vragen()
-    core = ''.join(open(os.path.join(ROOT, 'src', f), encoding='utf-8').read() for f in ('core.js', 'extra.js'))
+    core = ''.join(open(os.path.join(ROOT, 'src', f), encoding='utf-8').read() for f in ('core.js', 'extra.js', 'oefen.js'))
     gens_ok = set(re.findall(r'^\s+(\w+)\(\)\s*\{', core, re.M))
     levels, begrippen, fouten = {}, {}, []
     for h in sorted(hst, key=lambda x: (x['wereld'], x['niv'])):

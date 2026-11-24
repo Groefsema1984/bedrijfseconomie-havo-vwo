@@ -83,7 +83,7 @@ Waarom levert hypotheekrenteaftrek meer belastingvoordeel op bij een hoog inkome
 ## § 6.3 | Lineaire hypotheek
 onderwerp: B.wonen
 deelvraag: Hoe bereken je de lasten van een lineaire hypotheek?
-gens: lineaireHypotheek, lineaireInterestLater
+gens: lineaireHypotheek, lineaireInterestLater, aflossingstabel
 ### UITLEG Lineair aflossen
 Een hypotheek is een lening met het huis als onderpand. Bij een lineaire hypotheek los je elk jaar hetzelfde bedrag af: hypotheek / looptijd.
 De interest = percentage × schuldrest. Omdat de schuld daalt, daalt ook de interest. De bruto lasten zijn daarom in het begin het hoogst en dalen daarna.
@@ -120,7 +120,7 @@ Wat gebeurt er met de bruto lasten van een lineaire hypotheek in de loop van de 
 ## § 6.4 | Annuïteiten- en aflossingsvrije hypotheek
 onderwerp: B.wonen
 deelvraag: Hoe werkt een annuïteitenhypotheek en wat is het verschil met lineair?
-gens: annuiteit
+gens: annuiteit, aflossingstabel
 ### UITLEG Annuïteitenhypotheek
 Bij een annuïteitenhypotheek betaal je elk jaar (of maand) hetzelfde bedrag: de annuïteit. In het begin is dat vooral interest en weinig aflossing, aan het eind vooral aflossing.
 Annuïteit = H × i / (1 − (1 + i)⁻ⁿ).

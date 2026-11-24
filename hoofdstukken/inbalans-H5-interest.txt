@@ -39,7 +39,7 @@ Waarom is de eindwaarde bij samengestelde interest hoger dan bij enkelvoudige in
 ## § 5.2 | Eindwaarde en contante waarde van één bedrag
 onderwerp: B.interest
 deelvraag: Hoe reken je een bedrag vooruit en terug in de tijd?
-gens: eindwaarde, contanteWaarde
+gens: eindwaarde, contanteWaarde, tijdlijnCW
 ### UITLEG Vooruit en terug
 Rekenen met de pernuage: 4% = 0,04.
 Eindwaarde: Eₙ = K × (1 + i)ⁿ. Je rekent een bedrag van nu vooruit in de tijd.
@@ -189,7 +189,7 @@ gens: effectieveInterest
 onderwerp: B.interest
 deelvraag: Hoe bereken je de schuldrest en de interest bij aflossen?
 niv: h
-gens: lineaireInterestLater
+gens: lineaireInterestLater, aflossingstabel
 ### UITLEG Schuldrest en interest
 De schuld daalt alleen door aflossingen, niet door interestbetalingen.
 De interest over een periode = interestpercentage × de schuldrest in die periode.
@@ -226,4 +226,4 @@ onderwerp: B.interest
 deelvraag: Hoe bereken je de schuldrest en de interest bij aflossen?
 niv: v
 ook: h 5.4
-gens: lineaireInterestLater
+gens: lineaireInterestLater, aflossingstabel

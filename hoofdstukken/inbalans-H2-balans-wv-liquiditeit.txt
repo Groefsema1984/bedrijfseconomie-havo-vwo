@@ -5,7 +5,7 @@ hoofdvraag: Hoe zie je hoe een onderneming ervoor staat?
 ## § 2.1 | De beginbalans
 onderwerp: A.balans
 deelvraag: Hoe stel je een balans op?
-gens: eigenVermogen
+gens: eigenVermogen, balansInvullen
 ### UITLEG Debet en credit
 Een balans is een overzicht van de bezittingen en het vermogen van een onderneming op één moment.
 Debet (links) staan de activa: waar het geld in zit. Credit (rechts) staan de passiva: waar het geld vandaan komt. Totaal activa = totaal passiva.
@@ -52,6 +52,7 @@ Welke post hoort bij het lang vreemd vermogen?
 ## § 2.2 | Balansmutaties
 onderwerp: A.balans
 deelvraag: Wat gebeurt er met de balans bij een transactie?
+gens: balansMutatie
 ### UITLEG Elke transactie verandert twee posten
 Bij elke gebeurtenis veranderen minstens twee posten, zodat de balans in evenwicht blijft.
 Inkoop op rekening: + voorraad, + crediteuren. Betaling aan een leverancier: − crediteuren, − bank.
@@ -97,7 +98,7 @@ Een bedrijf lost € 10.000 af op de hypothecaire lening via de bank. Welke uits
 ## § 2.3 | De winst-en-verliesrekening
 onderwerp: A.balans
 deelvraag: Hoe bereken je het resultaat over een periode?
-gens: nettoresultaat
+gens: nettoresultaat, resultatenbegroting, kostenUitgaven
 ### UITLEG W&V-rekening
 De winst-en-verliesrekening (W&V) laat de opbrengsten en kosten over een periode zien. Resultaat = opbrengsten − kosten.
 Paginavorm (staffelvorm): omzet − inkoopwaarde van de omzet = brutoresultaat − overige bedrijfskosten (lonen, huur, afschrijving) − interestkosten = resultaat voor belasting.
@@ -135,7 +136,7 @@ Waar staan de kosten in een W&V-rekening in scontrovorm?
 onderwerp: A.liquid
 deelvraag: Wat is het verschil tussen kosten en uitgaven?
 leerdoelen: BECO-PERIO-01
-gens: liquiditeit
+gens: liquiditeit, liquiditeitsbegroting
 ### UITLEG Geldstromen
 In een liquiditeitsoverzicht (achteraf) of liquiditeitsbegroting (vooraf) staan de ontvangsten en uitgaven.
 Eindsaldo liquide middelen = beginsaldo + ontvangsten − uitgaven.

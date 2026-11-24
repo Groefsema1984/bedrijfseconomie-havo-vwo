@@ -1111,7 +1111,8 @@ LEVELS.hv2.push(...[
 }
 ],
 "gens": [
-"eigenVermogen"
+"eigenVermogen",
+"balansInvullen"
 ],
 "doel": "Hoe stel je een balans op?",
 "uitleg": [
@@ -1254,7 +1255,9 @@ LEVELS.hv2.push(...[
 "u": "Privé-opname: Geld dat de eigenaar uit de onderneming haalt voor eigen gebruik."
 }
 ],
-"gens": [],
+"gens": [
+"balansMutatie"
+],
 "doel": "Wat gebeurt er met de balans bij een transactie?",
 "uitleg": [
 {
@@ -1449,7 +1452,9 @@ LEVELS.hv2.push(...[
 }
 ],
 "gens": [
-"nettoresultaat"
+"nettoresultaat",
+"resultatenbegroting",
+"kostenUitgaven"
 ],
 "doel": "Hoe bereken je het resultaat over een periode?",
 "uitleg": [
@@ -1728,7 +1733,8 @@ LEVELS.hv2.push(...[
 }
 ],
 "gens": [
-"liquiditeit"
+"liquiditeit",
+"liquiditeitsbegroting"
 ],
 "doel": "Wat is het verschil tussen kosten en uitgaven?",
 "uitleg": [
@@ -3623,7 +3629,8 @@ LEVELS.hv5.push(...[
 ],
 "gens": [
 "eindwaarde",
-"contanteWaarde"
+"contanteWaarde",
+"tijdlijnCW"
 ],
 "doel": "Hoe reken je een bedrag vooruit en terug in de tijd?",
 "uitleg": [
@@ -4259,7 +4266,8 @@ LEVELS.hv5.push(...[
 }
 ],
 "gens": [
-"lineaireInterestLater"
+"lineaireInterestLater",
+"aflossingstabel"
 ],
 "doel": "Hoe bereken je de schuldrest en de interest bij aflossen?",
 "uitleg": [
@@ -4386,7 +4394,8 @@ LEVELS.hv5.push(...[
 }
 ],
 "gens": [
-"lineaireInterestLater"
+"lineaireInterestLater",
+"aflossingstabel"
 ],
 "doel": "Hoe bereken je de schuldrest en de interest bij aflossen?",
 "uitleg": [
@@ -4971,7 +4980,8 @@ LEVELS.hv6.push(...[
 ],
 "gens": [
 "lineaireHypotheek",
-"lineaireInterestLater"
+"lineaireInterestLater",
+"aflossingstabel"
 ],
 "doel": "Hoe bereken je de lasten van een lineaire hypotheek?",
 "uitleg": [
@@ -5097,7 +5107,8 @@ LEVELS.hv6.push(...[
 }
 ],
 "gens": [
-"annuiteit"
+"annuiteit",
+"aflossingstabel"
 ],
 "doel": "Hoe werkt een annuïteitenhypotheek en wat is het verschil met lineair?",
 "uitleg": [

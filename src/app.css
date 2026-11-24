@@ -305,3 +305,20 @@ th{font:800 12px var(--kop);text-transform:uppercase;letter-spacing:.05em;color:
 .exvModel{margin-top:10px;border-left:4px solid var(--goed);padding:6px 12px;background:color-mix(in srgb,var(--goed) 8%,var(--kaart));border-radius:0 12px 12px 0}
 .exvModel summary{font-weight:700;cursor:pointer}
 @media print{.exvBalk{position:static}}
+/* Werkplaats: schema's, tijdlijn en organogram */
+.schema input,.schema select{font:inherit;font-size:15px;padding:6px 8px;border:1px solid var(--lijn);border-radius:6px;background:var(--kaart);color:var(--ink);min-width:110px;max-width:100%}
+.schema input{width:120px;text-align:right}
+.schema .goed{border-color:var(--goed);background:color-mix(in srgb,var(--goed) 12%,var(--kaart))}
+.schema .fout{border-color:var(--fout);background:color-mix(in srgb,var(--fout) 12%,var(--kaart))}
+.schema small.juist{display:block;color:var(--goed);font-weight:700;margin-top:3px}
+.schema td:last-child{white-space:normal}
+.schemaPre{overflow-x:auto;margin:4px 0 10px}
+.schemaPre svg{width:100%;max-width:560px;height:auto;display:block}
+.tijdlijn .ax,.organo .olijn{stroke:var(--ink);stroke-width:1.5;fill:none}
+.tijdlijn .as{fill:var(--zacht)}
+.organo text{fill:var(--ink)}
+.organo .obox{fill:var(--kaart);stroke:var(--acc);stroke-width:1.5}
+.organo .obox.staf{stroke-dasharray:4 3;fill:var(--bg)}
+.schema input,.schema select{min-height:0;height:38px;padding:4px 8px}
+.schema th[scope=row]{font:600 15px var(--tekst,inherit);text-transform:none;letter-spacing:0;color:var(--ink);background:var(--kaart)}
+.schema td{vertical-align:middle}
