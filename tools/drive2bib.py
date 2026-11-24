@@ -1,0 +1,174 @@
+"""Zet leerdoelbestanden uit de Oefentool-bibliotheek (Drive, BECO-XXX-NN ....md) om naar het bibliotheekformaat.
+
+Gebruik: python3 tools/drive2bib.py bron-ruw/BECO-*.md
+Schrijft per thema een bestand bibliotheek/<thema>.txt. Leerdoelen die al in een ander bibliotheekbestand staan
+(met de hand bewerkt, zoals G-verzekeren.txt) worden overgeslagen.
+"""
+import ast, glob, os, re, sys
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+
+# leerdoel -> (domein, onderwerp, thema, werelden: hoofdstuk van In balans havo,vwo)
+KAART = {
+    'AFSCH-01': ('F', 'F.perio', 'Afschrijving', 'h20,v23'), 'AFSCH-02': ('F', 'F.perio', 'Afschrijving', 'h20,v23'),
+    'PERIO-01': ('F', 'F.perio', 'Periodisering', 'h23,v29'), 'PERIO-02': ('F', 'F.perio', 'Periodisering', 'h23,v29'),
+    'PERIO-03': ('F', 'F.perio', 'Periodisering', 'h23,v29'), 'PERIO-04': ('F', 'F.perio', 'Periodisering', 'h23,v29'),
+    'BREAK-01': ('F', 'F.breakeven', 'Break-even', 'h21,v24'), 'BREAK-02': ('F', 'F.breakeven', 'Break-even', 'h21,v24'),
+    'BREAK-03': ('F', 'F.breakeven', 'Break-even', 'h21,v24'),
+    'VERSC-01': ('F', 'F.versch', 'Verschillenanalyse', 'h22,v25'), 'VERSC-02': ('F', 'F.versch', 'Verschillenanalyse', 'h22,v25'),
+    'VERSC-03': ('F', 'F.versch', 'Verschillenanalyse', 'h22,v25'), 'VERSC-04': ('F', 'F.versch', 'Verschillenanalyse', 'h22,v25'),
+    'INVES-01': ('D', 'D.invest', 'Investeren', 'h16,v18'), 'INVES-02': ('D', 'D.invest', 'Investeren', 'h16,v18'),
+    'INVES-03': ('D', 'D.invest', 'Investeren', 'h16,v18'), 'INVES-04': ('D', 'D.invest', 'Investeren', 'h16,v18'),
+    'INVES-05': ('D', 'D.invest', 'Investeren', 'h16,v18'),
+    'KOSTE-01': ('F', 'F.kosten', 'Kosten en kostprijs', 'h20,v23'), 'KOSTP-01': ('F', 'F.kosten', 'Kosten en kostprijs', 'h20,v23'),
+    'ORGAN-01': ('C', 'C.org', 'Organisatiestructuur', 'h11,v12'), 'ORGAN-02': ('C', 'C.org', 'Organisatiestructuur', 'h11,v12'),
+    'ORGAN-03': ('C', 'C.org', 'Organisatiestructuur', 'h11,v12'), 'LEIDE-01': ('C', 'C.org', 'Organisatiestructuur', 'h11,v12'),
+}
+for i in range(1, 9): KAART[f'PERSO-0{i}'] = ('C', 'C.personeel', 'Personeelsbeleid', 'h14,v15') if i in (1, 3) else ('C', 'C.arbeid', 'Arbeidsrecht', 'h13,v14')
+GENS = {'AFSCH-01': 'afschrijving,boekwaarde', 'BREAK-01': 'breakEven,dekkingsbijdrage', 'BREAK-02': 'grafBreakEven,grafResultaat',
+        'INVES-01': 'cashflow', 'INVES-02': 'terugverdientijd', 'INVES-03': 'ncw', 'KOSTP-01': 'integraleKostprijs',
+        'PERIO-02': 'vooruitbetaald', 'PERIO-03': 'nogTeBetalenInterest', 'PERSO-03': 'loonkosten', 'PERSO-07': 'transitievergoeding',
+        'VERSC-01': 'bezettingsresultaat', 'VERSC-02': 'prijsresultaat,efficiencyresultaat'}
+
+def schoon(s):
+    s = s.replace('\\', '').replace('**', '').replace(' ', ' ')
+    s = re.sub(r'<small>.*?</small>', '', s)
+    s = re.sub(r'(?<!\w)\*(?!\s)([^*\n]+?)\*(?!\w)', r'\1', s)
+    return re.sub(r'[ \t]+\n', '\n', s).strip()
+
+def tabel(r):
+    m = re.match(r'^(Tabel[^|]*):\s*([^:|]*\|.*)$', r)
+    if not m: return r
+    rijen = [x.strip() for x in re.split(r'\s/\s(?=[^|]*\|)', m.group(2))]
+    return m.group(1) + ':\n' + '\n'.join(rijen)
+
+def figuur(r):
+    m = re.match(r'^Figuur \(spelboom\):\s*(\{.*\})\s*$', r)
+    if m:
+        try:
+            d = ast.literal_eval(m.group(1)); sp = d['spelers']; k = d['keuzes']; u = d['uitkomsten']
+            regels = [f'Spelboom: eerst kiest {sp[0]}, daarna {sp[1]}. Uitkomsten als ({sp[0]} ; {sp[1]}):']
+            i = 0
+            for a, tweede in zip(k[0], k[1:]):
+                for b in tweede:
+                    regels.append(f'{a} → {b}: {u[i]}'); i += 1
+            return '\n'.join(regels)
+        except Exception:
+            return r
+    m = re.match(r'^Figuur \(kringloop\):\s*(\{.*\})\s*$', r)
+    if m:
+        try:
+            d = ast.literal_eval(m.group(1))
+            namen = {'Y':'nationaal inkomen (Y)','C':'consumptie (C)','B':'belastingen (B)','O':'overheidsbestedingen (O)',
+                     'E':'export (E)','M':'import (M)','I':'investeringen (I)','S':'besparingen (S)'}
+            return 'Kringloop (in miljarden): ' + ', '.join(f'{namen.get(k,k)} = {v}' for k, v in d.items())
+        except Exception:
+            return r
+    m = re.match(r'^Figuur \(Lorenzcurve\):\s*(\{.*\})\s*$', r)
+    if m:
+        try:
+            d = ast.literal_eval(m.group(1))
+            regels = ['Lorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):']
+            for n, c in zip(d['namen'], d['curves']):
+                regels.append(f'{n}: ' + ' | '.join(f'{p}% → {w}%' for p, w in zip((20, 40, 60, 80), c)))
+            return '\n'.join(regels)
+        except Exception:
+            return r
+    m = re.match(r'^Figuur \(markt, schets zonder getallen\):\s*(.*)$', r)
+    if m:
+        return 'De figuur is een schets van deze markt: ' + m.group(1).replace('0.', '0,').replace('.5', ',5')
+    return r
+
+def secties(t, niveau):
+    pat = r'^' + '#' * niveau + r' (?!#)'
+    return re.split(pat, t, flags=re.M)
+
+def parse(pad):
+    t = schoon(open(pad, encoding='utf-8').read())
+    t = re.sub(r'\n{2,}', '\n\n', t)
+    m = re.search(r'^# (BECO-([A-Z]+-\d+)) (.*)$', t, re.M)
+    code, kort, naam = m.group(1), m.group(2), m.group(3).strip()
+    doel = re.search(r'^\*?(Ik kan .*?)\*?\s*$', t, re.M)
+    doel = doel.group(1).strip('* ') if doel else ''
+    delen = {}
+    for s in secties(t, 2)[1:]:
+        kop, _, body = s.partition('\n'); delen[kop.strip()] = body
+    # uitleg
+    uitleg, gezien = [], set()
+    for item in re.split(r'^- ', delen.get('Lesmateriaal', ''), flags=re.M)[1:]:
+        kop, _, body = item.partition('\n')
+        tm = re.match(r'(.*?) \((uitleg|begrippen|[^)]*)\)', kop.strip())
+        titel = (tm.group(1) if tm else kop).strip()
+        body = '\n'.join(r.strip() for r in body.split('\n') if r.strip())
+        sleutel = re.sub(r'\W', '', titel.lower())[:25]
+        if not body or sleutel in gezien: continue
+        gezien.add(sleutel); uitleg.append((titel, body))
+    uitleg = uitleg[:3]
+    # examenvragen
+    exam = []
+    for item in re.split(r'^- ', delen.get('Examenvragen', ''), flags=re.M)[1:]:
+        em = re.match(r'(havo|vwo) (\d{4})-(I{1,3}) vraag (\d+) \((\d+)p\):\s*(.*)', item.strip(), re.S)
+        if not em: continue
+        q, _, a = em.group(6).partition('Antwoord:')
+        q = ' '.join(q.split()); a = ' '.join(a.split())
+        if not a: continue
+        exam.append((f'{em.group(1)} {em.group(2)}-{em.group(3)} {em.group(4)} {em.group(5)}p', q, a))
+    # oefenopgaven
+    opg = []
+    for s in secties(delen.get('Goedgekeurde oefenopgaven', ''), 3)[1:]:
+        kop, _, body = s.partition('\n')
+        om = re.match(r'(IT-\d+)\s+(.*?)\s*\((?:stap \d+, )?(\d+)p\)', kop.strip())
+        if not om: continue
+        regels = [r.strip() for r in body.split('\n') if r.strip()]
+        vraag, opties, juist, cv, voorbeeld = [], None, None, '', ''
+        for r in regels:
+            if r.startswith('CV:'): cv = r[3:].strip()
+            elif r.startswith('Voorbeeldantwoord:'): voorbeeld = r[18:].strip()
+            elif r.startswith('Opties:'):
+                jm = re.search(r'\(juist:\s*([A-E])\)\s*$', r)
+                juist = jm.group(1) if jm else None
+                body2 = re.sub(r'\(juist:.*$', '', r[7:]).strip()
+                opties = [x.strip() for x in re.split(r'\s/\s(?=[A-E]\s)', body2)]
+            elif cv or voorbeeld: continue
+            else: vraag.append(figuur(tabel(re.sub(r'^Vraag:\s*', '', r))))
+        if not vraag or not (cv or voorbeeld): continue
+        model = voorbeeld or cv
+        if cv and voorbeeld:
+            stukken = [x.strip() for x in re.split(r'(?<=\(\d\));\s*', re.sub(r'^Maximumscore \d+\s*', '', cv, flags=re.I)) if x.strip()]
+            model += '\nPuntenverdeling:\n' + '\n'.join('• ' + x for x in stukken)
+        opg.append((om.group(1), om.group(3), om.group(2), '\n'.join(vraag), opties, juist, model))
+    return code, kort, naam, doel, uitleg, exam, opg
+
+def main(paden):
+    bestaand = set()
+    for f in glob.glob(os.path.join(ROOT, 'bibliotheek', '*.txt')):
+        if f.endswith('-auto.txt'): continue
+        bestaand |= set(re.findall(r'^# LEERDOEL (BECO-\S+)', open(f, encoding='utf-8').read(), re.M))
+    per_thema = {}
+    for p in sorted(paden):
+        code, kort, naam, doel, uitleg, exam, opg = parse(p)
+        if code in bestaand or kort not in KAART: print('overgeslagen', code); continue
+        d, e, thema, wereld = KAART[kort]
+        uit = [f'# LEERDOEL {code}', f'domein: {d}', f'onderwerp: {e}', f'thema: {thema}', f'wereld: {wereld}', f'naam: {naam}', f'doel: {doel}']
+        if kort in GENS: uit.append(f'gens: {GENS[kort]}')
+        uit.append('')
+        for titel, body in uitleg: uit += [f'## UITLEG {titel}', body, '']
+        for it, pnt, titel, vraag, opties, juist, model in opg:
+            uit += [f'## OPGAVE {it} {pnt}p | {titel}', vraag]
+            if opties and juist and len(opties) >= 2:
+                uit += [f'### OPTIES {juist}'] + opties
+            uit += ['### ANTWOORD', model, '']
+        for kop, q, a in exam: uit += [f'## EXAMEN {kop}', q, '### ANTWOORD', a, '']
+        per_thema.setdefault((wereld, thema), []).append('\n'.join(uit))
+        print(code, len(uitleg), 'uitleg,', len(opg), 'opgaven,', len(exam), 'examen')
+    for (d, thema), blokken in per_thema.items():
+        naam = d.split(',')[0] + '-' + re.sub(r'\W+', '-', thema.lower()).strip('-') + '-auto.txt'
+        pad = os.path.join(ROOT, 'bibliotheek', naam)
+        oud = open(pad, encoding='utf-8').read() if os.path.exists(pad) else ''
+        codes = set(re.findall(r'^# LEERDOEL (BECO-\S+)', oud, re.M))
+        nieuw = [b for b in blokken if re.match(r'# LEERDOEL (\S+)', b).group(1) not in codes]
+        # vervang bestaande blokken met dezelfde code door de nieuwe versie
+        delen = {re.match(r'# LEERDOEL (\S+)', b).group(1): b for b in re.split(r'\n(?=# LEERDOEL )', oud.strip()) if b.strip()}
+        for b in blokken: delen[re.match(r'# LEERDOEL (\S+)', b).group(1)] = b
+        open(pad, 'w', encoding='utf-8').write('\n\n'.join(delen[k] for k in sorted(delen)) + '\n')
+
+if __name__ == '__main__': main(sys.argv[1:])

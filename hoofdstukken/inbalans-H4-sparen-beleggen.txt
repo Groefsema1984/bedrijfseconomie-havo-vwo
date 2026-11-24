@@ -1,0 +1,155 @@
+# HOOFDSTUK hv 4 | Sparen en beleggen
+wereld: hv4
+hoofdvraag: Wat doe je met geld dat je over hebt?
+
+## § 4.1 | Sparen
+onderwerp: B.sparen
+deelvraag: Wat zijn de voor- en nadelen van verschillende spaarvormen?
+gens: enkelvoudigeInterest
+### UITLEG Sparen
+Sparen is geld opzijzetten. Je krijgt er rente (interest) voor. De hoogte van de rente hangt af van de looptijd, het spaarbedrag en de ontwikkelingen op de financiële markten.
+Risico's: door inflatie kan je spaargeld minder waard worden (inflatierisico). Gaat een bank failliet, dan garandeert het depositogarantiestelsel tegoeden tot € 100.000 per persoon per bank.
+### UITLEG Vrij en niet vrij opneembaar
+Vrij opneembare spaarrekening: dagelijks opneembaar, geen vaste looptijd, variabele en relatief lage rente.
+Niet vrij opneembaar (deposito, banksparen): het geld staat een afgesproken tijd vast; in ruil krijg je een vaste en hogere rente.
+### BEGRIPPEN
+Sparen = Geld opzijzetten tegen een vergoeding in de vorm van rente.
+Deposito = Spaarvorm waarbij geld voor een afgesproken periode vaststaat tegen een vaste rente.
+Depositogarantiestelsel = Regeling die spaartegoeden tot € 100.000 per persoon per bank garandeert.
+Inflatierisico = Het risico dat je spaargeld door prijsstijgingen minder waard wordt.
+Interest = De vergoeding voor het uitlenen of sparen van geld.
+Banksparen = Fiscaal voordelig sparen voor een vast doel, zoals de aflossing van een hypotheek.
+### MC
+Waarom is de rente op een deposito meestal hoger dan op een vrij opneembare spaarrekening?
+* Je kunt niet zomaar bij je geld, dus de bank kan er langer mee werken
+- Omdat er geen risico is
+- Omdat de overheid dat bepaalt
+- Omdat je meer belasting betaalt
+> Een hogere rente is de beloning voor het vastzetten.
+### MC
+Je zet € 3.000 vast tegen 2,5% enkelvoudige interest. Hoeveel interest krijg je na 6 maanden?
+* € 37,50
+- € 75,00
+- € 450,00
+- € 7,50
+> 3.000 × 0,025 × 6/12 = € 37,50.
+### MC
+De rente op je spaarrekening is 2% en de inflatie is 3%. Wat gebeurt er met de koopkracht van je spaargeld?
+* Die daalt
+- Die stijgt met 2%
+- Die blijft gelijk
+- Die stijgt met 5%
+> De prijzen stijgen sneller dan je spaargeld groeit.
+
+## § 4.2 | Handel in effecten
+onderwerp: B.sparen
+deelvraag: Hoe koop en verkoop je aandelen en obligaties?
+gens: aankoopAandelen
+### UITLEG Effecten en orders
+Effecten (aandelen, obligaties, deelnemingen in beleggingsfondsen) worden verhandeld op de effectenbeurs. Voor een transactie betaal je provisie aan de bank of broker.
+Market order: direct uitvoeren tegen de beste prijs van dat moment. Limietorder: alleen uitvoeren tot een maximale koopprijs of vanaf een minimale verkoopprijs. Stop-loss order: automatisch verkopen als de koers onder een grens zakt, om verlies te beperken.
+Een index (zoals de AEX) laat zien hoe een groep aandelen het gemiddeld doet.
+### BEGRIPPEN
+Effecten = Verhandelbare waardepapieren, zoals aandelen en obligaties.
+Provisie = Transactiekosten die je betaalt aan de bank of broker.
+Limietorder = Order met een maximale koopprijs of minimale verkoopprijs.
+Market order = Order die direct wordt uitgevoerd tegen de beste prijs op dat moment.
+Stop-loss order = Order die automatisch verkoopt als de koers onder een grens daalt.
+Index = Graadmeter voor de koersontwikkeling van een groep aandelen.
+### MC
+Je wilt een aandeel kopen, maar niet meer betalen dan € 25. Welke order geef je?
+* Een limietorder
+- Een market order
+- Een stop-loss order
+- Een emissie
+> Met een limiet bepaal je de maximale prijs.
+### MC
+Je koopt 100 aandelen à € 30 en betaalt 0,5% provisie. Wat betaal je in totaal?
+* € 3.015
+- € 3.000
+- € 3.150
+- € 2.985
+> 3.000 + 0,005 × 3.000 = € 3.015.
+### MC
+Waarvoor gebruik je een stop-loss order?
+* Om je verlies te beperken als de koers hard daalt
+- Om zo goedkoop mogelijk te kopen
+- Om dividend te ontvangen
+- Om de provisie te vermijden
+> Bij het bereiken van de grens wordt automatisch verkocht.
+
+## § 4.3 | Aandelen
+onderwerp: B.sparen
+deelvraag: Wat levert een aandeel op en hoe groot is het risico?
+gens: rendementAandeel
+### UITLEG Het aandeel
+Een aandeel is een bewijs van mede-eigendom van een bv of nv. Voor de onderneming is het eigen vermogen dat niet wordt terugbetaald.
+Nominale waarde: het bedrag dat op het aandeel staat. Emissiekoers: de prijs waarvoor de onderneming een nieuw aandeel uitgeeft. Koerswaarde: de prijs op de beurs, bepaald door vraag en aanbod.
+Rendement = dividend + koerswinst (of − koersverlies). Rendement in % = (dividend + koersverschil) / aankoopkoers × 100%.
+Aandelen geven kans op een hoger rendement dan sparen, maar het risico op verlies is ook groter.
+### BEGRIPPEN
+Aandeel = Bewijs van mede-eigendom van een bv of nv.
+Nominale waarde = Het bedrag dat op het aandeel vermeld staat.
+Koerswaarde = De actuele prijs van een aandeel op de beurs.
+Emissiekoers = De prijs waarvoor een nieuw aandeel wordt uitgegeven.
+Dividend = Het deel van de winst dat aan de aandeelhouders wordt uitgekeerd.
+Koerswinst = De stijging van de koers tussen aankoop en verkoop.
+### MC
+Je koopt een aandeel voor € 50. Na een jaar is de koers € 53 en krijg je € 2 dividend. Wat is je rendement?
+* 10%
+- 6%
+- 4%
+- 5%
+> (2 + 3) / 50 × 100% = 10%.
+### MC
+Hoe heet de prijs waarvoor een onderneming nieuwe aandelen uitgeeft?
+* Emissiekoers
+- Nominale waarde
+- Koerswaarde
+- Dividend
+> Emissie = uitgifte.
+### MC
+Waardoor daalt de koers van een aandeel meestal?
+* Doordat beleggers lagere winsten van de onderneming verwachten
+- Doordat de nominale waarde daalt
+- Doordat de onderneming dividend uitkeert
+- Doordat de rente op spaarrekeningen daalt
+> De koers hangt vooral af van winstverwachtingen.
+
+## § 4.4 | Obligaties en beleggingsfondsen
+onderwerp: B.sparen
+deelvraag: Wat is het verschil tussen een aandeel en een obligatie?
+gens: couponrendement
+### UITLEG Obligaties
+Een obligatie is een schuldbewijs: je leent geld uit aan een onderneming of overheid. Je krijgt een vaste rente (coupon) en aan het eind wordt de obligatie afgelost.
+Verschillen met aandelen: een obligatie is vreemd vermogen (wordt afgelost), heeft een vaste vergoeding en obligatiehouders gaan bij een faillissement vóór aandeelhouders. De koers van een obligatie hangt vooral af van de marktrente: stijgt de marktrente, dan daalt de koers van bestaande obligaties.
+### UITLEG Beleggingsfondsen
+Een beleggingsfonds (of ETF) bundelt het geld van veel beleggers en belegt dat in veel verschillende effecten. Zo krijg je risicospreiding: als één aandeel slecht gaat, merk je dat maar een beetje.
+### BEGRIPPEN
+Obligatie = Verhandelbaar schuldbewijs van een lening aan een onderneming of overheid.
+Couponrente = De vaste jaarlijkse rente op een obligatie, als percentage van de nominale waarde.
+Risicospreiding = Je geld over verschillende beleggingen verdelen om het risico te verkleinen.
+Beleggingsfonds = Fonds dat het geld van veel beleggers bundelt en gespreid belegt.
+ETF = Beleggingsfonds dat op de beurs verhandeld wordt en vaak een index volgt.
+Staatsobligatie = Obligatie die door de overheid is uitgegeven.
+### MC
+Wie krijgt bij een faillissement als eerste zijn geld terug?
+* De obligatiehouders
+- De aandeelhouders
+- De oprichters
+- Iedereen tegelijk
+> Obligaties zijn vreemd vermogen en gaan voor.
+### MC
+De marktrente stijgt. Wat gebeurt er met de koers van een bestaande obligatie met een vaste coupon?
+* Die daalt
+- Die stijgt
+- Die blijft precies gelijk
+- De coupon stijgt mee
+> Nieuwe obligaties bieden meer rente, dus de oude is minder waard.
+### MC
+Waarom beleggen veel kleine beleggers via een beleggingsfonds?
+* Voor risicospreiding met een klein bedrag
+- Omdat er dan geen risico meer is
+- Omdat je dan altijd dividend krijgt
+- Omdat er dan geen kosten zijn
+> Met één deelname beleg je in veel effecten tegelijk.

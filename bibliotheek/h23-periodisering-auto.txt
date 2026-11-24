@@ -1,0 +1,452 @@
+# LEERDOEL BECO-PERIO-01
+domein: F
+onderwerp: F.perio
+thema: Periodisering
+wereld: h23,v29
+naam: Kosten en opbrengsten onderscheiden van uitgaven en ontvangsten
+doel: Ik kan kosten en opbrengsten onderscheiden van uitgaven en ontvangsten.
+
+## OPGAVE IT-00012 2p | Kajakverhuur
+In deze opgave blijft de btw buiten beschouwing.
+Noordvaart Kajakverhuur nv start op 1 april 2027. De nv maakt een overzicht van drie posten over het tweede kwartaal (april tot en met juni 2027). De kajaks hebben een levensduur van 5 jaar en geen restwaarde.
+Tabel Gegevens Noordvaart Kajakverhuur nv, tweede kwartaal 2027:
+Post | Bedrag (€) | Betaald op
+Aanschaf van 30 kajaks | 45.000 | 1 april 2027
+Aflossing op een lening | 10.000 | 30 juni 2027
+Loon voor de maand juni | 6.000 | 5 juli 2027
+Maak van onderstaande tekst een economisch juiste tekst over het tweede kwartaal van 2027.
+De aanschaf van de kajaks is in het tweede kwartaal ...(1)... .
+De kosten van de kajaks over dit kwartaal bedragen ...(2)... .
+De aflossing van de lening is in het tweede kwartaal ...(3)... .
+Het loon voor juni is in het tweede kwartaal ...(4)... .
+Kies uit: bij (1) alleen kosten / alleen een uitgave / zowel kosten als een uitgave
+Kies uit: bij (2) € 2.250 / € 9.000 / € 45.000
+Kies uit: bij (3) alleen kosten / alleen een uitgave / zowel kosten als een uitgave
+Kies uit: bij (4) alleen kosten / alleen een uitgave / zowel kosten als een uitgave
+### ANTWOORD
+(1) alleen een uitgave: de kajaks zijn op 1 april betaald, maar het zijn geen kosten van het kwartaal. (2) € 2.250: de afschrijving is 45.000 : 5 = € 9.000 per jaar, dus € 2.250 per kwartaal. (3) alleen een uitgave: aflossen is een schuld terugbetalen en verbruikt niets. (4) alleen kosten: het loon is in juni verdiend, dus het zijn kosten van het tweede kwartaal, maar het wordt pas in juli betaald.
+Puntenverdeling:
+• indien vier keuzes juist zijn: alleen een uitgave, € 2.250, alleen een uitgave, alleen kosten (2)
+• indien twee of drie keuzes juist zijn (1)
+• indien minder dan twee keuzes juist zijn (0)
+
+## OPGAVE IT-00013 2p | Escaperoom
+In deze opgave blijft de btw buiten beschouwing.
+Slotvast nv opent op 1 januari 2027 een escaperoom. De nv maakt een overzicht van twee posten voor het eerste kwartaal van 2027 (januari tot en met maart). De lening van € 300.000 loopt tegen 8% interest per jaar en is op 1 januari opgenomen.
+Tabel Gegevens Slotvast nv, eerste kwartaal 2027:
+Post | Bedrag (€) | Betaald op
+Huur van het pand voor januari tot en met juni 2027 | 36.000 | 1 januari 2027
+Interest over januari tot en met juni 2027 | 12.000 | 30 juni 2027
+Maak van onderstaande tekst een economisch juiste tekst over het eerste kwartaal van 2027.
+De huur is in het eerste kwartaal een uitgave van ...(1)... en levert in dat kwartaal ...(2)... aan kosten op.
+De interest over het eerste kwartaal is ...(3)... .
+Het bedrag daarvan is ...(4)... .
+Kies uit: bij (1) € 18.000 / € 36.000 / € 72.000
+Kies uit: bij (2) € 6.000 / € 18.000 / € 36.000
+Kies uit: bij (3) alleen kosten / alleen een uitgave / geen kosten en geen uitgave
+Kies uit: bij (4) € 3.000 / € 6.000 / € 12.000
+### ANTWOORD
+(1) € 36.000: de huur is op 1 januari in één keer betaald. (2) € 18.000: de huur geldt voor een half jaar, dus 36.000 : 2 = € 18.000 per kwartaal. (3) alleen kosten: de interest is verschuldigd over het kwartaal, maar wordt pas op 30 juni betaald. (4) € 6.000: de interest over een half jaar is € 12.000, dus 12.000 : 2 = € 6.000 over een kwartaal.
+Puntenverdeling:
+• indien vier keuzes juist zijn: € 36.000, € 18.000, alleen kosten, € 6.000 (2)
+• indien twee of drie keuzes juist zijn (1)
+• indien minder dan twee keuzes juist zijn (0)
+
+## OPGAVE IT-00025 1p | Fietsverhuur
+In deze opgave blijft de btw buiten beschouwing.
+Polderlicht Fietsverhuur nv koopt op 1 januari 2027 twintig elektrische fietsen voor in totaal € 48.000 en betaalt dat bedrag direct. De fietsen gaan 4 jaar mee en hebben aan het einde van de levensduur een restwaarde van in totaal € 8.000. Op 1 juli 2027 lost de nv € 20.000 af op een lening. Met interest hoef je geen rekening te houden.
+Geef aan welke van onderstaande combinaties van kosten en uitgaven over het jaar 2027 juist is.
+### OPTIES C
+A Kosten € 10.000 en uitgaven € 48.000
+B Kosten € 48.000 en uitgaven € 68.000
+C Kosten € 10.000 en uitgaven € 68.000
+D Kosten € 30.000 en uitgaven € 68.000
+### ANTWOORD
+Combinatie C. De fietsen worden in één keer betaald, dus dat is een uitgave van € 48.000. De aflossing van € 20.000 is ook een uitgave, samen 48.000 + 20.000 = € 68.000. Kosten zijn alleen wat in 2027 wordt verbruikt: de afschrijving (48.000 - 8.000) : 4 = € 10.000. De aflossing verkleint alleen de schuld en er wordt niets verbruikt, dus de aflossing is geen kosten.
+Puntenverdeling:
+• C: de kosten zijn alleen de afschrijving van € 10.000 en de uitgaven zijn de aanschaf en de aflossing samen, € 68.000 (1)
+
+## OPGAVE IT-00030 3p | Pastamachine
+In deze opgave blijft de btw buiten beschouwing.
+Delta Pasta nv maakt verse pasta voor supermarkten. Op 1 januari 2028 koopt de nv een nieuwe pastamachine voor € 180.000 en betaalt dat bedrag direct. De machine gaat 10 jaar mee en heeft geen restwaarde. De afdeling financiën stelt voor het eerste kwartaal van 2028 een resultatenbegroting (exploitatiebegroting) en een liquiditeitsbegroting op.
+In het kwartaal levert Delta Pasta nv pasta voor € 400.000 aan supermarkten. De grondstoffen die in het kwartaal zijn gekocht, zijn ook in dat kwartaal verbruikt. De lonen horen volledig bij de productie van dat kwartaal. Met andere posten hoef je geen rekening te houden.
+Een commissaris ziet dat het saldo van de liquiditeitsbegroting negatief is. Hij vreest dat de nv een verlies lijdt.
+Tabel Liquiditeitsbegroting Delta Pasta nv, eerste kwartaal 2028 (bedragen in €):
+Post | Bedrag
+Ontvangsten van klanten | 340.000
+Grondstoffen | -160.000
+Lonen | -120.000
+Aanschaf pastamachine | -180.000
+Saldo | -120.000
+Toon met een berekening aan dat het resultaat van Delta Pasta nv over het eerste kwartaal van 2028 positief is.
+### ANTWOORD
+De machine is in januari betaald voor € 180.000. Dat is een uitgave, maar geen kosten van dit kwartaal, want de machine gaat 10 jaar mee. De kosten zijn alleen de afschrijving: 180.000 : 10 : 4 = € 4.500. Als opbrengst nemen we de verkopen van het kwartaal: € 400.000. Dat is meer dan de ontvangsten van € 340.000. Het resultaat is 400.000 - 160.000 - 120.000 - 4.500 = € 115.500. Dat is positief, dus er is geen verlies.
+Puntenverdeling:
+• De aanschaf van € 180.000 is een uitgave en geen kosten van dit kwartaal; de kosten zijn de afschrijving: 180.000 : 10 : 4 = € 4.500 (1)
+• Als opbrengst zijn de verkopen van het kwartaal (€ 400.000) gebruikt, en niet de ontvangsten van klanten (€ 340.000) (1)
+• Resultaat = 400.000 - 160.000 - 120.000 - 4.500 = € 115.500, dus het resultaat is positief (voordelig) (1)
+
+## OPGAVE IT-00031 4p | Klimhal
+In deze opgave blijft de btw buiten beschouwing.
+Klimwand Duinrand nv opent op 1 oktober 2027 een klimhal. Op die dag verkoopt de nv 800 jaarabonnementen à € 270. De klanten betalen direct. Een jaarabonnement geldt van 1 oktober 2027 tot en met 30 september 2028. Ook op 1 oktober 2027 betaalt de nv € 240.000 voor de klimwanden. Die gaan 7 jaar mee en hebben een restwaarde van € 16.000.
+De nv heeft op 1 oktober 2027 een lening van € 300.000 tegen 5% interest per jaar. De interest wordt per kwartaal achteraf betaald, voor het eerst op 31 december 2027. Op 31 december 2027 lost de nv € 30.000 af. De interest over het vierde kwartaal wordt berekend over € 300.000. Met andere posten hoef je geen rekening te houden.
+Toon met een berekening aan dat het resultaat over het vierde kwartaal van 2027 € 100.000 hoger is dan het saldo van de ontvangsten en uitgaven over dat kwartaal.
+Doe het als volgt:
+- Bepaal het resultaat uit de opbrengsten en kosten van het vierde kwartaal.
+- Bepaal het saldo uit de ontvangsten en uitgaven in dat kwartaal.
+### ANTWOORD
+Het abonnement geldt een jaar, dus in het vierde kwartaal hoort een kwart bij de opbrengst: 800 × 270 : 4 = € 54.000. De kosten zijn de afschrijving (240.000 - 16.000) : 7 : 4 = € 8.000 en de interest 300.000 × 0,05 : 4 = € 3.750. De aflossing is geen kosten. Het resultaat is 54.000 - 8.000 - 3.750 = € 42.250. De ontvangsten zijn 800 × 270 = € 216.000. De uitgaven zijn 240.000 + 3.750 + 30.000 = € 273.750, want de aanschaf, de interest en de aflossing zijn betalingen. Het saldo is 216.000 - 273.750 = -€ 57.750. Het verschil is 42.250 - (-57.750) = € 100.000, dus het resultaat is € 100.000 hoger dan het saldo.
+Puntenverdeling:
+• Opbrengst vierde kwartaal: 800 × 270 : 4 = € 54.000 (1)
+• Kosten: afschrijving (240.000 - 16.000) : 7 : 4 = € 8.000 en interest 300.000 × 0,05 : 4 = € 3.750 (de aflossing is geen kosten), dus resultaat 54.000 - 8.000 - 3.750 = € 42.250 (1)
+• Ontvangsten 800 × 270 = € 216.000 en uitgaven 240.000 + 3.750 + 30.000 = € 273.750, dus saldo 216.000 - 273.750 = -€ 57.750 (1)
+• Verschil: 42.250 - (-57.750) = € 100.000, dus het resultaat is € 100.000 hoger dan het saldo (1)
+
+## OPGAVE IT-00567 1p | 
+In deze opgave blijft de btw buiten beschouwing.
+Zeilmakerij Windkracht nv gaat het derde kwartaal van 2027 (juli tot en met september) in met een nieuwe lasersnijmachine. De machine gaat 5 jaar mee en heeft geen restwaarde. De financiële afdeling bekijkt drie betalingen en wil weten wat die betekenen voor de kosten en de uitgaven van dit kwartaal.
+Tabel Tabel Betalingen Windkracht nv, derde kwartaal 2027:
+Post | Bedrag (€) | Betaald op
+Lasersnijmachine | 120.000 | 1 juli 2027
+Aflossing op een lening | 25.000 | 30 september 2027
+Huur werkplaats voor juli tot en met september 2027 | 18.000 | 1 juli 2027
+Kies de bewering over het derde kwartaal van 2027 die economisch juist is.
+### OPTIES B
+A A. De machine levert € 120.000 aan kosten op. De aflossing is een uitgave en ook kosten van € 25.000. De huur is een uitgave en kosten van € 18.000.
+B B. De machine is een uitgave van € 120.000 en levert € 6.000 aan kosten op. De aflossing is alleen een uitgave. De huur is een uitgave en kosten van € 18.000.
+C C. De machine is een uitgave van € 120.000 en levert € 24.000 aan kosten op. De aflossing is alleen een uitgave. De huur is een uitgave en kosten van € 18.000.
+D D. De machine is een uitgave van € 120.000 en levert € 6.000 aan kosten op. De aflossing is alleen een uitgave. De huur is een uitgave van € 18.000 en geen kosten, omdat die vooraf is betaald.
+### ANTWOORD
+B
+Puntenverdeling:
+• Antwoord B: de machine is een uitgave van € 120.000 met kosten van 120.000 : 5 : 4 = € 6.000; de aflossing is alleen een uitgave; de huur is zowel uitgave als kosten van € 18.000 (1)
+
+## OPGAVE IT-00568 1p | 
+In deze opgave blijft de btw buiten beschouwing.
+Lumen Drukkerij nv maakt een overzicht voor het vierde kwartaal van 2027 (oktober tot en met december). Op 1 oktober 2027 koopt de nv een drukpers van € 240.000 en betaalt dat bedrag direct. De drukpers gaat 8 jaar mee en heeft geen restwaarde. Op diezelfde dag betaalt de nv € 9.600 voor een bedrijfsverzekering die loopt van 1 oktober 2027 tot en met 30 september 2028. Op 31 december is € 30.000 van een lening afgelost.
+Bereken hoeveel de kosten van de drukpers, de verzekering en de aflossing samen bedragen over het vierde kwartaal van 2027.
+### OPTIES C
+A A. € 279.600
+B B. € 17.100
+C C. € 9.900
+D D. € 39.900
+### ANTWOORD
+C
+Puntenverdeling:
+• Antwoord C: afschrijving 240.000 : 8 : 4 = € 7.500 plus verzekering 9.600 : 4 = € 2.400, de aflossing is geen kosten; totaal € 9.900 (1)
+
+## OPGAVE IT-00569 2p | 
+In deze opgave blijft de btw buiten beschouwing.
+Bakkerij Korenveld nv maakt een overzicht van drie posten over het derde kwartaal van 2028 (juli tot en met september). De koelcel heeft een levensduur van 7 jaar en geen restwaarde. De brandverzekering loopt 12 maanden vanaf 1 augustus 2028.
+Tabel Tabel Gegevens Korenveld nv, derde kwartaal 2028:
+Post | Bedrag (€) | Betaald op
+Aanschaf van een koelcel | 84.000 | 1 juli 2028
+Aflossing op een lening | 15.000 | 1 augustus 2028
+Brandverzekering voor 12 maanden | 7.200 | 1 augustus 2028
+Maak van onderstaande tekst een economisch juiste tekst over het derde kwartaal van 2028.
+De koelcel levert in het derde kwartaal een uitgave van ...(1)... en kosten van ...(2)... op.
+De aflossing is in het derde kwartaal ...(3)... .
+De kosten van de brandverzekering over het derde kwartaal bedragen ...(4)... .
+Kies uit: bij (1) € 3.000 / € 21.000 / € 84.000
+Kies uit: bij (2) € 3.000 / € 12.000 / € 84.000
+Kies uit: bij (3) alleen kosten / alleen een uitgave / zowel kosten als een uitgave
+Kies uit: bij (4) € 1.200 / € 2.400 / € 7.200
+### ANTWOORD
+(1) € 84.000: de koelcel is op 1 juli in één keer betaald. (2) € 3.000: 84.000 : 7 : 4. (3) alleen een uitgave: een aflossing verbruikt niets. (4) € 1.200: de premie geldt voor 12 maanden, dus 7.200 : 12 × 2 maanden (augustus en september).
+Puntenverdeling:
+• indien vier keuzes juist zijn: € 84.000, € 3.000, alleen een uitgave, € 1.200 (2)
+• indien twee of drie keuzes juist zijn (1)
+• indien minder dan twee keuzes juist zijn (0)
+
+## OPGAVE IT-00571 3p | 
+In deze opgave blijft de btw buiten beschouwing.
+Lindehof Tuincentrum nv verkoopt planten en tuinmeubelen. Van de omzet wordt 40% contant betaald. De overige 60% wordt op rekening verkocht; klanten betalen in de maand na de verkoop. De nv stelt voor het eerste kwartaal van 2029 (januari tot en met maart) een resultatenbegroting (exploitatiebegroting) en een liquiditeitsbegroting op.
+Tabel Tabel Omzet Lindehof Tuincentrum nv:
+Maand | Omzet (€)
+december 2028 | 100.000
+januari 2029 | 80.000
+februari 2029 | 90.000
+maart 2029 | 130.000
+Toon met een berekening aan dat de ontvangsten uit verkopen in het eerste kwartaal van 2029 lager zijn dan de opbrengsten uit verkopen in dat kwartaal.
+### ANTWOORD
+Opbrengsten: 80.000 + 90.000 + 130.000 = € 300.000. Ontvangsten: contant 0,4 × 300.000 = 120.000. Van de rekeningverkopen komt in het kwartaal binnen: 0,6 × (100.000 + 80.000 + 90.000) = 162.000. Samen € 282.000. Dat is lager dan € 300.000: de maartverkopen op rekening komen pas in april binnen.
+Puntenverdeling:
+• De opbrengsten uit verkopen zijn de omzet van het kwartaal: 80.000 + 90.000 + 130.000 = € 300.000 (1)
+• De ontvangsten zijn 40% contant van de omzet van het kwartaal plus 60% van de omzet van december, januari en februari: 0,4 × 300.000 + 0,6 × (100.000 + 80.000 + 90.000) = 120.000 + 162.000 = € 282.000 (1)
+• Conclusie: € 282.000 is lager dan € 300.000 (verschil € 18.000) (1)
+
+## OPGAVE IT-00578 4p | 
+In deze opgave blijft de btw buiten beschouwing.
+Wijnhandel Bergkamp nv maakt voor het tweede kwartaal van 2028 (april tot en met juni) een resultatenbegroting (exploitatiebegroting) en een liquiditeitsbegroting.
+De huur van € 45.000 voor april tot en met september is op 1 april betaald. De lening van € 150.000 kost 6% interest per jaar, te betalen op 31 december. Op 1 mei is € 20.000 afgelost; de interest wordt per maand berekend over de schuld van dat moment. De wijnpers van € 72.000 is op 1 april contant betaald; levensduur 6 jaar, geen restwaarde.
+Tabel Informatiebron 1: Vier posten in de begrotingen van Bergkamp nv, tweede kwartaal 2028:
+Post | Kosten (€) | Uitgaven (€)
+Wijnpers | 3.000 | 72.000
+Huur | 22.500 | 45.000
+Interest | 2.050 | 0
+Aflossing | 0 | 20.000
+Verklaar bij elk van de vier posten waarom het bedrag bij de kosten verschilt van het bedrag bij de uitgaven. (zie informatiebron 1)
+### ANTWOORD
+Wijnpers: de € 72.000 is een uitgave; de kosten zijn de afschrijving van 72.000 : 6 : 4 = € 3.000. Huur: de betaling geldt voor zes maanden, dus 45.000 : 6 × 3 = € 22.500 hoort bij dit kwartaal. Interest: 750 + 1.300 = € 2.050 kosten, maar pas betaald op 31 december. Aflossing: wel een uitgave, geen verbruik en dus geen kosten.
+Puntenverdeling:
+• Wijnpers: de betaling van € 72.000 is een uitgave, maar de kosten zijn alleen de afschrijving over het kwartaal: 72.000 : 6 : 4 = € 3.000 (1)
+• Huur: € 45.000 is betaald voor zes maanden; de kosten van dit kwartaal zijn 45.000 : 6 × 3 = € 22.500, de rest hoort bij het volgende kwartaal (1)
+• Interest: de kosten zijn 150.000 × 0,06 : 12 = € 750 (april) plus 130.000 × 0,06 : 12 × 2 = € 1.300 (mei en juni), samen € 2.050; de interest wordt pas op 31 december betaald, dus er is in dit kwartaal geen uitgave (1)
+• Aflossing: het terugbetalen van een schuld is een uitgave van € 20.000, maar het is geen verbruik en dus geen kosten (1)
+
+## EXAMEN havo 2021-I 27 4p
+Een vof heeft op 31 december twee feiten: (a) betaling van € 600 interest over het hele jaar en € 2.000 aflossing, (b) ontvangst van een in november gestuurde factuur van € 2.178 incl. btw. Geef de gevolgen voor liquiditeitsoverzicht en winst- en verliesrekening. Vul de uitwerkbijlage in.
+### ANTWOORD
+Liquiditeit, uitgaven: interest € 600 en aflossing € 2.000. Ontvangsten: relatiebemiddeling € 2.178. Winst- en verliesrekening: interestkosten 600 : 12 = € 50. Feit b geeft geen opbrengst in december. 1 punt per juiste naam, bedrag en plek; 1 punt aftrek per onterechte post.
+
+## EXAMEN havo 2021-III 14 2p
+Leg uit waarom de balanspost Vooruitbetaalde huur tot de overlopende posten hoort.
+### ANTWOORD
+Bij vooruitbetaalde huur valt het moment van betalen niet samen met de periode waaraan de huurkosten worden toegerekend.
+
+## EXAMEN havo 2021-III 15 3p
+Vijf gebeurtenissen in december moeten nog worden verwerkt: inkoop op rekening, annuïteit, privéopname, huurkosten en aanschaf van inventaris. Bereken hoeveel de liquide middelen afnemen. Vul de uitwerkbijlage in.
+### ANTWOORD
+Afname per gebeurtenis: a 0, b 53, c 2.000, d 0, e 3.267. Totaal € 5.320. Scores: 6 antwoorden juist 3 punten, 5 of 4 juist 2 punten, 3 tot 1 juist 1 punt.
+
+## EXAMEN havo 2021-III 16 4p
+Bereken wat de verwerking van dezelfde vijf gebeurtenissen betekent voor de totale kosten over december. Vul de uitwerkbijlage in.
+### ANTWOORD
+Kosten per gebeurtenis: a 0, b 5 (0,2% × 2.500), c 0, d 600 (1.200 : 2), e 45 (3.267 : 1,21 : 60). Totaal € 650. Eén punt per onderdeel: 0 en 0, 5, 600, 45 en totaal.
+
+## EXAMEN havo 2021-III 17 1p
+In het overzicht van ontvangsten en uitgaven staat € 217.800 bij abonnementen, op de winst- en verliesrekening € 180.000. Verklaar het verschil.
+### ANTWOORD
+De ontvangsten zijn inclusief btw, de opbrengsten exclusief btw. Ook goed: 180.000 × 1,21 = 217.800.
+
+## EXAMEN havo 2025-II 15 3p
+De constante kosten zijn € 2.500 per maand, de variabele kosten 12,5% van de omzet. De omzet is € 6.000 in drie weken, plus verkopen in de laatste week van € 2.420 inclusief 21% btw (half contant, half in maart). Bereken het verwachte resultaat over februari.
+### ANTWOORD
+Omzet: 6.000 + 2.420 : 1,21 = 8.000 (de verkopen tellen volledig mee, de btw niet). Resultaat: 8.000 − 0,125 × 8.000 − 2.500 = € 4.500. Per fout 1 punt aftrek.
+
+## EXAMEN vwo 2021-I 20 5p
+Bereken voor verkopen (deels op rekening, incl. 21% btw, krediettermijn 1,5 maand) en onderhoud (voorziening, betaald in maart) de bedragen die in het eerste kwartaal van 2021 op de winst- en verliesrekening, het liquiditeitsoverzicht of beide horen. Vul de uitwerkbijlage in.
+### ANTWOORD
+Verkopen W&V: (125.000 + 135.000 + 140.000) : 1,21 = 330.578,51 (1). Verkopen liquiditeit: 389.500 (2), contant 40% plus debiteurenontvangsten. Onderhoud: W&V 3.000 (1), liquiditeit 20.000 (1).
+
+## EXAMEN vwo 2021-I 21 2p
+Het resultaat voor belasting over 2020 is € 500.000 en na belasting € 390.000. Dit wordt verdeeld in de verhouding 2:3 over dividend (half cash, half stock) en algemene reserve. Bereken wat in het eerste kwartaal van 2021 op de W&V en het liquiditeitsoverzicht komt.
+### ANTWOORD
+Op de winst- en verliesrekening: vennootschapsbelasting 500.000 – 390.000 = 110.000 plus cash dividend 390.000/5 × 2 × 0,5 = 78.000; totaal 188.000 (1). Hetzelfde bedrag staat ook op het liquiditeitsoverzicht (1).
+
+## EXAMEN vwo 2022-II 19 4p
+Bereken de ontvangsten in het tweede kwartaal uit de verkoop van massageproducten. 60% is contant, 20% iDeal en 20% AfterPay met een halve maand uitstel, beide met 5% commissie en een beginvordering.
+### ANTWOORD
+Beginvordering AfterPay 145,00; contant 2.541 × 0,6 = 1.524,60; iDeal 2.541 × 0,20 × 0,95 = 482,79; AfterPay (930 + 771 + 0,5 × 840) × 0,20 × 0,95 = 402,99. Totaal € 2.555,38.
+
+## EXAMEN vwo 2025-II 16 2p
+Uit de ontvangsten incl. 21% btw en de omzet van april bepaal je de omzet van juni 2024. Bereken die omzet.
+### ANTWOORD
+April: 0,75 × 60.000 × 1,21 = 54.450. Resterende ontvangst 73.810 − 54.450 = 19.360 is 25% van de omzet juni incl. btw. Omzet juni = 19.360 : 1,21 × 100/25 = € 64.000.
+
+
+# LEERDOEL BECO-PERIO-02
+domein: F
+onderwerp: F.perio
+thema: Periodisering
+wereld: h23,v29
+naam: Vooruitbetaalde kosten op de balans berekenen
+doel: Ik kan berekenen welk bedrag aan vooruitbetaalde kosten op de balans staat.
+gens: vooruitbetaald
+
+## OPGAVE IT-00008 2p | Softwarelicentie van een tuincentrum
+Tuincentrum Groenhart bv betaalt op 1 oktober 2027 € 27.000 voor een licentie van kassasoftware. De licentie loopt 18 maanden, van 1 oktober 2027 tot en met 31 maart 2029. De balansdatum is 31 december 2027.
+In deze opgave blijft de btw buiten beschouwing.
+Bereken het bedrag aan vooruitbetaalde kosten voor de licentie op de balans per 31 december 2027.
+### ANTWOORD
+Van de 18 maanden zijn er 3 verstreken (oktober, november, december). Er komen nog 18 − 3 = 15 maanden. Vooruitbetaald = 27.000 × 15/18 = € 22.500.
+Puntenverdeling:
+• Een juist antwoord bevat: Het aantal maanden dat nog komt: 18 − 3 = 15 (1)
+• De vooruitbetaalde kosten: 27.000 × 15/18 = € 22.500 (1)
+
+## OPGAVE IT-00009 4p | Huur en verzekering van een zeilmakerij
+Zeilmakerij Kaap bv huurt een bedrijfshal en heeft een bedrijfsverzekering. Beide worden per halfjaar vooruit betaald. Het boekjaar is gelijk aan het kalenderjaar. De balansdatum is 31 december 2027.
+In deze opgave blijft de btw buiten beschouwing.
+Tabel Betalingen in 2027:
+Post | Betaald op | Bedrag (€) | Betrekking op
+Huur bedrijfshal | 1 oktober 2027 | 61.200 | 6 maanden: 1 oktober 2027 tot en met 31 maart 2028
+Bedrijfsverzekering | 1 december 2027 | 8.400 | 6 maanden: 1 december 2027 tot en met 31 mei 2028
+Bereken het totale bedrag aan vooruitbetaalde kosten op de balans per 31 december 2027.
+Doe het als volgt:
+- Bepaal per post hoeveel maanden er na 31 december 2027 nog komen.
+- Bereken per post het vooruitbetaalde bedrag en tel die bedragen op.
+### ANTWOORD
+Huur: betaald voor 6 maanden, oktober tot en met december zijn verstreken (3), dus 3 maanden komen nog: 61.200 × 3/6 = € 30.600. Verzekering: december is verstreken (1), dus 5 maanden komen nog: 8.400 × 5/6 = € 7.000. Samen is dit 30.600 + 7.000 = € 37.600 aan vooruitbetaalde kosten.
+Puntenverdeling:
+• Een juist antwoord bevat: Huur: 3 maanden verstreken, dus 6 − 3 = 3 maanden die nog komen (1)
+• Vooruitbetaalde huur: 61.200 × 3/6 = € 30.600 (1)
+• Verzekering: 1 maand verstreken, dus 6 − 1 = 5 maanden die nog komen, en 8.400 × 5/6 = € 7.000 (1)
+• Totaal vooruitbetaalde kosten: 30.600 + 7.000 = € 37.600 (1)
+
+## OPGAVE IT-00010 3p | Betalingen van een kartonfabriek
+Kartonfabriek Eendracht bv doet in het vierde kwartaal van 2027 drie betalingen die niet allemaal betrekking hebben op de periode tot en met 31 december 2027. De balansdatum is 31 december 2027. In de tabel staat voor elke betaling het bedrag en de periode waarop deze betrekking heeft.
+In deze opgave blijft de btw buiten beschouwing.
+Tabel Betalingen in het vierde kwartaal van 2027:
+Post | Betaald op | Bedrag (€) | Betrekking op
+Brandverzekering | 1 oktober 2027 | 15.600 | 12 maanden: 1 oktober 2027 tot en met 30 september 2028
+Lease heftruck | 1 november 2027 | 7.200 | 4 maanden: 1 november 2027 tot en met 29 februari 2028
+Onderhoud machines | 1 november 2027 | 2.400 | 2 maanden: 1 november 2027 tot en met 31 december 2027
+Bereken het bedrag dat Eendracht bv op de balans per 31 december 2027 opneemt als vooruitbetaalde kosten.
+### ANTWOORD
+Brandverzekering: van de 12 maanden zijn er 3 verstreken, dus 9 maanden komen nog: 15.600 × 9/12 = € 11.700. Lease: van de 4 maanden zijn november en december verstreken, dus 2 maanden komen nog: 7.200 × 2/4 = € 3.600. Onderhoud: de 2 maanden zijn allemaal verstreken, dus er is niets vooruitbetaald (€ 0). Totaal: 11.700 + 3.600 + 0 = € 15.300.
+Puntenverdeling:
+• Een juist antwoord bevat: Brandverzekering: 12 − 3 = 9 maanden die nog komen, dus 15.600 × 9/12 = € 11.700 (1)
+• Lease heftruck: 4 − 2 = 2 maanden die nog komen, dus 7.200 × 2/4 = € 3.600 (1)
+• Onderhoud: alle 2 maanden zijn verstreken, dus € 0 vooruitbetaald, en het totaal is 11.700 + 3.600 + 0 = € 15.300 (1)
+
+## OPGAVE IT-00023 2p | Vooruitbetaalde brandverzekering van een drukkerij
+In deze opgave blijft de btw buiten beschouwing.
+Drukkerij De Zwaluw bv betaalt op 1 september 2027 de premie van € 3.600 voor een brandverzekering. De premie geldt voor de periode van 1 september 2027 tot en met 31 augustus 2028. De balansdatum is 31 december 2027.
+Op 31 december 2027 wordt de premie als volgt verwerkt. Van de periode waarvoor de premie is betaald, resteren na de balansdatum nog ...(1)... maanden. De vooruitbetaalde kosten bedragen € ...(2)... en komen op de balans aan de ...(3)... kant. In de kosten over 2027 wordt voor deze verzekering € ...(4)... meegeteld.
+Geef aan wat er bij (1), (2), (3) en (4) moet komen te staan.
+Kies uit: bij (1) 4 / 8 / 12
+bij (2) € 1.200 / € 2.400 / € 2.700
+bij (3) debet / credit / debet én credit
+bij (4) € 1.200 / € 2.400 / € 3.600
+### ANTWOORD
+(1) 8; (2) € 2.400; (3) debet; (4) € 1.200. Van 1 september tot en met 31 december zijn 4 maanden verstreken (september, oktober, november, december). De premie geldt voor 12 maanden, dus er resteren nog 12 - 4 = 8 maanden. De vooruitbetaalde kosten zijn 3.600 × 8/12 = € 2.400. Dit is een bezit en komt aan de debetkant van de balans. De kosten over 2027 zijn 3.600 × 4/12 = € 1.200.
+Puntenverdeling:
+• Een juist antwoord bevat: bij (1) 8, bij (2) € 2.400, bij (3) debet, bij (4) € 1.200. indien vier keuzes juist zijn (2)
+• indien drie keuzes juist zijn (1)
+• indien minder dan drie keuzes juist zijn (0)
+
+## OPGAVE IT-00024 3p | Opstalverzekering van een distributiecentrum
+In deze opgave blijft de btw buiten beschouwing.
+Distributiecentrum Noordkade bv sluit voor zijn magazijn een opstalverzekering af. Op 1 augustus 2027 betaalt het bedrijf de premie van € 21.600 vooruit. De premie geldt voor een periode van achttien maanden, van 1 augustus 2027 tot en met 31 januari 2029.
+Noordkade sluit zijn boekjaar af op 31 december 2027 en stelt dan een balans op.
+Bereken het bedrag aan vooruitbetaalde kosten dat Distributiecentrum Noordkade bv per 31 december 2027 op de balans opneemt.
+### ANTWOORD
+De premie van € 21.600 geldt voor 18 maanden, dus per maand is dat 21.600 : 18 = € 1.200. Van 1 augustus tot en met 31 december 2027 zijn 5 maanden verstreken. Er resteren dus nog 18 - 5 = 13 maanden die al betaald zijn. De vooruitbetaalde kosten zijn 1.200 × 13 = € 15.600. Controle: 21.600 - 5 × 1.200 = 21.600 - 6.000 = € 15.600.
+Puntenverdeling:
+• Een juist antwoord bevat: Het aantal maanden dat na de balansdatum nog komt: 18 - 5 = 13 (augustus tot en met december 2027 zijn 5 maanden verstreken) (1)
+• De premie per maand: 21.600 : 18 = € 1.200 (1)
+• De vooruitbetaalde kosten: 1.200 × 13 = € 15.600 (1)
+
+## OPGAVE IT-00561 3p | Studiohuur van een fotostudio
+Fotostudio Lumen bv huurt een studiopand. De huur wordt per halfjaar vooruit betaald. Op 1 november 2027 betaalt Lumen bv € 48.600 huur voor zes maanden: 1 november 2027 tot en met 30 april 2028.
+Het boekjaar is gelijk aan het kalenderjaar. De balansdatum is 31 december 2027.
+In deze opgave blijft de btw buiten beschouwing.
+Toon met een berekening aan dat Lumen bv per 31 december 2027 een bedrag aan vooruitbetaalde huur als bezitting op de balans opneemt.
+Doe het als volgt:
+- Bepaal hoeveel maanden na 31 december 2027 nog komen en bereken het vooruitbetaalde bedrag.
+- Leg uit waarom dit bedrag een bezitting is.
+### ANTWOORD
+Van de 6 betaalde maanden zijn er 2 verstreken (november en december), dus 4 maanden komen nog: 48.600 × 4/6 = € 32.400. Dit bedrag is al betaald voor januari tot en met april 2028. Lumen bv heeft daar nog recht op gebruik van het pand, dus het is een bezitting.
+Puntenverdeling:
+• Een juist antwoord bevat: Er zijn 2 maanden verstreken (november en december), dus 6 − 2 = 4 maanden komen nog (1)
+• Vooruitbetaalde huur: 48.600 × 4/6 = € 32.400 (1)
+• Toelichting: Lumen bv heeft de huur voor januari tot en met april 2028 al betaald en heeft nog recht op het gebruik van het pand, dus het bedrag is een bezitting (debetzijde) (1)
+
+## OPGAVE IT-00565 3p | 
+In deze opgave blijft de btw buiten beschouwing.
+Bakkerij Korenveld bv betaalt in 2027 twee contracten vooraf. Het boekjaar is gelijk aan het kalenderjaar en de balansdatum is 31 december 2027.
+Informatiebron 1 geeft per betaling het bedrag en de periode waarop de betaling betrekking heeft.
+Tabel Informatiebron 1 Betalingen in 2027:
+Post | Betaald op | Bedrag (€) | Periode
+Onderhoud ovens | 1 augustus 2027 | 5.760 | 24 maanden: 1 augustus 2027 tot en met 31 juli 2029
+Advertentie in streekblad | 1 november 2027 | 3.900 | 6 maanden: 1 november 2027 tot en met 30 april 2028
+Bereken het totale bedrag aan vooruitbetaalde kosten dat Korenveld bv per 31 december 2027 op de balans opneemt. (zie informatiebron 1)
+### ANTWOORD
+Onderhoud: van de 24 maanden zijn er 5 verstreken (augustus tot en met december), dus 24 − 5 = 19 maanden komen nog: 5.760 × 19/24 = € 4.560. Advertentie: 2 maanden verstreken, dus 4 komen nog: 3.900 × 4/6 = € 2.600. Totaal: 4.560 + 2.600 = € 7.160.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende onderdelen. Bedragen in hele euro's. Een andere juiste berekening met hetzelfde resultaat, bijvoorbeeld 5.760 : 24 × 19, is ook goed. Onderhoud: 24 − 5 = 19 maanden komen nog, dus 5.760 × 19/24 = € 4.560 (1)
+• Advertentie: 6 − 2 = 4 maanden komen nog, dus 3.900 × 4/6 = € 2.600 (1)
+• Totaal vooruitbetaalde kosten: 4.560 + 2.600 = € 7.160 (1)
+
+## EXAMEN havo 2021-II 16 1p
+De verzekeringspremie wordt elk jaar op 1 februari voor een heel jaar vooruitbetaald (€ 275 per maand). Bereken het bedrag van de balanspost Vooruitbetaalde verzekeringspremie per 31 maart 2021.
+### ANTWOORD
+Er zijn nog 10 maanden vooruitbetaald (april tot en met januari): 275 × 10 = € 2.750.
+
+## EXAMEN havo 2025-II 18 3p
+Op 31 december 2024 ontvangt een bedrijf € 4.000 abonnementsgeld voor 2025 vooruit en betaalt het € 1.700 verzekeringspremie voor 2025 vooruit. Noteer de gevolgen van beide feiten voor de balans. Vul de uitwerkbijlage in.
+### ANTWOORD
+Liquide middelen + 4.000 en − 1.700 (1 punt). Vooruitontvangen abonnementsgelden + 4.000 aan de creditzijde (1 punt). Vooruitbetaalde verzekeringspremie + 1.700 aan de debetzijde (1 punt).
+
+## EXAMEN havo 2026-II 8 4p
+Stel met informatiebron 2 de balans van de startende onderneming per 1 januari 2025 op. Vul de uitwerkbijlage verder in.
+### ANTWOORD
+Activa: bestelbus 15.000, inventaris 12.675, voorraden 6.000 en 1.650, vooruitbetaalde huur 3 × 2.500 = 7.500, bank 1.000; totaal 43.825. Passiva: lening 30.000, crediteuren 0,5 × 1.650 = 825, eigen vermogen 13.000. Vier deelscores van 1 punt.
+
+## EXAMEN vwo 2024-I 15 4p
+Stel met de inventarisatielijst de volledige balans van de eenmanszaak van de overleden ondernemer samen op het moment van overlijden. Gebruik de uitwerkbijlage.
+### ANTWOORD
+Bedrijfspand 350.000 en overige vaste activa 25.000. Vlottend: vooruitbetaald 2.000, voorraden 12.000, debiteuren 10.000. Credit: eigen vermogen 186.000, hypotheek 180.000, ontvangen afnemerskrediet 2.500, crediteuren 6.000, rekening-courant 24.500. Totaal 399.000. Per verkeerd geplaatste post of foute berekening 1 punt aftrek.
+
+
+# LEERDOEL BECO-PERIO-03
+domein: F
+onderwerp: F.perio
+thema: Periodisering
+wereld: h23,v29
+naam: Nog te betalen interest op de balans berekenen
+doel: Ik kan de nog te betalen interest op de balans berekenen.
+gens: nogTeBetalenInterest
+
+## OPGAVE IT-00589 3p | Aflossing tijdens de interestperiode
+Zonnehof nv heeft een lening van € 600.000 tegen 5% per jaar. De interest wordt per halfjaar achteraf betaald, voor het laatst op 31 juli 2026. De volgende betaling is op 31 januari 2027.
+Op 1 november 2026 lost Zonnehof nv € 120.000 af. De interest wordt per periode berekend over de schuld van dat moment. Voor de maanden wordt gerekend met 1/12 jaar. De balansdatum is 31 december 2026.
+Bereken het bedrag dat Zonnehof nv per 31 december 2026 op de balans opneemt voor de post Te betalen interest.
+### ANTWOORD
+Sinds 31 juli zijn 5 maanden verstreken. Aug-okt: 600.000 × 0,05 × 3/12 = 7.500. Schuld na aflossing: 600.000 − 120.000 = 480.000. Nov-dec: 480.000 × 0,05 × 2/12 = 4.000. Nog te betalen interest: 7.500 + 4.000 = € 11.500.
+Puntenverdeling:
+• Rond af op hele euro's. Een los eindantwoord zonder berekening levert 0 scorepunten op. Interest van 1 augustus tot 1 november (3 maanden) over de schuld vóór de aflossing: 600.000 × 0,05 × 3/12 = 7.500 (1)
+• Interest van 1 november tot 31 december (2 maanden) over de schuld na de aflossing (600.000 − 120.000 = 480.000): 480.000 × 0,05 × 2/12 = 4.000 (1)
+• Optellen: 7.500 + 4.000 = € 11.500 (nog te betalen interest) (1)
+
+## OPGAVE IT-00590 3p | Nog te betalen interest op de balans
+Zeeduin nv heeft een banklening van € 1.200.000 tegen 6% per jaar. De interest wordt jaarlijks achteraf betaald, voor het laatst op 31 augustus 2026.
+Op 1 december 2026 lost Zeeduin nv € 300.000 af. De interest wordt per periode berekend over de schuld van dat moment. Voor de maanden wordt gerekend met 1/12 jaar. De balansdatum is 31 december 2026.
+Bereken de post Te betalen interest op de balans van Zeeduin nv per 31 december 2026.
+### ANTWOORD
+Sinds 31 augustus zijn 4 maanden verstreken. Sept-nov: 1.200.000 × 0,06 × 3/12 = 18.000. Schuld na aflossing: 1.200.000 − 300.000 = 900.000. December: 900.000 × 0,06 × 1/12 = 4.500. Te betalen interest: 18.000 + 4.500 = € 22.500.
+Puntenverdeling:
+• Rond af op hele euro's. Een los eindantwoord zonder berekening levert 0 scorepunten op. Interest van 1 september tot 1 december (3 maanden) over de schuld vóór de aflossing: 1.200.000 × 0,06 × 3/12 = 18.000 (1)
+• Interest over december (1 maand) over de schuld na de aflossing (1.200.000 − 300.000 = 900.000): 900.000 × 0,06 × 1/12 = 4.500 (1)
+• Optellen: 18.000 + 4.500 = € 22.500 (nog te betalen interest) (1)
+
+## OPGAVE IT-00592 3p | Opgave 1
+In deze opgave blijft de btw buiten beschouwing. Brouwerij Heldervelt bv heeft een lening van € 300.000 tegen 4% interest per jaar. De interest wordt per halfjaar achteraf betaald, voor het laatst op 30 september 2026. De eerstvolgende betaling is op 31 maart 2027.
+Op 1 november 2026 lost de brouwerij € 60.000 af. Bij de aflossing wordt geen interest betaald. De interest wordt berekend over de schuld van dat moment. De brouwerij rekent voor elke maand met 1/12 jaar. De balansdatum is 31 december 2026.
+Bereken het bedrag aan nog te betalen interest dat op de balans per 31 december 2026 moet worden opgenomen.
+### ANTWOORD
+Op 30 september is de interest betaald, dus er zijn 3 maanden interest verstreken. Oktober: 300.000 × 0,04 × 1/12 = € 1.000. Na de aflossing is de schuld 300.000 − 60.000 = 240.000. November en december: 240.000 × 0,04 × 2/12 = € 1.600. Samen: 1.000 + 1.600 = € 2.600.
+Puntenverdeling:
+• Rond af op hele euro's; een afwijking van € 1 door afronding is toegestaan. Een los eindantwoord zonder berekening levert 0 scorepunten op. Interest over oktober over de schuld vóór de aflossing: 300.000 × 0,04 × 1/12 = € 1.000 (1)
+• Interest over november en december over de schuld na de aflossing (300.000 − 60.000 = 240.000): 240.000 × 0,04 × 2/12 = € 1.600 (1)
+• Optellen: 1.000 + 1.600 = € 2.600 (nog te betalen interest) (1)
+
+## EXAMEN havo 2021-III 19 2p
+Bereken de omvang van de 6%-banklening per 31 december 2019, na aflossing op 1 april 2019. Gebruik de post Te betalen interest.
+### ANTWOORD
+Y × 0,06 × 9/12 = 9.000, dus Y = € 200.000. Ook goed: 9.000 : 11.250 × 250.000 = € 200.000.
+
+
+# LEERDOEL BECO-PERIO-04
+domein: F
+onderwerp: F.perio
+thema: Periodisering
+wereld: h23,v29
+naam: Vooruitontvangen bedragen op de juiste zijde van de balans plaatsen
+doel: Ik kan aangeven aan welke zijde van de balans vooruitontvangen bedragen staan en waarom.
+
+## EXAMEN havo 2025-I 9 2p
+Gasten betalen bij reservering 20% aan. Noem de overlopende post die hierdoor aan de creditzijde van de balans ontstaat en leg uit waarom die post daar staat.
+### ANTWOORD
+Vooruit ontvangen bedragen (of vooruit ontvangen huur), 1 punt. Het bedrijf heeft de aanbetaling al ontvangen maar moet de vakantie nog leveren (verplichting), 1 punt. Het tweede punt alleen bij het eerste.
+
+## EXAMEN havo 2025-II 18 3p
+Op 31 december 2024 ontvangt een bedrijf € 4.000 abonnementsgeld voor 2025 vooruit en betaalt het € 1.700 verzekeringspremie voor 2025 vooruit. Noteer de gevolgen van beide feiten voor de balans. Vul de uitwerkbijlage in.
+### ANTWOORD
+Liquide middelen + 4.000 en − 1.700 (1 punt). Vooruitontvangen abonnementsgelden + 4.000 aan de creditzijde (1 punt). Vooruitbetaalde verzekeringspremie + 1.700 aan de debetzijde (1 punt).
+
+## EXAMEN vwo 2024-I 15 4p
+Stel met de inventarisatielijst de volledige balans van de eenmanszaak van de overleden ondernemer samen op het moment van overlijden. Gebruik de uitwerkbijlage.
+### ANTWOORD
+Bedrijfspand 350.000 en overige vaste activa 25.000. Vlottend: vooruitbetaald 2.000, voorraden 12.000, debiteuren 10.000. Credit: eigen vermogen 186.000, hypotheek 180.000, ontvangen afnemerskrediet 2.500, crediteuren 6.000, rekening-courant 24.500. Totaal 399.000. Per verkeerd geplaatste post of foute berekening 1 punt aftrek.
+

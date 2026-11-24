@@ -1,0 +1,153 @@
+# HOOFDSTUK hv 6 | Woning
+wereld: hv6
+hoofdvraag: Ga je huren of kopen, en hoe financier je een huis?
+
+## § 6.1 | Huren
+onderwerp: B.wonen
+deelvraag: Wat zijn je rechten en plichten als huurder?
+### UITLEG Huursectoren
+Sociale huur: woningen met een lage huur, vooral van woningcorporaties, voor mensen met een lager inkomen. De huurprijs is gereguleerd.
+Middenhuur: voor middeninkomens, ook met een maximale huurprijs. Vrije sector: de verhuurder bepaalt de huur.
+Huurtoeslag is een bijdrage van de overheid voor huurders met een laag inkomen.
+### UITLEG Rechten en plichten
+De huurder betaalt op tijd de huur, gebruikt de woning als een goed huurder en doet klein onderhoud. De verhuurder zorgt voor groot onderhoud en herstel van gebreken.
+Huurbescherming: de verhuurder kan het huurcontract niet zomaar opzeggen; daar is een wettelijke reden voor nodig. Bij een conflict over de huurprijs kun je naar de Huurcommissie.
+### BEGRIPPEN
+Sociale huurwoning = Woning met een lage, gereguleerde huur, meestal van een woningcorporatie.
+Vrije sector = Huurwoningen waarvan de verhuurder zelf de huurprijs bepaalt.
+Huurbescherming = Wettelijke bescherming van de huurder tegen opzegging van het huurcontract.
+Huurtoeslag = Bijdrage van de overheid in de huur voor mensen met een laag inkomen.
+Huurcommissie = Onafhankelijke instantie die geschillen tussen huurder en verhuurder beslecht.
+Woningcorporatie = Organisatie die betaalbare huurwoningen verhuurt.
+### MC
+Wie is verantwoordelijk voor het vervangen van een kapot dak bij een huurwoning?
+* De verhuurder
+- De huurder
+- De Huurcommissie
+- De gemeente
+> Groot onderhoud is voor de verhuurder.
+### MC
+Wat betekent huurbescherming?
+* De verhuurder mag het huurcontract niet zomaar opzeggen
+- De huur mag nooit stijgen
+- De huurder hoeft geen onderhoud te doen
+- De huurder krijgt altijd huurtoeslag
+> Opzeggen kan alleen met een wettelijke reden.
+### MC
+Bij wie kun je terecht als je vindt dat je huur te hoog is voor een sociale huurwoning?
+* De Huurcommissie
+- De Belastingdienst
+- De notaris
+- Het Kadaster
+> De Huurcommissie toetst de huurprijs.
+
+## § 6.2 | Kopen
+onderwerp: B.wonen
+deelvraag: Wie zijn betrokken bij het kopen van een huis en welke kosten maak je?
+gens: eigenwoningforfait
+### UITLEG Het koopproces
+Makelaar: bemiddelt bij koop of verkoop en rekent courtage (een percentage van de koopsom). Taxateur: bepaalt de marktwaarde van de woning voor de bank.
+Notaris: maakt de leveringsakte en de hypotheekakte op. De koop wordt ingeschreven in het Kadaster, het openbare register van wie eigenaar is.
+Kosten koper (k.k.): kosten die de koper naast de koopsom betaalt, zoals overdrachtsbelasting, notariskosten en taxatiekosten.
+### UITLEG Belasting en de eigen woning
+Wie in een eigen huis woont, telt het eigenwoningforfait (een percentage van de WOZ-waarde) bij het inkomen op. De betaalde hypotheekrente mag je juist aftrekken. Omdat het belastingstelsel progressief is, levert de aftrek meer op bij een hoger inkomen.
+### BEGRIPPEN
+Makelaar = Bemiddelt bij koop en verkoop van woningen.
+Courtage = De vergoeding van de makelaar, een percentage van de koopsom.
+Taxateur = Bepaalt de marktwaarde van een woning.
+Notaris = Maakt de akte van levering en de hypotheekakte op.
+Kadaster = Openbaar register waarin staat wie eigenaar is van onroerend goed.
+Eigenwoningforfait = Bedrag dat een huiseigenaar bij het inkomen moet optellen, een percentage van de WOZ-waarde.
+### MC
+Wie zorgt ervoor dat de eigendom van een huis officieel overgaat naar de koper?
+* De notaris, met inschrijving in het Kadaster
+- De makelaar
+- De taxateur
+- De bank
+> De notaris maakt de leveringsakte en laat die inschrijven.
+### MC
+Een makelaar rekent 1,5% courtage over een koopsom van € 380.000. Hoeveel is dat?
+* € 5.700
+- € 570
+- € 57.000
+- € 3.800
+> 0,015 × 380.000 = € 5.700.
+### MC
+Waarom levert hypotheekrenteaftrek meer belastingvoordeel op bij een hoog inkomen?
+* Omdat het tarief van de inkomstenbelasting progressief is
+- Omdat mensen met een hoog inkomen meer rente betalen
+- Omdat het eigenwoningforfait dan lager is
+- Omdat de bank dan korting geeft
+> De aftrek gaat tegen een hoger tarief.
+
+## § 6.3 | Lineaire hypotheek
+onderwerp: B.wonen
+deelvraag: Hoe bereken je de lasten van een lineaire hypotheek?
+gens: lineaireHypotheek, lineaireInterestLater
+### UITLEG Lineair aflossen
+Een hypotheek is een lening met het huis als onderpand. Bij een lineaire hypotheek los je elk jaar hetzelfde bedrag af: hypotheek / looptijd.
+De interest = percentage × schuldrest. Omdat de schuld daalt, daalt ook de interest. De bruto lasten zijn daarom in het begin het hoogst en dalen daarna.
+Netto lasten = bruto lasten − belastingvoordeel door de renteaftrek.
+### BEGRIPPEN
+Hypotheek = Lening met een woning als onderpand.
+Onderpand = Bezit dat de geldgever mag verkopen als de lener niet betaalt.
+Lineaire hypotheek = Hypotheek waarbij je elk jaar een gelijk bedrag aflost.
+Bruto lasten = Aflossing plus interest, vóór belastingvoordeel.
+Netto lasten = Bruto lasten min het belastingvoordeel.
+Hypotheekrenteaftrek = De betaalde hypotheekrente mag van het belastbaar inkomen worden afgetrokken.
+### MC
+Een lineaire hypotheek van € 300.000 met een looptijd van 30 jaar. Hoeveel los je per jaar af?
+* € 10.000
+- € 9.000
+- € 30.000
+- € 12.000
+> 300.000 / 30 = € 10.000.
+### MC
+Bij dezelfde hypotheek is de rente 4%. Hoe hoog zijn de bruto lasten in jaar 1?
+* € 22.000
+- € 12.000
+- € 10.400
+- € 21.600
+> 10.000 aflossing + 0,04 × 300.000 = 12.000 rente = € 22.000.
+### MC
+Wat gebeurt er met de bruto lasten van een lineaire hypotheek in de loop van de tijd?
+* Die dalen, omdat de interest daalt
+- Die blijven gelijk
+- Die stijgen
+- Die worden in het laatste jaar het hoogst
+> De aflossing is gelijk, de interest daalt.
+
+## § 6.4 | Annuïteiten- en aflossingsvrije hypotheek
+onderwerp: B.wonen
+deelvraag: Hoe werkt een annuïteitenhypotheek en wat is het verschil met lineair?
+gens: annuiteit
+### UITLEG Annuïteitenhypotheek
+Bij een annuïteitenhypotheek betaal je elk jaar (of maand) hetzelfde bedrag: de annuïteit. In het begin is dat vooral interest en weinig aflossing, aan het eind vooral aflossing.
+Annuïteit = H × i / (1 − (1 + i)⁻ⁿ).
+Vergelijking met lineair: de annuïteitenhypotheek heeft in het begin lagere lasten, maar over de hele looptijd betaal je meer interest, omdat de schuld langzamer daalt.
+Aflossingsvrije hypotheek: je betaalt alleen interest en lost niets af; de schuld blijft gelijk. Voor nieuwe hypotheken geldt de renteaftrek alleen bij een annuïtaire of lineaire aflossing.
+### BEGRIPPEN
+Annuïteitenhypotheek = Hypotheek met elk jaar gelijke bruto lasten (interest plus aflossing).
+Aflossingsvrije hypotheek = Hypotheek waarbij je alleen interest betaalt en niets aflost.
+Annuïteit = Het vaste bedrag per periode bij een annuïteitenhypotheek.
+### MC
+Wat is juist bij een annuïteitenhypotheek?
+* De bruto lasten zijn elk jaar gelijk, het aflossingsdeel stijgt
+- De aflossing is elk jaar gelijk
+- De interest stijgt elk jaar
+- Je lost niets af
+> Annuïteit = interest (dalend) + aflossing (stijgend).
+### MC
+Waarom betaal je bij een annuïteitenhypotheek in totaal meer interest dan bij een lineaire hypotheek?
+* Omdat de schuld in het begin langzamer daalt
+- Omdat het rentepercentage hoger is
+- Omdat de looptijd langer is
+- Omdat je meer leent
+> Minder aflossing in het begin betekent een hogere schuldrest.
+### MC
+Iemand heeft een aflossingsvrije hypotheek van € 200.000 tegen 3,5%. Wat zijn de bruto lasten per jaar?
+* € 7.000
+- € 13.666,67
+- € 0
+- € 200.000
+> Alleen interest: 0,035 × 200.000 = € 7.000.

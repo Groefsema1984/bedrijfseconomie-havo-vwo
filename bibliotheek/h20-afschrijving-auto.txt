@@ -1,0 +1,358 @@
+# LEERDOEL BECO-AFSCH-01
+domein: F
+onderwerp: F.perio
+thema: Afschrijving
+wereld: h20,v23
+naam: Afschrijving, boekwaarde en boekresultaat berekenen
+doel: Ik kan de afschrijving, boekwaarde en het boekresultaat van een actief berekenen.
+gens: afschrijving,boekwaarde
+
+## OPGAVE IT-00038 3p | Offsetpers
+In deze opgave blijft de btw buiten beschouwing.
+Drukkerij Oostwold nv koopt op 1 maart 2024 een offsetpers voor € 360.000. De verwachte levensduur is 6 jaar. Na die periode verwacht de drukkerij de pers nog voor € 48.000 te kunnen verkopen. De pers wordt lineair afgeschreven, per maand. De drukkerij gebruikt het kalenderjaar als boekjaar.
+Bereken de boekwaarde van de offsetpers op 1 januari 2026. Rond af op hele euro's.
+### ANTWOORD
+Afschrijving per jaar = (360.000 − 48.000) : 6 = € 52.000. Per maand is dat 52.000 : 12 = € 4.333,33. Van 1 maart 2024 tot 1 januari 2026 zijn 12 + 10 = 22 maanden verstreken. Totale afschrijving = 22 × 4.333,33 = € 95.333. Boekwaarde = 360.000 − 95.333 = € 264.667.
+Puntenverdeling:
+• Afschrijving per maand: (360.000 − 48.000) : 6 : 12 = € 4.333,33 (1)
+• Aantal maanden in gebruik: 12 + 10 = 22 (1)
+• Boekwaarde: 360.000 − 22 × 4.333,33 = € 264.667 (1)
+
+## OPGAVE IT-00039 3p | Graafmachine
+In deze opgave blijft de btw buiten beschouwing.
+Terra Grondverzet nv koopt op 1 oktober 2022 een graafmachine voor € 270.000. De levensduur is 8 jaar en de restwaarde € 30.000. De machine wordt lineair afgeschreven, per maand.
+Op 1 juli 2026 verkoopt Terra Grondverzet de machine voor € 165.000.
+Bereken het boekresultaat op de verkoop van de graafmachine. Geef aan of het om boekwinst of boekverlies gaat.
+### ANTWOORD
+Afschrijving per jaar = (270.000 − 30.000) : 8 = € 30.000, per maand € 2.500. Van 1 oktober 2022 tot 1 juli 2026 zijn 36 + 9 = 45 maanden. Boekwaarde = 270.000 − 45 × 2.500 = € 157.500. Boekresultaat = verkoopprijs − boekwaarde = 165.000 − 157.500 = € 7.500. Dit is boekwinst, want de verkoopprijs is hoger dan de boekwaarde.
+Puntenverdeling:
+• Afschrijving per maand: (270.000 − 30.000) : 8 : 12 = € 2.500 en aantal maanden in gebruik: 36 + 9 = 45 (1)
+• Boekwaarde op 1 juli 2026: 270.000 − 45 × 2.500 = € 157.500 (1)
+• Boekresultaat: 165.000 − 157.500 = € 7.500 boekwinst (1)
+
+## OPGAVE IT-00048 4p | Afvulmachine
+In deze opgave blijft de btw buiten beschouwing.
+Glasfabriek Heldervoort nv neemt op 1 april 2022 een nieuwe afvulmachine in gebruik. In de tabel staan de uitgaven die met de machine samenhangen.
+De machine wordt lineair afgeschreven over 6 jaar, per maand. De restwaarde is 10% van de aanschafprijs.
+Op 1 februari 2026 verkoopt Heldervoort de machine voor € 280.000.
+Tabel Uitgaven in verband met de afvulmachine:
+Post | Bedrag
+Aankoop van de afvulmachine | € 540.000
+Transport en plaatsing van de machine | € 60.000
+Verzekering van de machine, per jaar | € 6.000
+Opleiding van het personeel | € 12.000
+Bereken het boekresultaat op de verkoop van de afvulmachine.
+### ANTWOORD
+Aanschafprijs = 540.000 + 60.000 = € 600.000. De verzekering en de opleiding zijn gewone kosten en horen niet bij de aanschafprijs. Restwaarde = 10% × 600.000 = € 60.000. Afschrijving per maand = (600.000 − 60.000) : 6 : 12 = € 7.500. Van 1 april 2022 tot 1 februari 2026 zijn 9 + 3 × 12 + 1 = 46 maanden verstreken. Boekwaarde = 600.000 − 46 × 7.500 = € 255.000. Boekresultaat = 280.000 − 255.000 = € 25.000. De verkoopprijs ligt boven de boekwaarde, dus het is een boekwinst van € 25.000.
+Puntenverdeling:
+• Aanschafprijs: 540.000 + 60.000 = € 600.000 (verzekering en opleiding horen er niet bij) (1)
+• Afschrijving per maand: (600.000 − 10% × 600.000) : 6 : 12 = € 7.500 (1)
+• Boekwaarde op 1 februari 2026 na 46 maanden: 600.000 − 46 × 7.500 = € 255.000 (1)
+• Boekresultaat: 280.000 − 255.000 = € 25.000 boekwinst (1)
+
+## OPGAVE IT-00050 2p | Verpakkingsmachine
+In deze opgave blijft de btw buiten beschouwing.
+Kaasmakerij Zuidhoek nv koopt op 1 januari 2023 een verpakkingsmachine voor € 120.000. De levensduur is 5 jaar en de restwaarde is € 20.000. De machine wordt lineair afgeschreven, per jaar.
+Op 1 januari 2026 verkoopt Zuidhoek de machine voor € 50.000.
+Maak van onderstaande tekst een economisch juiste tekst.
+De afschrijving per jaar is ...(1)... . Op 1 januari 2026 is de boekwaarde ...(2)... . Bij verkoop voor € 50.000 is het boekresultaat een ...(3)... van ...(4)... .
+Kies bij (1) uit: € 24.000 / € 20.000 / € 100.000
+Kies bij (2) uit: € 60.000 / € 48.000 / € 80.000
+Kies bij (3) uit: boekwinst / boekverlies / geen boekresultaat
+Kies bij (4) uit: € 30.000 / € 70.000 / € 10.000
+### ANTWOORD
+(1) € 20.000, (2) € 60.000, (3) boekverlies, (4) € 10.000. Afschrijving per jaar = (120.000 − 20.000) : 5 = € 20.000. Op 1 januari 2026 is de machine 3 jaar in gebruik, dus de boekwaarde is 120.000 − 3 × 20.000 = € 60.000. Boekresultaat = 50.000 − 60.000 = −€ 10.000. De verkoopprijs ligt onder de boekwaarde, dus het is een boekverlies van € 10.000.
+Puntenverdeling:
+• bij (1) € 20.000 en bij (2) € 60.000 (beide juist) (1)
+• bij (3) boekverlies en bij (4) € 10.000 (beide juist) (1)
+
+## OPGAVE IT-00573 3p | Camerasysteem
+In deze opgave blijft de btw buiten beschouwing.
+Studio Lichtwerk nv produceert bedrijfsvideo's en koopt een professioneel camerasysteem. De studio schrijft het systeem lineair af, per maand. Na een aantal jaren wil Lichtwerk het systeem verkopen. De boekhouder moet dan de boekwaarde en het boekresultaat bepalen.
+Noem de formules waarmee Studio Lichtwerk de afschrijving per maand, de boekwaarde en het boekresultaat op de verkoop berekent.
+### ANTWOORD
+Afschrijving per maand = (aanschafprijs − restwaarde) : levensduur : 12. Boekwaarde = aanschafprijs − afschrijving per maand × aantal maanden in gebruik. Boekresultaat = verkoopprijs − boekwaarde.
+Puntenverdeling:
+• Voorbeeld van een juist antwoord: Afschrijving per maand = (aanschafprijs − restwaarde) : levensduur in jaren : 12 (1)
+• Boekwaarde = aanschafprijs − afschrijving per maand × aantal maanden in gebruik (1)
+• Boekresultaat = verkoopprijs − boekwaarde (positief: boekwinst, negatief: boekverlies) (1)
+
+## OPGAVE IT-00574 3p | Koelinstallatie
+In deze opgave blijft de btw buiten beschouwing.
+Groothandel Vershaven nv koopt op 1 augustus 2023 een koelinstallatie voor € 450.000. De verwachte levensduur is 5 jaar. Na die periode verwacht Vershaven de installatie nog voor € 60.000 te kunnen verkopen. De installatie wordt lineair afgeschreven, per maand.
+Bereken de boekwaarde van de koelinstallatie op 1 mei 2026.
+### ANTWOORD
+Afschrijving per jaar = (450.000 − 60.000) : 5 = € 78.000, per maand € 6.500. Van 1 augustus 2023 tot 1 mei 2026 zijn 24 + 9 = 33 maanden verstreken. Afschrijving = 33 × 6.500 = € 214.500. Boekwaarde = 450.000 − 214.500 = € 235.500.
+Puntenverdeling:
+• Voorbeeld van een juist antwoord: Afschrijving per maand: (450.000 − 60.000) : 5 : 12 = € 6.500 (1)
+• Aantal maanden in gebruik: 12 + 12 + 9 = 33 (1)
+• Boekwaarde: 450.000 − 33 × 6.500 = € 235.500 (1)
+
+## OPGAVE IT-00575 3p | Lasrobot
+In deze opgave blijft de btw buiten beschouwing.
+Staalbouw Westerhaven nv koopt op 1 juli 2022 een lasrobot voor € 380.000. De levensduur is 10 jaar en de restwaarde € 20.000. De robot wordt lineair afgeschreven, per maand.
+Op 1 mei 2026 verkoopt Westerhaven de lasrobot voor € 230.000.
+Bereken het boekresultaat op de verkoop van de lasrobot. Geef aan of het om boekwinst of boekverlies gaat en of dit resultaat voordelig of nadelig is.
+### ANTWOORD
+Afschrijving per jaar = (380.000 − 20.000) : 10 = € 36.000, per maand € 3.000. Van 1 juli 2022 tot 1 mei 2026 zijn 36 + 10 = 46 maanden. Boekwaarde = 380.000 − 46 × 3.000 = € 242.000. Boekresultaat = 230.000 − 242.000 = −€ 12.000: een boekverlies van € 12.000, nadelig, want de verkoopprijs ligt onder de boekwaarde.
+Puntenverdeling:
+• Voorbeeld van een juist antwoord: Afschrijving per maand: (380.000 − 20.000) : 10 : 12 = € 3.000 en aantal maanden in gebruik: 36 + 10 = 46 (1)
+• Boekwaarde op 1 mei 2026: 380.000 − 46 × 3.000 = € 242.000 (1)
+• Boekresultaat: 230.000 − 242.000 = −€ 12.000, dus € 12.000 boekverlies (nadelig) (1)
+
+## OPGAVE IT-00576 4p | Sorteerlijn
+In deze opgave blijft de btw buiten beschouwing.
+Recyclingbedrijf Eemsdal nv neemt op 1 februari 2023 een sorteerlijn in gebruik. De lijn kost € 720.000. Daarnaast betaalt Eemsdal € 80.000 voor transport en installatie. De levensduur is 10 jaar en de restwaarde € 80.000. De lijn wordt lineair afgeschreven, per maand.
+Op 1 oktober 2026 verkoopt Eemsdal de sorteerlijn voor 70% van de totale aanschafprijs.
+Bereken het boekresultaat op de verkoop van de sorteerlijn. Geef aan of het om boekwinst of boekverlies gaat.
+### ANTWOORD
+Aanschafprijs = 720.000 + 80.000 = € 800.000. Afschrijving per maand = (800.000 − 80.000) : 10 : 12 = € 6.000. Van 1 februari 2023 tot 1 oktober 2026 zijn 36 + 8 = 44 maanden. Boekwaarde = 800.000 − 44 × 6.000 = € 536.000. Verkoopprijs = 0,70 × 800.000 = € 560.000. Boekresultaat = 560.000 − 536.000 = € 24.000 boekwinst.
+Puntenverdeling:
+• Voorbeeld van een juist antwoord: Aanschafprijs: 720.000 + 80.000 = € 800.000 (transport en installatie horen bij de aanschafprijs) (1)
+• Afschrijving per maand: (800.000 − 80.000) : 10 : 12 = € 6.000 (1)
+• Boekwaarde op 1 oktober 2026 na 36 + 8 = 44 maanden: 800.000 − 44 × 6.000 = € 536.000 (1)
+• Verkoopprijs 0,70 × 800.000 = € 560.000; boekresultaat 560.000 − 536.000 = € 24.000 boekwinst (1)
+
+## EXAMEN havo 2021-III 16 4p
+Bereken wat de verwerking van dezelfde vijf gebeurtenissen betekent voor de totale kosten over december. Vul de uitwerkbijlage in.
+### ANTWOORD
+Kosten per gebeurtenis: a 0, b 5 (0,2% × 2.500), c 0, d 600 (1.200 : 2), e 45 (3.267 : 1,21 : 60). Totaal € 650. Eén punt per onderdeel: 0 en 0, 5, 600, 45 en totaal.
+
+## EXAMEN havo 2022-III 9 2p
+Bereken de afschrijvingskosten op de verbouwing en de inventaris over het vierde kwartaal van 2019 (zie informatiebron 3).
+### ANTWOORD
+Verbouwing: 2,5% van 21.000 = 525 per kwartaal. Inventaris: 16.000 : 5 : 4 = 800. Totaal € 1.325.
+
+## EXAMEN havo 2022-III 10 1p
+Bereken het bedrag dat de winkelier op 1 januari 2020 van de verhuurder krijgt voor de verbouwing en de inventaris.
+### ANTWOORD
+Boekwaarde op 31 december 2019: 20.325 − 1.325 = € 19.000.
+
+## EXAMEN havo 2023-II 6 4p
+Bereken de totale constante kosten van de praktijk over 2022. Tel interest, afschrijving, loonkosten van een receptiemedewerker en overige constante kosten op. Gebruik de uitwerkbijlage.
+### ANTWOORD
+Interest € 4.500. Afschrijving (40.000 − 4.000) : 4 = € 9.000. Loonkosten 600 × 1,08 × 1,3 × 12 × 1,033 = € 11.046,16. Overige constante kosten € 6.299,84. Totaal € 30.846.
+
+## EXAMEN havo 2024-I 19 4p
+Een bedrijf kocht op 1 december 2023 inventaris (€ 42.000 exclusief btw, restwaarde € 4.200, 84 maanden lineair) met een lening van € 42.000 tegen 0,40% per maand. Bereken hoeveel het resultaat 2023 moet worden aangepast. Gebruik de uitwerkbijlage.
+### ANTWOORD
+Afschrijving: (42.000 − 4.200) : 84 = € 450. Interest: 0,004 × 42.000 = € 168. Totaal € 618 lager. Deelscores: soorten kosten, 450 (2 punten), 168 en 618.
+
+## EXAMEN havo 2024-I 20 2p
+Bereken de balansposten Inventaris en Banklening per 1 januari 2024 met de gegevens over de investering (aanschaf € 42.000, afschrijving per maand) en de annuïteit van € 788,75 inclusief interest.
+### ANTWOORD
+Inventaris: 42.000 − 450 = € 41.550. Banklening: 42.000 − (788,75 − 168) = € 41.379,25. Per post 1 punt.
+
+## EXAMEN havo 2024-II 14 2p
+Een opslagloods wordt aangeschaft met installatiekosten, een levensduur van 14 jaar en geen restwaarde. Met welk bedrag per maand daalt het resultaat in januari en februari 2024?
+### ANTWOORD
+Afschrijving per maand = (8.000 + 400) : (14 × 12) = € 50.
+
+## EXAMEN havo 2025-I 10 5p
+Laat met een berekening van het verwachte resultaat over 2025 zien of de eigenaren gaan starten. Gebruik drie informatiebronnen en vul de uitwerkbijlage in. Houd rekening met vroegboekkorting, interest, afschrijving en overige kosten.
+### ANTWOORD
+Opbrengst 80.750 (2 punten). Interest 65.000 × 0,035 = 2.275. Afschrijving boot 11.000, inventaris 250, overige kosten 10.400. Totale kosten 23.925. Resultaat € 56.825 met conclusie dat ze starten.
+
+## EXAMEN havo 2025-II 11 3p
+Per 1 april 2024 wordt een nieuwe transportauto in gebruik genomen en de oude tegen balanswaarde verkocht. Bereken het bedrag voor afschrijvingskosten transportauto op de aangepaste exploitatiebegroting van 2024 (zie informatiebronnen).
+### ANTWOORD
+Nieuwe auto: (75.000 − 11.400) : 10 × 9/12 = 4.770 (2 punten). Oude auto: 4.800 × 3/12 = 1.200. Totaal € 5.970 (1 punt). Per fout 1 punt aftrek.
+
+## EXAMEN havo 2026-I 24 6p
+Bereken de verwachte totale constante kosten over 2026. Het gaat om afschrijving van keukenblokken en inventaris, interest over een aflossende 5%-lening, verzekering en overige constante kosten. Vul de uitwerkbijlage in. Gebruik informatiebron 4.
+### ANTWOORD
+Afschrijving keukenblokken 300 (1); inventaris 60 (1); interest 5%-lening 85 (2); verzekering 372 (1); overige 480 en totaal € 1.297 (1). Bij de interestscore per fout 1 punt aftrek.
+
+## EXAMEN vwo 2021-III 14 2p
+Bereken de verwachte toename van de afschrijvingskosten over 2021 door de nieuwe investeringen in systeem en software (zie informatiebron 4).
+### ANTWOORD
+Orderpicksysteem: 544.500 × (1 − 0,25) / ... = € 33.750 per jaar (1). Software: € 3.000 per jaar (1). Totale toename € 36.750.
+
+## EXAMEN vwo 2022-I 9 1p
+Bereken de verwachte totale afschrijvingskosten per jaar voor de twee elektrische voertuigen, met de gegevens uit informatiebron 4.
+### ANTWOORD
+Per voertuig (22.000 − (1.500 − 500)) : 6 = ... gerekend met restwaarde en levensduur uit het voorschrift: totaal € 7.000 per jaar voor de twee voertuigen.
+
+## EXAMEN vwo 2022-I 25 1p
+Jaarlijkse afschrijvingskosten dalen bij een a van de restwaarde en/of een b van de afschrijvingstermijn. Kies a: verlaging of verhoging, en b: verkorting of verlenging.
+### ANTWOORD
+a: verhoging; b: verlenging.
+
+## EXAMEN vwo 2022-II 4 2p
+Een heftruck met bijkomende aanschafuitgaven wordt na ruim anderhalf jaar verkocht voor een bedrag inclusief 21% btw, met 1,5% commissie over de prijs exclusief btw. Bereken het boekresultaat na commissie en geef aan of het voordelig of nadelig is.
+### ANTWOORD
+Boekwaarde: 19.000 + 2.000 − (1 + 8/12) × 3.600 = 15.000 (1 punt). Netto opbrengst: 16.940/1,21 × (1 − 0,015) = 13.790; boekresultaat 13.790 − 15.000 = € 1.210 nadelig (1 punt).
+
+## EXAMEN vwo 2023-I 9 6p
+Toon met de informatiebronnen aan dat de verhuurprijs inclusief btw van een aanhanger met hottub € 166,38 per week is. Vul daarvoor de uitwerkbijlage in.
+### ANTWOORD
+Constante kosten: huur 4.800, afschrijving inventaris 550, afschrijving aanhangwagens/hottubs 6.800, interest 1.710, verzekering 1.515, onderhoud 1.200; totaal 16.575 (3). Per week 85 constant (1). Variabel 25, kostprijs 110, winstopslag 27,50 (1). Prijs 137,50 excl., btw 28,88, totaal 166,38 (1).
+
+## EXAMEN vwo 2023-II 7 1p
+Bereken de totale afschrijving per jaar op het te kopen pand (aankoopbedrag inclusief bijkomende kosten, 40 jaar lineair, restwaarde nul) en op de licenties (informatiebronnen 3 en 4).
+### ANTWOORD
+Pand: 505.000 : 40 = 12.625. Licentie 10.000. Totaal € 22.625 per jaar.
+
+## EXAMEN vwo 2024-I 22 3p
+In januari 2024 moet het resultaat minstens € 1.500 hoger zijn dan in december, bij een dekkingsbijdrage van € 5 per pizza. Constante kosten wijzigen alleen door afschrijving van de ovens en de interest op de lening. Bereken het benodigde aantal pizza's.
+### ANTWOORD
+Constante kosten: 50.000 + 3 × (12.000 + 800 − 920) : 24 + 0,5% × 26.000 = 51.615 (2p). Aantal: (51.615 + 1.500 + 5.200) : 5 = 11.663 pizza's (1p).
+
+## EXAMEN vwo 2025-I 12 4p
+Bereken met de gegeven gegevens over chalets, inventaris, lening en schoonmaak de totale verwachte kosten van het chaletveld voor 2025. Gebruik de uitwerkbijlage.
+### ANTWOORD
+Afschrijving chalets (63.500 + 5.500 − restwaarde) : 15 × 40 = 176.000; inventaris 6.000 : 15 × 40 = 16.000; interest 106.200 (aflossing meenemen); schoonmaak 42 × 26 × 25 = 27.300; overige kosten 260.000. Totaal € 585.500.
+
+## EXAMEN vwo 2025-II 7 2p
+De oude installatie wordt op 1 juni 2025 verkocht voor 120% van de boekwaarde. Bereken wat Beukers ontvangt.
+### ANTWOORD
+Boekwaarde: 60.000 − 2 × 0,00375 × 600.000 × 0,95. Opbrengst: boekwaarde × 1,20 = € 66.870. Per fout 1 scorepunt in mindering.
+
+## EXAMEN vwo 2026-I 25 4p
+Maak de exploitatiebegroting voor 2026 af, met afschrijving, interest van de lening en crowdfunding, totale kosten en resultaat (uitwerkbijlage).
+### ANTWOORD
+Afschrijving 0,12 × (96.000 : 0,64 + 35.000) = 22.200 (2p). Interest crowdfunding 1.905,42 (1p). Totale kosten 41.558,79 en resultaat 52.641,21 (1p). Per fout 1 punt aftrek bij de eerste deelscore.
+
+
+# LEERDOEL BECO-AFSCH-02
+domein: F
+onderwerp: F.perio
+thema: Afschrijving
+wereld: h20,v23
+naam: Gevolgen van een gewijzigde levensduurschatting voor resultaat en liquiditeit uitleggen
+doel: Ik kan uitleggen wat een andere schatting van de levensduur betekent voor resultaat en liquiditeit.
+
+## OPGAVE IT-00018 3p | Afschrijving en levensduur
+In deze opgave blijft de belasting buiten beschouwing.
+Bosma Machinebouw nv koopt aan het begin van het boekjaar een nieuwe freesmachine en betaalt die contant. De afdeling financiën berekent de afschrijving per jaar en overweegt de geschatte levensduur te verlengen. De geschatte restwaarde blijft gelijk.
+Tekst: De afschrijving per jaar bereken je door (a) te delen door (b). Verlengt Bosma de geschatte levensduur en blijft de restwaarde gelijk, dan zijn de afschrijvingskosten per jaar (c).
+Maak de tekst hierboven af door bij (a), (b) en (c) een keuze te maken.
+Kies bij (a) uit: de aanschafprijs min de restwaarde / de aanschafprijs plus de restwaarde / de boekwaarde
+Kies bij (b) uit: de geschatte levensduur in jaren / het aantal jaren dat de machine al in gebruik is / de geschatte restwaarde
+Kies bij (c) uit: lager, terwijl de uitgave voor de machine gelijk blijft / lager, en daalt ook de uitgave voor de machine / hoger, terwijl de uitgave voor de machine gelijk blijft
+### ANTWOORD
+(a) de aanschafprijs min de restwaarde; (b) de geschatte levensduur in jaren; (c) lager, terwijl de uitgave voor de machine gelijk blijft.
+Puntenverdeling:
+• Per juiste keuze 1 scorepunt. bij (a): de aanschafprijs min de restwaarde (1)
+• bij (b): de geschatte levensduur in jaren (1)
+• bij (c): lager, terwijl de uitgave voor de machine gelijk blijft (1)
+
+## OPGAVE IT-00019 1p | Een langere levensduur van een snijmachine
+In deze opgave blijft de belasting buiten beschouwing.
+Marenco Papierwaren nv koopt op 1 januari een snijmachine voor € 540.000 en betaalt die contant. De restwaarde is geschat op € 60.000. De financiële afdeling rekende aanvankelijk met een levensduur van 8 jaar.
+Voordat de eerste afschrijving wordt geboekt, schat de directie de levensduur op 12 jaar, nadat de leverancier een onderhoudsprogramma heeft toegelicht. De restwaarde blijft gelijk.
+Geef aan welke van de onderstaande uitspraken de gevolgen van de nieuwe schatting voor het resultaat en voor de liquide middelen van het eerste boekjaar juist weergeeft.
+### OPTIES C
+A Het resultaat daalt, omdat de machine langer in gebruik is; de liquide middelen veranderen niet.
+B Het resultaat stijgt, omdat de afschrijvingskosten dalen; de liquide middelen nemen toe.
+C Het resultaat stijgt, omdat de afschrijvingskosten dalen; de liquide middelen veranderen niet.
+D Het resultaat blijft gelijk, omdat de aanschafprijs gelijk blijft; de liquide middelen veranderen niet.
+### ANTWOORD
+C. Een langere levensduur betekent dat de afschrijvingskosten per jaar dalen, dus het resultaat stijgt. Afschrijven is geen uitgave: de machine is al betaald. De liquide middelen veranderen daarom niet.
+Puntenverdeling:
+• Het juiste antwoord is C: de afschrijvingskosten per jaar dalen, dus het resultaat stijgt; afschrijven is geen uitgave, dus de liquide middelen veranderen niet. (1)
+
+## OPGAVE IT-00020 1p | Een kortere levensduur bij betaling in termijnen
+In deze opgave blijft de belasting buiten beschouwing.
+Vennema Cleantech nv koopt op 1 januari een zuiveringsunit voor € 720.000. Volgens het contract betaalt Vennema in drie gelijke jaartermijnen van € 240.000, steeds op 31 december. De restwaarde is geschat op € 90.000 en de levensduur op 9 jaar.
+Op 1 januari, voordat de eerste afschrijving wordt geboekt, blijkt dat nieuwe technologie de unit sneller zal doen verouderen. De directie verlaagt de geschatte levensduur naar 6 jaar. De restwaarde blijft gelijk en het contract met de leverancier verandert niet.
+Geef aan welke van de onderstaande uitspraken de gevolgen van de nieuwe schatting voor het resultaat en voor de betalingen aan de leverancier in het eerste boekjaar juist weergeeft.
+### OPTIES D
+A Het resultaat stijgt, omdat de afschrijvingskosten dalen; de betalingen aan de leverancier worden lager.
+B Het resultaat daalt, omdat de afschrijvingskosten stijgen; de betalingen aan de leverancier worden hoger.
+C Het resultaat blijft gelijk, omdat de aanschafprijs en de betalingen aan de leverancier gelijk blijven.
+D Het resultaat daalt, omdat de afschrijvingskosten stijgen; de betalingen aan de leverancier veranderen niet.
+### ANTWOORD
+D. Bij een kortere levensduur wordt het af te schrijven bedrag over minder jaar verdeeld, dus de afschrijvingskosten per jaar stijgen en het resultaat daalt. De betalingen aan de leverancier liggen vast in het contract en afschrijven is geen uitgave. Die betalingen veranderen daarom niet.
+Puntenverdeling:
+• Het juiste antwoord is D: de afschrijvingskosten per jaar stijgen, dus het resultaat daalt; de betalingen liggen vast in het contract en afschrijven is geen uitgave, dus de betalingen veranderen niet. (1)
+
+## OPGAVE IT-00028 4p | Een bottellijn bij Brouwerij De Zeven Bruggen
+In deze opgave blijft de belasting buiten beschouwing.
+Brouwerij De Zeven Bruggen nv koopt aan het begin van het boekjaar een bottellijn voor € 1.920.000 en betaalt die direct contant. De restwaarde is geschat op € 120.000. In de begroting ging de afdeling financiën uit van een levensduur van 12 jaar.
+Voordat de eerste afschrijving wordt geboekt, schrijft een nieuwe milieuregel voor dat de bottellijn al na 8 jaar moet worden vervangen. De directie verkort daarom de geschatte levensduur naar 8 jaar. De restwaarde blijft gelijk.
+De financieel directeur zegt: 'Door de kortere levensduur dalen zowel het resultaat als de liquide middelen van het eerste boekjaar.'
+Toon met een berekening aan dat de bewering van de financieel directeur niet juist is.
+### ANTWOORD
+Bij 12 jaar is de afschrijving (1.920.000 - 120.000) : 12 = € 150.000 per jaar. Bij 8 jaar is dat (1.920.000 - 120.000) : 8 = € 225.000 per jaar. De afschrijvingskosten stijgen met € 75.000, dus het resultaat daalt met € 75.000 (nadelig). Afschrijven is geen uitgave: de bottellijn is al contant betaald. De liquide middelen veranderen daarom niet door de nieuwe schatting. De bewering is dus niet juist, want alleen het resultaat daalt.
+Puntenverdeling:
+• Afschrijving per jaar bij 12 jaar: (1.920.000 - 120.000) : 12 = € 150.000 (1)
+• Afschrijving per jaar bij 8 jaar: (1.920.000 - 120.000) : 8 = € 225.000 (1)
+• De afschrijvingskosten stijgen met € 75.000 (225.000 - 150.000), dus het resultaat daalt met € 75.000 (nadelig) (1)
+• Afschrijven is geen uitgave en de bottellijn is al contant betaald, dus de liquide middelen veranderen niet door de nieuwe schatting; de bewering is dus niet juist (alleen het resultaat daalt) (1)
+
+## OPGAVE IT-00029 4p | Een rijpingsinstallatie bij Kaasfabriek Hoogland
+In deze opgave blijft de belasting buiten beschouwing.
+Kaasfabriek Hoogland nv koopt aan het begin van het boekjaar een rijpingsinstallatie voor € 2.100.000 en betaalt die direct contant. De restwaarde is geschat op € 300.000. De begroting voor dit boekjaar ging uit van een levensduur van 12 jaar en dus van een afschrijving van € 150.000 per jaar. Het resultaat vóór afschrijving van de installatie is € 900.000 en verandert niet.
+Voordat de eerste afschrijving wordt geboekt, verlengt de directie de geschatte levensduur naar 15 jaar. De restwaarde blijft gelijk.
+Aan het einde van het boekjaar keert Kaasfabriek Hoogland een tussentijds dividend* uit van 40% van het resultaat na afschrijvingen van dat boekjaar. Dit dividend wordt contant betaald. Er zijn verder geen uitgaven of ontvangsten die door de nieuwe schatting veranderen.
+* Tussentijds dividend: een uitkering aan aandeelhouders vóór de vaststelling van de jaarrekening.
+Beredeneer met hoeveel euro de liquide middelen aan het einde van het eerste boekjaar door de verlengde levensduurschatting veranderen.
+### ANTWOORD
+De nieuwe afschrijving is (2.100.000 - 300.000) : 15 = € 120.000 per jaar. In de begroting stond € 150.000, dus de afschrijvingskosten zijn € 30.000 lager (150.000 - 120.000) en het resultaat is € 30.000 hoger (voordelig). Daardoor keert Kaasfabriek Hoogland 40% × € 30.000 = € 12.000 meer dividend uit en dat is een uitgave. Afschrijven is zelf geen uitgave, want de installatie is al betaald. De liquide middelen dalen daarom door de nieuwe schatting met € 12.000.
+Puntenverdeling:
+• Nieuwe afschrijving per jaar: (2.100.000 - 300.000) : 15 = € 120.000 (1)
+• De afschrijvingskosten zijn € 30.000 lager (150.000 - 120.000), dus het resultaat is € 30.000 hoger (voordelig) (1)
+• Het extra dividend is 40% × € 30.000 = € 12.000 en dat is een uitgave (1)
+• Afschrijven is zelf geen uitgave (de installatie is al betaald), dus de liquide middelen dalen door de nieuwe schatting met € 12.000, alleen via het extra dividend (1)
+
+## OPGAVE IT-00557 3p | Een drukpers bij Hogeveld Drukwerk
+In deze opgave blijft de belasting buiten beschouwing.
+Hogeveld Drukwerk nv koopt op 1 januari een drukpers voor € 450.000 en betaalt die direct contant. De restwaarde is geschat op € 30.000. De boekhouder rekende aanvankelijk met een levensduur van 7 jaar.
+Voordat de eerste afschrijving wordt geboekt, schat de directie de levensduur op 10 jaar, omdat de fabrikant een uitgebreider onderhoudscontract aanbiedt. De restwaarde blijft gelijk.
+Leg uit, met behulp van een berekening van de afschrijvingskosten per jaar, welke gevolgen de nieuwe schatting heeft voor het resultaat en voor de liquide middelen van het eerste boekjaar.
+### ANTWOORD
+Bij 7 jaar is de afschrijving (450.000 - 30.000) : 7 = € 60.000 per jaar, bij 10 jaar (450.000 - 30.000) : 10 = € 42.000. De kosten dalen met € 18.000, dus het resultaat stijgt met € 18.000. Afschrijven is geen uitgave: de pers is al betaald. De liquide middelen veranderen niet.
+Puntenverdeling:
+• Afschrijvingskosten per jaar bij 7 jaar: (450.000 - 30.000) : 7 = € 60.000 en bij 10 jaar: (450.000 - 30.000) : 10 = € 42.000 (1)
+• De afschrijvingskosten dalen met € 18.000 (60.000 - 42.000), dus het resultaat stijgt met € 18.000 (1)
+• Afschrijven is geen uitgave en de drukpers is al contant betaald, dus de liquide middelen veranderen niet (1)
+
+## OPGAVE IT-00558 1p | Snellaadpalen bij Voltera Laadnetwerk
+In deze opgave blijft de belasting buiten beschouwing.
+Voltera Laadnetwerk nv koopt op 1 januari veertig snellaadpalen voor € 800.000 en betaalt die direct contant. De restwaarde is geschat op € 80.000 en de levensduur op 10 jaar.
+Voordat de eerste afschrijving wordt geboekt, blijkt dat een nieuwe laadstandaard de palen sneller achterhaald maakt. De directie verlaagt de geschatte levensduur naar 8 jaar. De restwaarde blijft gelijk.
+Geef aan welke van de onderstaande uitspraken de gevolgen van de nieuwe schatting voor het resultaat en voor de liquide middelen van het eerste boekjaar juist weergeeft.
+### OPTIES B
+A Het resultaat daalt, omdat de afschrijvingskosten stijgen; de liquide middelen dalen mee, omdat afschrijven geld kost.
+B Het resultaat daalt, omdat de afschrijvingskosten stijgen; de liquide middelen veranderen niet.
+C Het resultaat stijgt, omdat de palen sneller worden vervangen; de liquide middelen veranderen niet.
+D Het resultaat blijft gelijk, omdat de aanschafprijs gelijk blijft; de liquide middelen dalen.
+### ANTWOORD
+B
+Puntenverdeling:
+• Het juiste antwoord is B: de afschrijvingskosten per jaar stijgen (van € 72.000 naar € 90.000), dus het resultaat daalt; afschrijven is geen uitgave en de palen zijn al betaald, dus de liquide middelen veranderen niet (1)
+
+## OPGAVE IT-00559 3p | Een koelinstallatie bij Visgroothandel Noorderhaven
+In deze opgave blijft de belasting buiten beschouwing.
+Visgroothandel Noorderhaven nv koopt aan het begin van het boekjaar een koelinstallatie voor € 630.000 en betaalt die direct contant. De restwaarde is geschat op € 70.000. In de begroting is uitgegaan van een levensduur van 8 jaar.
+Voordat de eerste afschrijving wordt geboekt, blijkt uit een keuring dat de installatie met goed onderhoud 10 jaar meegaat. De directie past de levensduur aan. De restwaarde blijft gelijk. De commercieel directeur zegt: 'Dit levert ons extra winst op, dus ons banksaldo groeit ook.'
+Leg uit welke gevolgen de nieuwe schatting heeft voor de afschrijvingskosten, het resultaat en de liquide middelen van het eerste boekjaar.
+Doe het als volgt:
+- Beschrijf de oorzaak en wat die doet met de afschrijvingskosten per jaar.
+- Geef het gevolg voor het resultaat.
+- Geef het gevolg voor de liquide middelen en verklaar dat.
+### ANTWOORD
+Bij 10 jaar wordt het af te schrijven bedrag over meer jaren verdeeld, dus de afschrijvingskosten per jaar dalen. Lagere kosten betekenen een hoger resultaat. Afschrijven is geen uitgave: de installatie is al contant betaald. De liquide middelen veranderen daarom niet.
+Puntenverdeling:
+• Door de langere levensduur wordt het af te schrijven bedrag over meer jaren verdeeld, dus de afschrijvingskosten per jaar dalen (van € 70.000 naar € 56.000) (1)
+• Lagere kosten geven een hoger resultaat (€ 14.000 voordelig) (1)
+• Afschrijven is geen uitgave en de installatie is al contant betaald, dus de liquide middelen veranderen niet; de uitspraak over het banksaldo klopt dus niet (1)
+
+## OPGAVE IT-00560 3p | Een lasrobot en een lening bij Staalbouw Veldhoven
+In deze opgave blijft de belasting buiten beschouwing.
+Staalbouw Veldhoven nv koopt op 1 januari een lasrobot voor € 360.000. De restwaarde is geschat op € 24.000 en de levensduur op 8 jaar. De robot wordt direct betaald met een bankkrediet van € 360.000. Volgens de kredietovereenkomst lost Staalbouw elk jaar op 31 december € 60.000 af.
+Voordat de eerste afschrijving wordt geboekt, wordt duidelijk dat een nieuwe lasmethode de robot sneller zal doen verouderen. De directie verkort de geschatte levensduur naar 6 jaar. De restwaarde en de kredietovereenkomst veranderen niet.
+Leg uit welke gevolgen de nieuwe schatting heeft voor het resultaat en voor de liquide middelen van het eerste boekjaar.
+### ANTWOORD
+Bij een kortere levensduur wordt het af te schrijven bedrag over minder jaren verdeeld, dus de afschrijvingskosten per jaar stijgen en het resultaat daalt. Afschrijven is geen uitgave en de aflossing ligt vast in de overeenkomst. De liquide middelen veranderen daarom niet door de nieuwe schatting.
+Puntenverdeling:
+• Door de kortere levensduur stijgen de afschrijvingskosten per jaar (van (360.000 - 24.000) : 8 = € 42.000 naar (360.000 - 24.000) : 6 = € 56.000) (1)
+• Hogere kosten geven een lager resultaat: het resultaat daalt met € 14.000 (nadelig) (1)
+• Afschrijven is geen uitgave; de aflossing van € 60.000 ligt vast in de kredietovereenkomst, dus de liquide middelen veranderen niet door de nieuwe schatting (1)
+
+## EXAMEN vwo 2022-I 26 2p
+Leg uit welk gevolg lagere afschrijvingskosten hebben voor de cashflow na belastingen (cashflow = resultaat na belasting + afschrijving). Motiveer het antwoord.
+### ANTWOORD
+De daling van de afschrijving is gelijk aan de stijging van het resultaat voor belasting (1 punt). Daardoor stijgt de te betalen winstbelasting, dus per saldo verslechtert de cashflow na belasting (1 punt). 'Afschrijving stijgt dus cashflow stijgt' geeft 0 punten.
+

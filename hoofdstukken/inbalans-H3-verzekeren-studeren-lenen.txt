@@ -1,0 +1,165 @@
+# HOOFDSTUK hv 3 | Verzekeren, studeren en lenen
+wereld: hv3
+hoofdvraag: Hoe ga je verstandig om met risico's, je opleiding en geld lenen?
+
+## § 3.1 | Schadeverzekeringen
+onderwerp: B.verzeker
+deelvraag: Hoe werkt een schadeverzekering en wat betaal je ervoor?
+gens: verzekeringPremie, onderverzekering, bonusMalus
+### UITLEG Wat is een schadeverzekering?
+Met een verzekering draag je een risico over aan een verzekeraar. Je betaalt premie, de verzekeraar vergoedt de schade als het misgaat. De afspraken staan in de polis.
+Een schadeverzekering vergoedt de werkelijke schade, maar nooit meer dan de verzekerde som. Voorbeelden: brandverzekering, transportverzekering, bedrijfsschadeverzekering (gederfde winst na een ramp), kredietverzekering (als een afnemer niet betaalt, tot een kredietlimiet), exportkredietverzekering, productaansprakelijkheidsverzekering, aansprakelijkheidsverzekering en rechtsbijstandverzekering.
+### UITLEG Wat betaal je?
+Te betalen = premie + poliskosten (en eventueel administratiekosten) + 21% assurantiebelasting.
+Bij een autoverzekering werkt een bonus-malusladder: schadevrije jaren geven korting op de premie, een schade laat je treden zakken.
+Onderverzekering: de verzekerde som is lager dan de werkelijke waarde. Dan keert de verzekeraar naar verhouding uit: verzekerde som / werkelijke waarde × schade. Oververzekering heeft geen zin: je krijgt nooit meer dan de schade.
+Met een indexclausule (vwo) stijgt de verzekerde som automatisch mee met de prijzen, zodat je niet onderverzekerd raakt.
+### BEGRIPPEN
+Polis = Het schriftelijke bewijs van de verzekeringsovereenkomst.
+Premie = Het bedrag dat je betaalt om verzekerd te zijn.
+Verzekerde som = Het maximale bedrag dat de verzekeraar uitkeert.
+Onderverzekering = De verzekerde som is lager dan de werkelijke waarde van het verzekerde.
+Oververzekering = De verzekerde som is hoger dan de werkelijke waarde van het verzekerde.
+Assurantiebelasting = Belasting van 21% over premie en poliskosten.
+Bedrijfsschadeverzekering = Vergoedt de winst die een bedrijf misloopt doordat het na schade stilligt.
+Kredietverzekering = Vergoedt het verlies als afnemers hun rekening niet betalen, tot een kredietlimiet.
+Indexclausule = Afspraak dat de verzekerde som jaarlijks meestijgt met de prijzen.
+### MC
+Een inboedel is € 50.000 waard en verzekerd voor € 40.000. Er is € 10.000 schade. Hoeveel keert de verzekeraar uit?
+* € 8.000
+- € 10.000
+- € 40.000
+- € 12.500
+> Onderverzekering: 40.000 / 50.000 × 10.000 = € 8.000.
+### MC
+Een webwinkel levert op rekening aan zakelijke klanten in Duitsland. Welke verzekering beschermt tegen klanten die niet betalen?
+* Een (export)kredietverzekering
+- Een bedrijfsschadeverzekering
+- Een rechtsbijstandverzekering
+- Een transportverzekering
+> Een kredietverzekering dekt het debiteurenrisico.
+### MC
+De premie is € 300 en de poliskosten zijn € 5. Wat betaal je inclusief 21% assurantiebelasting?
+* € 369,05
+- € 363,00
+- € 305,00
+- € 368,00
+> (300 + 5) × 1,21 = € 369,05.
+### MC
+Waarom heeft oververzekeren geen zin?
+* Omdat de verzekeraar nooit meer uitkeert dan de werkelijke schade
+- Omdat je dan geen premie hoeft te betalen
+- Omdat de verzekeraar dan dubbel uitkeert
+- Omdat oververzekering verboden is
+> Je betaalt meer premie, maar krijgt niet meer uitgekeerd.
+
+## § 3.2 | Levensverzekeringen
+onderwerp: B.verzeker
+deelvraag: Welke soorten levensverzekeringen zijn er?
+### UITLEG Levensverzekering
+Een levensverzekering keert uit bij overlijden of als iemand een bepaalde leeftijd bereikt.
+Lijfrenteverzekering: je betaalt vaak een koopsom (één keer een groot bedrag) en krijgt later een periodieke uitkering, bijvoorbeeld als aanvulling op je pensioen.
+Pensioen: de basis is de AOW van de overheid. Daarbovenop bouwen werknemers aanvullend pensioen op via de werkgever; werkgever en werknemer betalen samen de premie.
+Compagnonsverzekering: als een van de eigenaren van een bedrijf overlijdt, keert de verzekering uit zodat de andere compagnon het aandeel van de erfgenamen kan uitkopen.
+### BEGRIPPEN
+Levensverzekering = Verzekering die uitkeert bij overlijden of bij het bereiken van een bepaalde leeftijd.
+Koopsom = Eenmalige inleg in één keer bij een verzekering.
+Lijfrenteverzekering = Verzekering die vanaf een bepaald moment periodieke uitkeringen geeft.
+AOW = Basispensioen van de overheid vanaf de AOW-leeftijd.
+Pensioenverzekering = Verzekering waarmee je een inkomen opbouwt voor na je werkzame leven.
+Compagnonsverzekering = Verzekering die uitkeert als een zakenpartner overlijdt, zodat het bedrijf kan doorgaan.
+### MC
+Twee eigenaren van een vof willen voorkomen dat het bedrijf moet stoppen als een van hen overlijdt. Welke verzekering past?
+* Compagnonsverzekering
+- Lijfrenteverzekering
+- Bedrijfsschadeverzekering
+- Rechtsbijstandverzekering
+> De uitkering gebruikt de overgebleven compagnon om het aandeel van de erfgenamen over te nemen.
+### MC
+Wat is een koopsom?
+* Een eenmalige inleg in één keer
+- De maandelijkse premie van een autoverzekering
+- De prijs van een aandeel
+- De uitkering van de AOW
+> Bij een lijfrente betaal je vaak een koopsom.
+### MC
+Wie betaalt meestal de premie voor het aanvullend pensioen van een werknemer?
+* Werkgever en werknemer samen
+- Alleen de overheid
+- Alleen de werknemer
+- De verzekeraar
+> De AOW is de basis, het aanvullend pensioen loopt via de werkgever.
+
+## § 3.3 | Kiezen voor een opleiding
+onderwerp: B.lenen
+deelvraag: Waarom is een opleiding een investering?
+### UITLEG Investeren in jezelf
+Een opleiding kost geld (lesgeld, boeken, lenen) en tijd (je verdient in die jaren minder). Daar staat tegenover dat je later meestal meer verdient en meer kansen hebt. Daarom is een opleiding een investering in jezelf.
+Human capital is de economische waarde van de kennis en vaardigheden van mensen. Goed opgeleide werknemers zijn productiever; dat is goed voor bedrijven en voor de hele maatschappij.
+Omdat de wereld snel verandert, blijf je je hele leven leren: permanente educatie.
+### BEGRIPPEN
+Human capital = De economische waarde van de kennis en vaardigheden van werknemers.
+Permanente educatie = Je hele leven blijven leren en bijscholen.
+Investering = Nu geld en tijd besteden om er later meer voor terug te krijgen.
+### MC
+Waarom kun je een opleiding zien als een investering?
+* Je maakt nu kosten om later een hoger inkomen en meer kansen te krijgen
+- Je krijgt meteen een hoger loon
+- Een opleiding kost niets
+- De overheid betaalt alle kosten terug
+> Eerst kosten, later opbrengsten: dat is investeren.
+### MC
+Waarom is een goed opgeleide bevolking goed voor de maatschappij?
+* Werknemers zijn productiever, waardoor de welvaart stijgt
+- Er zijn dan minder banen nodig
+- De lonen dalen dan
+- Bedrijven hoeven dan minder te investeren
+> Meer human capital betekent meer productiviteit.
+### MC
+Een accountant volgt elk jaar cursussen over nieuwe regels. Hoe heet dat?
+* Permanente educatie
+- Human capital
+- Initieel onderwijs
+- Omscholing na ontslag
+> Levenslang leren.
+
+## § 3.4 | Lenen
+onderwerp: B.lenen
+deelvraag: Welke vormen van consumptief krediet zijn er en wat kost lenen?
+gens: kredietkosten, effectieveInterest
+### UITLEG Voor- en nadelen van lenen
+Lenen geeft je de mogelijkheid om iets nu te kopen en later te betalen. Nadelen: je betaalt kredietkosten (rente) en je toekomstige inkomen is al deels uitgegeven. Bij betalingsproblemen kom je in de schulden en een BKR-registratie maakt nieuw lenen lastig.
+Kredietkosten (kredietprijs) = totaal terugbetaald − geleend bedrag.
+### UITLEG Vormen van consumptief krediet
+Consumptief krediet gebruik je voor consumptie, vaak voor duurzame consumptiegoederen (auto, keuken, tv).
+Doorlopend krediet: je mag opnemen tot een limiet; de rente is variabel. Persoonlijke lening: vast bedrag, vaste looptijd, vaste maandtermijn en vaste rente.
+Koop op afbetaling: je wordt direct eigenaar en betaalt in termijnen. Huurkoop: je wordt pas eigenaar na de laatste termijn.
+Private lease: je huurt een auto voor een vast bedrag per maand en wordt nooit eigenaar. Creditcard: je betaalt achteraf; los je niet op tijd af, dan betaal je hoge rente.
+### BEGRIPPEN
+Consumptief krediet = Lening voor de aanschaf van consumptiegoederen.
+Doorlopend krediet = Krediet waarbij je tot een limiet geld kunt opnemen en weer terugstorten.
+Persoonlijke lening = Lening met een vast bedrag, vaste looptijd, vaste rente en vaste maandtermijn.
+Huurkoop = Je betaalt in termijnen en wordt pas eigenaar na de laatste betaling.
+Private lease = Een auto huren voor een vast bedrag per maand zonder eigenaar te worden.
+Kredietprijs = Het totale bedrag dat je meer terugbetaalt dan je hebt geleend.
+### MC
+Je leent € 4.000 en betaalt 36 maanden € 125. Hoe hoog zijn de kredietkosten?
+* € 500
+- € 4.500
+- € 125
+- € 1.500
+> 36 × 125 = 4.500; 4.500 − 4.000 = € 500.
+### MC
+Wat is het verschil tussen huurkoop en koop op afbetaling?
+* Bij huurkoop word je pas eigenaar na de laatste termijn, bij koop op afbetaling meteen
+- Bij huurkoop betaal je geen rente
+- Bij koop op afbetaling word je nooit eigenaar
+- Er is geen verschil
+> Het eigendom gaat bij huurkoop pas over na de laatste betaling.
+### MC
+Welke vorm van krediet heeft een variabele rente en een limiet waarbinnen je steeds opnieuw kunt opnemen?
+* Doorlopend krediet
+- Persoonlijke lening
+- Private lease
+- Huurkoop
+> Bij een doorlopend krediet kun je herhaald opnemen tot de limiet.

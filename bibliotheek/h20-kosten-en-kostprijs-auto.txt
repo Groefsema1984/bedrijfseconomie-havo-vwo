@@ -1,0 +1,198 @@
+# LEERDOEL BECO-KOSTE-01
+domein: F
+onderwerp: F.kosten
+thema: Kosten en kostprijs
+wereld: h20,v23
+naam: Constante en variabele kosten onderscheiden
+doel: Ik kan uitleggen welke kosten constant zijn en welke variabel.
+
+## EXAMEN havo 2021-III 24 3p
+Bereken voor de benzineauto (inclusief BPM) en de elektrische auto (met laadpaal) de variabele kosten per kilometer en de constante kosten per jaar. Vul de uitwerkbijlage in.
+### ANTWOORD
+Benzine: afschrijving (37.670 + 5.830) × 0,2 = 8.700, brandstof 1/25 × 1,75 = 0,07 per km, constant 12.780. Elektrisch: afschrijving (50.000 + 5.000) × 0,22 = 12.100, energie 0,15 × 0,20 = 0,03 per km, constant 14.500.
+
+## EXAMEN havo 2021-III 25 2p
+Toon met een berekening aan dat de jaarkosten van de elektrische auto met laadpaal lager zijn dan die van de benzineauto bij 50.000 kilometer per jaar.
+### ANTWOORD
+Elektrisch: 0,03 × 50.000 + 14.500 = 16.000. Benzine: 0,07 × 50.000 + 12.780 = 16.280. Dus € 16.000 < € 16.280.
+
+## EXAMEN havo 2021-III 26 2p
+Toon aan dat leasen (€ 12.000 per jaar, inclusief alle kosten) altijd goedkoper is dan aanschaffen van de elektrische auto. Teken de kostenlijn bij lease in de uitwerkbijlage.
+### ANTWOORD
+Beginpunt bij € 12.000. Lijn loopt evenwijdig aan de lijn bij aanschaf, doorgetrokken tot 100.000 km (€ 15.000). Lease ligt dus overal lager.
+
+## EXAMEN havo 2022-I 8 2p
+Bereken de totale constante kosten van het restaurant over het tweede kwartaal 2020. Gebruik de gegevens in informatiebron 2 (loonkosten, leasekosten, huisvesting, afschrijvingen, overige kosten).
+### ANTWOORD
+Loon 52.750 + lease 600 + huisvesting 11.250 + afschrijving 3.375 + overig 11.225 = €79.200. Deelscores: 1 voor de eerste vier posten, 1 voor 3.375 en 79.200. Vergeten om te rekenen naar een kwartaal: 1 punt aftrek (aanvulling: tweede opmerking vervalt).
+
+## EXAMEN havo 2022-I 10 2p
+Bereken de totale loonkosten en verpakkingskosten van het restaurant in het derde en vierde kwartaal van 2020, met de gegevens uit informatiebron 3.
+### ANTWOORD
+Aantal menu's 2.600 × 2 = 5.200. Verpakking 5.200 × 2,50 = 13.000. Constante loonkosten 52.750 × 2 = 105.500. Totaal €118.500.
+
+## EXAMEN havo 2022-II 11 3p
+Cor komt voor TOGS in aanmerking bij constante kosten van minimaal € 4.000 in drie maanden. Toon met een berekening aan dat dit zo is, waarbij de volledige NOW de loonkosten verlaagt.
+### ANTWOORD
+Interest 80 + 78 + 77 = 235 (1p). Loon 18.000 − 9.990 = 8.010 (1p). Afschrijving 3 × 250 = 750; huur 3.600 (volgens aanvulling, was 3.000); reclame en overig 1.500. Totaal ruim boven 4.000, dus TOGS (1p).
+
+## EXAMEN havo 2022-II 18 1p
+De interestkosten van de webwinkel zijn in kwartaal 2 lager dan in kwartaal 1. Verklaar waarom interest toch tot de constante kosten hoort.
+### ANTWOORD
+Interestkosten zijn onafhankelijk van de behaalde afzet of omzet. De daling komt door de aflossing van de lening, niet door een andere afzet.
+
+## EXAMEN havo 2023-II 6 4p
+Bereken de totale constante kosten van de praktijk over 2022. Tel interest, afschrijving, loonkosten van een receptiemedewerker en overige constante kosten op. Gebruik de uitwerkbijlage.
+### ANTWOORD
+Interest € 4.500. Afschrijving (40.000 − 4.000) : 4 = € 9.000. Loonkosten 600 × 1,08 × 1,3 × 12 × 1,033 = € 11.046,16. Overige constante kosten € 6.299,84. Totaal € 30.846.
+
+## EXAMEN havo 2023-II 26 3p
+Toon met een berekening aan dat de gemiddelde variabele kosten per bestelling € 15 zijn en de totale constante kosten voor Groningen € 138.000. Gebruik de totale kosten bij twee afzetniveaus en het aantal hubs.
+### ANTWOORD
+(2.270.000 − 1.820.000) : (90.000 − 60.000) = € 15. Constant totaal: 2.270.000 − 90.000 × 15 = 920.000. Groningen: 920.000 × 3 : 20 = € 138.000.
+
+## EXAMEN havo 2024-I 15 1p
+Een lening voor een bezorgscooter kost vaste interest per maand. Leg uit dat deze interestkosten constante kosten zijn.
+### ANTWOORD
+De interestkosten zijn niet afhankelijk van het aantal verkochte maaltijdboxen, dus van de afzet.
+
+## EXAMEN havo 2025-I 28 1p
+Bij een zelfoogsttuin horen de loonkosten deels bij de variabele en deels bij de overige constante kosten. Leg uit dat loonkosten zowel constant als variabel kunnen zijn.
+### ANTWOORD
+Constante loonkosten zijn onafhankelijk van de afzet of productie. Variabele loonkosten zijn wel afhankelijk van de afzet of productie.
+
+## EXAMEN havo 2025-II 15 3p
+De constante kosten zijn € 2.500 per maand, de variabele kosten 12,5% van de omzet. De omzet is € 6.000 in drie weken, plus verkopen in de laatste week van € 2.420 inclusief 21% btw (half contant, half in maart). Bereken het verwachte resultaat over februari.
+### ANTWOORD
+Omzet: 6.000 + 2.420 : 1,21 = 8.000 (de verkopen tellen volledig mee, de btw niet). Resultaat: 8.000 − 0,125 × 8.000 − 2.500 = € 4.500. Per fout 1 punt aftrek.
+
+## EXAMEN havo 2026-II 15 1p
+Een grafiek toont de totale kosten van een samenvattingenboekje tegen het aantal verkochte boekjes. Bereken de variabele kosten per boekje.
+### ANTWOORD
+(33.000 − 3.000) : 5.000 = € 6 per boekje.
+
+## EXAMEN havo 2026-II 21 1p
+Fotograaf, boothuur en feestlocatie worden 8% duurder, terwijl het aantal deelnemers meer dan 8% stijgt. Leg uit of deze kosten variabel of constant zijn.
+### ANTWOORD
+Het zijn constante kosten, want ze zijn niet afhankelijk van het aantal studenten. Anders zouden de kosten met de groei van het aantal studenten meestijgen.
+
+## EXAMEN havo 2026-II 22 6p
+Stel met informatiebronnen 5 tot en met 7 de exploitatiebegroting van de introductieweek 2025-2026 sluitend en bereken de benodigde bijdrage van de directie. Vul de uitwerkbijlage in.
+### ANTWOORD
+Eigen bijdrage (1 − 0,10) × 210 × 35 = 6.615 (2 punten). Cadeaubonnen 700, lunch 2.464, fotograaf 400 × 1,08 = 432 (elk 1 punt). Bijdrage directie = totale kosten − eigen bijdrage = € 17.607 (1 punt).
+
+## EXAMEN vwo 2021-I 11 3p
+Bereken de verwachte constante kosten van de sapbar over 2021: personeelskosten, interestkosten, afschrijvingskosten en overige constante kosten. Vul de uitwerkbijlage verder in.
+### ANTWOORD
+Constante personeelskosten 343 × 4 × 12 × 1,08 × 1,30 = 23.115,46 (1). Interestkosten 7.516,19, op de schuld na aflossing (1). Afschrijving (8.000 – 1.200)/8 + 1.000 = 1.850 (1). Overige constante kosten 10.000 gegeven.
+
+## EXAMEN vwo 2021-I 12 4p
+Bereken de verwachte EBIT over 2021 met het aantal klanten uit vraag 6. Vul de uitwerkbijlage in.
+### ANTWOORD
+Omzet 343 × 60 × 8 = 164.640; inkoopwaarde 25% = 41.160; variabele personeelskosten 3% = 4.939,20 (1). Relevante constante kosten 23.115,46 + 10.000 = 33.115,46 (1). EBITDA 85.425,34; afschrijving 1.850 (1). EBIT 83.575,34 (1).
+
+## EXAMEN vwo 2021-III 23 2p
+Uit informatiebron 5 blijkt hoe de kosten per stuk van een motorenhandel bij een grotere afzet veranderen. Bereken de verwachte variabele kosten per motor in 2021.
+### ANTWOORD
+Bij afzet 100 zijn de totale kosten 100 × 2.250 = 225.000 en bij 200 zijn ze 200 × 1.350 = 270.000. De stijging is alleen variabel: (270.000 − 225.000) / (200 − 100) = € 450 per motor.
+
+## EXAMEN vwo 2022-I 10 2p
+Bereken de totale variabele kosten per jaar van de twee elektrische voertuigen, met de gegevens uit informatiebron 4 over kilometers en kostenverschil.
+### ANTWOORD
+Kostenvoordeel per km = 1.000 : 10.000 = € 0,10. Variabele kosten elektrisch = 0,14 − 0,10 = € 0,04 per km (1 punt). 2 × 300 × 50 × 0,04 = € 1.200 (1 punt).
+
+## EXAMEN vwo 2023-I 29 1p
+Tijdens de coronacrisis vergoedde de overheid alleen een deel van de constante kosten van een restaurant. Leg uit waarom niet ook de variabele kosten.
+### ANTWOORD
+Bij lagere omzet dalen de variabele kosten mee, maar de constante kosten niet.
+
+## EXAMEN vwo 2024-I 24 1p
+Noem het verschil tussen constante en variabele kosten. Betrek beide begrippen in je antwoord.
+### ANTWOORD
+Constante kosten zijn onafhankelijk van de productie of afzet; variabele kosten zijn wel afhankelijk van de productie of afzet.
+
+## EXAMEN vwo 2024-II 6 3p
+Bereken voor 2022 de totale constante kosten van de bezorgdienst met 200 scooters, op basis van de gegevens in informatiebron 1 (afschrijving, loon, verzekering, overige kosten).
+### ANTWOORD
+Afschrijving per scooter 1.000; loonkosten 11.440; verzekering 660; overige kosten 120. Totaal 13.220 per scooter, dus 13.220 × 200 = € 2.644.000. Drie deelscores: afschrijving, loon, totaal.
+
+## EXAMEN vwo 2026-II 4 1p
+Verklaar waarom een detacheringsbureau de loonkosten van docenten tot de constante kosten rekent.
+### ANTWOORD
+Deze kosten zijn onafhankelijk van het aantal gedetacheerde uren (de afzet), omdat docenten hun contracturen ook uitbetaald krijgen als ze niet worden gedetacheerd.
+
+## EXAMEN vwo 2026-II 18 2p
+Bereken voor de verkooponderneming van het concern de break-evenomzet. Bereken eerst de variabele kosten als percentage van de omzet, met inkoopkosten als variabel deel.
+### ANTWOORD
+Variabel 600.000 : 1.500.000 = 40% (1p). Constante kosten = 800.000−600.000 + 9.000 + 31.000 = 240.000; break-evenomzet 240.000 : 0,60 = € 400.000 (1p).
+
+
+# LEERDOEL BECO-KOSTP-01
+domein: F
+onderwerp: F.kosten
+thema: Kosten en kostprijs
+wereld: h20,v23
+naam: Integrale kostprijs berekenen uit variabele en constante kosten
+doel: Ik kan de integrale kostprijs per product berekenen met variabele en constante kosten.
+gens: integraleKostprijs
+
+## EXAMEN vwo 2021-I 29 1p
+De loonkosten van de opzichter worden via een opslag per uur van de schilders doorberekend. Geef een andere manier om die loonkosten in de voorcalculatie door te berekenen.
+### ANTWOORD
+Doorberekenen via een vast bedrag per offerte, een vast bedrag per te werken dag, of een opslag als percentage van de totale kosten.
+
+## EXAMEN vwo 2021-I 30 2p
+Vier schilders kosten elk € 47.309,18 per jaar, de opzichter € 60.000. Een schilder werkt 52 – 6 weken en kan 30 uur per week doorbelasten. Bereken het uurtarief in de voorcalculatie.
+### ANTWOORD
+47.309,18 : (30 × (52 – 6)) + 60.000 : (4 × 30 × (52 – 6)) = € 45,15 per uur.
+
+## EXAMEN vwo 2021-I 31 3p
+Bereken de offerteprijs inclusief btw voor schilderwerk met steiger (€ 240), materiaal (€ 850) en 28 uur arbeid. Resultaat is 20% van het offertebedrag exclusief btw, btw is 9% op arbeid en 21% op de overige kosten. Vul de uitwerkbijlage in.
+### ANTWOORD
+Arbeid 28 × 45,15 = 1.264,20 (1). Kostprijs 2.354,20; resultaat 2.354,20/80 × 20 = 588,55 (1). Exclusief btw 2.942,75; btw 113,78 + 228,90 = 342,68; inclusief € 3.285,43 (1). Aanvulling: derde deelscore altijd toekennen.
+
+## EXAMEN vwo 2021-II 13 3p
+Een ijszaak verkoopt één bol op een hoorn. Gegeven: kosten hoorn en ijs per 5 liter (20 bollen per liter), constante kosten, normale afzet en een resultaat van 50% van de verkoopprijs exclusief btw, met 9% btw. Bereken de verkoopprijs inclusief btw per ijsje.
+### ANTWOORD
+Variabele kosten 0,21 + 19 : 100 = 0,40; constante kosten 15.000 : 25.000 = 0,60; kostprijs 1,00 (2). Resultaat 1,00, prijs excl. btw 2,00, btw 0,18, prijs € 2,18 (1).
+
+## EXAMEN vwo 2022-I 2 3p
+Gegeven zijn de constante kosten van het kantoor, de normale werkweek van vijf adviseurs over 46 weken, de normale uren per adviestype en de variabele afdracht per advies. Bereken de kostprijs van een basic én een comfort advies.
+### ANTWOORD
+Normale uren N = 5 × 36 × 46 = 8.280. C/N = (89.600 + 490.000) : 8.280 = € 70 per uur. Basic: 15 × 70 + 150 = € 1.200. Comfort: 18 × 70 + 150 = € 1.410.
+
+## EXAMEN vwo 2023-I 9 6p
+Toon met de informatiebronnen aan dat de verhuurprijs inclusief btw van een aanhanger met hottub € 166,38 per week is. Vul daarvoor de uitwerkbijlage in.
+### ANTWOORD
+Constante kosten: huur 4.800, afschrijving inventaris 550, afschrijving aanhangwagens/hottubs 6.800, interest 1.710, verzekering 1.515, onderhoud 1.200; totaal 16.575 (3). Per week 85 constant (1). Variabel 25, kostprijs 110, winstopslag 27,50 (1). Prijs 137,50 excl., btw 28,88, totaal 166,38 (1).
+
+## EXAMEN vwo 2023-II 26 3p
+Bereken de kostprijs per mondkapje uit de gegevens over machinecapaciteit, normale bezetting, loonkosten van machinebedieners en overig personeel, overige constante kosten, filtermateriaal (5 kapjes per meter à € 4) en overig materiaal.
+### ANTWOORD
+Constante kosten per kapje: (4 × 60.000 + 150.000 + 224.400) : (12 × 0,80 × 800.000) = 0,08 (2). Variabel: 4 : 5 = 0,80 + 0,22 = 1,02. Kostprijs 1,02 + 0,08 = € 1,10 (1).
+
+## EXAMEN vwo 2024-I 25 4p
+Bereken met de gegevens van informatiebron 4 (constante en variabele kosten, marge) de verkoopprijs exclusief btw van een aardewerken pot met 12 stroopwafels.
+### ANTWOORD
+Constante kosten per pot: 13.500 : 6.000 = 2,25 (1p). Variabel: wafels 3,84 + energie 0,27 = 6,36 (1p). Pot 7,24 (1p); kostprijs 13,60. Winstmarge 20/80 × 13,60 = 3,40. Verkoopprijs € 17,00 (1p).
+
+## EXAMEN vwo 2024-II 7 2p
+Bereken de kostprijs per bezorging van de bezorgdienst in 2022, afgerond op eurocenten.
+### ANTWOORD
+Variabele kosten per bezorging (benzine): 0,20. Constante kosten per bezorging: 2.644.000 : 2.000.000 (normale productie) = 1,32. Kostprijs 1,32 + 0,20 = € 1,52.
+
+## EXAMEN vwo 2026-I 7 1p
+Verklaar waarom het grootste deel van de constante kosten wordt toegerekend aan de langer rijpende kaas.
+### ANTWOORD
+Oude kaas ligt langer in het pakhuis en gebruikt daardoor meer ruimte, kapitaal of personeel, dus meer van de huur, interest of personeelskosten. Alleen noemen dat het rijpen langer duurt is onvoldoende.
+
+## EXAMEN vwo 2026-I 8 3p
+Bereken het gerealiseerde verkoopresultaat over een half jaar. Bereken eerst de kostprijs per kg rijping van jonge en van oude kaas (zie informatiebronnen 2 en 3).
+### ANTWOORD
+Jonge kaas: 0,20 + 1/3 × constante kosten : normale afzet = € 0,60. Oude kaas: 0,50 + 2/3 × constante kosten : normale afzet = € 2,50 (2p). 78.000 × (1,50 − 0,60) + 24.000 × (3,70 − 2,50) = € 99.000 (1p).
+
+## EXAMEN vwo 2026-II 5 3p
+Bereken de kostprijs per gedetacheerd uur voor het schooljaar met informatiebron 1: contracturen per salarisgroep, loonkosten per uur, overige constante kosten, normale afzet en variabele kosten per uur.
+### ANTWOORD
+Constante kosten = loonkosten (24×80+32×120+40×180)×39×100/(75×52) + 2.073.600 = 37.117.440 (2p). C/N = 37.117.440 : 414.720 = 89,50; kostprijs 89,50 + 2,50 = € 92 (1p).
+

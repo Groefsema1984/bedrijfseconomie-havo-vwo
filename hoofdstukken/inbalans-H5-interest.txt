@@ -1,0 +1,229 @@
+# HOOFDSTUK hv 5 | Enkelvoudige en samengestelde interest
+wereld: hv5
+hoofdvraag: Hoe reken je met geld in de tijd?
+
+## § 5.1 | Enkelvoudige en samengestelde interest
+onderwerp: B.interest
+deelvraag: Wat is het verschil tussen enkelvoudige en samengestelde interest?
+gens: enkelvoudigeInterest, eindwaarde
+### UITLEG Rente over rente
+Enkelvoudige interest: je krijgt alleen rente over het beginbedrag. € 1.000 tegen 5% levert elk jaar € 50 op; na 3 jaar heb je € 1.150.
+Samengestelde interest (rente op rente): de rente wordt bijgeschreven en levert de volgende periode zelf ook rente op. € 1.000 tegen 5%: na 1 jaar € 1.050, na 2 jaar € 1.102,50, na 3 jaar € 1.157,63.
+Teken bij elke opgave eerst een tijdlijn: wanneer gaat er geld in of uit?
+### BEGRIPPEN
+Enkelvoudige interest = Rente die alleen over het beginkapitaal wordt berekend.
+Samengestelde interest = Rente die ook over de eerder bijgeschreven rente wordt berekend.
+Rente op rente = Het effect dat bijgeschreven rente zelf ook weer rente oplevert.
+### MC
+Je zet € 2.000 vast tegen 4% samengestelde interest. Hoeveel staat er na 2 jaar?
+* € 2.163,20
+- € 2.160,00
+- € 2.080,00
+- € 2.320,00
+> 2.000 × 1,04² = € 2.163,20.
+### MC
+Waarom is de eindwaarde bij samengestelde interest hoger dan bij enkelvoudige interest?
+* Omdat je ook rente krijgt over de bijgeschreven rente
+- Omdat het rentepercentage hoger is
+- Omdat je meer inlegt
+- Omdat de bank geen kosten rekent
+> Rente op rente.
+### MC
+€ 5.000 tegen 3% enkelvoudige interest. Hoeveel interest ontvang je in totaal na 4 jaar?
+* € 600
+- € 627,54
+- € 150
+- € 5.600
+> 4 × 0,03 × 5.000 = € 600.
+
+## § 5.2 | Eindwaarde en contante waarde van één bedrag
+onderwerp: B.interest
+deelvraag: Hoe reken je een bedrag vooruit en terug in de tijd?
+gens: eindwaarde, contanteWaarde
+### UITLEG Vooruit en terug
+Rekenen met de pernuage: 4% = 0,04.
+Eindwaarde: Eₙ = K × (1 + i)ⁿ. Je rekent een bedrag van nu vooruit in de tijd.
+Contante waarde: C = E × (1 + i)⁻ⁿ. Je rekent een bedrag in de toekomst terug naar nu (disconteren).
+Let op de periode: is de interest per maand, dan is n het aantal maanden.
+### BEGRIPPEN
+Pernuage = Een percentage uitgedrukt per één, bijvoorbeeld 4% = 0,04.
+Eindwaarde = De waarde van een bedrag op een later moment, inclusief samengestelde interest.
+Contante waarde = De waarde nu van een bedrag dat je later ontvangt of betaalt.
+Disconteren = Een toekomstig bedrag terugrekenen naar nu.
+Periode = De tijdsduur waarover de interest wordt berekend: jaar, halfjaar, kwartaal of maand.
+Tijdlijn = Tekening van de bedragen op de momenten waarop ze vrijkomen.
+### MC
+Over 3 jaar ontvang je € 10.000. De interest is 5% per jaar. Wat is de contante waarde?
+* € 8.638,38
+- € 8.500,00
+- € 11.576,25
+- € 9.523,81
+> 10.000 × 1,05⁻³ = € 8.638,38.
+### MC
+Wat bereken je met E × (1 + i)⁻ⁿ?
+* De contante waarde van een bedrag
+- De eindwaarde van een bedrag
+- De annuïteit
+- De enkelvoudige interest
+> De negatieve macht rekent terug in de tijd.
+### MC
+Je zet € 1.000 op een rekening met 0,5% interest per maand. Welke n gebruik je voor 2 jaar?
+* 24
+- 2
+- 12
+- 0,5
+> De periode is een maand, dus 24 maanden.
+
+## § 5.3 | Eindwaarde van een rente
+onderwerp: B.interest
+deelvraag: Hoe bereken je de eindwaarde van een reeks gelijke bedragen?
+niv: v
+gens: eindwaardeRente
+### UITLEG Een rente
+Een rente is een reeks gelijke bedragen met gelijke tussenpozen, bijvoorbeeld elk jaar € 1.000 sparen.
+De eindwaarde van een rente is de som van de eindwaarden van alle afzonderlijke bedragen. Met een tijdlijn zie je hoeveel perioden elk bedrag rente krijgt.
+Voorbeeld: aan het eind van jaar 1, 2 en 3 telkens € 1.000 bij 4%. Eindwaarde eind jaar 3 = 1.000 × 1,04² + 1.000 × 1,04 + 1.000 = € 3.121,60.
+### BEGRIPPEN
+Rente (reeks) = Een reeks gelijke bedragen die met gelijke tussenpozen vrijkomen.
+Postnumerando = De bedragen komen vrij aan het eind van elke periode.
+Prenumerando = De bedragen komen vrij aan het begin van elke periode.
+### MC
+Je stort aan het begin van drie jaren telkens € 500 tegen 3%. Hoeveel staat er aan het eind van jaar 3?
+* € 1.591,82
+- € 1.545,45
+- € 1.500,00
+- € 1.639,36
+> 500 × 1,03³ + 500 × 1,03² + 500 × 1,03 = € 1.591,82 (prenumerando).
+### MC
+Wat is het verschil tussen postnumerando en prenumerando?
+* Postnumerando: bedragen aan het eind van elke periode, prenumerando: aan het begin
+- Postnumerando: met rente, prenumerando: zonder rente
+- Postnumerando: één bedrag, prenumerando: meerdere bedragen
+- Er is geen verschil
+> Post = na, pre = voor.
+### MC
+Waarom is de eindwaarde van een prenumerando rente hoger dan van dezelfde postnumerando rente?
+* Elk bedrag staat een periode langer uit
+- De bedragen zijn groter
+- De rente is hoger
+- Er is een extra bedrag
+> Eerder storten betekent langer rente.
+
+## § 5.4 | Contante waarde van een rente
+onderwerp: B.interest
+deelvraag: Hoe bereken je de contante waarde van een reeks gelijke bedragen?
+niv: v
+gens: contanteWaardeRente, annuiteit
+### UITLEG Contante waarde van een rente
+De contante waarde van een rente is de som van de contante waarden van alle bedragen. Dit gebruik je bijvoorbeeld om te bepalen hoeveel een reeks toekomstige uitkeringen nu waard is.
+Annuïteit: een vast periodiek bedrag waarmee een lening precies wordt afgelost inclusief rente. De contante waarde van alle annuïteiten is gelijk aan het geleende bedrag.
+### BEGRIPPEN
+Annuïteit = Vast bedrag per periode dat bestaat uit interest en aflossing.
+Contante waarde van een rente = De som van de contante waarden van een reeks gelijke bedragen.
+Looptijd = De periode waarover een lening of rente loopt.
+### MC
+Je krijgt aan het eind van jaar 1 en jaar 2 telkens € 1.000. De interest is 5%. Wat is de contante waarde?
+* € 1.859,41
+- € 2.000,00
+- € 1.904,76
+- € 2.050,00
+> 1.000 × 1,05⁻¹ + 1.000 × 1,05⁻² = 952,38 + 907,03 = € 1.859,41.
+### MC
+Wat geldt voor een annuïteitenlening?
+* De contante waarde van alle annuïteiten is gelijk aan het geleende bedrag
+- De aflossing is elk jaar gelijk
+- De interest is elk jaar gelijk
+- Je lost alles aan het einde in één keer af
+> De annuïteit is vast; het aandeel aflossing stijgt.
+### MC
+Bij een annuïteitenlening daalt elk jaar het interestdeel. Wat gebeurt er met het aflossingsdeel?
+* Dat stijgt
+- Dat daalt ook
+- Dat blijft gelijk
+- Dat wordt nul
+> Annuïteit = interest + aflossing en is constant.
+
+## § 5.3 | Nominale en effectieve interest
+onderwerp: B.interest
+deelvraag: Hoe reken je een rentepercentage om naar een andere periode?
+niv: h
+gens: effectieveInterest
+### UITLEG Nominaal en effectief
+Nominale interest: het percentage per jaar zonder rekening te houden met rente op rente binnen het jaar. 1% per maand is nominaal 12% per jaar.
+Effectieve interest: het werkelijke percentage per jaar, inclusief rente op rente. 1% per maand is effectief 1,01¹² − 1 = 12,68% per jaar.
+Andersom: 6% effectief per jaar is per maand 1,06^(1/12) − 1 = 0,487%.
+### BEGRIPPEN
+Nominale interest = Rentepercentage per jaar zonder rente-op-rente binnen het jaar.
+Effectieve interest = Werkelijk rentepercentage per jaar inclusief rente op rente.
+Omrekenen = Een percentage per periode omzetten naar een percentage voor een andere periode.
+### MC
+Een lening kost 1% interest per kwartaal. Wat is de effectieve interest per jaar?
+* 4,06%
+- 4,00%
+- 1,00%
+- 12,68%
+> 1,01⁴ − 1 = 0,0406 = 4,06%.
+### MC
+Waarom is de effectieve interest hoger dan de nominale interest?
+* Door rente op rente binnen het jaar
+- Door de inflatie
+- Door de afsluitkosten
+- Omdat de bank winst wil maken
+> De rente van een eerdere maand levert zelf ook rente op.
+### MC
+Een creditcard rekent 1,5% per maand. Wat is de nominale interest per jaar?
+* 18%
+- 19,56%
+- 1,5%
+- 12%
+> 12 × 1,5% = 18% nominaal; effectief is het 19,56%.
+
+## § 5.5 | Nominale en effectieve interest
+onderwerp: B.interest
+deelvraag: Hoe reken je een rentepercentage om naar een andere periode?
+niv: v
+ook: h 5.3
+gens: effectieveInterest
+
+## § 5.4 | Aflossen op leningen
+onderwerp: B.interest
+deelvraag: Hoe bereken je de schuldrest en de interest bij aflossen?
+niv: h
+gens: lineaireInterestLater
+### UITLEG Schuldrest en interest
+De schuld daalt alleen door aflossingen, niet door interestbetalingen.
+De interest over een periode = interestpercentage × de schuldrest in die periode.
+Lineair aflossen: je lost elke periode hetzelfde bedrag af. De interest daalt dan elke periode, omdat de schuldrest daalt.
+Voorbeeld: € 12.000 lenen, 4 jaar lineair aflossen, 5%. Aflossing € 3.000 per jaar. Interest jaar 1 = 0,05 × 12.000 = € 600; jaar 2 = 0,05 × 9.000 = € 450.
+### BEGRIPPEN
+Schuldrest = Het deel van de lening dat nog niet is afgelost.
+Lineaire aflossing = Elke periode wordt een gelijk bedrag afgelost.
+Interestbedrag = Interestpercentage maal de schuldrest in die periode.
+### MC
+Een lening van € 20.000 wordt in 5 jaar lineair afgelost (aan het eind van elk jaar). Wat is de schuldrest na 2 jaar?
+* € 12.000
+- € 16.000
+- € 8.000
+- € 10.000
+> Aflossing 4.000 per jaar; 20.000 − 2 × 4.000 = € 12.000.
+### MC
+Dezelfde lening heeft 6% interest. Hoeveel interest betaal je in jaar 3?
+* € 720
+- € 1.200
+- € 960
+- € 480
+> Schuldrest in jaar 3 = 12.000; 0,06 × 12.000 = € 720.
+### MC
+Waardoor daalt de schuldrest van een lening?
+* Alleen door aflossingen
+- Door aflossingen en interestbetalingen
+- Alleen door interestbetalingen
+- Door inflatie
+> Interest is de vergoeding voor het lenen, geen terugbetaling.
+
+## § 5.6 | Aflossen op leningen
+onderwerp: B.interest
+deelvraag: Hoe bereken je de schuldrest en de interest bij aflossen?
+niv: v
+ook: h 5.4
+gens: lineaireInterestLater

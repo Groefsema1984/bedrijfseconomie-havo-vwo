@@ -1,0 +1,118 @@
+# LEERDOEL BECO-ORGAN-02
+domein: C
+onderwerp: C.org
+thema: Organisatiestructuur
+wereld: h11,v12
+naam: Spandiepte aflezen uit een organogram
+doel: Ik kan de spandiepte aflezen uit een organogram, zonder de directie mee te tellen.
+
+## OPGAVE IT-00231 2p | Autoverhuur Rijdrecht
+Rijdrecht Mobiel bv verhuurt auto's en onderhoudt ze in een eigen werkplaats. Het bedrijf heeft een verhuurafdeling en een technische dienst. In de tabel staat het organogram.
+Bij de spandiepte telt de directie niet mee.
+Tabel Organogram Rijdrecht Mobiel bv:
+Functie | Valt onder | Aantal personen
+Directeur | - | 1
+Juridisch adviseur (staf) | Directeur | 1
+Hoofd Verhuur | Directeur | 1
+Hoofd Techniek | Directeur | 1
+Locatiemanager | Hoofd Verhuur | 6
+Baliemedewerker | Locatiemanager | 24
+Chef werkplaats | Hoofd Techniek | 2
+Ploegleider | Chef werkplaats | 4
+Monteur | Ploegleider | 14
+Bepaal de spandiepte van Rijdrecht Mobiel bv. De directie telt niet mee.
+### ANTWOORD
+De langste lijn is die van de technische dienst: Hoofd Techniek, chef werkplaats, ploegleider en monteur. Dat zijn 4 niveaus zonder de directie. De spandiepte is 4.
+Puntenverdeling:
+• De langste lijn is Hoofd Techniek, chef werkplaats, ploegleider, monteur (1)
+• De spandiepte is 4 niveaus (1)
+
+## OPGAVE IT-00233 2p | Brouwerij De Gouden Kroon
+Brouwerij De Gouden Kroon bv verkoopt bier aan cafés en supermarkten. In de tabel staat het organogram. De directie wil de laag ploegleider in Distributie schrappen. De chauffeurs vallen dan direct onder de centrumleider.
+Bij de spandiepte telt de directie niet mee.
+Tabel Organogram Brouwerij De Gouden Kroon bv:
+Functie | Valt onder | Aantal personen
+Directeur | - | 1
+Kwaliteitsdienst (staf) | Directeur | 5
+Hoofd Brouwen | Directeur | 1
+Hoofd Verkoop | Directeur | 1
+Hoofd Distributie | Directeur | 1
+Brouwmeester | Hoofd Brouwen | 3
+Brouwer | Brouwmeester | 12
+Accountmanager | Hoofd Verkoop | 6
+Centrumleider | Hoofd Distributie | 2
+Ploegleider | Centrumleider | 4
+Chauffeur | Ploegleider | 16
+Bepaal de spandiepte van Brouwerij De Gouden Kroon bv nadat de laag ploegleider is geschrapt. De directie telt niet mee.
+### ANTWOORD
+Na het schrappen van de ploegleiders loopt Distributie van hoofd naar centrumleider naar chauffeur: 3 niveaus. Brouwen heeft ook 3 niveaus. De directie en de staf tellen niet mee. De spandiepte is 3.
+Puntenverdeling:
+• Na de wijziging heeft Distributie 3 niveaus (hoofd, centrumleider, chauffeur) en Brouwen ook 3 niveaus (hoofd, brouwmeester, brouwer); dit zijn de langste lijnen (1)
+• De spandiepte is 3 niveaus (1)
+
+## OPGAVE IT-00246 4p | Brouwerij De Kraanvogel
+Brouwerij De Kraanvogel bv wil sneller beslissen en denkt aan een kortere organisatie. Het plan: bij Verkoop vervalt de laag teamleiders, zodat de medewerkers verkoop direct onder het Hoofd Verkoop vallen. Bij Productie verandert niets.
+In de tabel staat het organogram. Bij de spandiepte telt de directie niet mee. De stafafdeling is geen eigen niveau.
+Tabel Organogram Kraanvogel bv:
+Functie | Valt onder | Totaal aantal personen met deze functie
+Directeur | - | 1
+Controller (staf) | Directeur | 1
+Hoofd Productie | Directeur | 1
+Hoofd Verkoop | Directeur | 1
+Productieleider | Hoofd Productie | 2
+Teamleider Productie | Productieleider | 4
+Brouwer | Teamleider Productie | 16
+Teamleider Verkoop | Hoofd Verkoop | 2
+Medewerker verkoop | Teamleider Verkoop | 9
+Beredeneer of de spandiepte van Kraanvogel bv kleiner wordt als het plan wordt uitgevoerd.
+### ANTWOORD
+Ik tel de niveaus langs de langste lijn zonder directie en staf. Bij Productie zijn dat Hoofd, Productieleider, Teamleider en Brouwer: spandiepte 4. Verkoop heeft nu 3 niveaus en na het plan 2. Maar Productie blijft 4 niveaus, dus de spandiepte van de organisatie blijft 4. Het plan helpt niet. Pas als bij Productie een laag vervalt, wordt de spandiepte kleiner.
+Puntenverdeling:
+• De spandiepte nu is 4: de langste lijn loopt via Productie (Hoofd Productie, Productieleider, Teamleider Productie, Brouwer); de directeur en de controller (staf) tellen niet mee (1)
+• Verkoop heeft nu 3 niveaus (hoofd, teamleider, medewerker) en na het plan 2 niveaus (1)
+• De langste lijn (Productie) blijft 4 niveaus, dus de spandiepte van de organisatie blijft 4 (1)
+• Conclusie: het plan maakt de spandiepte niet kleiner; daarvoor moet een laag bij Productie vervallen (bijvoorbeeld de productieleiders) (1)
+
+## OPGAVE IT-00260 3p | Opgave 1
+Kaasmakerij De Weide bv wil de opbouw van de organisatie beoordelen aan de hand van de spandiepte. In deze opgave telt de directie niet mee bij het bepalen van de spandiepte.
+In de tabel staat het organogram. De directeur geeft leiding aan het Secretariaat (een stafafdeling) en aan twee afdelingshoofden. Elk hoofd leidt een eigen team medewerkers.
+Tabel Organogram Kaasmakerij De Weide bv:
+Functie | Valt onder | Aantal personen
+Directeur | - | 1
+Secretariaat (staf) | Directeur | 1
+Hoofd Productie | Directeur | 1
+Hoofd Verkoop | Directeur | 1
+Productiemedewerker | Hoofd Productie | 4
+Verkoopmedewerker | Hoofd Verkoop | 3
+Maak van onderstaande tekst een economisch juiste tekst.
+De spandiepte is het aantal ...(1)... waaraan in een organisatie leiding wordt gegeven. Bij de spandiepte telt de directie ...(2)... mee. In het organogram van Kaasmakerij De Weide bv is de spandiepte ...(3)... .
+Kies uit:
+bij (1): niveaus / medewerkers
+bij (2): wel / niet
+bij (3): 2 / 3 / 10
+### ANTWOORD
+(1) niveaus, (2) niet, (3) 2. De directie telt niet mee. Onder de directeur zijn er twee niveaus: de hoofden en de medewerkers. Het Secretariaat is staf en telt niet als eigen niveau.
+Puntenverdeling:
+• . Let op: de keuzes bij (2) en (3) hangen samen. Omdat de directie niet meetelt, zijn er onder de directeur twee niveaus: de hoofden en de medewerkers. Het Secretariaat is een stafafdeling en geen eigen niveau. bij (1): niveaus (1)
+• bij (2): niet (1)
+• bij (3): 2 (1)
+
+## OPGAVE IT-00261 2p | Thuiszorg Rijnstreek
+In deze opgave telt de directie niet mee bij de spandiepte. Spandiepte is het aantal niveaus waaraan leiding wordt gegeven.
+Thuiszorg Rijnstreek bv verzorgt ouderen in de regio. De organisatie bestaat uit meerdere afdelingen. In de tabel staat het organogram met het aantal personen per functie. De HR-adviseur is een stafmedewerker.
+Tabel Organogram Thuiszorg Rijnstreek bv:
+Functie | Valt onder | Aantal personen
+Directeur | - | 1
+HR-adviseur (staf) | Directeur | 2
+Manager Wijkzorg | Directeur | 1
+Manager Financiën | Directeur | 1
+Teamleider wijkteam | Manager Wijkzorg | 4
+Verpleegkundige | Teamleider wijkteam | 36
+Boekhouder | Manager Financiën | 5
+Bepaal de spandiepte van Thuiszorg Rijnstreek bv.
+### ANTWOORD
+De langste lijn loopt van de Manager Wijkzorg naar de teamleider en dan naar de verpleegkundige. Dat zijn 3 niveaus. De directie telt niet mee. De spandiepte is dus 3 niveaus.
+Puntenverdeling:
+• De langste lijn loopt van de Manager Wijkzorg via de teamleider wijkteam naar de verpleegkundige (de directie telt niet mee). (1)
+• De spandiepte is 3 niveaus. (1)
+

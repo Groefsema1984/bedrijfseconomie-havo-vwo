@@ -1,0 +1,537 @@
+# LEERDOEL BECO-VERSC-01
+domein: F
+onderwerp: F.versch
+thema: Verschillenanalyse
+wereld: h22,v25
+naam: Bedrijfsresultaat berekenen uit verkoopresultaat en bezettingsresultaat
+doel: Ik kan het bedrijfsresultaat berekenen uit verkoopresultaat en bezettingsresultaat.
+gens: bezettingsresultaat
+
+## OPGAVE IT-00072 2p | Opbouw van het bedrijfsresultaat
+Een controller van een fabrikant van tuinmeubelen legt een nieuwe collega uit hoe het verwachte bedrijfsresultaat wordt opgebouwed. Hij schrijft de uitleg op, maar er ontbreken drie begrippen.
+Het verwachte bedrijfsresultaat is de som van het verwachte verkoopresultaat en het verwachte bezettingsresultaat. Het verwachte verkoopresultaat is de verwachte afzet maal het verschil tussen de verkoopprijs en de ...(1)... per product. Het verwachte bezettingsresultaat is het verschil tussen de ...(2)... productie en de normale productie, maal de constante kosten per product (C : N). Als de productie hoger is dan de normale productie, is het bezettingsresultaat ...(3)... .
+Maak van onderstaande tekst een economisch juiste tekst.
+Kies uit: bij (1) kostprijs / inkoopprijs / dekkingsbijdrage
+Kies uit: bij (2) begrote / werkelijke / maximale
+Kies uit: bij (3) voordelig / nadelig / nul
+### ANTWOORD
+(1) kostprijs, (2) begrote, (3) voordelig.
+Puntenverdeling:
+• indien drie keuzes juist zijn: kostprijs, begrote, voordelig (2)
+• indien twee keuzes juist zijn (1)
+• indien één of geen keuze juist is (0)
+
+## OPGAVE IT-00073 4p | Elektrische fietsen bij Stroomrijder nv
+Stroomrijder nv maakt elektrische stadsfietsen. Voor 2027 gaat de onderneming uit van een normale productie van 5.000 fietsen per jaar. Op basis van de orders verwacht zij echter 4.600 fietsen te produceren en te verkopen. De verkoopprijs is € 950 per fiets.
+De variabele kosten per fiets bestaan uit € 410 aan materiaal en 3 arbeidsuren à € 38 per uur. De constante kosten bedragen € 1.250.000 per jaar. De kostprijs wordt berekend bij de normale productie.
+Bereken het verwachte bedrijfsresultaat van Stroomrijder nv over 2027 met behulp van het verwachte verkoopresultaat en het verwachte bezettingsresultaat.
+Rond af op hele euro's en vermeld of het resultaat voordelig of nadelig is.
+### ANTWOORD
+Kostprijs = V/W + C/N = 410 + 3 × 38 + 1.250.000 : 5.000 = 410 + 114 + 250 = € 774 per fiets. Verwacht verkoopresultaat = 4.600 × (950 − 774) = € 809.600 voordelig. Verwacht bezettingsresultaat = (4.600 − 5.000) × (1.250.000 : 5.000) = −400 × 250 = € 100.000 nadelig. Verwacht bedrijfsresultaat = 809.600 − 100.000 = € 709.600 voordelig.
+Puntenverdeling:
+• kostprijs per fiets = 410 + 3 × 38 + 1.250.000 : 5.000 = € 774 (1)
+• verwacht verkoopresultaat = 4.600 × (950 − 774) = € 809.600 voordelig (1)
+• verwacht bezettingsresultaat = (4.600 − 5.000) × (1.250.000 : 5.000) = € 100.000 nadelig (1)
+• verwacht bedrijfsresultaat = 809.600 − 100.000 = € 709.600 voordelig (1)
+
+## OPGAVE IT-00074 5p | Tenten en rugzakken bij Kantelberg Outdoor nv
+Kantelberg Outdoor nv maakt twee producten: bergtenten en wandelrugzakken. Elk product heeft een eigen productielijn met eigen constante kosten. De kostprijs van elk product wordt berekend bij de normale productie van dat product.
+In de tabel staan de gegevens voor 2027. Voor beide producten is de verwachte afzet gelijk aan de begrote productie.
+Tabel Gegevens 2027 per product:
+| Bergtent | Wandelrugzak
+Normale productie (stuks) | 8.000 | 12.000
+Begrote productie = verwachte afzet (stuks) | 8.500 | 11.000
+Variabele kosten per stuk (€) | 142 | 61
+Constante kosten per jaar (€) | 640.000 | 840.000
+Verkoopprijs per stuk (€) | 260 | 138
+Bereken het verwachte bedrijfsresultaat van Kantelberg Outdoor nv over 2027 met behulp van het verwachte verkoopresultaat en het verwachte bezettingsresultaat van beide producten samen.
+Rond af op hele euro's en vermeld of het resultaat voordelig of nadelig is. Het verkoopresultaat hoeft niet te worden uitgesplitst in een afzet- en een prijsoorzaak.
+### ANTWOORD
+Kostprijs bergtent = 142 + 640.000 : 8.000 = 142 + 80 = € 222. Kostprijs rugzak = 61 + 840.000 : 12.000 = 61 + 70 = € 131. Verkoopresultaat = 8.500 × (260 − 222) + 11.000 × (138 − 131) = 323.000 + 77.000 = € 400.000 voordelig. Bezettingsresultaat = (8.500 − 8.000) × 80 + (11.000 − 12.000) × 70 = 40.000 − 70.000 = € 30.000 nadelig. Bedrijfsresultaat = 400.000 − 30.000 = € 370.000 voordelig.
+Puntenverdeling:
+• kostprijs bergtent = 142 + 640.000 : 8.000 = € 222 (1)
+• kostprijs wandelrugzak = 61 + 840.000 : 12.000 = € 131 (1)
+• verwacht verkoopresultaat = 8.500 × (260 − 222) + 11.000 × (138 − 131) = 323.000 + 77.000 = € 400.000 voordelig (1)
+• verwacht bezettingsresultaat = (8.500 − 8.000) × 80 + (11.000 − 12.000) × 70 = 40.000 − 70.000 = € 30.000 nadelig (1)
+• verwacht bedrijfsresultaat = 400.000 − 30.000 = € 370.000 voordelig (1)
+
+## OPGAVE IT-00075 4p | Houtkachels bij Lindebloem Kachels nv
+Lindebloem Kachels nv maakt gietstalen houtkachels. Voor het tweede halfjaar van 2027 gaat de onderneming uit van een normale productie van 2.400 kachels. Door de komst van een nieuwe afnemer in Scandinavië verwacht zij in dat halfjaar 2.700 kachels te produceren en te verkopen. Om die orders binnen te halen, verlaagt de onderneming de verkoopprijs tot € 540 per kachel.
+Per kachel is 30 kg plaatstaal nodig tegen € 4,20 per kg. De arbeid bedraagt 6 uur per kachel tegen € 32 per uur. De constante kosten bedragen € 576.000 per halfjaar. De kostprijs wordt berekend bij de normale productie.
+Bereken het verwachte bedrijfsresultaat van Lindebloem Kachels nv over het tweede halfjaar van 2027 met behulp van het verwachte verkoopresultaat en het verwachte bezettingsresultaat.
+Rond af op hele euro's en vermeld of het resultaat voordelig of nadelig is.
+### ANTWOORD
+Kostprijs = V/W + C/N = 30 × 4,20 + 6 × 32 + 576.000 : 2.400 = 126 + 192 + 240 = € 558 per kachel. De verkoopprijs is € 540, dus het verkoopresultaat is 2.700 × (540 − 558) = € 48.600 nadelig. Bezettingsresultaat = (2.700 − 2.400) × (576.000 : 2.400) = 300 × 240 = € 72.000 voordelig. Bedrijfsresultaat = 72.000 − 48.600 = € 23.400 voordelig.
+Puntenverdeling:
+• kostprijs per kachel = 30 × 4,20 + 6 × 32 + 576.000 : 2.400 = 126 + 192 + 240 = € 558 (1)
+• verwacht verkoopresultaat = 2.700 × (540 − 558) = € 48.600 nadelig (1)
+• verwacht bezettingsresultaat = (2.700 − 2.400) × (576.000 : 2.400) = € 72.000 voordelig (1)
+• verwacht bedrijfsresultaat = 72.000 − 48.600 = € 23.400 voordelig (1)
+
+## OPGAVE IT-00580 4p | Surfplanken bij Brandingwerf nv
+In deze opgave blijft de btw buiten beschouwing.
+Brandingwerf nv maakt surfplanken. Voor 2027 gaat de onderneming uit van een normale productie van 3.000 planken per jaar. Door een zwakkere vraag verwacht zij echter 2.700 planken te produceren en te verkopen tegen € 1.150 per plank.
+Per plank is 12 kg epoxy en schuim nodig tegen € 25 per kg. De arbeid bedraagt 8 uur per plank tegen € 36 per uur. De constante kosten bedragen € 1.080.000 per jaar. De kostprijs wordt berekend bij de normale productie.
+Bereken het verwachte bedrijfsresultaat van Brandingwerf nv over 2027 met behulp van het verwachte verkoopresultaat en het verwachte bezettingsresultaat.
+Rond af op hele euro's en vermeld bij elk resultaat of het voordelig of nadelig is.
+### ANTWOORD
+Kostprijs = V/W + C/N = 12 × 25 + 8 × 36 + 1.080.000 : 3.000 = 300 + 288 + 360 = € 948. Verkoopresultaat = 2.700 × (1.150 − 948) = € 545.400 voordelig. Bezettingsresultaat = (2.700 − 3.000) × 360 = € 108.000 nadelig. Bedrijfsresultaat = 545.400 − 108.000 = € 437.400 voordelig.
+Puntenverdeling:
+• kostprijs per plank = 12 × 25 + 8 × 36 + 1.080.000 : 3.000 = 300 + 288 + 360 = € 948 (1)
+• verwacht verkoopresultaat = 2.700 × (1.150 − 948) = € 545.400 voordelig (1)
+• verwacht bezettingsresultaat = (2.700 − 3.000) × (1.080.000 : 3.000) = € 108.000 nadelig (1)
+• verwacht bedrijfsresultaat = 545.400 − 108.000 = € 437.400 voordelig (1)
+
+## OPGAVE IT-00581 4p | Padelrackets bij Smashline nv
+In deze opgave blijft de btw buiten beschouwing.
+Smashline nv maakt padelrackets. Voor het eerste halfjaar van 2027 gaat de onderneming uit van een normale productie van 8.000 rackets. Door de komst van een goedkopere concurrent verwacht zij in dat halfjaar 7.200 rackets te produceren en te verkopen. Om de afzet te steunen, stelt zij de verkoopprijs vast op € 135 per racket.
+Per racket is 0,4 kg koolstofvezel nodig tegen € 75 per kg. De arbeid bedraagt 1,5 uur per racket tegen € 40 per uur. De constante kosten bedragen € 400.000 per halfjaar. De kostprijs wordt berekend bij de normale productie.
+Bereken het verwachte bedrijfsresultaat van Smashline nv over het eerste halfjaar van 2027 met behulp van het verwachte verkoopresultaat en het verwachte bezettingsresultaat.
+Rond af op hele euro's en vermeld bij elk resultaat of het voordelig of nadelig is.
+### ANTWOORD
+Kostprijs = V/W + C/N = 0,4 × 75 + 1,5 × 40 + 400.000 : 8.000 = 30 + 60 + 50 = € 140. Verkoopresultaat = 7.200 × (135 − 140) = € 36.000 nadelig. Bezettingsresultaat = (7.200 − 8.000) × 50 = € 40.000 nadelig. Bedrijfsresultaat = 36.000 + 40.000 = € 76.000 nadelig.
+Puntenverdeling:
+• kostprijs per racket = 0,4 × 75 + 1,5 × 40 + 400.000 : 8.000 = 30 + 60 + 50 = € 140 (1)
+• verwacht verkoopresultaat = 7.200 × (135 − 140) = € 36.000 nadelig (1)
+• verwacht bezettingsresultaat = (7.200 − 8.000) × (400.000 : 8.000) = € 40.000 nadelig (1)
+• verwacht bedrijfsresultaat = 36.000 + 40.000 = € 76.000 nadelig (1)
+
+## EXAMEN vwo 2021-II 14 2p
+Bereken met het voorcalculatorisch verkoopresultaat en het voorcalculatorisch bezettingsresultaat het voorcalculatorisch bedrijfsresultaat bij een verwachte afzet onder de normale afzet. Geef bij elk resultaat aan of het voordelig of nadelig is.
+### ANTWOORD
+Verkoopresultaat (2,00 - 1,00) x 20.000 = 20.000 voordelig (1). Bezettingsresultaat (20.000 - 25.000) x 0,60 = 3.000 nadelig; bedrijfsresultaat € 17.000 voordelig (1).
+
+## EXAMEN vwo 2021-II 15 2p
+In de uitwerkbijlage staat al de lijn van het bedrijfsresultaat bij verschillende afzet. Teken de lijn van het voorcalculatorisch bezettingsresultaat tegen de afzet.
+### ANTWOORD
+De lijn start bij -15.000 (afzet 0) (1). Hij snijdt de x-as bij 25.000 en eindigt bij 50.000 op een hoogte van 15.000 (1).
+
+## EXAMEN vwo 2022-I 3 2p
+Van het kantoor zijn de verkochte adviezen per type en de werkelijk betaalde prijzen bekend. Bereken het gerealiseerde verkoopresultaat en geef aan of het voordelig of nadelig is.
+### ANTWOORD
+200 × (1.400 − 1.200) + 300 × (1.800 − 1.410) = € 157.000 voordelig. Per gemaakte fout 1 scorepunt in mindering.
+
+## EXAMEN vwo 2023-II 27 2p
+Bij een bezetting van 10 procentpunt boven normaal en een verkoopprijs van € 1,25 produceert en verkoopt het bedrijf gelijk aantal stuks. Bereken het verkoopresultaat voor het kwartaal en geef aan of het positief of negatief is.
+### ANTWOORD
+0,90 × 800.000 × 3 × (1,25 − 1,10) = € 324.000 positief/voordelig. Per gemaakte fout 1 punt aftrek.
+
+## EXAMEN vwo 2024-I 26 2p
+Bereken het verwachte resultaat van het afbakken en verkopen van de stroopwafels in 2023 met het verkoopresultaat en het bezettingsresultaat. Geef telkens aan of het positief of negatief is.
+### ANTWOORD
+Verkoopresultaat: 5.000 × 3,40 = 17.000 voordelig (1p). Bezettingsresultaat: (5.000 − 6.000) × 2,25 = 2.250 nadelig. Verwacht resultaat: 17.000 − 2.250 = € 14.750 voordelig (1p).
+
+## EXAMEN vwo 2024-II 8 2p
+Bereken het gerealiseerde bedrijfsresultaat over 2022 met het verkoopresultaat en het budgetresultaat. Geef steeds aan of het voordelig of nadelig is.
+### ANTWOORD
+Verkoopresultaat 1.900.000 × (1,75 − 1,52) = 437.000 voordelig. Budgetresultaat 1.900.000 × 1,52 minus werkelijke kosten = 667.325 nadelig. Bedrijfsresultaat 437.000 − 667.325 = € 230.325 nadelig.
+
+## EXAMEN vwo 2025-I 27 3p
+Een krantenuitgever biedt papieren en digitale abonnementen, met gegeven constante en variabele kosten, prijzen, normale en verwachte afzet per dag. Bereken het verwachte resultaat over vier weken met verkoopresultaat en bezettingsresultaat; geef telkens positief of negatief aan.
+### ANTWOORD
+Verkoopresultaat: 34.500 × 4 × 6 × 0,05 + 25.000 × 4 × 6 × 0,22 = 173.400 voordelig (2). Bezettingsresultaat: (59.500 − 60.000) × 4 × 6 × 0,75 = 9.000 nadelig. Resultaat 173.400 − 9.000 = € 164.400 voordelig (1).
+
+## EXAMEN vwo 2026-I 12 3p
+Toon met een berekening aan of een resultaatdaling van hooguit 10% ten opzichte van het tweede halfjaar 2024 is gehaald (zie informatiebronnen 1 tot en met 3).
+### ANTWOORD
+Resultaat: 99.000 − 21.920 = 77.080 (1p). Tweede halfjaar 2024: 110.000 × 0,92 × 0,92 × 0,93 × 0,95 = 82.257,38 (1p). Daling −6,3%, dus acceptabel; of 77.080 > 0,90 × 82.257,38 (1p).
+
+## EXAMEN vwo 2026-II 6 2p
+Een grafiek toont drie voorcalculatorische resultaatlijnen (A, B, C). Geef voor elke lijn aan welk resultaat die weergeeft, met keuze uit vijf genoemde resultaten.
+### ANTWOORD
+A = bedrijfsresultaat, B = bezettingsresultaat, C = verkoopresultaat. Drie goed: 2p, twee goed: 1p, minder: 0p.
+
+
+# LEERDOEL BECO-VERSC-02
+domein: F
+onderwerp: F.versch
+thema: Verschillenanalyse
+wereld: h22,v25
+naam: Prijs-, efficiency-, bezettings- en budgetresultaat berekenen en beoordelen
+doel: Ik kan prijs-, efficiency-, bezettings- en budgetresultaat berekenen en als voor- of nadelig aanduiden.
+gens: prijsresultaat,efficiencyresultaat
+
+## OPGAVE IT-00033 3p | Kunststof bij Kaskade Helmen nv
+Kaskade Helmen nv maakt fietshelmen. Het bedrijf rekent met standaardkosten. Over de afgelopen maand zijn de volgende gegevens bekend over de grondstof kunststof.
+Tabel Gegevens over de maand:
+Gegeven | Standaard of normaal | Werkelijk
+Productie (helmen) | 20.000 | 22.500
+Verbruik kunststof | 0,8 kg per helm | 18.450 kg in totaal
+Prijs kunststof | € 6,00 per kg | € 5,50 per kg
+Bereken het efficiencyresultaat op kunststof en geef aan of dit voordelig of nadelig is.
+Doe het als volgt:
+- bepaal de standaardhoeveelheid kunststof bij de werkelijke productie;
+- schat eerst of het resultaat voordelig of nadelig wordt;
+- bereken het efficiencyresultaat in hele euro's.
+### ANTWOORD
+Standaardhoeveelheid = 22.500 × 0,8 = 18.000 kg. Efficiencyresultaat = (18.000 − 18.450) × € 6 = −€ 2.700. Er is 450 kg meer verbruikt dan bij de werkelijke productie hoort, dus het resultaat is € 2.700 nadelig.
+Puntenverdeling:
+• De standaardhoeveelheid kunststof bij de werkelijke productie is 22.500 × 0,8 = 18.000 kg (1)
+• Het efficiencyresultaat is (18.000 − 18.450) × € 6 = −€ 2.700 (1)
+• Het resultaat is € 2.700 nadelig, want er is meer kunststof verbruikt dan standaard (1)
+
+## OPGAVE IT-00034 2p | Constante kosten bij Dijkzicht Kozijnen nv
+Dijkzicht Kozijnen nv maakt houten kozijnen en berekent de constante kosten per kozijn door te delen door de normale productie. Het bedrijf had voor de maand een productie van 6.300 kozijnen verwacht. In werkelijkheid zijn er minder kozijnen gemaakt dan normaal.
+Tabel Gegevens over de maand:
+Gegeven | Aantal of bedrag
+Normale productie (kozijnen) | 6.000
+Verwachte productie (kozijnen) | 6.300
+Werkelijke productie (kozijnen) | 5.400
+Begrote constante kosten | € 1.200.000
+Werkelijke constante kosten | € 1.230.000
+Bereken het gerealiseerde bezettingsresultaat en geef aan of dit voordelig of nadelig is.
+### ANTWOORD
+Constante kosten per kozijn = € 1.200.000 : 6.000 = € 200. Bezettingsresultaat = (5.400 − 6.000) × € 200 = −€ 120.000. Dat is € 120.000 nadelig, want er is minder geproduceerd dan normaal en dus zijn er te weinig constante kosten doorberekend.
+Puntenverdeling:
+• De constante kosten per kozijn zijn € 1.200.000 : 6.000 = € 200 (1)
+• Het bezettingsresultaat is (5.400 − 6.000) × € 200 = −€ 120.000, dus € 120.000 nadelig (1)
+
+## OPGAVE IT-00036 4p | Schaatsen van Friesche Glijder nv
+In deze opgave blijft de btw buiten beschouwing.
+Friesche Glijder nv maakt schaatsen en rekent met standaardkosten. De verkoopprijs is € 150 per paar. De normale productie is 5.000 paar per kwartaal; voor dit kwartaal werd een productie van 5.200 paar verwacht. De directie ontvangt een overzicht van de werkelijke kosten en wil daarmee het budgetresultaat laten bepalen.
+Tabel Standaard en werkelijke gegevens over het kwartaal:
+Gegeven | Standaard of begroot | Werkelijk
+Productie (paar schaatsen) | 5.000 (normaal) | 5.600
+Staal | 2 kg per paar, € 8 per kg | € 82.320 in totaal
+Arbeid | 1,5 uur per paar, € 36 per uur | € 313.500 in totaal
+Constante kosten | € 200.000 | € 204.000
+Bereken het budgetresultaat van het kwartaal en geef aan of dit voordelig of nadelig is.
+Maak hierbij gebruik van de kostprijs per paar.
+### ANTWOORD
+Kostprijs per paar = 2 × 8 + 1,5 × 36 + 200.000 : 5.000 = 16 + 54 + 40 = € 110. Standaardkosten bij de werkelijke productie = 5.600 × 110 = € 616.000. Werkelijke kosten = 82.320 + 313.500 + 204.000 = € 599.820. Budgetresultaat = 616.000 − 599.820 = € 16.180. Dat is voordelig, want de werkelijke kosten zijn lager dan de standaardkosten van de werkelijke productie.
+Puntenverdeling:
+• De kostprijs per paar is 2 × € 8 + 1,5 × € 36 + € 200.000 : 5.000 = € 110 (1)
+• De standaardkosten bij de werkelijke productie zijn 5.600 × € 110 = € 616.000 (1)
+• De werkelijke kosten zijn € 82.320 + € 313.500 + € 204.000 = € 599.820 (1)
+• Het budgetresultaat is € 616.000 − € 599.820 = € 16.180 voordelig (1)
+
+## OPGAVE IT-00041 2p | Hout bij Eikenstam Meubelmakerij nv
+In deze opgave blijft de btw buiten beschouwing.
+Eikenstam Meubelmakerij nv maakt eetkamerstoelen en werkt met standaardkosten. De normale productie is 1.000 stoelen per kwartaal. Per stoel is de standaard 6 m² hout tegen € 25 per m². Over het afgelopen kwartaal zijn 900 stoelen gemaakt. Daarvoor is 5.700 m² hout gebruikt, tegen een werkelijke prijs van € 24 per m².
+Geef aan wat er bij (1) en (2) moet komen te staan in onderstaande tekst. De standaardhoeveelheid hout bij de werkelijke productie is ...(1)... Het efficiencyresultaat op hout over dit kwartaal is ...(2)...
+Kies bij (1) uit: 5.400 m² / 5.700 m² / 6.000 m²
+Kies bij (2) uit: € 7.500 nadelig / € 7.500 voordelig / € 7.200 nadelig
+### ANTWOORD
+(1) 5.400 m²: de standaardhoeveelheid is de werkelijke productie maal het standaardverbruik per stoel, dus 900 × 6 = 5.400 m². (2) € 7.500 nadelig: (5.400 − 5.700) × 25 = −€ 7.500. Er is meer hout gebruikt dan volgens de standaard bij 900 stoelen mag, dus het resultaat is nadelig.
+Puntenverdeling:
+• Bij (1): 5.400 m² (900 × 6) (1)
+• Bij (2): € 7.500 nadelig ((5.400 − 5.700) × 25 = −7.500) (1)
+
+## OPGAVE IT-00049 5p | Kajaks van Waterlelie Kajak nv
+In deze opgave blijft de btw buiten beschouwing.
+Waterlelie Kajak nv maakt kunststof kajaks en werkt met standaardkosten. De normale productie is 500 kajaks per halfjaar. De constante kosten worden toegerekend op basis van de normale productie. In de tabel staan de standaardgegevens en de werkelijke gegevens over het afgelopen halfjaar.
+Tabel Standaardgegevens en werkelijke gegevens over het halfjaar:
+Gegeven | Standaard of begroot | Werkelijk
+Productie (kajaks) | 500 (normaal) | 560
+Kunststof | 12 kg per kajak, € 8 per kg | 6.600 kg, € 9 per kg
+Arbeid | 10 uur per kajak, € 30 per uur | 5.500 uur, € 31 per uur
+Constante kosten | € 300.000 | € 306.000
+Bereken het budgetresultaat van het afgelopen halfjaar en geef aan of dit resultaat voordelig of nadelig is. (zie formuleblad)
+Geef bij elk deelresultaat dat je gebruikt aan of het voordelig of nadelig is.
+### ANTWOORD
+Standaardhoeveelheid kunststof = 560 × 12 = 6.720 kg. Standaardhoeveelheid arbeid = 560 × 10 = 5.600 uur. Efficiency kunststof = (6.720 − 6.600) × 8 = € 960 voordelig. Efficiency arbeid = (5.600 − 5.500) × 30 = € 3.000 voordelig. Prijs kunststof = (8 − 9) × 6.600 = € 6.600 nadelig. Prijs arbeid = (30 − 31) × 5.500 = € 5.500 nadelig. Constante kosten per kajak bij de normale productie = 300.000 : 500 = € 600. Bezetting = (560 − 500) × 600 = € 36.000 voordelig. Prijs constante kosten = 300.000 − 306.000 = € 6.000 nadelig. Budgetresultaat = 960 + 3.000 − 6.600 − 5.500 + 36.000 − 6.000 = € 21.860 voordelig. Controle via de kostprijs: kostprijs = 12 × 8 + 10 × 30 + 600 = € 996. Standaardkosten bij de werkelijke productie = 560 × 996 = € 557.760. Werkelijke kosten = 6.600 × 9 + 5.500 × 31 + 306.000 = € 535.900. Verschil = 557.760 − 535.900 = € 21.860 voordelig.
+Puntenverdeling:
+• Standaardhoeveelheden bij de werkelijke productie: 560 × 12 = 6.720 kg kunststof en 560 × 10 = 5.600 uur arbeid (1)
+• Efficiencyresultaten: kunststof (6.720 − 6.600) × € 8 = € 960 voordelig en arbeid (5.600 − 5.500) × € 30 = € 3.000 voordelig (1)
+• Prijsresultaten: kunststof (€ 8 − € 9) × 6.600 = € 6.600 nadelig en arbeid (€ 30 − € 31) × 5.500 = € 5.500 nadelig (1)
+• Bezettingsresultaat (560 − 500) × (€ 300.000 : 500) = € 36.000 voordelig en prijsresultaat constante kosten € 300.000 − € 306.000 = € 6.000 nadelig (1)
+• Budgetresultaat: 960 + 3.000 − 6.600 − 5.500 + 36.000 − 6.000 = € 21.860 voordelig (1)
+
+## OPGAVE IT-00564 4p | Tuinlampen van Noorderlicht Lampen nv
+In deze opgave blijft de btw buiten beschouwing.
+Noorderlicht Lampen nv maakt aluminium tuinlampen en rekent met standaardkosten. De constante kosten per lamp worden berekend met de normale productie. Voor het afgelopen kwartaal werd een productie van 8.400 lampen verwacht. De werkelijke productie bleef achter. De directie wil weten hoe het budgetresultaat over dit kwartaal uitvalt.
+Tabel Gegevens over het afgelopen kwartaal:
+Gegeven | Standaard of begroot | Werkelijk
+Productie (lampen) | 8.000 (normaal) | 7.500
+Aluminium per lamp | 2 kg à € 6 per kg | 15.600 kg in totaal à € 6,20 per kg
+Constante kosten (€) | 480.000 | 492.000
+Bereken het budgetresultaat over het afgelopen kwartaal en geef aan of dit voordelig of nadelig is.
+Maak hierbij gebruik van de kostprijs per lamp.
+### ANTWOORD
+Kostprijs per lamp = 2 × 6 + 480.000 : 8.000 = 12 + 60 = € 72. Standaardkosten bij de werkelijke productie = 7.500 × 72 = € 540.000. Werkelijke kosten = 15.600 × 6,20 + 492.000 = 96.720 + 492.000 = € 588.720. Budgetresultaat = 540.000 − 588.720 = € 48.720 nadelig, want de werkelijke kosten zijn hoger.
+Puntenverdeling:
+• De kostprijs per lamp is 2 × € 6 + € 480.000 : 8.000 = € 72 (1)
+• De standaardkosten bij de werkelijke productie zijn 7.500 × € 72 = € 540.000 (1)
+• De werkelijke kosten zijn 15.600 × € 6,20 + € 492.000 = € 96.720 + € 492.000 = € 588.720 (1)
+• Het budgetresultaat is € 540.000 − € 588.720 = € 48.720 nadelig (1)
+
+## OPGAVE IT-00566 2p | 
+In deze opgave blijft de btw buiten beschouwing.
+Vlasveld Tuinmeubelen nv maakt loungebanken van teakhout en werkt met standaardkosten. De standaardprijs van teakhout is € 18,00 per kg. In het derde kwartaal heeft de inkoper 12.500 kg hout verbruikt, tegen een werkelijke prijs van € 18,50 per kg. Volgens de standaard had bij de werkelijke productie 12.200 kg hout moeten worden gebruikt.
+Bereken het prijsresultaat op het teakhout over het derde kwartaal en vermeld of dit resultaat voordelig of nadelig is.
+### ANTWOORD
+Prijsresultaat = (standaardprijs − werkelijke prijs) × werkelijke hoeveelheid = (18,00 − 18,50) × 12.500 = −€ 6.250. De inkoper heeft meer betaald dan de standaard, dus het resultaat is € 6.250 nadelig.
+Puntenverdeling:
+• Prijsresultaat = (standaardprijs − werkelijke prijs) × werkelijke hoeveelheid = (18,00 − 18,50) × 12.500 = −€ 6.250 (1)
+• Het resultaat is € 6.250 nadelig (1)
+
+## EXAMEN vwo 2021-III 8 3p
+Het budgetresultaat op loonkosten is nadelig door het loon per uur en de tijd per orderpick. Welke oorzaak weegt het zwaarst? Motiveer met een berekening van efficiency- en prijsresultaat, met voordelig of nadelig.
+### ANTWOORD
+Efficiency: (365.000 × 6/60 − 365.000 × 9/60) × 15 = € 273.750 nadelig (1). Prijs: (15 − 16) × 365.000 × 9/60 = € 54.750 nadelig (1). De minuten per orderpick wegen het zwaarst (1). Berekening via budgetresultaat mag.
+
+## EXAMEN vwo 2022-I 4 2p
+Gegeven zijn de werkelijk gewerkte uren per advies en de normale uren. Bereken het gerealiseerde bezettingsresultaat op de constante kosten en geef aan of het voordelig of nadelig is.
+### ANTWOORD
+(3.100 + 5.100 − 8.280) × 70 = € 5.600 nadelig. Per gemaakte fout 1 scorepunt in mindering.
+
+## EXAMEN vwo 2023-II 29 2p
+Het efficiencyresultaat op het filtermateriaal is € 40.800 nadelig. Bereken de werkelijk verbruikte hoeveelheid filtermateriaal in het kwartaal.
+### ANTWOORD
+(sh − wh) × sp: (2.040.000 × 0,2 − wh) × 4 = −40.800, dus wh = 418.200 meter. Per gemaakte fout 1 punt aftrek.
+
+## EXAMEN vwo 2023-II 30 2p
+De werkelijke inkoopprijs was € 4,40 per meter. Bereken het gerealiseerde prijsresultaat op het filtermateriaal en geef aan of het voordelig of nadelig is.
+### ANTWOORD
+(sp − wp) × wh = (4 − 4,40) × 418.200 = € 167.280 nadelig. Per gemaakte fout 1 punt aftrek.
+
+## EXAMEN vwo 2024-I 27 5p
+Het resultaat over 2023 viel lager uit dan verwacht. Maak de verschillenanalyse af door de uitwerkbijlage volledig in te vullen met informatiebronnen 4 en 5 en het formuleblad.
+### ANTWOORD
+Verkoopresultaat 12.600 vo; bezetting 4.500 na; prijsresultaat wafels 1.440 na; prijs constante kosten 1.000 vo; budgetresultaat energie 607,50 na; efficiency potten 1.448 na. Totaal € 5.604,50 voordelig. Elk deelresultaat 1 punt, laatste punt voor efficiency en totaal.
+
+## EXAMEN vwo 2024-II 9 1p
+Bereken het gerealiseerde bezettingsresultaat op de constante kosten en geef aan of het positief of negatief is.
+### ANTWOORD
+(1.900.000 − 2.000.000) × 1,32 = € 132.000 nadelig/negatief.
+
+## EXAMEN vwo 2024-II 10 1p
+Bereken het gerealiseerde prijsresultaat op de constante kosten en geef aan of het voordelig of nadelig is.
+### ANTWOORD
+Begrote constante kosten 2.644.000 (vraag 6) minus werkelijke constante kosten (400.000 + 264.000 + 2.451.800 + 50.000) = € 521.800 nadelig/negatief.
+
+## EXAMEN vwo 2024-II 11 2p
+Bereken het gerealiseerde prijsresultaat op de benzinekosten en geef aan of het voordelig of nadelig is.
+### ANTWOORD
+Standaardprijs 1,50. Werkelijke prijs 294.525 : 192.500 = 1,53. Werkelijke hoeveelheid 192.500. (1,50 − 1,53) × 192.500 = € 5.775 nadelig. Per gemaakte fout 1 scorepunt in mindering.
+
+## EXAMEN vwo 2024-II 12 2p
+Bereken het efficiencyresultaat op de benzinekosten en geef aan of het positief of negatief is.
+### ANTWOORD
+Standaardhoeveelheid 1.900.000 × 2/20 = 190.000 (1 punt). (190.000 − 192.500) × 1,50 = € 3.750 nadelig/negatief (1 punt).
+
+## EXAMEN vwo 2026-I 11 4p
+Bereken het budgetresultaat over het eerste halfjaar en vul de uitwerkbijlage in (zie informatiebronnen 2 en 3).
+### ANTWOORD
+Bezettingsresultaat oude kaas (24.000 − 30.000) × 2 = 12.000 nadelig. Prijsresultaat loonkosten 30.000 − 32.120 = 2.120 nadelig. Prijsresultaat oude kaas 24.000 × (0,50 − 0,55) = 1.200 nadelig. Totaal € 21.920 nadelig; één punt per juist bedrag met aanduiding.
+
+## EXAMEN vwo 2026-I 12 3p
+Toon met een berekening aan of een resultaatdaling van hooguit 10% ten opzichte van het tweede halfjaar 2024 is gehaald (zie informatiebronnen 1 tot en met 3).
+### ANTWOORD
+Resultaat: 99.000 − 21.920 = 77.080 (1p). Tweede halfjaar 2024: 110.000 × 0,92 × 0,92 × 0,93 × 0,95 = 82.257,38 (1p). Daling −6,3%, dus acceptabel; of 77.080 > 0,90 × 82.257,38 (1p).
+
+## EXAMEN vwo 2026-II 6 2p
+Een grafiek toont drie voorcalculatorische resultaatlijnen (A, B, C). Geef voor elke lijn aan welk resultaat die weergeeft, met keuze uit vijf genoemde resultaten.
+### ANTWOORD
+A = bedrijfsresultaat, B = bezettingsresultaat, C = verkoopresultaat. Drie goed: 2p, twee goed: 1p, minder: 0p.
+
+## EXAMEN vwo 2026-II 7 4p
+Na afloop van het schooljaar is minder afgezet dan normaal. Bereken met de gegevens uit twee bronnen het gerealiseerde resultaat en geef bij elk deelresultaat aan of het voordelig of nadelig is. Vul de uitwerkbijlage in.
+### ANTWOORD
+Verkoopresultaat (125−92)×400.000 = +13.200.000; bezetting (400.000−414.720)×89,50 = −1.317.440; prijsresultaat constante kosten +17.440; efficiency 0; prijsresultaat variabel (2,50−2,60)×400.000 = −40.000; totaal +11.860.000. 1p per genoemd onderdeel.
+
+
+# LEERDOEL BECO-VERSC-03
+domein: F
+onderwerp: F.versch
+thema: Verschillenanalyse
+wereld: h22,v25
+naam: Bezettingsresultaat verklaren zonder berekening
+doel: Ik kan zonder berekening verklaren waarom het bezettingsresultaat voordelig of nadelig is.
+
+## OPGAVE IT-00053 2p | Koekjes van Oostmolen
+Oostmolen Biscuit nv bakt koekjes die aan supermarkten worden geleverd. Voor 2026 is de begroting gebaseerd op een normale productie van 2.000 ton. De constante kosten zijn begroot op € 900.000 voor het hele jaar.
+Doordat een concurrent zijn fabriek sloot, kwamen er extra bestellingen binnen. Oostmolen heeft in 2026 daarom 2.300 ton koekjes geproduceerd. Door gunstiger onderhandelen over het huurcontract van de bakkerij waren de werkelijke constante kosten € 880.000, lager dan begroot.
+Leg zonder een berekening uit dat het gerealiseerde bezettingsresultaat over 2026 voordelig is.
+### ANTWOORD
+De werkelijke productie is hoger dan de normale productie. Oostmolen berekent per ton een vast bedrag aan constante kosten door, namelijk de begrote constante kosten gedeeld door de normale productie. Doordat er meer ton is geproduceerd, zijn er in totaal meer constante kosten doorberekend dan begroot. Daarom is het bezettingsresultaat voordelig. Dat de werkelijke constante kosten lager waren, hoort bij een ander deelresultaat en speelt hierbij geen rol.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende redenering: De werkelijke productie ligt boven de normale productie, waardoor (per ton een vast bedrag aan constante kosten wordt doorberekend en) er meer constante kosten zijn doorberekend dan begroot (1)
+• Het doorberekende bedrag is hoger dan de begrote constante kosten, dus het bezettingsresultaat is voordelig (de hoogte van de werkelijke constante kosten speelt hierbij geen rol) (1)
+
+## OPGAVE IT-00064 2p | Loopfietsen van Brinkhoek
+In deze opgave blijft de btw buiten beschouwing.
+Brinkhoek Houtspeelgoed bv maakt houten loopfietsen. De begroting voor dit jaar gaat uit van een normale productie van 8.000 loopfietsen. De constante kosten (onder meer huur, afschrijving op de machines en vaste salarissen) zijn begroot op € 400.000. Brinkhoek berekent de constante kosten per loopfiets door op basis van deze begrotingsgegevens.
+Een Duitse speelgoedketen plaatste dit jaar een grote extra bestelling. Daardoor zijn er in werkelijkheid 9.200 loopfietsen gemaakt. De werkelijke constante kosten waren gelijk aan de begrote constante kosten. Het hout is dit jaar iets goedkoper ingekocht dan begroot.
+Leg zonder een berekening uit of het gerealiseerde bezettingsresultaat van dit jaar voordelig of nadelig is.
+### ANTWOORD
+Brinkhoek berekent per loopfiets een vast bedrag aan constante kosten door: de begrote constante kosten gedeeld door de normale productie. Er zijn meer loopfietsen gemaakt dan normaal. Daardoor is in totaal meer aan constante kosten doorberekend dan er was begroot. Het bezettingsresultaat is daarom voordelig.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende redenering: Per loopfiets worden de begrote constante kosten gedeeld door de normale productie doorberekend. De werkelijke productie (9.200) is hoger dan de normale productie (8.000), dus in totaal zijn meer constante kosten doorberekend dan begroot. (1)
+• Er is dus meer doorberekend dan de constante kosten die waren begroot: het bezettingsresultaat is voordelig. (1)
+
+## OPGAVE IT-00065 2p | Fietstassen van Noordkade
+In deze opgave blijft de btw buiten beschouwing.
+Noordkade Fietstassen nv maakt waterdichte fietstassen voor webwinkels. De jaarbegroting is gebaseerd op een normale productie van 60.000 fietstassen. De constante kosten zijn begroot op € 900.000. Daarin zitten onder meer de huur van de werkplaats, de afschrijving op de naaimachines en de salarissen van het vaste personeel.
+Dit jaar zijn er 52.000 fietstassen gemaakt, omdat een grote afnemer minder bestelde dan verwacht. In het tweede halfjaar is de huur van de werkplaats verhoogd. Ook is het zeildoek duurder ingekocht dan begroot.
+Leg zonder een berekening uit of het gerealiseerde bezettingsresultaat van dit jaar voordelig of nadelig is.
+### ANTWOORD
+Noordkade berekent per fietstas een vast bedrag aan constante kosten door: de begrote constante kosten gedeeld door de normale productie. Er zijn minder fietstassen gemaakt dan normaal. Daardoor is in totaal minder aan constante kosten doorberekend dan begroot en is een deel van de constante kosten niet gedekt. Het bezettingsresultaat is daarom nadelig. De hogere huur en het duurdere zeildoek hebben hier geen invloed op.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende redenering: Per fietstas worden de begrote constante kosten gedeeld door de normale productie doorberekend. Omdat de werkelijke productie lager is dan de normale productie, zijn in totaal minder constante kosten doorberekend dan begroot. (1)
+• Een deel van de begrote constante kosten is dus niet gedekt: het bezettingsresultaat is nadelig. (1)
+
+## OPGAVE IT-00577 2p | Kajaks van Fjordhaven
+In deze opgave blijft de btw buiten beschouwing.
+Fjordhaven Kajaks bv maakt kunststof kajaks voor verhuurbedrijven. De begroting voor 2026 gaat uit van een normale productie van 5.000 kajaks. De constante kosten (onder meer huur van de loods, afschrijving op de mallen en vaste salarissen) zijn begroot op € 750.000. Fjordhaven berekent de constante kosten per kajak door op basis van deze begrotingsgegevens.
+In werkelijkheid zijn in 2026 slechts 4.400 kajaks gemaakt, doordat een leverancier van kunststofgranulaat enkele weken niet kon leveren. De werkelijke constante kosten bleven met € 735.000 lager dan begroot, doordat de verzekeringspremie voor de loods daalde.
+Leg zonder een berekening uit dat het gerealiseerde bezettingsresultaat over 2026 nadelig is.
+### ANTWOORD
+Fjordhaven berekent per kajak een vast bedrag aan constante kosten door: de begrote constante kosten gedeeld door de normale productie. Er zijn minder kajaks gemaakt dan normaal. Daardoor is in totaal minder aan constante kosten doorberekend dan begroot en is een deel niet gedekt. Het bezettingsresultaat is dus nadelig. De lagere werkelijke constante kosten horen bij een ander deelresultaat.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende redenering: De werkelijke productie ligt onder de normale productie, waardoor (per kajak een vast bedrag aan constante kosten wordt doorberekend en) er minder constante kosten zijn doorberekend dan begroot. (1)
+• Een deel van de begrote constante kosten is dus niet gedekt, dus het bezettingsresultaat is nadelig (de hoogte van de werkelijke constante kosten speelt hierbij geen rol). (1)
+
+## EXAMEN vwo 2023-II 28 2p
+Een deel van een kostenstijging van het filtermateriaal is doorberekend in een hogere verkoopprijs. Leg uit dat het bezettingsresultaat hierdoor kan dalen.
+### ANTWOORD
+De hogere verkoopprijs kan minder afzet geven (1), waardoor werkelijke en normale productie meer uit elkaar liggen en het bezettingsresultaat afneemt (1).
+
+## EXAMEN vwo 2024-II 14 2p
+Het budget blijft € 1,75 per bezorging en de kostprijs daalt naar € 1,45. Leg zonder berekening uit dat het verwachte verkoopresultaat en het verwachte bezettingsresultaat beide positief bijdragen.
+### ANTWOORD
+Verkoopresultaat positief: het budget van 1,75 ligt boven de lagere kostprijs van 1,45. Bezettingsresultaat positief: het verwachte aantal bezorgingen is groter dan het normale aantal. Per deel 1 punt.
+
+
+# LEERDOEL BECO-VERSC-04
+domein: F
+onderwerp: F.versch
+thema: Verschillenanalyse
+wereld: h22,v25
+naam: Deelresultaten interpreteren en verantwoordelijkheid van een manager toelichten
+doel: Ik kan deelresultaten samen beoordelen en de rol van een manager daarin toelichten.
+
+## OPGAVE IT-00078 4p | Eikenhout bij Raamwerk
+Raamwerk nv produceert houten tuinbanken van eikenhout. De directie werkt met standaardkosten. De inkoopmanager heeft in het afgelopen kwartaal eikenhout ingekocht bij een nieuwe leverancier voor een lagere prijs per kilo dan de standaardprijs.
+De productiemanager meldt dat het geleverde hout veel knoesten bevatte. Bij het zagen en schuren is daardoor meer hout verloren gegaan dan normaal. De directie wil weten of de keuze van de inkoopmanager een goede beslissing was. Het gaat alleen om de kosten van eikenhout.
+Tabel Gegevens over eikenhout, afgelopen kwartaal:
+Gegeven | Waarde
+Standaardhoeveelheid hout per tuinbank | 6 kg
+Standaardprijs per kg | € 8,00
+Werkelijke productie | 5.000 tuinbanken
+Werkelijk verbruik hout | 34.000 kg
+Werkelijke prijs per kg | € 7,50
+Beoordeel met behulp van berekeningen van het prijsresultaat en het efficiencyresultaat of de inkoopmanager met het goedkoper inkopen van eikenhout goed heeft gehandeld. Geef bij elk resultaat aan of het voordelig of nadelig is.
+### ANTWOORD
+De standaardhoeveelheid is 5.000 × 6 = 30.000 kg. Efficiencyresultaat = (30.000 − 34.000) × 8 = −32.000, dus € 32.000 nadelig. Prijsresultaat = (8 − 7,50) × 34.000 = € 17.000 voordelig. Saldo = 17.000 − 32.000 = −15.000, dus € 15.000 nadelig. De inkoopmanager heeft per saldo slecht gehandeld: de lagere prijs levert € 17.000 op, maar de slechtere kwaliteit veroorzaakt door extra verbruik € 32.000 aan extra kosten.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Efficiencyresultaat: (5.000 × 6 − 34.000) × € 8 = € 32.000 nadelig (1)
+• Prijsresultaat: (€ 8,00 − € 7,50) × 34.000 = € 17.000 voordelig (1)
+• Saldo van beide resultaten: € 17.000 voordelig − € 32.000 nadelig = € 15.000 nadelig (1)
+• Conclusie: de inkoopmanager heeft per saldo slecht gehandeld, omdat het voordeel van de lagere prijs kleiner is dan het nadeel van het extra houtverbruik door de slechtere kwaliteit. (1)
+
+## OPGAVE IT-00084 3p | Goedkopere durumtarwe bij Tortello
+Tortello nv maakt verse pasta voor supermarkten en rekent met standaardkosten per kilo pasta. In het derde kwartaal koopt de inkoopmanager durumtarwe in bij een nieuwe leverancier. Hij meldt aan de directie dat hij het inkoopbeleid heeft verbeterd en vraagt om een bonus op basis van het prijsresultaat op durumtarwe.
+Uit een kwaliteitscontrole blijkt dat de tarwe van de nieuwe leverancier meer vocht bevat. Bij het malen gaat daardoor meer tarwe verloren, zodat de productiemanager meer kilo's moest inzetten voor dezelfde hoeveelheid pasta.
+In de tabel staan de gegevens over durumtarwe in het derde kwartaal.
+Tabel Gegevens durumtarwe, derde kwartaal:
+Gegeven | Standaard | Werkelijk
+Prijs per kilo durumtarwe (in euro) | 0,40 | 0,36
+Hoeveelheid durumtarwe bij de werkelijke productie (in kg) | 100.000 | 108.000
+Leg zonder een berekening uit dat het prijsresultaat op durumtarwe geen goede maatstaf is voor de bonus van de inkoopmanager.
+### ANTWOORD
+Het prijsresultaat is voordelig, want de werkelijke prijs per kilo (€ 0,36) is lager dan de standaardprijs (€ 0,40). Het efficiencyresultaat is nadelig, want er is 108.000 kg tarwe gebruikt terwijl de standaardhoeveelheid bij de werkelijke productie 100.000 kg is. Dat extra verbruik komt doordat de goedkope tarwe meer verlies geeft bij het malen. Dat is dus het gevolg van de keuze van de inkoopmanager. Hij haalt een voordeel op de prijs, maar veroorzaakt zelf een nadeel op het verbruik. Daarom moet je zijn keuze beoordelen op het saldo van beide deelresultaten en niet op het prijsresultaat alleen. Een bonus op alleen het prijsresultaat beloont hem voor goedkoop inkopen, ook als de kwaliteit slecht is.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Het prijsresultaat is voordelig, omdat de werkelijke prijs per kilo (€ 0,36) lager is dan de standaardprijs (€ 0,40). (1)
+• Het efficiencyresultaat is nadelig, omdat er meer tarwe is gebruikt (108.000 kg) dan de standaardhoeveelheid bij de werkelijke productie (100.000 kg). Dit extra verbruik komt door de slechtere kwaliteit van de goedkopere tarwe en dus door de keuze van de inkoopmanager. (1)
+• Het voordeel op de prijs kan door het nadeel op het verbruik worden tenietgedaan. De keuze van de inkoopmanager moet daarom op het saldo van beide deelresultaten worden beoordeeld en niet op het prijsresultaat alleen. Een bonus op het prijsresultaat beloont goedkoop inkopen, ook als de kwaliteit slecht is. (1)
+
+## OPGAVE IT-00085 3p | Staal van een andere leverancier bij Gliss
+Gliss nv produceert schaatsen en rekent met standaardkosten. In het eerste halfjaar koopt de inkoopmanager het staal voor de ijzers in bij een andere leverancier. De directie overweegt de bonus van de productiemanager te laten afhangen van het efficiencyresultaat op staal.
+Het kwaliteitsrapport van Gliss laat zien dat het staal van de nieuwe leverancier minder bros is. Bij het slijpen valt daardoor minder staal weg. De productiemanager heeft zijn werkwijze in het halfjaar niet veranderd.
+In de tabel staan de gegevens over staal in het eerste halfjaar.
+Tabel Gegevens staal, eerste halfjaar:
+Gegeven | Standaard | Werkelijk
+Prijs per kilo staal (in euro) | 6,00 | 7,20
+Hoeveelheid staal bij de werkelijke productie (in kg) | 24.000 | 21.000
+Verklaar waarom het efficiencyresultaat op staal niet aan de productiemanager mag worden toegerekend.
+### ANTWOORD
+Het efficiencyresultaat is voordelig, want er is 21.000 kg staal gebruikt en de standaardhoeveelheid bij de werkelijke productie is 24.000 kg. Dit lagere verbruik komt niet door een betere prestatie van de productiemanager. Het staal van de nieuwe leverancier is van betere kwaliteit en daardoor valt er bij het slijpen minder weg. Die leverancier is gekozen door de inkoopmanager. Die keuze geeft ook een nadelig prijsresultaat, want het staal kost € 7,20 per kilo in plaats van € 6,00. Het voordeel hoort dus bij de keuze van de inkoopmanager, en je beoordeelt die keuze op beide deelresultaten samen. De productiemanager zou een bonus krijgen voor iets wat hij niet heeft veroorzaakt.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Het efficiencyresultaat is voordelig, omdat de werkelijke hoeveelheid staal (21.000 kg) lager is dan de standaardhoeveelheid bij de werkelijke productie (24.000 kg). (1)
+• Het lagere verbruik komt door de betere kwaliteit van het staal (minder verlies bij het slijpen). Dat is het gevolg van de keuze van de inkoopmanager voor een andere leverancier en niet van een betere prestatie van de productiemanager. (1)
+• Die keuze heeft ook een nadelig prijsresultaat opgeleverd (werkelijke prijs € 7,20 hoger dan standaardprijs € 6,00). De productiemanager zou dus worden beloond voor een voordeel dat bij de keuze van de inkoopmanager hoort. De keuze van de inkoopmanager beoordeel je op beide deelresultaten samen. (1)
+
+## OPGAVE IT-00086 3p | Ervaren timmerlieden bij Kajuit
+Kajuit nv bouwt houten roeiboten en rekent met standaardkosten. Arbeid wordt toegerekend met standaarduren per boot en een standaarduurtarief. De manager personeelszaken besluit in het afgelopen halfjaar ervaren timmerlieden in te huren. Zij kosten per uur meer dan het standaarduurtarief, maar bouwen de boten door hun ervaring in minder uren dan de standaard.
+De directie wil weten of deze keuze per saldo gunstig was voor het resultaat op arbeid. In de tabel staan de gegevens over arbeid en twee andere deelresultaten van het afgelopen halfjaar.
+Tabel Gegevens Kajuit nv, afgelopen halfjaar:
+Gegeven | Waarde
+Standaard uurtarief arbeid (in euro) | 36
+Werkelijk uurtarief arbeid (in euro) | 39
+Standaarduren bij de werkelijke productie | 8.800
+Werkelijke uren | 8.000
+Gerealiseerd bezettingsresultaat (in euro) | 6.000 voordelig
+Prijsresultaat constante kosten (in euro) | 2.500 nadelig
+Toon met een berekening aan of het inhuren van de ervaren timmerlieden per saldo een goede keuze was voor het resultaat op arbeid.
+### ANTWOORD
+De keuze voor ervaren timmerlieden heeft alleen invloed op het uurtarief en op het aantal uren. Het prijsresultaat arbeid is (36 − 39) × 8.000 = −24.000, dus € 24.000 nadelig. Het efficiencyresultaat arbeid is (8.800 − 8.000) × 36 = 28.800, dus € 28.800 voordelig. Het saldo is 28.800 − 24.000 = € 4.800 voordelig. De keuze was dus per saldo goed, want de bespaarde uren leveren meer op dan het hogere uurtarief kost. De manager personeelszaken is verantwoordelijk voor deze keuze en mag dus niet alleen op het nadelige prijsresultaat worden beoordeeld. Het bezettingsresultaat en het prijsresultaat op constante kosten tellen niet mee, want die hangen niet samen met deze keuze.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Prijsresultaat arbeid: (36 − 39) × 8.000 = −24.000, dus € 24.000 nadelig (1)
+• Efficiencyresultaat arbeid: (8.800 − 8.000) × 36 = € 28.800 voordelig (1)
+• Saldo: € 28.800 voordelig − € 24.000 nadelig = € 4.800 voordelig. Conclusie: het inhuren was per saldo een goede keuze, omdat het saldo van beide deelresultaten voordelig is (de bespaarde uren leveren meer op dan het hogere uurtarief kost). (1)
+
+## OPGAVE IT-00582 3p | Goedkoper granulaat bij Plantara
+In deze opgave gaat het alleen om de kosten van kunststofgranulaat; andere kosten blijven buiten beschouwing.
+Plantara nv maakt plastic bloempotten voor kwekerijen en rekent met standaardkosten. In het tweede kwartaal koopt de inkoopmanager granulaat in bij een nieuwe leverancier, tegen een lagere prijs per kilo dan de standaardprijs.
+De directie ziet in de verschillenanalyse dat het prijsresultaat op granulaat voordelig is en het efficiencyresultaat op granulaat nadelig.
+Leg uit hoe het goedkoper inkopen van granulaat tot deze twee deelresultaten kan leiden en op welke manager de directie bij de beoordeling van deze keuze moet letten.
+Doe het als volgt:
+- Ga na wat het goedkopere granulaat betekent voor de kwaliteit en voor de productie.
+- Ga na wat dat betekent voor het verbruik en voor het saldo van beide deelresultaten.
+- Geef aan wie je aanspreekt op de keuze.
+### ANTWOORD
+Het goedkopere granulaat is waarschijnlijk van slechtere kwaliteit. Daardoor ontstaat meer afval en is er meer granulaat nodig dan de standaardhoeveelheid, dus het efficiencyresultaat is nadelig. Het prijsvoordeel kan door dit nadeel verdwijnen. Daarom beoordeelt de directie de inkoopmanager op het saldo van beide resultaten, want hij heeft de leverancier gekozen.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Het goedkopere granulaat heeft waarschijnlijk een slechtere kwaliteit, waardoor er meer afval of uitval is en er meer granulaat nodig is dan de standaardhoeveelheid bij de werkelijke productie; dat geeft het nadelige efficiencyresultaat. (1)
+• Het voordeel op de prijs en het nadeel op het verbruik hangen samen: het voordeel kan door het nadeel worden tenietgedaan, dus je beoordeelt de keuze op het saldo van beide deelresultaten. (1)
+• De inkoopmanager heeft de keuze voor de leverancier gemaakt, dus de directie spreekt hem aan op het saldo van prijs- en efficiencyresultaat en niet alleen op het voordelige prijsresultaat (de productiemanager is niet verantwoordelijk voor het extra verbruik door de kwaliteit). (1)
+
+## OPGAVE IT-00583 4p | Hoogwaardige cacaomassa bij Velthoven
+In deze opgave gaat het alleen om de kosten van cacaomassa; andere kosten blijven buiten beschouwing.
+Chocolaterie Velthoven nv maakt chocoladerepen in dozen en rekent met standaardkosten. In het afgelopen kwartaal koopt de inkoopmanager cacaomassa van hogere kwaliteit, tegen een hogere prijs per kilo dan de standaardprijs. De productiemanager meldt dat er minder massa is verloren bij het mengen.
+De directie wil weten of de inkoopmanager met deze keuze goed heeft gehandeld.
+Tabel Gegevens over cacaomassa en overige resultaten, afgelopen kwartaal:
+Gegeven | Waarde
+Standaardhoeveelheid cacaomassa per doos | 4 kg
+Standaardprijs per kg | € 6,00
+Werkelijke productie | 8.000 dozen
+Werkelijk verbruik cacaomassa | 30.400 kg
+Werkelijke prijs per kg | € 6,50
+Gerealiseerd bezettingsresultaat | € 4.000 voordelig
+Prijsresultaat constante kosten | € 1.800 nadelig
+Beoordeel met behulp van berekeningen van het prijsresultaat en het efficiencyresultaat of de inkoopmanager met de aankoop van de duurdere cacaomassa goed heeft gehandeld. Geef bij elk resultaat aan of het voordelig of nadelig is.
+### ANTWOORD
+De standaardhoeveelheid is 8.000 × 4 = 32.000 kg. Efficiencyresultaat = (32.000 − 30.400) × 6 = € 9.600 voordelig. Prijsresultaat = (6 − 6,50) × 30.400 = € 15.200 nadelig. Saldo = 9.600 − 15.200 = € 5.600 nadelig. De inkoopmanager heeft per saldo slecht gehandeld: het lagere verbruik levert minder op dan de hogere prijs kost.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Efficiencyresultaat: (8.000 × 4 − 30.400) × € 6,00 = € 9.600 voordelig (1)
+• Prijsresultaat: (€ 6,00 − € 6,50) × 30.400 = € 15.200 nadelig (1)
+• Saldo van beide resultaten: € 9.600 voordelig − € 15.200 nadelig = € 5.600 nadelig (1)
+• Conclusie: de inkoopmanager heeft per saldo slecht gehandeld, omdat het voordeel van het lagere verbruik kleiner is dan het nadeel van de hogere prijs. (1)
+
+## OPGAVE IT-00584 4p | Bonus voor de inkoper bij Vlietwerk
+In deze opgave gaat het alleen om de kosten van karton; andere kosten blijven buiten beschouwing.
+Kartonnage Vlietwerk nv maakt verpakkingsdozen en rekent met standaardkosten. In het eerste halfjaar koopt de inkoopmanager karton in bij een nieuwe leverancier voor een lagere prijs dan de standaardprijs. Dit karton scheurt vaker in de machines.
+De directie kent de inkoopmanager een bonus toe als het saldo van het prijsresultaat en het efficiencyresultaat op karton ten minste € 60.000 voordelig is. Bij precies € 60.000 voordelig krijgt hij de bonus.
+Tabel Gegevens over karton, eerste halfjaar:
+Gegeven | Waarde
+Standaardhoeveelheid karton per doos | 0,5 kg
+Standaardprijs per kg | € 2,00
+Werkelijke productie | 600.000 dozen
+Werkelijk verbruik karton | 312.000 kg
+Werkelijke prijs per kg | € 1,75
+Gerealiseerd bezettingsresultaat | € 12.000 nadelig
+Toon met berekeningen aan of de inkoopmanager recht heeft op de bonus. Geef bij elk resultaat aan of het voordelig of nadelig is.
+### ANTWOORD
+De standaardhoeveelheid is 600.000 × 0,5 = 300.000 kg. Efficiencyresultaat = (300.000 − 312.000) × 2 = € 24.000 nadelig. Prijsresultaat = (2 − 1,75) × 312.000 = € 78.000 voordelig. Saldo = 78.000 − 24.000 = € 54.000 voordelig. Dat is minder dan € 60.000, dus hij heeft geen recht op de bonus.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Efficiencyresultaat: (600.000 × 0,5 − 312.000) × € 2,00 = € 24.000 nadelig (1)
+• Prijsresultaat: (€ 2,00 − € 1,75) × 312.000 = € 78.000 voordelig (1)
+• Saldo van beide resultaten: € 78.000 voordelig − € 24.000 nadelig = € 54.000 voordelig (1)
+• Conclusie: het saldo van € 54.000 voordelig is lager dan € 60.000, dus de inkoopmanager heeft geen recht op de bonus. (1)
+
+## EXAMEN vwo 2021-III 9 2p
+Leg uit dat krapte op de arbeidsmarkt een oorzaak kan zijn van het berekende efficiency- en prijsresultaat bij de loonkosten. Betrek beide resultaten.
+### ANTWOORD
+Prijsresultaat nadelig: het uitzendbureau moest uitzendkrachten meer betalen dan gecalculeerd (1). Efficiencyresultaat nadelig: mensen vinden sneller elders vast werk, waardoor vaker nieuwe mensen moeten worden ingewerkt of geen gespecialiseerd personeel te vinden is (1).
+

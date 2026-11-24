@@ -1,0 +1,33 @@
+HOOFDSTUKKEN VAN BEDRIJFSECONOMIE IN BALANS
+===========================================
+Elk bestand is één hoofdstuk = één wereld in de app. Na een wijziging:
+  python3 tools/bibliotheek.py && python3 tools/hoofdstukken.py && python3 src/build.py
+
+Per paragraaf maakt de tool één level in de wereld van het hoofdstuk. De leerling ziet eerst de uitleg, daarna de vragen.
+
+Formaat:
+  # HOOFDSTUK hv 3 | Verzekeren, studeren en lenen     (hv = havo en vwo, h = havo, v = vwo)
+  wereld: hv3                   (hv1..hv7 gelijk voor beide, h8..h29 havo, v8..v36 vwo; zie src/data-basis.js)
+  hoofdvraag: ...
+
+  ## § 3.1 | Titel van de paragraaf
+  onderwerp: B.verzeker         (een code uit EINDTERMEN in src/data-basis.js)
+  deelvraag: ...                (wordt het doel van het level)
+  niv: v                        (optioneel: paragraaf alleen voor havo (h) of vwo (v))
+  leerdoelen: BECO-PERIO-01     (optioneel: oefenopgaven en examenvragen uit bibliotheek/ erbij)
+  gens: verzekeringPremie       (optioneel: rekengeneratoren, zie GENS in src/core.js en src/extra.js)
+  ook: h 5.3                    (optioneel: neem uitleg, meerkeuzevragen en begrippen van een andere paragraaf over)
+  ### UITLEG Kopje
+  tekst
+  ### BEGRIPPEN
+  Begrip = omschrijving         (wordt een begrippenkaart, een koppelvraag en een 'welk begrip'-vraag)
+  ### MC
+  Vraagtekst
+  * het juiste antwoord
+  - fout antwoord
+  - fout antwoord
+  - fout antwoord
+  > uitleg die de leerling na het antwoorden ziet
+
+Bron: de kaderbestanden (01_KADER_...) in VAK_BEDRIJFSECONOMIE op de Drive van de sectie en de inhoudsopgave van
+Bedrijfseconomie in balans. Uitleg, begrippen en vragen zijn daarop gebaseerd en door Claude uitgeschreven: lees ze na.

@@ -1,0 +1,173 @@
+# HOOFDSTUK hv 2 | Balans, winst-en-verliesrekening en liquiditeit
+wereld: hv2
+hoofdvraag: Hoe zie je hoe een onderneming ervoor staat?
+
+## § 2.1 | De beginbalans
+onderwerp: A.balans
+deelvraag: Hoe stel je een balans op?
+gens: eigenVermogen
+### UITLEG Debet en credit
+Een balans is een overzicht van de bezittingen en het vermogen van een onderneming op één moment.
+Debet (links) staan de activa: waar het geld in zit. Credit (rechts) staan de passiva: waar het geld vandaan komt. Totaal activa = totaal passiva.
+Volgorde debet: vaste activa (langer dan een jaar in het bedrijf: gebouw, machines, inventaris), vlottende activa (voorraad, debiteuren) en liquide middelen (kas, bank).
+Volgorde credit: eigen vermogen, lang vreemd vermogen (langer dan een jaar: hypothecaire lening, onderhandse lening) en kort vreemd vermogen (crediteuren, rekening-courantkrediet).
+### UITLEG Permanent en tijdelijk vermogen
+Permanent vermogen = eigen vermogen + lang vreemd vermogen. Tijdelijk vermogen = kort vreemd vermogen.
+Bij een rekening-courantkrediet mag je rood staan tot het kredietplafond.
+### BEGRIPPEN
+Balans = Overzicht van bezittingen en vermogen van een onderneming op één moment.
+Vaste activa = Bezittingen die langer dan een jaar in de onderneming meegaan.
+Vlottende activa = Bezittingen die binnen een jaar worden omgezet in geld, zoals voorraad en debiteuren.
+Liquide middelen = Kas en tegoed op de bank.
+Eigen vermogen = Vermogen dat de eigenaar(s) in de onderneming hebben gestoken plus ingehouden winsten.
+Vreemd vermogen = Geleend vermogen: schulden van de onderneming.
+Permanent vermogen = Eigen vermogen plus lang vreemd vermogen.
+Kredietplafond = Het maximale bedrag dat je rood mag staan bij de bank.
+Debiteuren = Klanten die de onderneming nog geld schuldig zijn.
+Crediteuren = Leveranciers aan wie de onderneming nog geld schuldig is.
+Kort vreemd vermogen = Schulden die binnen een jaar terugbetaald moeten worden.
+Lang vreemd vermogen = Schulden met een looptijd langer dan een jaar.
+### MC
+Waar staat de post "debiteuren" op de balans?
+* Debet, bij de vlottende activa
+- Credit, bij het kort vreemd vermogen
+- Debet, bij de vaste activa
+- Credit, bij het eigen vermogen
+> Debiteuren zijn vorderingen op klanten: een bezitting die binnen een jaar geld wordt.
+### MC
+Een bv heeft € 250.000 activa, € 120.000 lang vreemd vermogen en € 40.000 kort vreemd vermogen. Hoe groot is het eigen vermogen?
+* € 90.000
+- € 130.000
+- € 210.000
+- € 410.000
+> 250.000 − 120.000 − 40.000 = € 90.000.
+### MC
+Welke post hoort bij het lang vreemd vermogen?
+* Hypothecaire lening
+- Crediteuren
+- Rekening-courantkrediet
+- Voorraad goederen
+> Een hypothecaire lening loopt langer dan een jaar.
+
+## § 2.2 | Balansmutaties
+onderwerp: A.balans
+deelvraag: Wat gebeurt er met de balans bij een transactie?
+### UITLEG Elke transactie verandert twee posten
+Bij elke gebeurtenis veranderen minstens twee posten, zodat de balans in evenwicht blijft.
+Inkoop op rekening: + voorraad, + crediteuren. Betaling aan een leverancier: − crediteuren, − bank.
+Verkoop op rekening: + debiteuren met de verkoopprijs, − voorraad met de inkoopwaarde, + eigen vermogen met het brutoresultaat.
+Ontvangst van een debiteur: − debiteuren, + bank. Kasstorting op de bank: − kas, + bank.
+### UITLEG Wat raakt het eigen vermogen?
+Winst verhoogt het eigen vermogen. Kosten (loon, interest, afschrijving) en privé-opnamen verlagen het eigen vermogen.
+Afschrijving: − vaste activa (boekwaarde daalt), − eigen vermogen (kosten). Er gaat geen geld van de bank af.
+Aflossing van een lening: − lening, − bank. Het eigen vermogen verandert niet, want aflossen is geen kostenpost.
+### BEGRIPPEN
+Balansmutatie = Verandering van balansposten door een gebeurtenis in de onderneming.
+Afschrijving = Waardedaling van een vast actief door gebruik of veroudering, verwerkt als kosten.
+Privé-opname = Geld dat de eigenaar uit de onderneming haalt voor eigen gebruik.
+### MC
+Een eenmanszaak koopt voor € 5.000 goederen op rekening. Wat verandert er op de balans?
+* Voorraad + € 5.000 en crediteuren + € 5.000
+- Voorraad + € 5.000 en bank − € 5.000
+- Voorraad − € 5.000 en debiteuren + € 5.000
+- Eigen vermogen − € 5.000 en crediteuren + € 5.000
+> Op rekening betekent: nog niet betaald, dus een schuld aan de leverancier.
+### MC
+De eigenaar neemt € 800 contant op voor privé. Wat verandert er?
+* Kas − € 800 en eigen vermogen − € 800
+- Kas − € 800 en crediteuren + € 800
+- Kas − € 800 en kosten + € 800, het eigen vermogen blijft gelijk
+- Bank + € 800 en kas − € 800
+> Een privé-opname verlaagt het eigen vermogen, maar is geen kostenpost.
+### MC
+Er wordt € 6.000 afgeschreven op de inventaris. Wat gebeurt er met de liquide middelen?
+* Niets: afschrijving is geen uitgave
+- Ze dalen met € 6.000
+- Ze stijgen met € 6.000
+- Ze dalen met € 500 per maand
+> Afschrijving is kosten (het eigen vermogen daalt), maar er gaat geen geld weg.
+### MC
+Een bedrijf lost € 10.000 af op de hypothecaire lening via de bank. Welke uitspraak is juist?
+* De lening en de bank dalen allebei met € 10.000, het eigen vermogen blijft gelijk
+- De lening daalt en het eigen vermogen daalt met € 10.000
+- De bank daalt en de kosten stijgen met € 10.000
+- De lening stijgt met € 10.000
+> Aflossen is een uitgave, geen kostenpost.
+
+## § 2.3 | De winst-en-verliesrekening
+onderwerp: A.balans
+deelvraag: Hoe bereken je het resultaat over een periode?
+gens: nettoresultaat
+### UITLEG W&V-rekening
+De winst-en-verliesrekening (W&V) laat de opbrengsten en kosten over een periode zien. Resultaat = opbrengsten − kosten.
+Paginavorm (staffelvorm): omzet − inkoopwaarde van de omzet = brutoresultaat − overige bedrijfskosten (lonen, huur, afschrijving) − interestkosten = resultaat voor belasting.
+Scontrovorm (T-vorm): links (debet) de kosten, rechts (credit) de opbrengsten. Het saldo is de winst of het verlies.
+### BEGRIPPEN
+Winst-en-verliesrekening = Overzicht van opbrengsten en kosten over een periode.
+Scontrovorm = W&V in T-vorm: kosten links, opbrengsten rechts.
+Paginavorm = W&V van boven naar beneden: omzet, min kosten, tot het resultaat.
+Resultaat voor belasting = Opbrengsten min alle kosten, voordat de winstbelasting is betaald.
+Kosten = Waarde van wat in een periode is verbruikt om opbrengsten te maken.
+Opbrengsten = Waarde van wat in een periode is verkocht of geleverd.
+### MC
+Omzet € 200.000, inkoopwaarde van de omzet € 90.000, lonen € 50.000, afschrijving € 10.000, interest € 5.000. Wat is het resultaat voor belasting?
+* € 45.000
+- € 110.000
+- € 55.000
+- € 60.000
+> 200.000 − 90.000 = 110.000 brutoresultaat; 110.000 − 50.000 − 10.000 − 5.000 = € 45.000.
+### MC
+Welke post staat NIET op de winst-en-verliesrekening?
+* Aflossing van een lening
+- Interestkosten
+- Afschrijvingskosten
+- Loonkosten
+> Aflossing is een betaling van een schuld, geen kosten.
+### MC
+Waar staan de kosten in een W&V-rekening in scontrovorm?
+* Aan de debetkant (links)
+- Aan de creditkant (rechts)
+- Onderaan, onder het resultaat
+- Op de balans bij de passiva
+> Debet kosten, credit opbrengsten.
+
+## § 2.4 | Liquiditeitsoverzicht en liquiditeitsbegroting
+onderwerp: A.liquid
+deelvraag: Wat is het verschil tussen kosten en uitgaven?
+leerdoelen: BECO-PERIO-01
+gens: liquiditeit
+### UITLEG Geldstromen
+In een liquiditeitsoverzicht (achteraf) of liquiditeitsbegroting (vooraf) staan de ontvangsten en uitgaven.
+Eindsaldo liquide middelen = beginsaldo + ontvangsten − uitgaven.
+Met een liquiditeitsbegroting zie je op tijd of je rood komt te staan, zodat je krediet kunt regelen.
+### UITLEG Kosten zijn geen uitgaven
+Kosten en opbrengsten (W&V) zijn iets anders dan uitgaven en ontvangsten (liquiditeit).
+Afschrijving: wel kosten, geen uitgave. Aflossing: wel uitgave, geen kosten. Verkoop op rekening: wel opbrengst, de ontvangst komt later. Inkoop van een machine: wel uitgave, de kosten komen in de jaren daarna via de afschrijving.
+### BEGRIPPEN
+Liquiditeitsbegroting = Overzicht vooraf van de verwachte ontvangsten en uitgaven.
+Liquiditeitsoverzicht = Overzicht achteraf van de werkelijke ontvangsten en uitgaven.
+Uitgave = Geld dat de onderneming betaalt.
+Ontvangst = Geld dat de onderneming binnenkrijgt.
+Liquiditeit = Het vermogen om op tijd aan de betalingsverplichtingen te voldoen.
+Netto geldstroom = Ontvangsten min uitgaven in een periode.
+### MC
+Welke gebeurtenis is wel een uitgave maar geen kostenpost?
+* De aflossing van een banklening
+- De afschrijving op een machine
+- De loonkosten van december
+- De huur van de winkel
+> Aflossen verlaagt de schuld; er wordt niets verbruikt.
+### MC
+Begin € 8.000 op de bank. Ontvangsten € 35.000, uitgaven € 46.000. Wat is het eindsaldo?
+* € −3.000
+- € 3.000
+- € 19.000
+- € −11.000
+> 8.000 + 35.000 − 46.000 = € −3.000: de onderneming staat rood.
+### MC
+In december wordt voor € 12.000 verkocht op rekening. De klanten betalen in januari. Wat is juist?
+* De opbrengst hoort bij december, de ontvangst bij januari
+- De opbrengst en de ontvangst horen allebei bij januari
+- De opbrengst hoort bij januari, de ontvangst bij december
+- Het is geen opbrengst, omdat er nog niet betaald is
+> Opbrengst bij levering, ontvangst bij betaling.

@@ -1,0 +1,109 @@
+# LEERDOEL BECO-PERSO-01
+domein: C
+onderwerp: C.personeel
+thema: Personeelsbeleid
+wereld: h14,v15
+naam: Functieprofiel en functiewaardering onderscheiden
+doel: Ik kan het verschil tussen functieprofiel en functiewaardering aangeven.
+
+## EXAMEN havo 2026-II 20 1p
+De verantwoordelijkheid van de mentor in de vacature is onderdeel van (a). Kies uit: het functieprofiel / de functiewaardering.
+### ANTWOORD
+(a) het functieprofiel.
+
+## EXAMEN vwo 2023-I 14 2p
+Hoort de indeling van een werknemer in een functiegroep bij de collectieve of bij de individuele arbeidsovereenkomst? Motiveer.
+### ANTWOORD
+Beide keuzes krijgen het eerste punt (1). Het tweede punt alleen voor een juiste motivering, bijvoorbeeld: in een cao worden werknemers op taken en zwaarte van de functie ingedeeld (1).
+
+
+# LEERDOEL BECO-PERSO-03
+domein: C
+onderwerp: C.personeel
+thema: Personeelsbeleid
+wereld: h14,v15
+naam: Loonkosten per jaar voor de werkgever berekenen
+doel: Ik kan de loonkosten per jaar voor een werkgever uitrekenen.
+gens: loonkosten
+
+## OPGAVE IT-00225 3p | Opbouw van de loonkosten
+Bij het berekenen van de loonkosten per jaar werkt een werkgever stap voor stap. Hij begint met het brutoloon over 12 maanden. Het vakantiegeld van 8% en de eindejaarsuitkering van 5% worden (1)...(1)... en vormen samen de factor 1,13.
+Daarna berekent hij de sociale lasten over (2)...(2)... . De sociale lasten komen voor de werkgever (3)...(3)... , dus de loonkosten zijn hoger dan het brutoloon.
+Maak van onderstaande tekst een economisch juiste tekst.
+Kies uit:
+bij (1): opgeteld / na elkaar vermenigvuldigd
+bij (2): het brutoloon alleen / het bedrag inclusief vakantiegeld en eindejaarsuitkering
+bij (3): bovenop het loon / in mindering op het loon
+### ANTWOORD
+(1) opgeteld; (2) het bedrag inclusief vakantiegeld en eindejaarsuitkering; (3) bovenop het loon.
+Puntenverdeling:
+• Per juist gekozen antwoord 1 scorepunt. bij (1): opgeteld (1)
+• bij (2): het bedrag inclusief vakantiegeld en eindejaarsuitkering (1)
+• bij (3): bovenop het loon (1)
+
+## OPGAVE IT-00226 3p | Loonkosten van een monteur
+Hoogveld Installatie bv heeft Merel in dienst als monteur. Haar bruto maandloon is € 3.150. Zij krijgt vakantiegeld en een eindejaarsuitkering. Het werkgeversdeel van de sociale lasten wordt berekend over het brutoloon inclusief deze toeslagen.
+De percentages staan in de tabel. Schat eerst: de loonkosten per jaar liggen boven 12 × € 3.150 = € 37.800.
+Tabel Gegevens over Merel:
+Onderdeel | Percentage
+Vakantiegeld (van het brutoloon) | 8%
+Eindejaarsuitkering (van het brutoloon) | 5%
+Sociale lasten werkgever | 27%
+Bereken de loonkosten per jaar van Merel voor Hoogveld Installatie bv. Rond af op hele euro's.
+### ANTWOORD
+Brutoloon per jaar: 12 × 3.150 = 37.800. Met toeslagen: 37.800 × 1,13 = 42.714. Met sociale lasten: 42.714 × 1,27 = € 54.247. Dat is hoger dan 37.800, dus dat klopt.
+Puntenverdeling:
+• Loonkosten per jaar: Brutoloon per jaar: 12 × 3.150 = € 37.800 (1)
+• Vakantiegeld en eindejaarsuitkering erbij opgeteld: 37.800 × 1,13 = € 42.714 (1)
+• Sociale lasten erbij: 42.714 × 1,27 = € 54.247 (1)
+
+## OPGAVE IT-00227 2p | Besparing na een ontslag
+Zeevonk Retail bv sluit een filiaal. Daardoor moet een verkoopmedewerker vertrekken. Hij werkte 36 uur per week voor € 24,50 per uur, gedurende 52 weken per jaar.
+Hij kreeg 8% vakantiegeld over zijn brutojaarloon en een eindejaarsuitkering van een vast bedrag van € 1.950. De sociale lasten van de werkgever zijn 29% van het brutojaarloon inclusief vakantiegeld en eindejaarsuitkering.
+Bereken de besparing op de loonkosten per jaar door dit ontslag. Rond af op hele euro's.
+### ANTWOORD
+Brutoloon per jaar: 36 × 24,50 × 52 = 45.864. Met 8% vakantiegeld: 45.864 × 1,08 = 49.533,12. Plus 1.950 = 51.483,12. Sociale lasten erbij: 51.483,12 × 1,29 = € 66.413.
+Puntenverdeling:
+• Besparing op de loonkosten: (36 × 24,50 × 52 × 1,08 + 1.950) × 1,29 = € 66.413. Per gemaakte fout 1 scorepunt in mindering brengen. (2)
+
+## OPGAVE IT-00228 3p | Uitbreiding van het team
+Polderlicht bv, een installateur van zonnepanelen, wil twee nieuwe monteurs aannemen. Beiden verdienen € 2.850 bruto per maand. Zij krijgen 8% vakantiegeld over hun brutojaarloon en een eindejaarsuitkering van een half maandsalaris.
+De sociale lasten van de werkgever zijn 31% van het brutojaarloon inclusief vakantiegeld en eindejaarsuitkering. De directie wil de extra loonkosten per jaar weten.
+Bereken de extra loonkosten per jaar van Polderlicht bv voor de twee nieuwe monteurs samen. Rond af op hele euro's.
+### ANTWOORD
+Per monteur: 12 × 2.850 × 1,08 = 36.936. Eindejaarsuitkering 0,5 × 2.850 = 1.425, samen 38.361. Sociale lasten: 38.361 × 1,31 = 50.252,91. Twee monteurs: 2 × 50.252,91 = € 100.506.
+Puntenverdeling:
+• Extra loonkosten per jaar: Brutojaarloon met vakantiegeld per monteur: 12 × 2.850 × 1,08 = € 36.936 (1)
+• Eindejaarsuitkering erbij en sociale lasten: (36.936 + 0,5 × 2.850) × 1,31 = € 50.253 per monteur (1)
+• Voor twee monteurs: 50.252,91 × 2 = € 100.506 (1)
+
+## EXAMEN havo 2021-III 13 5p
+De overnemer maakt een doorstart als het verwachte bedrijfsresultaat meer dan 30% van de investering (€ 325.000) is. Vul de uitwerkbijlage (exploitatiebegroting) in en geef aan of hij doorgaat.
+### ANTWOORD
+Loonkosten 2.200 × 12 × 8 × 1,10 × 1,35 = 313.632, plus 61.000 = 374.632. Totale kosten 533.475. Bedrijfsresultaat 233.665 = 71,9% van 325.000. Conclusie: doorstart, want 71,9% > 30%.
+
+## EXAMEN havo 2023-II 6 4p
+Bereken de totale constante kosten van de praktijk over 2022. Tel interest, afschrijving, loonkosten van een receptiemedewerker en overige constante kosten op. Gebruik de uitwerkbijlage.
+### ANTWOORD
+Interest € 4.500. Afschrijving (40.000 − 4.000) : 4 = € 9.000. Loonkosten 600 × 1,08 × 1,3 × 12 × 1,033 = € 11.046,16. Overige constante kosten € 6.299,84. Totaal € 30.846.
+
+## EXAMEN havo 2025-I 4 2p
+Jordan werkte 40 uur per week voor € 27,30 per uur, 52 weken. Hij kreeg 8% vakantietoeslag en een eindejaarsuitkering van € 2.839,20. De sociale lasten zijn 30% van het brutojaarloon. Bereken de besparing op de loonkosten in 2024.
+### ANTWOORD
+(40 × 27,30 × 52 × 1,08 + 2.839,20) × 1,30 = € 83.415,70. Per gemaakte fout 1 scorepunt aftrek.
+
+## EXAMEN vwo 2022-II 11 1p
+Bereken de verwachte loonkosten over 2021 bij het geschatte aantal werknemers per dag, voor 52 weken.
+### ANTWOORD
+(3×2 + 2×4 + 2×8) × 3 × 52 × 5 = € 23.400.
+
+## EXAMEN vwo 2026-I 10 2p
+Bereken de totale loonkosten van de enige werknemer over het eerste halfjaar, afgerond op hele euro's (zie informatiebron 3).
+### ANTWOORD
+(3.566 × 6 × 1,08 + 0,5 × 3.200) × 1,30 = € 32.120. Per fout 1 scorepunt in mindering; ook 1 punt aftrek als sociale lasten alleen over het basisloon zijn berekend.
+
+## EXAMEN vwo 2026-II 3 3p
+Een bedrijf heeft twee loongroepen met verschillende brutomaandlonen en betaalt 30% sociale lasten. Bereken het verschil in maandelijkse loonkosten tussen een loonseis van 13% en een aanbod van 4,2% met een minimum van € 260 per werknemer.
+### ANTWOORD
+Voor de lage groep geldt het minimum (4,2% van 4.700 < 260). Aanbod: 1.200×4.960×1,30 + 4.400×7.050×1,042×1,30 = 49.757.292 (2p). Eis: 31.000.000+... = 53.853.540. Verschil € 4.096.248 (1p). Per fout in de eerste deelscore 1p aftrek.
+

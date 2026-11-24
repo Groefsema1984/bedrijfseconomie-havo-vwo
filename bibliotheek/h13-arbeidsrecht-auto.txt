@@ -1,0 +1,344 @@
+# LEERDOEL BECO-PERSO-02
+domein: C
+onderwerp: C.arbeid
+thema: Arbeidsrecht
+wereld: h13,v14
+naam: Wettelijke eisen van een arbeidsovereenkomst noemen
+doel: Ik kan de drie wettelijke eisen van een arbeidsovereenkomst noemen.
+
+## EXAMEN havo 2022-I 11 1p
+Medewerkers volgden tijdens werktijd een online cursus op kosten van de werkgever. Kon de werkgever hen verplichten de cursus te volgen? Kies uit vier antwoorden (ja/nee met reden).
+### ANTWOORD
+B: ja, want er is een gezagsverhouding.
+
+## EXAMEN havo 2022-III 24 3p
+Geef op basis van een deel van het contract (informatiebron 5) drie argumenten dat het om een individuele arbeidsovereenkomst gaat en niet om een zzp-overeenkomst.
+### ANTWOORD
+Gezagsverhouding (werk wordt opgedragen); arbeidsverplichting (verplicht tot uitvoeren van werk); loonverplichting. Eén punt per argument.
+
+## EXAMEN vwo 2023-II 31 2p
+Een medewerker heeft een individuele arbeidsovereenkomst. Aan welke drie wettelijke eisen moet worden voldaan om te spreken van een arbeidsovereenkomst en niet van een zzp-overeenkomst?
+### ANTWOORD
+Gezagsverhouding, arbeidsverplichting (persoonlijk arbeid verrichten) en loon/vergoeding voor arbeid. Drie juist: 2 punten; twee juist: 1 punt; minder: 0.
+
+## EXAMEN vwo 2024-I 28 2p
+Alin heeft voor zijn baan in de supermarkt een individuele arbeidsovereenkomst. Noem drie voorwaarden waaraan zo'n overeenkomst moet voldoen.
+### ANTWOORD
+Er is sprake van een gezagsverhouding, de verplichting van de werknemer om arbeid te verrichten en de verplichting van de werkgever om loon te betalen. Drie goed 2 punten, twee goed 1 punt, minder 0 punten.
+
+## EXAMEN vwo 2024-II 31 3p
+Een individuele arbeidsovereenkomst moet aan drie wettelijke eisen voldoen. Laat met de vacaturetekst zien hoe aan elke eis wordt voldaan. Gebruik de uitwerkbijlage.
+### ANTWOORD
+Arbeidsverplichting: toegewezen projecten die persoonlijk worden uitgevoerd. Loon: marktconform salaris met vakantietoeslag. Gezagsverhouding: werk in opdracht van en in overleg met de marketingmanager, aan wie verantwoording wordt afgelegd. Per eis 1 punt.
+
+
+# LEERDOEL BECO-PERSO-04
+domein: C
+onderwerp: C.arbeid
+thema: Arbeidsrecht
+wereld: h13,v14
+naam: Voordelen van zzp'ers ten opzichte van loondienst noemen
+doel: Ik kan voordelen voor de onderneming noemen van een zzp'er ten opzichte van loondienst.
+
+## OPGAVE IT-00262 2p | Extra timmerlieden voor een schoolrenovatie
+In deze opgave blijft de btw buiten beschouwing.
+Bouwbedrijf Van Rijnsberg bv renoveert vier maanden lang een school. Daarna is er nog geen vervolgwerk. Voor dit project zijn twee extra timmerlieden nodig.
+De eigenaar kan twee timmerlieden aannemen met een arbeidsovereenkomst voor onbepaalde tijd (het standaardcontract van het bedrijf) of twee zzp'ers inhuren voor de duur van het project. Zzp'ers vragen een hoger uurtarief dan het uurloon van een werknemer.
+Noem twee voordelen voor Bouwbedrijf Van Rijnsberg bv van het inhuren van zzp'ers in plaats van het aannemen van werknemers met een arbeidsovereenkomst voor onbepaalde tijd.
+Noem één voordeel uit elke categorie en licht elk voordeel kort toe.
+Categorie 1: kosten naast het loon (bedragen die de werkgever bovenop het loon voor gewerkte uren betaalt).
+Categorie 2: ontslag en looptijd (het beëindigen van de samenwerking na het project).
+### ANTWOORD
+Voordeel 1 (kosten naast het loon): bij ziekte van een zzp'er hoeft het bedrijf geen loon door te betalen, dus het bedrijf betaalt alleen voor gewerkte uren. Voordeel 2 (ontslag en looptijd): de opdracht eindigt na het project, dus het bedrijf hoeft geen ontslagprocedure te volgen en geen transitievergoeding te betalen.
+Puntenverdeling:
+• Toegestane voordelen per categorie. Categorie 1, kosten naast het loon: geen loon doorbetalen bij ziekte; geen vakantiegeld; geen werkgeversdeel van de premies werknemersverzekeringen; geen werkgeversdeel van de pensioenpremie. Categorie 2, ontslag en looptijd: geen ontslagprocedure (UWV of kantonrechter) na het project; geen transitievergoeding; de samenwerking eindigt vanzelf na het project (flexibel inzetbaar); geen opzegtermijn of ontslagbescherming. Andere juiste voordelen met dezelfde strekking mogen ook. Een juist voordeel uit categorie 1 (kosten naast het loon) met een korte, juiste toelichting (1)
+• Een juist voordeel uit categorie 2 (ontslag en looptijd) met een korte, juiste toelichting (1)
+
+## OPGAVE IT-00268 2p | Opgave 1
+In deze opgave blijft de btw buiten beschouwing.
+Dakwerk Veluwe bv heeft door een stormseizoen veel extra herstelwerk. De eigenaar twijfelt of hij een dakdekker in loondienst aanneemt of een zzp'er inhuurt. Hij vergelijkt Mila, die in loondienst werkt, met Joost, die als zzp'er werkt.
+Tabel Informatiebron 1: vergelijking van Mila (loondienst) en Joost (zzp). De gegevens zijn fictief en benaderen de werkelijkheid.:
+Kenmerk | Mila | Joost
+Overeenkomst | arbeidsovereenkomst voor onbepaalde tijd | overeenkomst van opdracht per klus
+Tarief | € 22 bruto per uur | € 48 per uur
+Bij ziekte | loon wordt doorbetaald | geen betaling
+Vakantiegeld | 8% van het brutoloon | geen
+Pensioenpremie | werkgever betaalt een deel | werkgever betaalt niets
+Einde van de samenwerking | ontslagbescherming | opdracht eindigt na afloop van de klus
+Werktijden | bepaald door Dakwerk Veluwe | bepaalt Joost zelf
+Noem twee verschillende voordelen voor Dakwerk Veluwe bv van het inhuren van Joost als zzp'er in plaats van het aannemen van een werknemer in loondienst zoals Mila. Licht elk voordeel toe met een gegeven uit informatiebron 1. (zie informatiebron 1)
+### ANTWOORD
+Voordeel 1: bij ziekte van Joost betaalt Dakwerk Veluwe niets, terwijl het bij Mila het loon moet doorbetalen. Voordeel 2: Dakwerk Veluwe hoeft voor Joost geen vakantiegeld te betalen, terwijl Mila 8% van het brutoloon krijgt.
+Puntenverdeling:
+• . Het gaat om voordelen voor de onderneming (de opdrachtgever), niet voor de zzp'er. Een voordeel zonder toelichting met een gegeven uit informatiebron 1 levert geen scorepunt op. Twee keer hetzelfde voordeel (bijvoorbeeld twee keer 'geen loon bij ziekte') levert één scorepunt op. Eerste juiste voordeel voor Dakwerk Veluwe, toegelicht met het bijbehorende gegeven uit informatiebron 1 (1)
+• Tweede, ander juist voordeel voor Dakwerk Veluwe, toegelicht met het bijbehorende gegeven uit informatiebron 1 (1)
+
+## OPGAVE IT-00271 3p | 
+In deze opgave blijft de btw buiten beschouwing.
+Bakkerij Zonnebloem bv heeft in de zomer veel toeristen als klant. Dan huurt de bakkerij een zzp'er in in plaats van een werknemer. De zzp'er werkt zelfstandig op basis van een overeenkomst van opdracht. Bekijk de tekst vanuit de bakkerij als opdrachtgever.
+Bij ziekte van de zzp'er ...(1)... de bakkerij het loon door. Voor het beëindigen van de opdracht gelden ...(2)... ontslagregels. De bakkerij betaalt ...(3)... premies werknemersverzekeringen voor de zzp'er.
+Maak van onderstaande tekst een economisch juiste tekst.
+Kies uit: bij (1) betaalt / betaalt niet
+Kies uit: bij (2) geen / wel
+Kies uit: bij (3) wel / geen
+### ANTWOORD
+(1) betaalt niet, (2) geen, (3) geen. Een zzp'er is zelfstandig en heeft een overeenkomst van opdracht. Daarom gelden voor de bakkerij de regels van een werkgever niet.
+Puntenverdeling:
+• Per juiste keuze 1 scorepunt. Alle drie de keuzes gaan over de bakkerij als opdrachtgever. bij (1): betaalt niet (1)
+• bij (2): geen (1)
+• bij (3): geen (1)
+
+## EXAMEN havo 2024-I 26 1p
+Noem een voordeel voor een horecamedewerker die als zzp'er gaat werken in plaats van in loondienst.
+### ANTWOORD
+Bijvoorbeeld: meer zeggenschap over werktijden, of een hoger tarief per gewerkt uur dan het loon per uur in loondienst.
+
+## EXAMEN havo 2024-I 27 2p
+Noem twee voordelen van werken in loondienst ten opzichte van zzp in de horeca. Licht elk voordeel toe met een paragraaf uit de horeca-cao (informatiebron 5).
+### ANTWOORD
+Twee van: 4.16 vakantiegeld, zzp'er heeft geen vakantietoeslag; 5.1 ontwikkelingsbudget, zzp'er heeft dat niet; 7.2 loon bij ziekte wordt doorbetaald, zzp'er niet. 1 punt per antwoord.
+
+## EXAMEN vwo 2021-III 1 2p
+Noem twee nadelen voor een organisatie van het inhuren van zzp'ers in plaats van personeel in loondienst, en licht toe.
+### ANTWOORD
+Bij krapte op de arbeidsmarkt kan een zzp'er om een hogere beloning onderhandelen, terwijl loondienst aan een cao vastzit (1). Een zzp'er heeft minder binding en loyaliteit met de opdrachtgever (1).
+
+## EXAMEN vwo 2025-I 11 2p
+De eigenaars kiezen voor zzp'ers in plaats van personeel in loondienst. Noem twee verschillende bedrijfseconomische voordelen van het inhuren van zzp'ers.
+### ANTWOORD
+Per juist toegelicht antwoord 1 punt: pieken in de drukte kunnen worden opgevangen; geen ontslagbescherming; geen loondoorbetaling bij ziekte, werkloosheid of arbeidsongeschiktheid en geen sociale zekerheid voor de werkgever.
+
+
+# LEERDOEL BECO-PERSO-05
+domein: C
+onderwerp: C.arbeid
+thema: Arbeidsrecht
+wereld: h13,v14
+naam: De juiste ontslagroute noemen
+doel: Ik kan noemen via welke route een werknemer wordt ontslagen.
+
+## EXAMEN havo 2021-II 1 3p
+Er zijn drie soorten ontslag: om bedrijfseconomische redenen, wegens slecht functioneren en op staande voet. Zes genoemde ontslagredenen (a tot en met f) moeten bij het juiste ontslagtype worden ingedeeld.
+### ANTWOORD
+Bedrijfseconomisch: a, b, f. Slecht functioneren: c, d. Op staande voet: e. Zes goed = 3 punten, vijf of vier goed = 2 punten, minder dan vier goed = 1 punt.
+
+## EXAMEN vwo 2022-III 6 2p
+Biohuis ontslaat wegens bedrijfseconomische redenen en niet wegens dringende redenen. Leg uit wat het verschil is tussen een bedrijfseconomische en een dringende reden voor ontslag. Betrek beide redenen in het antwoord.
+### ANTWOORD
+Bij een bedrijfseconomische reden ligt de oorzaak buiten de werknemer (1 punt). Bij een dringende reden ligt de oorzaak in het functioneren of gedrag van de werknemer zelf (1 punt).
+
+
+# LEERDOEL BECO-PERSO-06
+domein: C
+onderwerp: C.arbeid
+thema: Arbeidsrecht
+wereld: h13,v14
+naam: Ontslagroutes vergelijken en voordelen voor de werkgever uitleggen
+doel: Ik kan uitleggen waarom ontslag met wederzijds goedvinden voordelen heeft voor de werkgever.
+
+## EXAMEN vwo 2022-III 8 2p
+Een beëindigingsvergoeding bij vrijwillig ontslag kan hoger zijn dan de transitievergoeding bij gedwongen ontslag. Toch geeft Biohuis dan de voorkeur aan vrijwillig vertrek. Geef hiervoor twee redenen.
+### ANTWOORD
+Bijvoorbeeld: betere sfeer bij minder gedwongen ontslagen; hoge bijkomende kosten bij gedwongen ontslag (juridisch advies, rechterlijke vergoedingen); Biohuis behoudt de laatst aangenomen medewerkers; onmotiveerde werknemers stappen op. Per reden 1 punt.
+
+
+# LEERDOEL BECO-PERSO-07
+domein: C
+onderwerp: C.arbeid
+thema: Arbeidsrecht
+wereld: h13,v14
+naam: Transitievergoeding bij ontslag berekenen
+doel: Ik kan de transitievergoeding bij ontslag uitrekenen.
+gens: transitievergoeding
+
+## OPGAVE IT-00239 3p | Ontslag bij Dakdekkersbedrijf Noordhoek
+Dakdekkersbedrijf Noordhoek bv in Emmen ontslaat uitvoerder Joost Brandsma vanwege een tekort aan werk. Joost is op 1 oktober 2018 in dienst gekomen. Zijn dienstverband eindigt op 1 mei 2026.
+Regel voor de transitievergoeding: per heel dienstjaar krijgt de werknemer 1/3 bruto maandsalaris. Voor elke resterende hele maand krijgt hij 1/3 bruto maandsalaris : 12.
+Tabel Gegevens over Joost Brandsma:
+Gegeven | Waarde
+Bruto maandsalaris | € 3.240
+Indiensttreding | 1 oktober 2018
+Einddatum dienstverband | 1 mei 2026
+Bereken de transitievergoeding van Joost Brandsma.
+Doe het als volgt:
+- Schat eerst: ligt de vergoeding onder of boven de € 6.000? Schrijf je schatting op.
+- Splits de diensttijd in hele jaren en resterende maanden.
+- Vul de uitwerkbijlage bij deze vraag in.
+### ANTWOORD
+Diensttijd: 7 jaar en 7 maanden. Hele jaren: 7 × (3.240 : 3) = 7 × 1.080 = € 7.560. Rest: 7 × (1.080 : 12) = 7 × 90 = € 630. Totaal: € 8.190.
+Puntenverdeling:
+• Een los eindantwoord zonder berekening levert 0 scorepunten op. Hele dienstjaren: 7 × (3.240 : 3) = € 7.560 (1)
+• Resterende deel: 7 × (3.240 : 3 : 12) = € 630 (1)
+• Totaal 7.560 + 630 = € 8.190 (1)
+
+## OPGAVE IT-00291 4p | Reorganisatie bij Kanaalzicht Hotels
+In deze opgave blijven belastingen en het wettelijk maximum van de transitievergoeding buiten beschouwing.
+Kanaalzicht Hotels bv in Gouda sluit de afdeling Congressen. Receptiemedewerker Fatma Aydin verliest daardoor haar baan. Het UWV heeft het ontslag toegestaan vanwege bedrijfseconomische redenen. Haar dienstverband eindigt op 1 september 2026.
+De gegevens over Fatma en de regels voor de transitievergoeding staan in informatiebron 1.
+Tabel Informatiebron 1 Gegevens en regels transitievergoeding (regels 2026; gegevens fictief):
+Onderdeel | Waarde
+Bruto maandsalaris, exclusief vakantiegeld | € 2.800
+Vakantiegeld | 8% van het bruto maandsalaris
+Eenmalige bonus 2025 | € 900
+Indiensttreding | 1 februari 2015
+Einde dienstverband | 1 september 2026
+Afdeling | Congressen
+Regel: hele dienstjaren | 1/3 bruto maandsalaris per heel dienstjaar
+Regel: resterende hele maanden | (1/3 bruto maandsalaris : 12) per hele maand
+Regel: bruto maandsalaris | Telt inclusief vakantiegeld; eenmalige bonussen tellen niet mee
+Bereken de transitievergoeding die Kanaalzicht Hotels aan Fatma moet betalen. (zie informatiebron 1)
+Vul de uitwerkbijlage bij deze vraag in.
+Uitwerkbijlage bij vraag 1. Tabel met twee kolommen, 'Berekening' en 'Bedrag', en vier rijen: (1) bruto maandsalaris inclusief vakantiegeld; (2) vergoeding over de hele dienstjaren; (3) vergoeding over de resterende hele maanden; (4) totale transitievergoeding.
+### ANTWOORD
+Bruto maandsalaris met vakantiegeld: 2.800 × 1,08 = € 3.024. Diensttijd: 11 jaar en 7 maanden. Hele jaren: 11 × (3.024 : 3) = 11 × 1.008 = € 11.088. Rest: 7 × (3.024 : 3 : 12) = 7 × 84 = € 588. Totaal: 11.088 + 588 = € 11.676.
+Puntenverdeling:
+• Een los eindantwoord zonder berekening levert 0 scorepunten op. Bedragen in hele euro's. Bruto maandsalaris inclusief vakantiegeld: 2.800 × 1,08 = € 3.024 (1)
+• Diensttijd 11 jaar en 7 maanden; hele dienstjaren: 11 × (3.024 : 3) = € 11.088 (1)
+• Resterende hele maanden: 7 × (3.024 : 3 : 12) = € 588 (1)
+• Totaal: 11.088 + 588 = € 11.676 (1)
+
+## OPGAVE IT-00296 3p | Opgave 1
+In deze opgave blijft de loonheffing buiten beschouwing.
+Werkplaats Zonnewende bv in Zwolle sluit een afdeling. Monteur Ilse Dekkers verliest daardoor haar baan en wordt ontslagen. Het bedrijf moet haar een transitievergoeding betalen. De gegevens en de regels staan in informatiebron 1.
+Tabel Informatiebron 1: gegevens van Ilse Dekkers en regels voor de transitievergoeding (2026). Gegevens: fictief. Regels: Rijksoverheid, https://www.rijksoverheid.nl/vraag-en-antwoord/ontslag/hoe-hoog-is-de-transitievergoeding-als-ik-word-ontslagen:
+Onderdeel | Gegeven
+Datum indiensttreding | 1 maart 2018
+Einddatum dienstverband | 1 juli 2026
+Bruto maandsalaris (vast salaris per maand, zonder bonus) | € 3.150
+Bonus over 2025 | € 1.800
+Werkuren per week | 36
+Leeftijd | 41 jaar
+Regel voor elk heel dienstjaar | 1/3 bruto maandsalaris
+Regel voor elke hele maand na het laatste hele dienstjaar | 1/3 bruto maandsalaris : 12
+Bereken de transitievergoeding die Ilse Dekkers krijgt. (zie informatiebron 1)
+Vul de uitwerkbijlage bij deze vraag in.
+### ANTWOORD
+Van 1 maart 2018 tot 1 maart 2026 zijn 8 hele dienstjaren: 8 × 1/3 × 3.150 = € 8.400. Daarna zijn er nog 4 hele maanden: 4 × (1/3 × 3.150 : 12) = € 350. De transitievergoeding is 8.400 + 350 = € 8.750.
+Puntenverdeling:
+• Het deel voor de hele dienstjaren: 8 × 1/3 × 3.150 = € 8.400 (8 hele dienstjaren van 1 maart 2018 tot 1 maart 2026) (1)
+• Het deel voor de resterende hele maanden: 4 × (1/3 × 3.150 : 12) = € 350 (4 maanden van 1 maart 2026 tot 1 juli 2026) (1)
+• Optellen: 8.400 + 350 = € 8.750 (1)
+
+## OPGAVE IT-00298 1p | Opgave 1
+In deze opgave blijven vakantiegeld, eindejaarsuitkering en het wettelijk maximum van de transitievergoeding buiten beschouwing.
+Houtwerk Noordzee bv sluit een werkplaats, omdat de orders blijvend dalen. Het UWV geeft toestemming voor ontslag om bedrijfseconomische redenen. Meubelmaker Tessa de Winter krijgt daardoor ontslag en heeft recht op een transitievergoeding.
+Tabel Informatiebron 1 Gegevens over Tessa de Winter en de regel voor de transitievergoeding in 2026. De regel komt van Rijksoverheid, https://www.rijksoverheid.nl/vraag-en-antwoord/ontslag/hoe-hoog-is-de-transitievergoeding-als-ik-word-ontslagen. De gegevens over Tessa zijn fictief.:
+Onderdeel | Gegeven
+Functie | Meubelmaker
+Werkweek | 36 uur
+Bruto maandsalaris voor de transitievergoeding | € 3.240
+Vakantiegeld | 8% van het brutoloon
+Werkgeversdeel sociale lasten | 28% van het brutoloon
+Datum indiensttreding | 1 maart 2017
+Datum einde dienstverband | 1 augustus 2026
+Regel hele dienstjaren | 1/3 bruto maandsalaris per heel dienstjaar
+Regel overige hele maanden | aantal maanden × (1/3 bruto maandsalaris : 12)
+Bepaal uit hoeveel hele dienstjaren en uit hoeveel overige hele maanden de diensttijd van Tessa de Winter bestaat. (zie informatiebron 1)
+### ANTWOORD
+Van 1 maart 2017 tot 1 maart 2026 zijn 9 hele jaren. Van 1 maart 2026 tot 1 augustus 2026 zijn 5 maanden. De diensttijd is dus 9 jaar en 5 maanden.
+Puntenverdeling:
+• Een antwoord zonder tijdvak (jaren en maanden) levert geen scorepunt op. Diensttijd van 1 maart 2017 tot 1 augustus 2026 is 9 hele jaren en 5 overige hele maanden (1)
+
+## EXAMEN vwo 2022-III 12 3p
+Lot dient vrijwillig ontslag in als dat meer oplevert dan de transitievergoeding bij gedwongen ontslag (informatiebron 5). Zal ze dat doen? Motiveer met een berekening.
+### ANTWOORD
+Brutoloon incl. provisie = 1.320 x 1,08 + 3.302,55 = 4.728,71 (1 p). Ruim 5 jaar in dienst: transitievergoeding € 8.125 (1 p). Vrijwillig: 15.000 x 24/40 = € 9.000 > 8.125, dus ze dient ontslag in (1 p).
+
+## EXAMEN vwo 2026-II 10 4p
+Een docent met 7,5 dienstjaren kan wekelijks loon en transitievergoeding in één keer ontvangen. Toon met een berekening aan of hij accepteert als het nettobedrag boven € 25.000 moet liggen (40% loonbelasting en premies).
+### ANTWOORD
+Netto weekloon 39×40×0,6 = 936; netto transitievergoeding 7,5×2×936 = 14.040 (1p). Contante waarde daarvan 13.858,75 (1p); contante waarde weekloon 12.095,33 (1p). Totaal € 25.954,08 > 25.000: hij accepteert (1p).
+
+
+# LEERDOEL BECO-PERSO-08
+domein: C
+onderwerp: C.arbeid
+thema: Arbeidsrecht
+wereld: h13,v14
+naam: Adviesrecht en instemmingsrecht van de ondernemingsraad onderscheiden
+doel: Ik kan uitleggen of de ondernemingsraad adviesrecht of instemmingsrecht heeft bij een besluit.
+
+## OPGAVE IT-00205 2p | Besluiten bij Delfzicht Zuivel
+Delfzicht Zuivel bv heeft 140 werknemers en een ondernemingsraad (OR). De directie neemt binnenkort twee besluiten. Ze wil de kaasfabriek in Appingedam sluiten. Ook wil ze een nieuwe regeling invoeren voor het opleidingsbudget van alle medewerkers.
+Maak van onderstaande tekst een economisch juiste tekst.
+Bij het besluit om de kaasfabriek te sluiten heeft de OR ...(1)... .
+Bij de regeling over het opleidingsbudget heeft de OR ...(2)... .
+Kies uit: bij (1) adviesrecht / instemmingsrecht
+Kies uit: bij (2) adviesrecht / instemmingsrecht
+### ANTWOORD
+Bij (1) adviesrecht, bij (2) instemmingsrecht.
+Puntenverdeling:
+• Per juiste keuze 1 scorepunt. bij (1): adviesrecht (1)
+• bij (2): instemmingsrecht (1)
+
+## OPGAVE IT-00207 2p | Nieuw rooster bij Groenhof Kassen
+Groenhof Kassen bv teelt tomaten en heeft 95 werknemers en een ondernemingsraad. De directie wil een nieuw rooster invoeren. Alle medewerkers gaan dan vanaf 1 maart in ploegendiensten werken, ook in het weekend.
+Leg uit welk recht de ondernemingsraad heeft bij dit besluit en wat dat betekent voor de directie. Maak de redenering af.
+Schakel 1 (gegeven): De directie wil een nieuw rooster invoeren voor alle medewerkers.
+Schakel 2: Een rooster is een regeling over ...(a)... .
+Schakel 3: Daarom heeft de OR ...(b)... .
+Schakel 4: Het gevolg is dat de directie het rooster ...(c)... .
+### ANTWOORD
+(a) arbeidsvoorwaarden, namelijk werktijden. (b) instemmingsrecht. (c) alleen mag invoeren als de OR instemt. Zonder instemming gaat het rooster niet door.
+Puntenverdeling:
+• Een juiste redenering bevat: (a) arbeidsvoorwaarden (werktijden) en (b) instemmingsrecht (1)
+• (c) pas mag invoeren als de OR ermee instemt (niet zonder instemming van de OR) (1)
+
+## OPGAVE IT-00266 1p | 
+In deze opgave gaat het alleen over het adviesrecht en het instemmingsrecht van de ondernemingsraad. Het initiatiefrecht en het recht op informatie blijven buiten beschouwing.
+Vlietpost bv is een pakketbezorger met 210 werknemers en een ondernemingsraad. De directie neemt drie besluiten.
+Besluit 1: Vlietpost fuseert met een concurrent. Besluit 2: het sorteercentrum in Zwolle gaat dicht. Besluit 3: er komt een nieuwe pauzeregeling voor alle chauffeurs.
+Welke van de onderstaande combinaties geeft juist aan welk recht de ondernemingsraad heeft bij de drie besluiten?
+### OPTIES C
+A Adviesrecht bij besluit 1; instemmingsrecht bij besluit 2 en 3.
+B Instemmingsrecht bij besluit 1 en 2; adviesrecht bij besluit 3.
+C Adviesrecht bij besluit 1 en 2; instemmingsrecht bij besluit 3.
+D Adviesrecht bij alle drie de besluiten.
+### ANTWOORD
+C
+Puntenverdeling:
+• Er wordt alleen om een keuze gevraagd; een toelichting is niet nodig en levert geen extra punt op. Antwoord C (adviesrecht bij besluit 1 en 2; instemmingsrecht bij besluit 3) (1)
+
+## OPGAVE IT-00267 1p | Besluiten bij Lindeboom Verpakkingen
+In deze opgave blijven de kosten van een sociaal plan buiten beschouwing.
+Lindeboom Verpakkingen bv heeft 140 werknemers en een ondernemingsraad (OR). De directie wil twee besluiten nemen (zie informatiebron 1).
+De directie zegt: 'Bij beide besluiten hebben we hetzelfde recht van de OR nodig.'
+Tabel Informatiebron 1: voorgenomen besluiten van de directie:
+Besluit | Omschrijving
+1 | De fabriek in Zwolle sluiten en de productie verplaatsen naar een nieuwe locatie. Hierdoor verdwijnen 22 banen.
+2 | Een nieuwe regeling voor werktijden invoeren: vaste ploegendiensten in plaats van dagdiensten.
+Geef aan welk recht de OR heeft bij besluit 1. (zie informatiebron 1)
+### ANTWOORD
+De OR heeft adviesrecht. De sluiting van de fabriek en de verplaatsing zijn een besluit met grote gevolgen voor de onderneming en de werknemers.
+Puntenverdeling:
+• Een juist antwoord is: adviesrecht. Adviesrecht (een sluiting en verplaatsing is een besluit met grote gevolgen) (1)
+
+## OPGAVE IT-00279 2p | Ondernemingsraad bij Zonnehoek Kassen bv
+In deze opgave blijft de hoogte van de lonen buiten beschouwing.
+Zonnehoek Kassen bv kweekt tomaten en heeft 120 werknemers en een ondernemingsraad (OR). De directie wil twee besluiten uitvoeren. De OR is tegen beide besluiten.
+Tabel Informatiebron 1: Besluiten van de directie van Zonnehoek Kassen bv:
+Besluit | Inhoud | Stand van zaken
+1 | De directie verkoopt de afdeling Export aan een ander bedrijf. Daardoor gaan 25 banen over naar de koper. | De OR heeft binnen de afgesproken termijn een negatief advies gegeven. De directie heeft dit advies ontvangen.
+2 | Alle medewerkers moeten voortaan elk jaar een verplichte veiligheidscursus volgen. Het bedrijf betaalt de cursus. Dit staat in een nieuwe opleidingsregeling. | De directie heeft de OR gevraagd in te stemmen. De OR heeft dat geweigerd.
+Beredeneer voor elk van beide besluiten of de directie het besluit mag uitvoeren nu de OR tegen is. Betrek in je antwoord het recht van de OR dat bij elk besluit past. (zie informatiebron 1)
+### ANTWOORD
+Besluit 1: de OR heeft adviesrecht, want de verkoop van een afdeling heeft grote gevolgen. Het advies is niet bindend en de directie heeft het ontvangen, dus ze mag uitvoeren. Besluit 2: de OR heeft instemmingsrecht, want een opleidingsregeling gaat over arbeidsvoorwaarden. Zonder instemming mag de directie de regeling niet invoeren.
+Puntenverdeling:
+• Per besluit moet het antwoord het juiste recht, de juiste redenering en de conclusie bevatten. Besluit 1: de OR heeft adviesrecht, omdat de verkoop van een afdeling een besluit met grote gevolgen is. Het advies is niet bindend en de directie heeft het advies ontvangen. De directie mag het besluit dus uitvoeren, ook al is de OR tegen. (1)
+• Besluit 2: de OR heeft instemmingsrecht, omdat de opleidingsregeling een regeling over arbeidsvoorwaarden is. Zonder instemming van de OR mag de directie de regeling niet invoeren. (1)
+
+## EXAMEN havo 2023-I 18 2p
+De directie wil het aantal bij te kopen vakantiedagen verhogen van 10 naar 14. Op grond van welke bevoegdheden van de ondernemingsraad moet zij dit voorstel aan de OR voorleggen?
+### ANTWOORD
+Informatierecht (1 punt) en instemmingsrecht (1 punt).
+
+## EXAMEN havo 2024-I 24 1p
+Noem twee andere bevoegdheden van de ondernemingsraad dan het instemmingsrecht.
+### ANTWOORD
+Twee van: adviesrecht, initiatiefrecht, recht op informatie. Het punt volgt alleen bij twee juiste antwoorden.
+
+## EXAMEN vwo 2026-II 8 2p
+De ondernemingsraad adviseert over een reorganisatie. Noem de drie andere bevoegdheden van de ondernemingsraad.
+### ANTWOORD
+Instemmingsrecht, informatierecht en initiatiefrecht. Drie goed: 2p, twee goed: 1p, minder: 0p.
+

@@ -1,0 +1,457 @@
+# LEERDOEL BECO-BREAK-01
+domein: F
+onderwerp: F.breakeven
+thema: Break-even
+wereld: h21,v24
+naam: Break-evenafzet berekenen met de dekkingsbijdrage
+doel: Ik kan de break-evenafzet uitrekenen met de dekkingsbijdrage.
+gens: breakEven,dekkingsbijdrage
+
+## OPGAVE IT-00242 2p | Dekkingsbijdrage en break-evenafzet
+Bakkerij Korenhof bv wil weten hoeveel broden zij per maand moet verkopen om geen verlies te maken. De eigenaar maakt hiervoor een korte samenvatting.
+Bij een brood zijn de inkoop van meel en de verpakking kosten die meegroeien met de afzet. De huur van de winkel blijft gelijk, ook als er minder broden worden verkocht.
+Maak van onderstaande tekst een economisch juiste tekst.
+De dekkingsbijdrage per brood is de verkoopprijs min de ...(1)... kosten per brood.
+Voor de break-evenafzet deel je de ...(2)... kosten door de ...(3)... .
+Kies uit: bij (1) variabele / constante
+Kies uit: bij (2) variabele / constante
+Kies uit: bij (3) dekkingsbijdrage per brood / verkoopprijs per brood
+### ANTWOORD
+(1) variabele, (2) constante, (3) dekkingsbijdrage per brood.
+Puntenverdeling:
+• bij (1) variabele en bij (2) constante (1)
+• bij (3) dekkingsbijdrage per brood (1)
+
+## OPGAVE IT-00243 3p | Escaperoom Sleutelkamer
+Sleutelkamer bv exploiteert een escaperoom. Elke bezoeker betaalt € 28,00. Per bezoeker maakt het bedrijf € 6,50 variabele kosten voor materiaal en een drankje.
+De constante kosten bedragen € 9.800 per maand. Schat eerst of de break-evenafzet dichter bij 350 of bij 450 bezoekers ligt.
+Bereken de break-evenafzet per maand in aantallen bezoekers.
+Controleer je antwoord met de dekkingsbijdrage per bezoeker.
+### ANTWOORD
+Dekkingsbijdrage = 28 − 6,50 = € 21,50. Break-evenafzet = 9.800 : 21,50 = 455,8. Bezoekers zijn hele mensen, dus ik rond naar boven af: 456 bezoekers. Controle: 456 × 21,50 = € 9.804, dat is genoeg om € 9.800 te dekken.
+Puntenverdeling:
+• Dekkingsbijdrage per bezoeker = 28 − 6,50 = € 21,50 (1)
+• Break-evenafzet = 9.800 : 21,50 = 455,8 (1)
+• Naar boven afronden op 456 bezoekers (1)
+
+## OPGAVE IT-00293 6p | Zeilschool Waterwolf
+In deze opgave blijft de btw buiten beschouwing. Zeilschool Waterwolf bv geeft weekendcursussen. Een cursist betaalt € 165 per weekend. Per cursist zijn de variabele kosten € 12,50 voor lesmateriaal en € 9,50 voor de lunch.
+De zeilschool wil weten hoeveel cursisten er per jaar minimaal nodig zijn om de kosten te dekken. De overige kosten per jaar staan in informatiebron 1. De interest over de lening telt mee als kosten.
+Tabel Informatiebron 1 Overige kosten per jaar:
+Kostenpost | Gegeven | Waarde
+Zeilboten | Aanschafprijs | € 54.000
+Zeilboten | Restwaarde | € 6.000
+Zeilboten | Levensduur (lineair afschrijven) | 8 jaar
+Huur steiger | Huur per maand | € 1.150
+Vaste instructeurs | Loonkosten per jaar | € 38.500
+Verzekeringen | Premie per jaar | € 4.200
+Lening | Geleend bedrag | € 60.000
+Lening | Interest per jaar | 4%
+Bereken de break-evenafzet per jaar in aantallen cursisten. (zie informatiebron 1)
+### ANTWOORD
+Afschrijving = (54.000 − 6.000) : 8 = 6.000. Huur = 12 × 1.150 = 13.800. Interest = 60.000 × 0,04 = 2.400. Constante kosten = 6.000 + 13.800 + 2.400 + 38.500 + 4.200 = € 64.900. Dekkingsbijdrage = 165 − 12,50 − 9,50 = € 143. Break-evenafzet = 64.900 : 143 = 453,8, dus 454 cursisten.
+Puntenverdeling:
+• Afschrijving per jaar = (54.000 − 6.000) : 8 = € 6.000 (1)
+• Huur per jaar = 12 × 1.150 = € 13.800 (1)
+• Interest per jaar = 60.000 × 0,04 = € 2.400 (1)
+• Totale constante kosten = afschrijving + huur + interest + loonkosten vaste instructeurs + verzekeringen = 6.000 + 13.800 + 2.400 + 38.500 + 4.200 = € 64.900 (1)
+• Dekkingsbijdrage per cursist = 165 − 12,50 − 9,50 = € 143 (1)
+• Break-evenafzet = 64.900 : 143 = 453,8, dus 454 cursisten (naar boven afgerond) (1)
+
+## OPGAVE IT-00299 2p | Opgave 1
+In deze opgave blijft de btw buiten beschouwing.
+Vuurvork bv verkoopt hamburgers vanuit een foodtruck. Verkoopprijs: € 11,50. Inkoop: 40% van de verkoopprijs. Overige variabele kosten: € 0,60 per hamburger.
+De foodtruck kostte € 36.000 en is na 5 jaar € 6.000 waard (lineair afschrijven). De lening van € 12.000 wordt niet afgelost; de rente is 0,5% per maand. Standplaats: € 1.850 per maand. Verzekering: € 1.680 per jaar. Samen met de afschrijving en de rente zijn dit de constante kosten.
+Bereken de dekkingsbijdrage per hamburger.
+### ANTWOORD
+Inkoop = 0,40 × 11,50 = € 4,60. Dekkingsbijdrage = verkoopprijs − variabele kosten = 11,50 − 4,60 − 0,60 = € 6,30 per hamburger.
+Puntenverdeling:
+• Inkoopkosten per hamburger = 0,40 × 11,50 = € 4,60 (1)
+• Dekkingsbijdrage = 11,50 − 4,60 − 0,60 = € 6,30 (1)
+
+## OPGAVE IT-00585 3p | Kaarsenmakerij Lumen
+In deze opgave blijft de btw buiten beschouwing.
+Kaarsenmakerij Lumen verkoopt handgegoten geurkaarsen voor € 24 per stuk. De grondstoffen kosten € 7,50 per kaars en de verpakking en overige variabele kosten € 4,50 per kaars. De constante kosten (huur, energie en loon van de eigenaar) bedragen € 3.000 per maand.
+Bereken de break-evenafzet per jaar in aantal kaarsen.
+### ANTWOORD
+Dekkingsbijdrage = 24 − 7,50 − 4,50 = € 12 per kaars. Constante kosten per jaar = 12 × 3.000 = € 36.000. Break-evenafzet = 36.000 : 12 = 3.000 kaarsen. Controle: 12 × 3.000 = € 36.000, dat is gelijk aan de constante kosten.
+Puntenverdeling:
+• Een juist antwoord is: dekkingsbijdrage per kaars € 24 − € 7,50 − € 4,50 = € 12; constante kosten per jaar 12 × € 3.000 = € 36.000; break-evenafzet 36.000 : 12 = 3.000 kaarsen. Dekkingsbijdrage per kaars: 24 − 7,50 − 4,50 = € 12 (1)
+• Constante kosten per jaar: 12 × 3.000 = € 36.000 (1)
+• Break-evenafzet: 36.000 : 12 = 3.000 kaarsen (1)
+
+## OPGAVE IT-00587 4p | Brouwerij Duinbier
+In deze opgave blijft de btw buiten beschouwing.
+Brouwerij Duinbier verkoopt kratten speciaalbier voor € 48 per krat. Per krat zijn de grondstoffen € 11,20, de verpakking is 5% van de verkoopprijs en het transport kost € 3,10. De constante kosten zijn € 9.200 per maand, exclusief afschrijving. De tapinstallatie kostte € 120.000, wordt in 8 jaar lineair afgeschreven en heeft een restwaarde van € 24.000. De verwachte afzet is 340 kratten per maand.
+Toon met een berekening van de break-evenafzet aan dat het verwachte resultaat over een jaar positief is.
+### ANTWOORD
+Dekkingsbijdrage = 48 − 11,20 − 0,05 × 48 − 3,10 = € 31,30. Afschrijving = (120.000 − 24.000) : 8 = € 12.000 per jaar. Constante kosten = 12 × 9.200 + 12.000 = € 122.400. Break-evenafzet = 122.400 : 31,30 = 3.910,5, dus 3.911 kratten. Verwacht: 12 × 340 = 4.080 kratten. Dat is meer, dus het resultaat is positief.
+Puntenverdeling:
+• Een juist antwoord is: dekkingsbijdrage 48 − 11,20 − 0,05 × 48 − 3,10 = € 31,30; constante kosten per jaar 12 × 9.200 + (120.000 − 24.000) : 8 = € 122.400; break-evenafzet 122.400 : 31,30 = 3.910,5, dus 3.911 kratten; verwachte afzet 12 × 340 = 4.080 kratten is hoger, dus het resultaat is positief. Dekkingsbijdrage per krat: 48 − 11,20 − 0,05 × 48 − 3,10 = € 31,30 (1)
+• Constante kosten per jaar: 12 × 9.200 + (120.000 − 24.000) : 8 = € 122.400 (1)
+• Break-evenafzet: 122.400 : 31,30 = 3.910,5, dus 3.911 kratten (1)
+• Verwachte afzet 12 × 340 = 4.080 kratten is hoger dan de break-evenafzet, dus het resultaat is positief (1)
+
+## OPGAVE IT-00591 3p | Veloxa fietssloten
+In deze opgave blijft de btw buiten beschouwing.
+Veloxa bv verkoopt een kettingslot voor € 65 per stuk. De inkoopkosten zijn 36% van de verkoopprijs en de overige variabele kosten bedragen € 6,20 per stuk. De constante kosten zijn € 11.500 per maand. Een kwartaal telt drie maanden.
+Bereken het minimale aantal kettingsloten dat Veloxa per kwartaal moet verkopen om break-even te draaien.
+### ANTWOORD
+Dekkingsbijdrage per stuk = 65 − 0,36 × 65 − 6,20 = € 35,40. Constante kosten per kwartaal = 3 × 11.500 = € 34.500. Break-evenafzet = 34.500 : 35,40 = 974,6. Veloxa moet dus minimaal 975 kettingsloten per kwartaal verkopen.
+Puntenverdeling:
+• Een juist antwoord is: Dekkingsbijdrage per stuk: 65 − 0,36 × 65 − 6,20 = € 35,40 (1)
+• Constante kosten per kwartaal: 3 × 11.500 = € 34.500 (1)
+• Break-evenafzet: 34.500 : 35,40 = 974,6, naar boven afgerond minimaal 975 stuks (1)
+
+## EXAMEN havo 2022-I 9 3p
+Toon met de dekkingsbijdrage per menu aan dat het restaurant in het tweede kwartaal 1.000 driegangenmenu's te weinig bezorgde om de break-evenafzet te halen. Gebruik informatiebron 1 en 2.
+### ANTWOORD
+Dekkingsbijdrage = 35 − 10,50 − 2,50 = €22. Break-evenafzet = 79.200 : 22 = 3.600 menu's. Bezorgd 200 × 13 = 2.600. Tekort 3.600 − 2.600 = 1.000.
+
+## EXAMEN havo 2022-II 19 3p
+Met de resultatenoverzichten en de prijsgegevens: bereken met de break-evenafzet hoeveel flessen er in kwartaal 1 meer verkocht hadden moeten worden om geen verlies te maken. Interest telt mee bij de constante kosten.
+### ANTWOORD
+Break-evenafzet: (3.600 + 650 + 450 + 2.980) : (4,80 − 2,00 − 0,40) = 3.200 (2p). Werkelijke afzet: 14.400 : 4,80 = 3.000, dus 200 flessen meer (1p).
+
+## EXAMEN havo 2023-II 27 2p
+Het gemiddelde bestelbedrag is € 26 exclusief bezorging. Bereken de verwachte dekkingsbijdrage per bestelling, met de bezorgopbrengst en de variabele kosten uit de bronnen.
+### ANTWOORD
+Opbrengst per bestelling 26 + 1,80 = € 27,80. Dekkingsbijdrage 27,80 − 15 = € 12,80.
+
+## EXAMEN havo 2023-II 28 3p
+Laat met een berekening van de break-evenafzet zien of het bedrijf in 2023 uitbreidt naar Groningen. De verwachte afzet moet minstens 15% hoger zijn dan de break-evenafzet.
+### ANTWOORD
+Break-evenafzet 138.000 : 12,80 = 10.782 bestellingen (naar boven afgerond; 10.781 geen punt). Verwachte afzet 20.000 : 10.782 × 100% = 185,5%, dus 85,5% hoger. Dat is meer dan 15%, dus uitbreiden.
+
+## EXAMEN havo 2024-I 16 1p
+Verkoopprijs € 15,00 plus € 3,05 bezorgservice. Inkoop is 50% en overige variabele kosten zijn 3% van € 15,00. Bereken de dekkingsbijdrage per bezorgde maaltijdbox.
+### ANTWOORD
+15 + 3,05 − (15 × 0,53) = € 10,10.
+
+## EXAMEN havo 2024-I 17 2p
+Jaarlijkse overige constante kosten € 5.000 en 0,5% interest per maand over een lening van € 2.500. Bereken hoeveel maaltijdboxen in januari minimaal verkocht moeten worden om alle kosten te dekken. Rond af op hele boxen.
+### ANTWOORD
+Constante kosten per maand: 5.000 : 12 + 2.500 × 0,005 = 429,17. Break-evenafzet: 429,17 : 10,10 = 42,49, dus 43 boxen. Zonder afronding geen tweede punt.
+
+## EXAMEN havo 2024-I 18 1p
+In januari worden 30 maaltijdboxen afgeleverd. Bereken het totale gerealiseerde resultaat en geef aan of het positief of negatief is.
+### ANTWOORD
+30 × 10,10 − 429,17 = € 126,17 negatief (nadelig).
+
+## EXAMEN havo 2025-I 29 3p
+Pakketten kosten € 15. Met omzet € 21.600, variabele kosten € 3.000 en € 8.520 loon, constante kosten en een verlies van € 2.100 in het kwartaal: bereken met de dekkingsbijdrage hoeveel pakketten meer verkocht hadden moeten worden om break-even te halen.
+### ANTWOORD
+Afzet 21.600 : 15 = 1.440 pakketten. Variabele kosten per pakket (8.520 + 3.000) : 1.440 = 8, dekkingsbijdrage 15 − 8 = 7. Extra pakketten 2.100 : 7 = 300. Elke stap 1 punt. Via TO = TK telt de tweede stap niet.
+
+## EXAMEN havo 2025-II 20 2p
+Een abonnement kost € 4.000 en heeft € 150 variabele kosten. De constante kosten zijn € 16.000, exclusief interest van de lening. Bereken hoeveel abonnementen minimaal verkocht moeten worden voor een resultaat van € 40.000. Rond af op hele abonnementen.
+### ANTWOORD
+(16.000 + 1.132,53 + 40.000) : (4.000 − 150) = 14,8, dus 15 jaarabonnementen. 2 punten; afronden op hele stuks is nodig voor de volle score.
+
+## EXAMEN havo 2026-I 23 1p
+Bereken de dekkingsbijdrage per kinderfeestje met 6 kinderen. Gebruik informatiebronnen 3 en 4.
+### ANTWOORD
+138 − 6 × (6,90 + 2,10) = € 84 (1 punt).
+
+## EXAMEN vwo 2022-I 23 3p
+Toon met de break-evenafzet over 2022 aan dat het verwachte resultaat van de startup positief is. Gebruik informatiebron 8 en de uitwerkbijlage.
+### ANTWOORD
+Opbrengst per klus € 6,50, variabele kosten € 1,30, dekkingsbijdrage € 5,20 (1 punt). Constante kosten € 17.600, break-evenafzet 17.600 : 5,20 = 3.385 (1 punt). Verwachte afzet 300 × 12 = 3.600 (1 punt, volgens aanvulling).
+
+## EXAMEN vwo 2022-II 12 6p
+Toon met de verwachte dekkingsbijdrage per order aan of het verwachte resultaat over 2021 hoger wordt dan het gerealiseerde resultaat over 2020 (vraag 8). Gebruik de uitwerkbijlage.
+### ANTWOORD
+Constante kosten 94.407; variabele kosten per order 32,36 (bezorging 3,50, commissie 8,86, inkoop 20,00); dekkingsbijdrage 3,64. Benodigde orders (94.407 + 62.854,85) : 3,64 = 43.204 > 15.640 × 1,4. Het lukt dus niet.
+
+## EXAMEN vwo 2023-I 30 3p
+Een restaurant verkoopt dinerboxen voor € 95 (inkoop 40% van de omzet, overige variabele kosten € 5,50 per box), met constante kosten van € 35.000 per maand en € 20.000 subsidie per kwartaal. Bereken met de dekkingsbijdrage het minimale aantal boxen voor break-even.
+### ANTWOORD
+Dekkingsbijdrage 95 − 0,40 × 95 − 5,50 = 51,50 (1). Te dekken 3 × 35.000 − 20.000 = 85.000 (1). Aantal 85.000 : 51,50 = 1.651 (1); afronden op 1.650 levert geen punt op.
+
+## EXAMEN vwo 2024-I 22 3p
+In januari 2024 moet het resultaat minstens € 1.500 hoger zijn dan in december, bij een dekkingsbijdrage van € 5 per pizza. Constante kosten wijzigen alleen door afschrijving van de ovens en de interest op de lening. Bereken het benodigde aantal pizza's.
+### ANTWOORD
+Constante kosten: 50.000 + 3 × (12.000 + 800 − 920) : 24 + 0,5% × 26.000 = 51.615 (2p). Aantal: (51.615 + 1.500 + 5.200) : 5 = 11.663 pizza's (1p).
+
+## EXAMEN vwo 2025-II 22 2p
+Verkoopprijs € 900, inkoopprijs € 430, overige variabele kosten € 110. Bereken de dekkingsbijdrage per stuk als percentage van de verkoopprijs.
+### ANTWOORD
+(900 − 430 − 110) : 900 × 100% = 40%. Per fout 1 scorepunt in mindering.
+
+## EXAMEN vwo 2025-II 23 2p
+Toon met een berekening aan dat bij 2.500 verkochte stuks de break-evenomzet in 2025 niet wordt gehaald.
+### ANTWOORD
+Constante kosten (1.057,50 × 10 + 9.000) × 52 = € 1.017.900 (1 punt). Break-evenomzet 1.017.900 : 0,40 = € 2.544.750 > verwachte omzet 2.500 × 900 = € 2.250.000 (1 punt).
+
+## EXAMEN vwo 2026-II 18 2p
+Bereken voor de verkooponderneming van het concern de break-evenomzet. Bereken eerst de variabele kosten als percentage van de omzet, met inkoopkosten als variabel deel.
+### ANTWOORD
+Variabel 600.000 : 1.500.000 = 40% (1p). Constante kosten = 800.000−600.000 + 9.000 + 31.000 = 240.000; break-evenomzet 240.000 : 0,60 = € 400.000 (1p).
+
+
+# LEERDOEL BECO-BREAK-02
+domein: F
+onderwerp: F.breakeven
+thema: Break-even
+wereld: h21,v24
+naam: Break-evengrafiek aflezen en het resultaat uitleggen
+doel: Ik kan in een break-evengrafiek de break-evenafzet aflezen en het resultaat uitleggen.
+gens: grafBreakEven,grafResultaat
+
+## OPGAVE IT-00068 2p | Break-evengrafiek van een kajakverhuurder
+Waddenbries Kajakverhuur nv verhuurt kajaks voor dagtochten op de Waddenzee. De controller heeft een break-evengrafiek gemaakt. Op de horizontale as staat de afzet (het aantal verhuurde kajaks per jaar) en op de verticale as staan de bedragen in euro's. De grafiek is hier als schets beschreven, zonder getallen op de assen.
+In de schets staan twee stijgende lijnen, P en Q. Lijn P begint in het punt waar de assen elkaar snijden. Lijn Q begint op de verticale as, boven dat punt, en loopt minder steil dan lijn P. De lijnen snijden elkaar in punt S. Links van S ligt lijn Q boven lijn P. Rechts van S ligt lijn P boven lijn Q.
+Maak van onderstaande tekst een economisch juiste tekst. Lijn Q in de schets is de lijn van ...(1)... en lijn P is de lijn van ...(2)... Bij een afzet links van punt S maakt Waddenbries ...(3)..., bij een afzet rechts van punt S maakt het bedrijf ...(4)...
+Kies uit:
+bij (1): de totale opbrengst / de totale kosten / de totale variabele kosten
+bij (2): de totale opbrengst / de totale kosten / de dekkingsbijdrage
+bij (3): winst / verlies / precies break-even
+bij (4): winst / verlies / precies break-even
+### ANTWOORD
+(1) de totale kosten | (2) de totale opbrengst | (3) verlies | (4) winst
+Puntenverdeling:
+• Een juist antwoord bevat: bij (1) de totale kosten en bij (2) de totale opbrengst (1)
+• bij (3) verlies en bij (4) winst (1)
+
+## OPGAVE IT-00069 3p | Break-even bij een kaasmakerij
+Veenhoeve Kaasmakerij bv verkoopt boerenkazen voor € 30 per kaas. De variabele kosten zijn € 18 per kaas. De constante kosten bedragen € 72.000 per jaar. Het bedrijf verwacht dit jaar een afzet van 7.500 kazen.
+De controller heeft een break-evengrafiek gemaakt met twee lijnen, lijn 1 en lijn 2. In de grafiek staat niet welke grootheid bij welke lijn hoort. De grafiek is hier als schets beschreven. Lijn 1 begint in het punt waar de assen elkaar snijden en loopt steiler dan lijn 2. Lijn 2 begint op de verticale as bij € 72.000. De lijnen snijden elkaar bij een afzet van 6.000 kazen.
+Leg uit, met behulp van de ligging van lijn 1 en lijn 2, dat Veenhoeve bij een afzet van 7.500 kazen winst maakt.
+### ANTWOORD
+Lijn 1 begint in de oorsprong, dus dat is de totale opbrengst. Lijn 2 begint op € 72.000, de constante kosten, dus dat is de totale kosten. Waar de lijnen elkaar snijden, bij 6.000 kazen, zijn de opbrengst en de kosten gelijk: dat is het break-evenpunt (72.000 : (30 - 18) = 6.000). Bij 7.500 kazen zitten we rechts van dat punt. Daar ligt lijn 1 boven lijn 2: de opbrengst is hoger dan de kosten. Dus Veenhoeve maakt winst.
+Puntenverdeling:
+• Een juiste uitleg bevat: Lijn 1 begint in de oorsprong en is dus de totale opbrengst. Lijn 2 begint op € 72.000, de hoogte van de constante kosten, en is dus de totale kosten. (1)
+• Het snijpunt bij 6.000 kazen is het break-evenpunt, want daar zijn de totale opbrengst en de totale kosten gelijk. (1)
+• Een afzet van 7.500 kazen ligt rechts van het snijpunt. Daar ligt lijn 1 (opbrengst) boven lijn 2 (kosten), dus de opbrengst is hoger dan de kosten en er is winst. (1)
+
+## OPGAVE IT-00070 4p | Nieuw pand en zuinigere installatie bij een brouwerij
+Bierbrouwerij Meerwind bv verkoopt pakken van vier speciaalbiertjes voor € 8 per pak. In de huidige situatie zijn de variabele kosten € 3 per pak en de constante kosten € 40.000 per jaar. De brouwerij verwacht een afzet van 9.000 pakken.
+De brouwerij verhuist naar een groter pand met een zuinigere installatie. Daardoor stijgen de constante kosten naar € 60.000 per jaar en dalen de variabele kosten naar € 2 per pak. De verkoopprijs blijft € 8 per pak en de verwachte afzet blijft 9.000 pakken.
+De huidige situatie is in een break-evengrafiek weergegeven, hier als schets beschreven zonder getallen op de assen. De lijn van de totale opbrengst begint in de oorsprong. De lijn van de totale kosten begint op de verticale as bij € 40.000 en snijdt de opbrengstlijn bij een afzet van 8.000 pakken.
+Beredeneer met behulp van de schets en met een berekening van de nieuwe break-evenafzet of Meerwind na de verhuizing bij een afzet van 9.000 pakken winst of verlies maakt.
+### ANTWOORD
+De kostenlijn begint nu hoger, op € 60.000 in plaats van € 40.000, maar hij loopt minder steil omdat de variabele kosten dalen van € 3 naar € 2 per pak. De opbrengstlijn begint in de oorsprong en verandert niet. De hogere constante kosten schuiven het snijpunt naar rechts, de lagere variabele kosten schuiven het naar links. Daarom reken ik de nieuwe break-evenafzet uit: de dekkingsbijdrage is 8 - 2 = € 6 per pak, dus 60.000 : 6 = 10.000 pakken. Dat is meer dan de oude break-evenafzet van 8.000 pakken. Bij 9.000 pakken zitten we links van het snijpunt. Daar ligt de opbrengstlijn onder de kostenlijn. Dus Meerwind maakt verlies.
+Puntenverdeling:
+• Een juiste redenering bevat: De lijn van de totale kosten begint hoger (€ 60.000 in plaats van € 40.000) en loopt minder steil (€ 2 in plaats van € 3 per pak). De lijn van de totale opbrengst verandert niet. (1)
+• De hogere constante kosten schuiven het snijpunt naar rechts. De lagere variabele kosten per pak (hogere dekkingsbijdrage) schuiven het snijpunt naar links. Het nettoeffect moet dus worden bepaald. (1)
+• Break-evenafzet = 60.000 : (8 - 2) = 10.000 pakken. Het snijpunt ligt nu rechts van het oude snijpunt bij 8.000 pakken. (1)
+• 9.000 pakken ligt links van het nieuwe snijpunt. Daar ligt de opbrengstlijn onder de kostenlijn, dus Meerwind maakt verlies. (1)
+
+## OPGAVE IT-00080 3p | Resultaat in de break-evengrafiek bij fietstassen
+Dijkman Fietstassen bv maakt waterdichte fietstassen en verkoopt ze aan fietswinkels. De verkoopprijs per tas is hoger dan de variabele kosten per tas. Daarnaast heeft de onderneming constante kosten per jaar, onder andere voor de huur van de werkplaats en de afschrijving op de naaimachines. In deze opgave blijft de btw buiten beschouwing.
+De afdeling Financiën heeft een break-evengrafiek gemaakt. De grafiek is hier beschreven als schets, zonder getallen op de assen. De afzet in aantallen tassen staat op de horizontale as en de bedragen in euro's staan op de verticale as.
+In de grafiek staan twee rechte lijnen. De lijn TO is de totale opbrengst. Deze lijn begint in de oorsprong. De lijn TK is de totale kosten. Deze lijn begint op de verticale as boven de oorsprong en loopt minder steil dan TO. De lijnen snijden elkaar in punt S, bij een afzet van Q op de horizontale as.
+De verwachte afzet van dit jaar ligt op de horizontale as links van Q.
+Leg met behulp van de grafiek uit hoe het resultaat van Dijkman Fietstassen verandert als de afzet stijgt van de verwachte afzet tot een afzet boven Q.
+### ANTWOORD
+Bij de verwachte afzet, links van Q, ligt de lijn van de totale kosten boven de lijn van de totale opbrengst. Het resultaat is het verticale verschil tussen die twee lijnen. De kosten zijn hoger dan de opbrengst, dus er is verlies. Als de afzet stijgt, wordt dat verschil kleiner. De opbrengstlijn loopt steiler dan de kostenlijn, want elke extra tas brengt meer op dan de extra variabele kosten. Het verlies wordt dus steeds kleiner. In punt S, bij afzet Q, zijn opbrengst en kosten gelijk en is het resultaat nul. Bij een afzet boven Q ligt de opbrengstlijn boven de kostenlijn. Dan is er winst, en die winst wordt groter als de afzet verder stijgt.
+Puntenverdeling:
+• Een juiste uitleg bevat de volgende elementen: Bij de verwachte afzet (links van Q) ligt lijn TK boven lijn TO: de totale kosten zijn hoger dan de totale opbrengst. Het resultaat is het verticale verschil tussen beide lijnen, dus het resultaat is negatief (verlies). (1)
+• Als de afzet stijgt, wordt het verticale verschil kleiner, omdat TO steiler loopt dan TK: elke extra tas levert meer opbrengst op dan extra variabele kosten (positieve dekkingsbijdrage), dus het verlies neemt af. (1)
+• Bij afzet Q (punt S) zijn de totale opbrengst en de totale kosten gelijk, dus het resultaat is nul. Bij een afzet boven Q ligt TO boven TK, dus is het resultaat positief (winst) en deze winst neemt verder toe als de afzet stijgt. (1)
+
+## OPGAVE IT-00579 3p | Break-evengrafiek van een wafelbakkerij
+Noordkust Wafelbakkerij bv verkoopt verpakte stroopwafels voor € 6 per pak. De variabele kosten zijn € 2,50 per pak en de constante kosten € 56.000 per jaar. De bakkerij verwacht dit jaar een afzet van 14.000 pakken.
+De controller heeft een break-evengrafiek gemaakt met de lijnen A, B en C. De figuur is een schets zonder getallen op de assen. De lijnen A en B snijden elkaar bij een afzet van 16.000 pakken.
+Figuur (break-evenschets met lijnen A opbrengst, B totale kosten, C constante kosten)
+Leg uit met behulp van de ligging van de lijnen A, B en C in de figuur dat Noordkust Wafelbakkerij bij een afzet van 14.000 pakken verlies maakt.
+### ANTWOORD
+Lijn A begint in de oorsprong, dus dat is de totale opbrengst. Lijn B begint op € 56.000, de constante kosten (lijn C), dus B is de totale kosten. Waar A en B elkaar snijden, bij 16.000 pakken, zijn opbrengst en kosten gelijk: dat is het break-evenpunt. Bij 14.000 pakken zit ik links daarvan. Daar ligt B boven A, dus de kosten zijn hoger dan de opbrengst. Dus er is verlies.
+Puntenverdeling:
+• Een juiste uitleg bevat: Lijn A begint in de oorsprong en is dus de totale opbrengst. Lijn B begint op de hoogte van de constante kosten (€ 56.000) en is dus de totale kosten. Lijn C is de constante kosten. (1)
+• Het snijpunt van A en B bij 16.000 pakken is het break-evenpunt, omdat daar de totale opbrengst gelijk is aan de totale kosten. (1)
+• 14.000 pakken ligt links van het snijpunt. Daar ligt lijn B (totale kosten) boven lijn A (totale opbrengst), dus de kosten zijn hoger dan de opbrengst en er is verlies. (1)
+
+## EXAMEN vwo 2024-I 18 2p
+Van pizzarestaurant Bella Cucina is een grafiek met omzet en kosten over december 2023 gegeven; alle pizza's hebben dezelfde prijs en variabele kosten. Bereken de dekkingsbijdrage per pizza.
+### ANTWOORD
+Variabele kosten per pizza: (106.000 − 50.000) : 14.000 = 4 (1p). Verkoopprijs 140.000 : 14.000 = 10. Dekkingsbijdrage 10 − 4 = € 6 (1p).
+
+## EXAMEN vwo 2024-I 19 1p
+In december 2023 zijn 9.200 pizza's verkocht. Bereken het resultaat en geef aan of het positief of negatief is.
+### ANTWOORD
+Resultaat: 9.200 × 6 − 50.000 = € 5.200, voordelig (positief).
+
+
+# LEERDOEL BECO-BREAK-03
+domein: F
+onderwerp: F.breakeven
+thema: Break-even
+wereld: h21,v24
+naam: Effect van een prijswijziging op het resultaat aantonen
+doel: Ik kan met berekeningen aantonen wat een prijsverlaging doet met het resultaat.
+
+## OPGAVE IT-00059 3p | Lumiq nv verlaagt de prijs van fietsverlichting
+In deze opgave blijft de winstbelasting buiten beschouwing. Lumiq nv maakt ledverlichting voor fietsen en verkoopt die aan fietsenwinkels. Om meer marktaandeel te krijgen verlaagt de directie de verkoopprijs met 20%. Door de verlaging verwacht de directie een afzet van 80.000 stuks per jaar.
+De inkoopkosten per stuk, de directe arbeid per stuk en de constante kosten veranderen niet door de prijsverlaging. De overige variabele kosten blijven 10% van de omzet. De gegevens van de huidige situatie staan in de tabel.
+Tabel Gegevens Lumiq nv (huidig jaar):
+Post | Gegeven
+Verkoopprijs per stuk | € 50
+Afzet per jaar | 60.000 stuks
+Inkoopkosten materiaal per stuk | € 18
+Directe arbeid per stuk | € 8
+Overige variabele kosten | 10% van de omzet
+Constante kosten per jaar (waarvan afschrijving € 90.000) | € 700.000
+Bereken met hoeveel euro het resultaat per jaar van Lumiq nv verandert door de prijsverlaging.
+Vermeld bij je antwoord of het resultaat stijgt of daalt.
+### ANTWOORD
+Eerst het huidige resultaat. De overige variabele kosten zijn 10% van € 50 = € 5 per stuk. De dekkingsbijdrage per stuk is 50 − 18 − 8 − 5 = € 19. Het resultaat is 60.000 × 19 − 700.000 = € 440.000 voordelig. Na de verlaging is de prijs 50 × 0,80 = € 40. De overige variabele kosten zijn nu 10% van € 40 = € 4 per stuk, dus de dekkingsbijdrage is 40 − 18 − 8 − 4 = € 10 per stuk. Het resultaat is 80.000 × 10 − 700.000 = € 100.000 voordelig. Het resultaat daalt dus met 440.000 − 100.000 = € 340.000.
+Puntenverdeling:
+• Huidig resultaat: dekkingsbijdrage per stuk 50 − 18 − 8 − 10% × 50 = € 19 en resultaat 60.000 × 19 − 700.000 = € 440.000 voordelig (1)
+• Nieuw resultaat: nieuwe prijs 50 × 0,80 = € 40, dekkingsbijdrage per stuk 40 − 18 − 8 − 10% × 40 = € 10 en resultaat 80.000 × 10 − 700.000 = € 100.000 voordelig (1)
+• Het resultaat daalt met 440.000 − 100.000 = € 340.000 (1)
+
+## OPGAVE IT-00060 4p | Sapperij Zuidhoek: een hogere prijs
+In deze opgave blijft de winstbelasting buiten beschouwing. Sapperij Zuidhoek nv produceert verse appelsap in glazen flessen. De omzet bedraagt € 1.600.000 per jaar bij een verkoopprijs van € 8 per fles.
+De inkoopkosten van appels en glas bedragen € 3 per fles. De overige variabele kosten, zoals energie en transport, zijn 10% van de omzet. De constante kosten bedragen € 560.000 per jaar.
+De directie overweegt de verkoopprijs te verhogen van € 8 naar € 10 per fles. Zij verwacht dat de afzet daardoor met 25% daalt. Om de nieuwe prijs te onderbouwen start de directie een campagne die € 30.000 per jaar extra kost. De inkoopkosten per fles blijven gelijk, de overige variabele kosten blijven 10% van de omzet en de overige constante kosten blijven gelijk.
+Toon met een berekening aan of de prijsverhoging het resultaat per jaar van Sapperij Zuidhoek nv verbetert.
+### ANTWOORD
+Eerst het huidige resultaat. De afzet is 1.600.000 : 8 = 200.000 flessen. Het resultaat is 1.600.000 − 200.000 × 3 − 10% × 1.600.000 − 560.000 = € 280.000 voordelig. Na de prijsverhoging is de afzet 200.000 × 0,75 = 150.000 flessen en de omzet 150.000 × 10 = € 1.500.000. De inkoopkosten zijn 150.000 × 3 = € 450.000 en de overige variabele kosten 10% × 1.500.000 = € 150.000. De constante kosten worden 560.000 + 30.000 = € 590.000. Het nieuwe resultaat is 1.500.000 − 450.000 − 150.000 − 590.000 = € 310.000 voordelig. Dat is 310.000 − 280.000 = € 30.000 hoger. Het resultaat verbetert dus.
+Puntenverdeling:
+• Huidige afzet 1.600.000 : 8 = 200.000 flessen en huidig resultaat 1.600.000 − 200.000 × 3 − 10% × 1.600.000 − 560.000 = € 280.000 voordelig (1)
+• Nieuwe afzet 200.000 × 0,75 = 150.000 flessen en nieuwe omzet 150.000 × € 10 = € 1.500.000 (1)
+• Nieuwe variabele kosten: inkoop 150.000 × € 3 = € 450.000 en overige 10% × € 1.500.000 = € 150.000; nieuwe constante kosten 560.000 + 30.000 = € 590.000 (1)
+• Nieuw resultaat 1.500.000 − 450.000 − 150.000 − 590.000 = € 310.000 voordelig; dat is 310.000 − 280.000 = € 30.000 meer dan nu, dus het resultaat verbetert (1)
+
+## OPGAVE IT-00066 1p | Tentenmaker Brisa: een lagere prijs
+In deze opgave blijft de winstbelasting buiten beschouwing.
+Tentenmaker Brisa nv maakt trektenten en verkoopt die aan outdoorwinkels. De directie overweegt de verkoopprijs met 10% te verlagen om meer winkels aan zich te binden.
+De directie gaat er in deze berekening van uit dat de afzet gelijk blijft. De kosten per tent en de constante kosten veranderen niet door de prijsverlaging. De gegevens van het huidige jaar staan in de tabel.
+Tabel Gegevens Tentenmaker Brisa nv (huidig jaar):
+Post | Bedrag
+Verkoopprijs per tent | € 500
+Afzet per jaar | 4.000 tenten
+Omzet per jaar | € 2.000.000
+Materiaalkosten per tent | € 220
+Overige variabele kosten per tent (verpakking en vervoer) | € 80
+Constante kosten per jaar | € 500.000
+Verklaar het effect van de prijsverlaging op het resultaat per jaar door de juiste bewering te kiezen.
+### OPTIES B
+A Het resultaat blijft gelijk, want de afzet blijft gelijk.
+B Het resultaat daalt met € 200.000, want de omzet daalt met € 200.000 en de kosten veranderen niet.
+C Het resultaat daalt met € 80.000, want de omzet daalt met € 200.000 en de variabele kosten dalen ook met 10%.
+D Het resultaat daalt met € 50, want de verkoopprijs per tent daalt met € 50.
+### ANTWOORD
+B. De prijs daalt met 10% van € 500, dus met € 50 per tent. De afzet blijft 4.000 tenten, dus de omzet daalt met 4.000 × € 50 = € 200.000. De kosten per tent en de constante kosten blijven gelijk, dus het resultaat daalt ook met € 200.000.
+Puntenverdeling:
+• Juiste keuze: B (de omzet daalt met 4.000 × € 50 = € 200.000, de kosten blijven gelijk, dus het resultaat daalt met € 200.000) (1)
+
+## OPGAVE IT-00067 4p | Piz Alto Helmen: een lagere prijs en een reclamecampagne
+In deze opgave blijft de winstbelasting buiten beschouwing.
+Helmenfabriek Piz Alto nv maakt skihelmen en levert die aan sportwinkels in de Alpen. De gegevens van het huidige jaar staan in de tabel.
+De directie wil de verkoopprijs met 10% verlagen en verwacht daardoor een afzetstijging van 25%. Om de lagere prijs onder de aandacht te brengen start de nv een reclamecampagne die € 40.000 per jaar extra constante kosten geeft. De productie is gelijk aan de afzet. De materiaalkosten en het stukloon per helm en het percentage provisie voor de dealers blijven gelijk.
+De directie verwacht dat het resultaat per jaar door de maatregel niet daalt.
+Tabel Gegevens Piz Alto Helmen nv (huidig jaar):
+Post | Gegeven
+Omzet per jaar | € 3.000.000
+Verkoopprijs per helm | € 150
+Materiaalkosten per helm | € 45
+Arbeidskosten per helm (stukloon) | € 25
+Provisie voor dealers | 6% van de omzet
+Constante kosten per jaar | € 1.100.000
+Toon met een berekening aan of de verwachting van de directie klopt.
+### ANTWOORD
+De huidige afzet is 3.000.000 : 150 = 20.000 helmen. Het huidige resultaat is 3.000.000 − 20.000 × (45 + 25) − 6% × 3.000.000 − 1.100.000 = € 320.000 voordelig. Na de maatregel is de afzet 20.000 × 1,25 = 25.000 helmen. De nieuwe prijs is 150 × 0,90 = € 135, dus de omzet is 25.000 × 135 = € 3.375.000. De materiaal- en arbeidskosten zijn 25.000 × (45 + 25) = € 1.750.000. De provisie is 6% × 3.375.000 = € 202.500. De constante kosten zijn 1.100.000 + 40.000 = € 1.140.000. Het nieuwe resultaat is 3.375.000 − 1.750.000 − 202.500 − 1.140.000 = € 282.500 voordelig. Dat is 320.000 − 282.500 = € 37.500 lager dan nu. De verwachting klopt dus niet: het resultaat daalt.
+Puntenverdeling:
+• Huidige afzet 3.000.000 : 150 = 20.000 helmen en huidig resultaat 3.000.000 − 20.000 × (45 + 25) − 6% × 3.000.000 − 1.100.000 = € 320.000 voordelig (1)
+• Nieuwe afzet 20.000 × 1,25 = 25.000, nieuwe prijs 150 × 0,90 = € 135 en nieuwe omzet 25.000 × 135 = € 3.375.000 (1)
+• Materiaal- en arbeidskosten 25.000 × (45 + 25) = € 1.750.000, provisie 6% × 3.375.000 = € 202.500 en constante kosten 1.100.000 + 40.000 = € 1.140.000 (1)
+• Nieuw resultaat 3.375.000 − 1.750.000 − 202.500 − 1.140.000 = € 282.500 voordelig; dat is 320.000 − 282.500 = € 37.500 lager dan nu, dus de verwachting klopt niet (1)
+
+## OPGAVE IT-00216 3p | Bonbons van Chocolaterie Vanora
+Chocolaterie Vanora bv verkoopt dozen bonbons voor € 12 per doos. Door duurdere cacao stijgen de variabele kosten van € 7 naar € 10 per doos. De directie verhoogt daarom de prijs naar € 14 per doos.
+De constante kosten zijn € 20.000 per maand. Zonder prijsverhoging verkoopt de chocolaterie 5.000 dozen per maand. Na de prijsverhoging verwacht ze 4.600 dozen per maand te verkopen.
+Bereken met hoeveel euro het resultaat per maand verandert door de prijsverhoging. Vergelijk daarvoor het resultaat vóór en na de prijsverhoging, bij de oude variabele kosten (€ 7) en de nieuwe (€ 10).
+Doe het als volgt:
+- Bereken het resultaat zonder prijsverhoging (prijs € 12, variabele kosten € 7, 5.000 dozen).
+- Bereken het resultaat met prijsverhoging (prijs € 14, variabele kosten € 10, 4.600 dozen).
+- Bereken het verschil.
+### ANTWOORD
+Vóór: dekkingsbijdrage 12 − 7 = € 5. Resultaat = 5.000 × 5 − 20.000 = € 5.000. Na: dekkingsbijdrage 14 − 10 = € 4. Resultaat = 4.600 × 4 − 20.000 = − € 1.600. Het resultaat verandert met 5.000 − (−1.600) = € 6.600. Het resultaat daalt dus met € 6.600 per maand.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende punten: Resultaat vóór de prijsverhoging: 5.000 × (12 − 7) − 20.000 = € 5.000 (1)
+• Resultaat na de prijsverhoging: 4.600 × (14 − 10) − 20.000 = − € 1.600 (1)
+• Verschil: 5.000 − (−1.600) = € 6.600 daling (het resultaat daalt met € 6.600) (1)
+
+## OPGAVE IT-00217 2p | Omzet en resultaat bij Chocolaterie Vanora
+Chocolaterie Vanora bv verhoogt de prijs van een doos bonbons van € 12 naar € 14. Tegelijk stijgen de variabele kosten van € 7 naar € 10 per doos door duurdere cacao. De constante kosten blijven € 20.000 per maand.
+De afzet daalt van 5.000 naar 4.600 dozen per maand. De omzet stijgt daardoor van € 60.000 naar € 64.400, maar het resultaat daalt van € 5.000 naar − € 1.600.
+Leg uit hoe het kan dat de omzet stijgt terwijl het resultaat daalt.
+Doe het als volgt:
+- Verklaar eerst waarom de omzet stijgt.
+- Verklaar daarna met de dekkingsbijdrage per doos waarom het resultaat daalt.
+### ANTWOORD
+De omzet is prijs × afzet. De prijs stijgt met € 2 en de afzet daalt maar met 400 dozen, dus de omzet stijgt. De variabele kosten stijgen met € 3, dus de dekkingsbijdrage per doos daalt van € 5 naar € 4. Er worden ook minder dozen verkocht, dus de totale dekkingsbijdrage daalt van € 25.000 naar € 18.400. De constante kosten blijven gelijk, dus het resultaat daalt.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende punten: De omzet stijgt, omdat de prijsstijging (€ 12 naar € 14) zwaarder weegt dan de daling van de afzet (5.000 naar 4.600 dozen): 14 × 4.600 = € 64.400 is meer dan 12 × 5.000 = € 60.000. (1)
+• De variabele kosten per doos stijgen meer dan de prijs (€ 3 tegen € 2), dus de dekkingsbijdrage per doos daalt van € 5 naar € 4. Samen met de lagere afzet is de totale dekkingsbijdrage lager (€ 18.400 tegen € 25.000), de constante kosten zijn gelijk, dus het resultaat daalt. (1)
+
+## OPGAVE IT-00218 3p | Escaperoom Mysteria
+Escaperoom Mysteria bv vraagt € 30 per deelnemer. De variabele kosten zijn € 8 per deelnemer en de constante kosten zijn € 54.000 per jaar.
+De eigenaar verlaagt de prijs alleen als het verwachte resultaat per jaar daardoor met minstens € 2.000 stijgt. Zie de tabel voor de verwachte afzet.
+Tabel Prijs en verwachte afzet per jaar:
+Situatie | Prijs per deelnemer (€) | Aantal deelnemers per jaar
+Huidige prijs | 30 | 3.000
+Na prijsverlaging | 26 | 3.800
+Toon met een berekening van het resultaat per jaar aan of de eigenaar de prijs verlaagt.
+### ANTWOORD
+Nu: dekkingsbijdrage 30 − 8 = € 22. Resultaat = 3.000 × 22 − 54.000 = € 12.000. Na verlaging: dekkingsbijdrage 26 − 8 = € 18. Resultaat = 3.800 × 18 − 54.000 = € 14.400. Het resultaat stijgt met € 2.400. Dat is meer dan € 2.000, dus de eigenaar verlaagt de prijs.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende punten: Resultaat bij de huidige prijs: 3.000 × (30 − 8) − 54.000 = € 12.000 (1)
+• Resultaat na prijsverlaging: 3.800 × (26 − 8) − 54.000 = € 14.400 (1)
+• Conclusie: het resultaat stijgt met 14.400 − 12.000 = € 2.400. Dat is meer dan € 2.000, dus de eigenaar verlaagt de prijs. (1)
+
+## OPGAVE IT-00219 3p | Yogastudio Zenith
+Yogastudio Zenith bv vraagt € 18 per deelname aan een les. De variabele kosten zijn € 3 per deelname (schoonmaak en materiaal). De constante kosten zijn € 9.000 per maand.
+De eigenaar overweegt de prijs te verlagen naar € 15 per deelname. Ze voert de verlaging alleen door als het resultaat per maand daardoor stijgt. Zie de tabel.
+Tabel Verwachte afzet per maand:
+Situatie | Prijs per deelname (€) | Aantal deelnames per maand
+Huidige prijs | 18 | 1.100
+Na prijsverlaging | 15 | 1.350
+Toon met berekeningen aan of de eigenaar de prijsverlaging doorvoert.
+### ANTWOORD
+Nu: dekkingsbijdrage 18 − 3 = € 15. Resultaat = 1.100 × 15 − 9.000 = € 7.500. Na verlaging: dekkingsbijdrage 15 − 3 = € 12. Resultaat = 1.350 × 12 − 9.000 = € 7.200. Het resultaat daalt van € 7.500 naar € 7.200, dus de eigenaar voert de prijsverlaging niet door.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende punten: Resultaat bij de huidige prijs: 1.100 × (18 − 3) − 9.000 = € 7.500 (1)
+• Resultaat na prijsverlaging: 1.350 × (15 − 3) − 9.000 = € 7.200 (1)
+• Conclusie: het resultaat daalt van € 7.500 naar € 7.200, dus de eigenaar voert de prijsverlaging niet door. (1)
+
+## OPGAVE IT-00285 3p | 
+In deze opgave blijft de btw buiten beschouwing. Alle bedragen zijn per week.
+Smoothiebar Groene Golf bv verkoopt nu 900 smoothies per week voor € 8 per smoothie. De variabele kosten zijn € 3 per smoothie. De constante kosten zijn € 2.400 per week.
+De eigenaar verhoogt de prijs naar € 9 per smoothie. Hij verwacht dan 780 smoothies per week te verkopen. De variabele kosten per smoothie en de constante kosten blijven gelijk.
+Toon met een berekening aan of het weekresultaat stijgt door de prijsverhoging.
+### ANTWOORD
+Nu: dekkingsbijdrage 8 − 3 = € 5. Resultaat: 900 × 5 − 2.400 = € 2.100. Na de verhoging: dekkingsbijdrage 9 − 3 = € 6. Resultaat: 780 × 6 − 2.400 = € 2.280. Het resultaat van € 2.280 is hoger dan € 2.100, dus het weekresultaat stijgt.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende punten: Het huidige weekresultaat is 900 × (8 − 3) − 2.400 = € 2.100 (1)
+• Het nieuwe weekresultaat is 780 × (9 − 3) − 2.400 = € 2.280 (1)
+• Conclusie: het resultaat van € 2.280 is hoger dan € 2.100, dus het weekresultaat stijgt (1)
+
+## OPGAVE IT-00572 4p | Nordvik Wetsuits: een lagere prijs om meer te verkopen
+In deze opgave blijft de winstbelasting buiten beschouwing.
+Nordvik Wetsuits nv maakt wetsuits voor watersporters en verkoopt die via webwinkels. De gegevens van het huidige jaar staan in de tabel.
+De directie verlaagt de verkoopprijs met 10% en verwacht daardoor 30% meer afzet. Om de lagere prijs bekend te maken start de nv een online campagne van € 36.000 per jaar extra constante kosten. De inkoopkosten per pak blijven gelijk en de overige variabele kosten blijven 10% van de omzet. De productie is gelijk aan de afzet.
+De directie streeft ernaar dat het resultaat per jaar door de maatregel met minstens € 90.000 stijgt.
+Tabel Gegevens Nordvik Wetsuits nv (huidig jaar):
+Post | Gegeven
+Omzet per jaar | € 2.400.000
+Verkoopprijs per pak | € 200
+Inkoopkosten per pak | € 70
+Overige variabele kosten | 10% van de omzet
+Constante kosten per jaar | € 840.000
+Toon met een berekening aan of de directie haar doel haalt.
+### ANTWOORD
+De huidige afzet is 2.400.000 : 200 = 12.000 pakken. Het resultaat is 2.400.000 − 840.000 − 240.000 − 840.000 = € 480.000 voordelig. De nieuwe prijs is € 180 en de afzet 15.600 pakken, dus de omzet is € 2.808.000. Inkoop is € 1.092.000, overige variabele kosten € 280.800 en constante kosten € 876.000. Het resultaat wordt € 559.200 voordelig. Dat is € 79.200 meer, dus minder dan € 90.000: het doel wordt niet gehaald.
+Puntenverdeling:
+• Afrondingstolerantie: alle bedragen komen exact uit in hele euro's. Een aanpak via de dekkingsbijdrage per pak is ook goed. Huidige afzet 2.400.000 : 200 = 12.000 pakken en huidig resultaat 2.400.000 − 12.000 × 70 − 10% × 2.400.000 − 840.000 = € 480.000 voordelig (1)
+• Nieuwe prijs 200 × 0,90 = € 180, nieuwe afzet 12.000 × 1,30 = 15.600 pakken en nieuwe omzet 15.600 × 180 = € 2.808.000 (1)
+• Inkoopkosten 15.600 × 70 = € 1.092.000, overige variabele kosten 10% × 2.808.000 = € 280.800 en constante kosten 840.000 + 36.000 = € 876.000 (1)
+• Nieuw resultaat 2.808.000 − 1.092.000 − 280.800 − 876.000 = € 559.200 voordelig; de stijging is 559.200 − 480.000 = € 79.200, dat is minder dan € 90.000, dus de directie haalt haar doel niet (1)
+
+## EXAMEN havo 2026-I 25 2p
+De ondernemer verhoogt haar prijzen als het verwachte resultaat bij gelijke prijzen lager is dan € 22,50 per gewerkt uur. Toon met een berekening van het resultaat per uur aan of ze de prijzen in 2026 verhoogt. Gebruik informatiebron 4.
+### ANTWOORD
+(84 × 120 − 1.297) : 438 = € 20,05 (1). Dit is lager dan € 22,50, dus de prijzen gaan omhoog (1). Ook goed: via totale opbrengsten en kosten, resultaat 8.783 : 438.
+

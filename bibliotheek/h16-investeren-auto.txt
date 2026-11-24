@@ -1,0 +1,250 @@
+# LEERDOEL BECO-INVES-01
+domein: D
+onderwerp: D.invest
+thema: Investeren
+wereld: h16,v18
+naam: Cashflow berekenen met de indirecte methode
+doel: Ik kan de cashflow uitrekenen door afschrijving bij het resultaat op te tellen.
+gens: cashflow
+
+## OPGAVE IT-00210 1p | Afschrijving en cashflow bij een nieuwe oven
+Bakkerij Korenveld bv koopt een nieuwe oven. De eigenaar wil weten hoeveel geld de oven per jaar oplevert. Daarom rekent hij de cashflow uit met de indirecte methode.
+Maak van onderstaande tekst een economisch juiste tekst.
+Bij de indirecte methode is de cashflow gelijk aan het resultaat ...(1)... de afschrijving. Afschrijving is een ...(2)..., maar geen ...(3)..., want er gaat op dat moment geen geld de onderneming uit.
+Maak van bovenstaande tekst een economisch juiste tekst.
+Kies uit: bij (1) plus / min
+bij (2) kostenpost / opbrengst
+bij (3) uitgave / ontvangst
+### ANTWOORD
+(1) plus, (2) kostenpost, (3) uitgave. De cashflow is het resultaat plus de afschrijving. Afschrijving drukt wel het resultaat, maar er gaat geen geld weg.
+Puntenverdeling:
+• Per vraag 1 scorepunt voor drie juiste keuzes. (1) plus, (2) kostenpost en (3) uitgave: alle drie juist (1)
+
+## OPGAVE IT-00211 2p | Afschrijving van een drukpers
+Drukkerij Lakenhal bv koopt een nieuwe drukpers voor € 540.000. De pers gaat 8 jaar mee. Na 8 jaar is de pers nog € 60.000 waard. De drukkerij schrijft lineair af.
+Bereken de afschrijving per jaar.
+### ANTWOORD
+Afschrijving = (540.000 − 60.000) : 8 = 480.000 : 8 = € 60.000 per jaar.
+Puntenverdeling:
+• Afschrijving per jaar = (aanschafprijs − restwaarde) : levensduur Aanschafprijs min restwaarde: 540.000 − 60.000 = 480.000 (1)
+• Delen door de levensduur: 480.000 : 8 = € 60.000 per jaar (1)
+
+## OPGAVE IT-00212 3p | Cashflow van een rondvaartboot
+Waddenveer bv koopt een rondvaartboot voor € 900.000. De boot gaat 6 jaar mee en is daarna nog € 150.000 waard. De boot wordt lineair afgeschreven.
+Per jaar verwacht Waddenveer een omzet van € 520.000. De totale kosten zijn € 430.000 per jaar. Hierin zit de afschrijving van de boot al verwerkt.
+Bereken de cashflow per jaar met de indirecte methode.
+Doe het als volgt:
+- bereken de afschrijving per jaar;
+- bereken het resultaat per jaar;
+- bereken de cashflow.
+### ANTWOORD
+Afschrijving = (900.000 − 150.000) : 6 = € 125.000. Resultaat = 520.000 − 430.000 = € 90.000. Cashflow = 90.000 + 125.000 = € 215.000 per jaar.
+Puntenverdeling:
+• Cashflow = resultaat + afschrijving Afschrijving: (900.000 − 150.000) : 6 = € 125.000 per jaar (1)
+• Resultaat: 520.000 − 430.000 = € 90.000 (1)
+• Cashflow: 90.000 + 125.000 = € 215.000 per jaar (1)
+
+## OPGAVE IT-00258 6p | Kajakverhuur Delta
+Kajak Delta bv verhuurt kajaks aan toeristen en verwacht in 2027 de verhuur uit de tabel. De variabele kosten (schoonmaak en onderhoud) zijn € 7 per verhuurde kajak per dag. De constante kosten zijn € 52.000 per jaar, exclusief afschrijving en rente.
+Vloot: € 135.000, levensduur 5 jaar, restwaarde € 15.000. Steiger: € 42.000, levensduur 10 jaar, restwaarde € 2.000. Beide worden lineair afgeschreven. In 2027 betaalt de bv € 3.400 rente en lost € 20.000 af op een lening.
+Tabel Verwachte verhuur in 2027:
+Periode | Aantal dagen | Verhuurde kajaks per dag | Prijs per kajak per dag (in euro's)
+Voorseizoen | 70 | 14 | 30
+Hoogseizoen | 80 | 50 | 42
+Naseizoen | 50 | 16 | 30
+Bereken de verwachte cashflow van Kajak Delta in 2027 met de indirecte methode.
+Vul de uitwerkbijlage bij deze vraag in.
+### ANTWOORD
+Omzet = 221.400. Variabele kosten = 5.780 × 7 = 40.460. Afschrijving = 24.000 + 4.000 = 28.000. Resultaat = 221.400 − 40.460 − 52.000 − 28.000 − 3.400 = 97.540. Cashflow = 97.540 + 28.000 = € 125.540.
+Puntenverdeling:
+• Cashflow = resultaat + afschrijvingen (indirecte methode). Bedragen in hele euro's. Omzet: 70 × 14 × 30 + 80 × 50 × 42 + 50 × 16 × 30 = € 221.400 (1)
+• Variabele kosten: (70 × 14 + 80 × 50 + 50 × 16) × 7 = € 40.460 (1)
+• Afschrijving vloot: (135.000 − 15.000) : 5 = € 24.000 (1)
+• Afschrijving steiger: (42.000 − 2.000) : 10 = € 4.000 (1)
+• Resultaat: 221.400 − 40.460 − 52.000 − 24.000 − 4.000 − 3.400 = € 97.540 (1)
+• Cashflow: 97.540 + 24.000 + 4.000 = € 125.540 (1)
+
+## OPGAVE IT-00283 3p | Opgave 1
+In deze opgave blijven rente en winstbelasting buiten beschouwing.
+Korenmaat bv is een ambachtelijke bakkerij. Zij koopt een nieuwe ovenlijn voor € 342.000. De ovenlijn gaat 5 jaar mee en is daarna nog € 42.000 waard. Korenmaat schrijft lineair af.
+Per jaar verwacht Korenmaat € 410.000 opbrengsten en € 318.000 aan kosten. In die kosten zit geen afschrijving. Alle opbrengsten komen in hetzelfde jaar binnen en alle kosten worden in hetzelfde jaar betaald.
+Bereken de verwachte cashflow per jaar van de ovenlijn met de indirecte methode.
+### ANTWOORD
+Afschrijving = (342.000 − 42.000) : 5 = € 60.000 per jaar. Resultaat = 410.000 − 318.000 − 60.000 = € 32.000. Afschrijven is geen uitgave, dus cashflow = resultaat + afschrijving = 32.000 + 60.000 = € 92.000 per jaar.
+Puntenverdeling:
+• Een juiste berekening bevat de volgende stappen. Bedragen in hele euro's. Afschrijving per jaar = (aanschafprijs − restwaarde) : levensduur = (342.000 − 42.000) : 5 = € 60.000 (1)
+• Resultaat per jaar = opbrengsten − kosten − afschrijving = 410.000 − 318.000 − 60.000 = € 32.000 (1)
+• Cashflow = resultaat + afschrijving = 32.000 + 60.000 = € 92.000 (1)
+
+## EXAMEN havo 2022-II 20 2p
+In kwartaal 2 moet de cashflow € 3.500 per broer opleveren en de aflossing van de banklening dekken. Toon met een berekening aan of dat doel is gehaald.
+### ANTWOORD
+Cashflow = resultaat + afschrijving = 6.645 + 650 = 7.295 (1p). Nodig: 2 × 3.500 + 30.000 : 10 = 10.000. 7.295 is kleiner dan 10.000: doelstelling niet behaald (1p).
+
+## EXAMEN havo 2024-II 12 6p
+Bereken met het geprognosticeerde resultaat de verwachte cashflow van de B&B in 2024. Seizoensbezetting, commissie, kosten en afschrijving staan in een bron. Gebruik de uitwerkbijlage.
+### ANTWOORD
+Overnachtingen 146 + 365 + 438 = 949 (1). Omzet via platform na commissie 52.276,50 (2). Totale omzet 81.276,50 (1). Kosten 21.435, resultaat 59.841,50 (1). Cashflow = resultaat + afschrijving 3.000 = € 62.841,50 (1).
+
+## EXAMEN vwo 2023-II 13 1p
+Toon aan dat de onderneming voldoet aan de cashflow-eis van de kredietverstrekker voor 2022. Gebruik het resultaat na belasting en de afschrijvingen uit eerdere vragen.
+### ANTWOORD
+Cashflow = 110.906,58 + 22.625 = € 133.531,58. Dit is hoger dan de gestelde eis van € 130.000.
+
+
+# LEERDOEL BECO-INVES-02
+domein: D
+onderwerp: D.invest
+thema: Investeren
+wereld: h16,v18
+naam: Terugverdientijd van een investering berekenen in jaren en maanden
+doel: Ik kan uitrekenen na hoeveel jaren en maanden een investering is terugverdiend.
+gens: terugverdientijd
+
+## OPGAVE IT-00286 3p | 
+In deze opgave blijft de btw buiten beschouwing.
+Zeilschool Windkracht bv koopt acht nieuwe zeilboten voor € 310.000. De levensduur is 8 jaar. Daarna zijn de boten nog € 30.000 waard (restwaarde). Bij de terugverdientijd telt de restwaarde niet mee.
+De zeilschool verwacht elk jaar € 190.000 aan ontvangsten en € 144.000 aan uitgaven. De cashflow komt gelijkmatig over het jaar binnen.
+Bereken de terugverdientijd van de investering in jaren en maanden. Rond tussenantwoorden niet af en rond je eindantwoord naar boven af op hele maanden.
+### ANTWOORD
+Cashflow = 190.000 − 144.000 = 46.000 per jaar. Terugverdientijd = 310.000 : 46.000 = 6,739... jaar. Het deel achter de komma is 0,739... × 12 = 8,87 maanden. Naar boven afgerond is dat 9 maanden. Antwoord: 6 jaar en 9 maanden.
+Puntenverdeling:
+• Antwoord: 6 jaar en 9 maanden (is 81 maanden). Rekenfouten worden niet bestraft, tenzij de uitkomst kennelijk onmogelijk is. Berekening van de cashflow per jaar: 190.000 − 144.000 = 46.000 (1)
+• Berekening van de terugverdientijd in jaren: 310.000 : 46.000 = 6,739... jaar (1)
+• Omzetten van het deel achter de komma naar maanden: 0,739... × 12 = 8,87 maanden, naar boven afgerond op 9 maanden. Antwoord: 6 jaar en 9 maanden (1)
+
+## OPGAVE IT-00289 3p | 
+In deze opgave blijft de btw buiten beschouwing.
+Bakkerij Duinroos bv koopt een nieuwe steenoven voor € 540.000. De levensduur is 6 jaar en de restwaarde is € 60.000. Er wordt lineair afgeschreven.
+De bakkerij verwacht door de oven elk jaar een resultaat na afschrijvingen van € 52.000. De cashflow komt gelijkmatig over het jaar binnen. De restwaarde telt niet mee bij de terugverdientijd.
+Bereken de terugverdientijd van de steenoven. Geef je antwoord in jaren en maanden, naar boven afgerond op hele maanden.
+### ANTWOORD
+Afschrijving = (540.000 − 60.000) : 6 = 80.000 per jaar. Cashflow = resultaat na afschrijvingen + afschrijving = 52.000 + 80.000 = 132.000. Terugverdientijd = 540.000 : 132.000 = 4,0909 jaar. (4,0909 − 4) × 12 = 1,09 maanden, naar boven afgerond 2 maanden. Antwoord: 4 jaar en 2 maanden.
+Puntenverdeling:
+• Antwoord: 4 jaar en 2 maanden (is 50 maanden). Afschrijving per jaar: (540.000 − 60.000) : 6 = 80.000 (1)
+• Cashflow per jaar: 52.000 + 80.000 = 132.000 (1)
+• Terugverdientijd: 540.000 : 132.000 = 4,0909 jaar, dus 4 jaar en (0,0909 × 12 = 1,09) naar boven afgerond 2 maanden (1)
+
+## OPGAVE IT-00294 3p | Bottelarij De Zeilmaker
+In deze opgave blijven belastingen, rente en de restwaarde van de installatie buiten beschouwing.
+Bottelarij De Zeilmaker bv wil een nieuwe bottelinstallatie kopen voor € 480.000. De cashflows verschillen per jaar, omdat de productie langzaam groeit. Ze komen gelijkmatig over het jaar binnen.
+Tabel Informatiebron 1: Verwachte cashflow per jaar:
+Jaar | Cashflow (€)
+1 | 90.000
+2 | 130.000
+3 | 150.000
+4 | 160.000
+5 | 160.000
+Bereken de terugverdientijd van de bottelinstallatie in jaren en maanden, naar boven afgerond op hele maanden. (zie informatiebron 1)
+### ANTWOORD
+Na 3 jaar is 90.000 + 130.000 + 150.000 = 370.000 terugverdiend. Nog nodig: 480.000 − 370.000 = 110.000. In jaar 4: 110.000 : 160.000 × 12 = 8,25 maanden. Naar boven afgerond is dat 9 maanden. De terugverdientijd is 3 jaar en 9 maanden.
+Puntenverdeling:
+• Antwoord: de terugverdientijd is 3 jaar en 9 maanden (45 maanden). Cashflows van jaar 1 tot en met 3 optellen: 90.000 + 130.000 + 150.000 = 370.000 en nog terug te verdienen in jaar 4: 480.000 − 370.000 = 110.000 (1)
+• Het deel van jaar 4 in maanden: 110.000 : 160.000 × 12 = 8,25 maanden (1)
+• Naar boven afronden op hele maanden: 9 maanden, dus een terugverdientijd van 3 jaar en 9 maanden (1)
+
+## OPGAVE IT-00295 3p | 
+In deze opgave blijven de btw en de winstbelasting buiten beschouwing. Bij de terugverdientijd telt de restwaarde niet mee.
+Kanoverhuur Rivierzicht bv overweegt acht nieuwe kano's met een aanhanger te kopen. De investering is € 150.000. Na afloop van de levensduur zijn de kano's nog € 30.000 waard (restwaarde).
+De nieuwe kano's leveren elk jaar een cashflow van € 42.000 op. Deze komt gelijkmatig over het jaar binnen.
+Bereken de terugverdientijd van de investering in jaren en maanden. Rond af naar boven op hele maanden.
+### ANTWOORD
+Terugverdientijd = investering : cashflow per jaar = 150.000 : 42.000 = 3,5714 jaar. Het deel achter de komma is 0,5714 × 12 = 6,86 maanden. Naar boven afgerond is dat 7 maanden. De terugverdientijd is 3 jaar en 7 maanden.
+Puntenverdeling:
+• Een antwoord zonder berekening levert 0 scorepunten op. Rekenfouten: geen aftrek, behalve als het antwoord kennelijk niet geschat is. Terugverdientijd in jaren: 150.000 : 42.000 = 3,57 jaar (1)
+• Het deel van het jaar omrekenen naar maanden: (3,5714 − 3) × 12 = 6,86 maanden (1)
+• Naar boven afronden op hele maanden: de terugverdientijd is 3 jaar en 7 maanden (1)
+
+
+# LEERDOEL BECO-INVES-03
+domein: D
+onderwerp: D.invest
+thema: Investeren
+wereld: h16,v18
+naam: Netto contante waarde berekenen, inclusief restwaarde
+doel: Ik kan de netto contante waarde van een investering met restwaarde berekenen.
+gens: ncw
+
+## OPGAVE IT-00220 3p | Laadpalen voor Wattbouw
+Wattbouw bv rekent de netto contante waarde uit van een investering in laadpalen. De levensduur is 4 jaar en de disconteringsvoet is 5%. Na 4 jaar is er nog een restwaarde.
+Tekst: De cashflow van jaar 3 maak je contant door te vermenigvuldigen met 1,05 ...(1)... . De restwaarde ...(2)... . De investering ...(3)... .
+Maak van onderstaande tekst een economisch juiste tekst.
+Kies uit:
+bij (1): tot de macht −3 / tot de macht 3 / tot de macht −4
+bij (2): maak je apart contant en tel je op bij de contante waarden / tel je op bij de investering / trek je af van de cashflow van jaar 4
+bij (3): betaal je nu en trek je af van de som van de contante waarden / maak je contant met 1,05 tot de macht −1 / tel je op bij de contante waarden
+### ANTWOORD
+(1) tot de macht −3, want jaar 3. (2) De restwaarde maak je apart contant en tel je op bij de contante waarden. (3) De investering betaal je nu, dus je trekt hem af van de som van de contante waarden.
+Puntenverdeling:
+• Per juiste keuze 1 scorepunt. bij (1): tot de macht −3 (1)
+• bij (2): maak je apart contant en tel je op bij de contante waarden (1)
+• bij (3): betaal je nu en trek je af van de som van de contante waarden (1)
+
+## OPGAVE IT-00221 3p | Drukpers voor Brandaris Print
+Brandaris Print bv overweegt een nieuwe drukpers van € 90.000. De pers gaat 3 jaar mee en heeft daarna geen restwaarde. De pers levert elk jaar een cashflow op van € 36.000. De cashflows komen aan het einde van het jaar binnen. De disconteringsvoet is 6%.
+Bereken de netto contante waarde van de investering in de drukpers.
+Doe het als volgt:
+- Schat eerst of de netto contante waarde positief of negatief wordt.
+- Maak elke cashflow apart contant.
+- Controleer of je uitkomst past bij je schatting.
+### ANTWOORD
+Schatting: 3 × 36.000 = 108.000 is meer dan 90.000, dus de NCW is waarschijnlijk positief maar klein. 36.000 × 1,06 tot de macht −1 + 36.000 × 1,06 tot de macht −2 + 36.000 × 1,06 tot de macht −3 = 96.228. NCW = 96.228 − 90.000 = € 6.228. Dat past bij mijn schatting.
+Puntenverdeling:
+• Rond af op hele euro's. contante waarde van de cashflows met de juiste machten: 36.000 × 1,06 tot de macht −1, −2 en −3 (1)
+• optellen van de drie contante waarden (96.228) (1)
+• investering aftrekken: 96.228 − 90.000 = 6.228 (1)
+
+## OPGAVE IT-00270 3p | 
+In deze opgave blijven belastingen buiten beschouwing.
+Polderpedaal bv verhuurt fietsen aan toeristen. De onderneming koopt elektrische bakfietsen voor € 120.000. De bakfietsen leveren drie jaar lang elk jaar een cashflow op van € 38.000. Na 3 jaar worden ze verkocht voor € 32.000 (restwaarde). Alle bedragen komen aan het einde van het jaar binnen. De investering wordt nu betaald. De disconteringsvoet is 5%.
+Bereken de netto contante waarde van de investering in de bakfietsen, inclusief de restwaarde. Rond af op hele euro's.
+Doe het als volgt:
+- Schat eerst of de netto contante waarde positief of negatief wordt.
+- Maak de cashflows en de restwaarde apart contant.
+- Controleer of je uitkomst past bij je schatting.
+### ANTWOORD
+Schatting: 3 × 38.000 + 32.000 = 146.000, dat is meer dan 120.000, dus de NCW is waarschijnlijk positief. Cashflows: 38.000 × 1,05 tot de macht −1 + 38.000 × 1,05 tot de macht −2 + 38.000 × 1,05 tot de macht −3 = 103.483. Restwaarde: 32.000 × 1,05 tot de macht −3 = 27.643. NCW = 103.483 + 27.643 − 120.000 = € 11.126.
+Puntenverdeling:
+• Rond af op hele euro's. Bereken met ongeafgeronde tussenstappen of met op hele euro's afgeronde tussenstappen: beide geven € 11.126. contante waarde van de cashflows met de juiste machten: 38.000 × 1,05 tot de macht −1, −2 en −3 (samen 103.483) (1)
+• contante waarde van de restwaarde met de macht −3: 32.000 × 1,05 tot de macht −3 (27.643) (1)
+• optellen en de investering aftrekken: 103.483 + 27.643 − 120.000 = 11.126 (1)
+
+## OPGAVE IT-00282 4p | Led-verlichting voor de kassen
+In deze opgave blijven belastingen en financieringskosten buiten beschouwing.
+Polderlicht Kwekerij bv overweegt led-verlichting voor haar kassen. De installatie kost € 420.000 en wordt nu betaald. De verlichting gaat 5 jaar mee en is aan het eind van jaar 5 nog € 30.000 waard (restwaarde). Alle ontvangsten en uitgaven komen aan het einde van het jaar binnen. De disconteringsvoet is 7%. Een investering is aanvaardbaar als de netto contante waarde groter is dan 0.
+Tabel Extra opbrengsten en extra uitgaven door de verlichting (in €):
+Jaar | Extra opbrengsten | Extra uitgaven
+1 | 150.000 | 60.000
+2 | 160.000 | 62.000
+3 | 165.000 | 85.000
+4 | 170.000 | 65.000
+5 | 170.000 | 66.000
+Toon met een berekening aan of de investering in de led-verlichting aanvaardbaar is.
+### ANTWOORD
+Cashflow = opbrengsten − uitgaven: 90.000; 98.000; 80.000; 105.000; 104.000. Contant maken: 90.000 × 1,07 tot de macht −1 = 84.112; 98.000 × 1,07 tot de macht −2 = 85.597; 80.000 × 1,07 tot de macht −3 = 65.304; 105.000 × 1,07 tot de macht −4 = 80.104; 104.000 × 1,07 tot de macht −5 = 74.151. Restwaarde: 30.000 × 1,07 tot de macht −5 = 21.390. Samen 410.658. NCW = 410.658 − 420.000 = −€ 9.342. De NCW is kleiner dan 0, dus niet aanvaardbaar.
+Puntenverdeling:
+• cashflow per jaar = extra opbrengsten − extra uitgaven: 90.000; 98.000; 80.000; 105.000; 104.000 (1)
+• elke cashflow contant maken met de macht van zijn eigen jaar: 90.000 × 1,07 tot de macht −1 = 84.112; 98.000 × 1,07 tot de macht −2 = 85.597; 80.000 × 1,07 tot de macht −3 = 65.304; 105.000 × 1,07 tot de macht −4 = 80.104; 104.000 × 1,07 tot de macht −5 = 74.151 (1)
+• restwaarde contant maken met de macht −5: 30.000 × 1,07 tot de macht −5 = 21.390 (1)
+• alle contante waarden optellen (410.658) en de investering aftrekken: NCW = 410.658 − 420.000 = −€ 9.342 (−€ 9.343 is ook goed); conclusie: de NCW is kleiner dan 0, dus de investering is niet aanvaardbaar (1)
+
+## OPGAVE IT-00284 2p | Opgave 1
+In deze opgave blijven de btw en de belasting buiten beschouwing. De cijfers zijn fictief, maar benaderen de werkelijkheid.
+Rivierzicht Rondvaart bv overweegt 12 elektrische rondvaartboten aan te schaffen. Alle bedragen in informatiebron 1 gelden voor de 12 boten samen. De extra kosten zijn inclusief lineaire afschrijving.
+De cashflows en de restwaarde komen aan het einde van het jaar binnen. De aanschafprijs wordt nu betaald. Niet alle gegevens zijn nodig.
+Tabel Informatiebron 1 Gegevens over de investering in 12 boten samen:
+Gegeven | Waarde voor 12 boten samen
+Aanschafprijs (nu te betalen) | € 300.000
+Restwaarde na 4 jaar | € 60.000
+Levensduur | 4 jaar
+Extra omzet per jaar | € 150.000
+Extra kosten per jaar (inclusief afschrijving) | € 105.000
+Disconteringsvoet voor deze investering | 6%
+Huidige omzet van het bedrijf per jaar (zonder de boten) | € 820.000
+Bereken de cashflow per jaar van de investering in de boten. (zie informatiebron 1)
+### ANTWOORD
+Afschrijving = (300.000 − 60.000) : 4 = € 60.000 per jaar. Resultaat = 150.000 − 105.000 = € 45.000. Cashflow = resultaat + afschrijving = 45.000 + 60.000 = € 105.000 per jaar. Afschrijving is een kostenpost, maar geen uitgave.
+Puntenverdeling:
+• Een los eindantwoord zonder berekening levert 0 scorepunten op. Bedragen in hele euro's. Bloom-niveau: Toepassen. Afschrijving per jaar: (300.000 − 60.000) : 4 = 60.000 (1)
+• Cashflow per jaar: (150.000 − 105.000) + 60.000 = 105.000 (1)
+

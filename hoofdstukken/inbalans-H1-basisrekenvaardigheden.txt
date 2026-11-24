@@ -1,0 +1,200 @@
+# HOOFDSTUK hv 1 | Basisrekenvaardigheden
+wereld: hv1
+hoofdvraag: Welke rekenvaardigheden heb je nodig bij bedrijfseconomie?
+
+## § 1.1 | Procenten en promillages
+onderwerp: A.reken
+deelvraag: Hoe reken je met procenten, promillages, omzet en brutoresultaat?
+gens: procentVan, procVerandering, procentpunt, brutoresultaat
+### UITLEG Procenten en promillages
+Procent betekent "per honderd", promille (‰) betekent "per duizend".
+Een percentage van een getal: 15% van € 240 = 0,15 × 240 = € 36.
+Een promillage: deel / geheel × 1.000‰. Voorbeeld: een brandverzekering van € 1,50 per € 1.000 verzekerde waarde is 1,5‰.
+Bedragen in euro's rond je af op 2 decimalen (centen). Percentages meestal op 1 of 2 decimalen.
+### UITLEG Omzet, afzet en brutoresultaat
+Afzet = het aantal verkochte producten. Omzet = afzet × verkoopprijs (exclusief btw).
+Brutoresultaat = omzet − inkoopwaarde van de omzet (IWvO). De IWvO is de inkoopprijs van de producten die je verkocht hebt.
+Voorbeeld: 1.200 hoodies à € 25, inkoopprijs € 9. Omzet = € 30.000, IWvO = € 10.800, brutoresultaat = € 19.200.
+Btw hoort niet bij de omzet: de ondernemer draagt de btw af aan de Belastingdienst. Prijs inclusief 21% btw = prijs exclusief btw × 1,21.
+### UITLEG Procentpunt of procent?
+Procentpunt is het verschil tussen twee percentages. Van 5% naar 8% is een stijging van 3 procentpunt.
+De procentuele verandering is (nieuw − oud) / oud × 100% = (8 − 5) / 5 × 100% = 60%.
+### BEGRIPPEN
+Procent = Een deel per honderd: 1% is één honderdste deel.
+Promillage = Een deel per duizend (‰).
+Afzet = Het aantal verkochte producten in een periode.
+Omzet = Afzet × verkoopprijs, exclusief btw.
+Brutoresultaat = Omzet min de inkoopwaarde van de omzet.
+Procentpunt = Het verschil tussen twee percentages.
+### MC
+Een winkel verkoopt 500 tassen voor € 40 per stuk (exclusief btw). De inkoopprijs is € 15 per tas. Hoe groot is het brutoresultaat?
+* € 12.500
+- € 20.000
+- € 7.500
+- € 27.500
+> Omzet = 500 × 40 = € 20.000. IWvO = 500 × 15 = € 7.500. Brutoresultaat = 20.000 − 7.500 = € 12.500.
+### MC
+Het percentage leerlingen dat een bijbaan heeft stijgt van 40% naar 50%. Welke uitspraak is juist?
+* Het percentage stijgt met 10 procentpunt, dat is een stijging van 25%
+- Het percentage stijgt met 10%, dat is 25 procentpunt
+- Het percentage stijgt met 10 procentpunt, dat is een stijging van 10%
+- Het percentage stijgt met 25 procentpunt
+> Verschil = 50 − 40 = 10 procentpunt. Procentueel: 10 / 40 × 100% = 25%.
+### MC
+De premie van een brandverzekering is 1,2‰ van de verzekerde waarde van € 250.000. Hoe hoog is de premie?
+* € 300
+- € 3.000
+- € 30
+- € 120
+> 1,2 / 1.000 × 250.000 = € 300.
+### MC
+Een product kost € 60 exclusief 21% btw. Wat is de prijs inclusief btw?
+* € 72,60
+- € 49,59
+- € 81,00
+- € 61,26
+> 60 × 1,21 = € 72,60.
+
+## § 1.2 | Eerstegraadsvergelijkingen
+onderwerp: A.reken
+deelvraag: Hoe bereken je een onbekende met de balansmethode?
+gens: vergelijking
+### UITLEG De balansmethode
+Bij een eerstegraadsvergelijking (ax + b = c) zoek je de onbekende x. Wat je aan de ene kant doet, doe je ook aan de andere kant.
+Voorbeeld: 4x + 30 = 110 → 4x = 80 → x = 20.
+Bedrijfseconomisch voorbeeld: een sportschool rekent € 30 inschrijfgeld plus € 4 per bezoek. Je betaalt € 110. Dan is 4x + 30 = 110 en heb je 20 keer gesport.
+### UITLEG Twee vergelijkingen
+Soms heb je twee onbekenden en twee vergelijkingen. Los ze op door substitutie (de ene vergelijking invullen in de andere) of eliminatie (vergelijkingen van elkaar aftrekken).
+Voorbeeld: TO = 25q en TK = 12.000 + 10q. Break-even als TO = TK: 25q = 12.000 + 10q → 15q = 12.000 → q = 800.
+### BEGRIPPEN
+Eerstegraadsvergelijking = Vergelijking waarin de onbekende alleen tot de eerste macht voorkomt, zoals 3x + 5 = 20.
+Balansmethode = Aan beide kanten van het isgelijkteken hetzelfde doen tot de onbekende alleen staat.
+Substitutie = De uitkomst van de ene vergelijking invullen in de andere.
+### MC
+Los op: 5x − 20 = 80.
+* x = 20
+- x = 12
+- x = 16
+- x = 100
+> 5x = 100, dus x = 20.
+### MC
+Een taxirit kost € 4 instaptarief plus € 2,50 per km. Een rit kost € 29. Hoeveel km was de rit?
+* 10 km
+- 11,6 km
+- 13 km
+- 7,25 km
+> 2,5x + 4 = 29 → 2,5x = 25 → x = 10.
+### MC
+TO = 30q en TK = 18.000 + 18q. Bij welke afzet zijn TO en TK gelijk?
+* 1.500
+- 600
+- 1.000
+- 375
+> 30q = 18.000 + 18q → 12q = 18.000 → q = 1.500.
+
+## § 1.3 | Ongewogen en gewogen gemiddelden
+onderwerp: A.reken
+deelvraag: Wanneer gebruik je een gewogen gemiddelde?
+gens: gewogenGemiddelde
+### UITLEG Gemiddelden
+Ongewogen gemiddelde: tel alle waarnemingen op en deel door het aantal waarnemingen.
+Gewogen gemiddelde: vermenigvuldig elke waarde met zijn gewicht (aantal of weging), tel op en deel door de som van de gewichten.
+Voorbeeld: een winkel verkoopt 300 shirts à € 20 en 100 shirts à € 40. De gemiddelde prijs is niet (20 + 40) / 2 = € 30, maar (300 × 20 + 100 × 40) / 400 = € 25.
+### BEGRIPPEN
+Ongewogen rekenkundig gemiddelde = De som van alle waarnemingen gedeeld door het aantal waarnemingen.
+Gewogen rekenkundig gemiddelde = Som van (waarde × weging) gedeeld door de som van de wegingen.
+Weging = Het gewicht of de frequentie waarmee een waarde meetelt.
+### MC
+Je haalt een 5 (weging 1), een 7 (weging 1) en een 8 (weging 2). Wat is je gewogen gemiddelde?
+* 7,0
+- 6,7
+- 6,5
+- 7,5
+> (5 + 7 + 2 × 8) / 4 = 28 / 4 = 7,0.
+### MC
+Een bakker verkoopt 200 broden à € 3 en 50 taarten à € 15. Wat is de gemiddelde prijs per verkocht product?
+* € 5,40
+- € 9,00
+- € 3,60
+- € 7,50
+> (200 × 3 + 50 × 15) / 250 = 1.350 / 250 = € 5,40.
+### MC
+Wanneer geeft het ongewogen gemiddelde een vertekend beeld?
+* Als de waarden niet even vaak voorkomen of niet even zwaar tellen
+- Als alle waarden even zwaar tellen
+- Als er alleen hele getallen zijn
+- Als er meer dan vijf waarnemingen zijn
+> Dan moet je met de weging rekening houden.
+
+## § 1.4 | Tabellen en grafieken
+onderwerp: A.index
+deelvraag: Hoe lees en controleer je tabellen en diagrammen?
+### UITLEG Tabellen
+Een tabel heeft kolommen (verticaal) en rijen (horizontaal). Een tabel met meerdere ingangen geeft gegevens naar twee kenmerken, bijvoorbeeld omzet per filiaal én per kwartaal.
+Vierkantscontrole: tel alle kolommen op en tel alle rijen op. Het eindtotaal van de kolommen moet gelijk zijn aan het eindtotaal van de rijen.
+### UITLEG Grafieken
+Lijndiagram: geschikt voor een ontwikkeling in de tijd. De tijd staat op de horizontale as. Begint de verticale as niet bij 0, dan zet je een scheurlijn.
+Gekoppeld staafdiagram: staven naast elkaar om categorieën te vergelijken. Gestapeld staafdiagram: delen van een totaal boven op elkaar in één staaf.
+### BEGRIPPEN
+Kolom = Een verticale reeks gegevens in een tabel.
+Rij = Een horizontale reeks gegevens in een tabel.
+Vierkantscontrole = Controle of het totaal van de kolommen gelijk is aan het totaal van de rijen.
+Lijndiagram = Grafiek die een ontwikkeling in de tijd laat zien met lijnen.
+Gestapeld staafdiagram = Staafdiagram waarin onderdelen boven op elkaar tot een totaal zijn opgebouwd.
+Scheurlijn = Onderbreking in een as die laat zien dat de schaal niet bij nul begint.
+### MC
+Je wilt laten zien hoe de omzet van een bedrijf zich van 2018 tot 2025 heeft ontwikkeld. Welke grafiek past het best?
+* Een lijndiagram
+- Een cirkeldiagram
+- Een gestapeld staafdiagram
+- Een tabel met één ingang
+> Een ontwikkeling in de tijd laat je zien met een lijndiagram.
+### MC
+Je wilt laten zien uit welke kostensoorten de totale kosten per jaar bestaan. Welke grafiek past het best?
+* Een gestapeld staafdiagram
+- Een lijndiagram met één lijn
+- Een gekoppeld staafdiagram
+- Een scheurlijn
+> In een gestapelde staaf zie je de delen én het totaal.
+### MC
+Wat controleer je met de vierkantscontrole?
+* Of het eindtotaal van de kolommen gelijk is aan het eindtotaal van de rijen
+- Of de grafiek bij nul begint
+- Of alle getallen positief zijn
+- Of de tabel even veel rijen als kolommen heeft
+> Zo vind je fouten bij het optellen.
+
+## § 1.5 | Indexcijfers
+onderwerp: A.index
+deelvraag: Hoe reken je met indexcijfers?
+gens: index, indexVerschil
+### UITLEG Indexcijfers
+Een indexcijfer vergelijkt een waarde met een basisjaar. In het basisjaar is het indexcijfer 100.
+Indexcijfer verslagjaar = waarde verslagjaar / waarde basisjaar × 100.
+Voorbeeld: omzet 2020 € 400.000 (basisjaar), omzet 2025 € 460.000. Indexcijfer 2025 = 460.000 / 400.000 × 100 = 115: de omzet is 15% hoger dan in 2020.
+Let op: van index 110 naar 121 is geen stijging van 11%, maar (121 − 110) / 110 × 100% = 10%.
+### BEGRIPPEN
+Indexcijfer = Verhoudingsgetal ten opzichte van een basisjaar dat 100 is.
+Basisjaar = Het jaar waarin het indexcijfer 100 is.
+Verslagjaar = Het jaar waarvoor je het indexcijfer berekent.
+### MC
+De afzet was in 2021 (basisjaar) 8.000 stuks en in 2025 7.200 stuks. Wat is het indexcijfer van 2025?
+* 90
+- 111,1
+- 80
+- 72
+> 7.200 / 8.000 × 100 = 90.
+### MC
+Het omzetindexcijfer stijgt van 120 naar 132. Met hoeveel procent is de omzet gestegen?
+* 10%
+- 12%
+- 32%
+- 20%
+> (132 − 120) / 120 × 100% = 10%.
+### MC
+Het indexcijfer van de kosten in 2025 is 95 (2020 = 100). Wat betekent dat?
+* De kosten zijn 5% lager dan in 2020
+- De kosten zijn met € 95 gestegen
+- De kosten zijn 95% gedaald
+- De kosten zijn 5% gestegen
+> Onder 100 betekent lager dan in het basisjaar.
