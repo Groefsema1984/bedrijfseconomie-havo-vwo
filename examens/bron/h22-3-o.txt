@@ -1,0 +1,557 @@
+                                                                Examen HAVO
+
+                                                                      2022
+                                                                             tijdvak 3
+                                                                     donderdag 7 juli
+                                                                    13.30 - 16.30 uur
+
+
+                                                             bedrijfseconomie
+
+
+
+
+Bij dit examen horen een bijlage en een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 30 vragen.
+Voor dit examen zijn maximaal 60 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening gevraagd wordt, worden aan
+het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-0400-a-22-3-o
+      Opgave 1
+
+              In deze opgave blijft de btw buiten beschouwing.
+
+              Pen & Papier bv is een webwinkel met een eigen distributiecentrum. De
+              winkel levert kantoorartikelen aan bedrijven.
+              De balans van Pen & Papier per 1 januari 2019 en de inkopen en
+              verkopen over 2019, zijn hieronder weergegeven:
+
+                      Balans Pen & Papier per 1 januari 2019 (getallen x € 1.000)
+              debet                                                                 credit
+              Distributiecentrum               260 Eigen vermogen                     210
+              Debiteuren                       100 Langlopende lening                 200
+              Voorraad kantoorartikelen        110 Crediteuren                          90
+              Liquide middelen                   30
+                                               500                                    500
+
+
+
+                                                  januari november december totaal
+                                              tot en met
+                                                 oktober
+              inkopen 2019 (x € 1.000)                 932       100          80    1.112
+              verkopen 2019 (x € 1.000)               1.385      145        150     1.680
+
+              Verder is gegeven:
+               De inkoopwaarde van de omzet is 70% van de omzet.
+               Verkochte kantoorartikelen worden op de dag van de verkoop bij de
+                 afnemer afgeleverd.
+               Ingekochte kantoorartikelen worden op de dag van de inkoop bij
+                 Pen & Papier afgeleverd.
+               De verkopen zijn 30% contant en 70% op rekening.
+                 De krediettermijn van debiteuren is 1,5 maand.
+               Alle inkopen zijn op rekening. De krediettermijn van crediteuren is
+                 1 maand.
+               Van alle krediettermijnen wordt volledig gebruikgemaakt.
+
+2p    1       Bereken voor Pen & Papier de waarde van de voorraad kantoorartikelen
+              op 31 december 2019.
+
+
+
+
+HA-0400-a-o                                  2 / 17                          lees verder ►►►
+              De directeur van Pen & Papier constateert dat op 31 december 2019 de
+              waarde van de voorraad kantoorartikelen nog steeds relatief hoog is.
+
+1p    2       Geef voor Pen & Papier een financieel nadeel van het aanhouden van een
+              voorraad kantoorartikelen met een hoge waarde.
+
+              De directeur van Pen & Papier wil het saldo van de liquide middelen per
+              31 december 2019 weten. Hiertoe worden eerst de totale ontvangsten in
+              2019 met betrekking tot de verkopen bepaald.
+
+3p    3       Bereken de totale ontvangsten in 2019 met betrekking tot de verkopen
+              van Pen & Papier.
+
+              De uitgaven van Pen & Papier in 2019 bestaan uit:
+               uitgaven als gevolg van de inkopen van de kantoorartikelen
+               uitgaven aan bedrijfskosten voor € 482.250.
+
+              Pen & Papier heeft behalve ontvangsten uit de verkopen geen andere
+              ontvangsten.
+
+2p    4       Bereken het saldo van de liquide middelen van Pen & Papier op
+              31 december 2019.
+
+
+
+
+HA-0400-a-o                                  3 / 17                           lees verder ►►►
+      Opgave 2
+
+              Bij deze opgave horen de informatiebronnen 1 tot en met 3.
+
+              Gerrit Roos verkoopt in zijn winkel een breed assortiment aan producten,
+              zoals rookwaren, tijdschriften, wenskaarten, boeken en kantoorartikelen
+              (zie informatiebron 1). Gerrit heeft het winkelpand dat hij huurt enkele
+              jaren geleden intern verbouwd en heeft hierbij onder andere de inventaris
+              vervangen.
+
+
+
+
+              Rookwaren vormen het hoofdbestanddeel van Gerrits assortiment. Hij
+              vermoedt dat de afzet van rookwaren door overheidsmaatregelen gaat
+              dalen, waardoor hij ook minder marge van de fabrikant zal krijgen (zie
+              informatiebron 2).
+              Gerrit heeft daarom twijfels over de continuïteit van zijn winkel.
+
+2p    5       Bereken met welk bedrag Gerrits totale marge exclusief btw op rookwaren
+              over 2020 zal dalen ten opzichte van 2019 als gevolg van de verwachte
+              afzetdaling.
+
+
+
+
+HA-0400-a-o                                  4 / 17                            lees verder ►►►
+              De verhuurder van Gerrits winkelpand is benaderd door een keten van
+              pizzawinkels die geïnteresseerd is in de locatie van Gerrits winkel. De
+              verhuurder ziet de pizzaketen graag als nieuwe huurder. Hij weet dat
+              Gerrit binnenkort met pensioen gaat en misschien wel eerder wil stoppen.
+              Hij doet Gerrit begin oktober 2019 het volgende voorstel:
+
+                 Per 1 januari 2020 wordt het huurcontract beëindigd.
+                 Per 1 januari 2020 wordt de huur van de laatste 3 maanden van 2019
+                  die Gerrit al betaald heeft, aan Gerrit terugbetaald
+                  (zie informatiebron 3).
+                 Op 1 januari 2020 krijgt Gerrit de boekwaarde van de inventaris en de
+                  boekwaarde van de interne verbouwing per 1 januari 2020 volledig
+                  vergoed wanneer hij stopt.
+
+              Wanneer Gerrit ingaat op het voorstel, wordt het winkelpand vanaf
+              1 januari 2020 verhuurd aan de pizzaketen.
+
+2p    6       Geef twee bedrijfseconomische redenen waarom de verhuurder van het
+              winkelpand per 1 januari 2020 liever de pizzaketen als huurder zou willen
+              hebben dan Gerrit.
+
+              Voordat Gerrit zich verdiept in het voorstel van de verhuurder, gaat Gerrit
+              eerst een SWOT-analyse van zijn zaak uitvoeren. Uit de situatieschets
+              (zie informatiebron 1) komen onder andere twee feiten naar voren:
+              a Gerrit maakt geen gebruik van social media,
+              b een verdere aanscherping van het antirookbeleid door de overheid.
+
+              Een SWOT-analyse bestaat uit vier onderdelen: de analyse van
+              Strengths, Weaknesses, Opportunities en Threats.
+
+3p    7       In welk onderdeel van de SWOT-analyse van Gerrit zou het feit dat Gerrit
+              geen gebruikmaakt van social media meegenomen moeten worden? Geef
+              hiervoor twee argumenten.
+
+3p    8       In welk onderdeel van de SWOT-analyse van Gerrit zou het feit dat de
+              overheid het antirookbeleid verder aanscherpt meegenomen moeten
+              worden? Geef hiervoor twee argumenten.
+
+
+
+
+HA-0400-a-o                                   5 / 17                             lees verder ►►►
+              Vanwege de uitkomst van de SWOT-analyse besluit Gerrit zich verder te
+              verdiepen in het voorstel van de verhuurder van het winkelpand.
+
+              Eis die Gerrit aan het voorstel stelt
+
+              Gerrit gaat in op het voorstel als er na liquidatie van zijn winkel
+              (vergoeding van de boekwaarde van de inventaris en interne verbouwing,
+              verkoop voorraden, inning van debiteuren en terugbetaling
+              vooruitbetaalde huur en afbetaling van schulden) op
+              1 januari 2020 voldoende liquide middelen zijn om de twee jaar tot aan
+              zijn pensioen financieel te overbruggen. Hij denkt daar gedurende deze
+              twee jaren € 900 per maand voor nodig te hebben.
+
+              Vergoeding van de boekwaarde van de inventaris en interne
+              verbouwing per 1 januari 2020
+
+2p    9       Bereken de afschrijvingskosten op de verbouwing en inventaris over het
+              vierde kwartaal van 2019 (zie informatiebron 3).
+
+1p   10       Bereken het bedrag dat Gerrit op 1 januari 2020 van de verhuurder van
+              het winkelpand voor de verbouwing en inventaris van zijn winkel zal
+              kunnen ontvangen.
+
+              Verkoop voorraden, inning van debiteuren en terugbetaling
+              vooruitbetaalde huur per 1 januari 2020
+
+              Gerrit verwacht dat hij bij de liquidatie op 1 januari 2020 niet het volledige
+              bedrag voor de waarde van zijn voorraad van 31 december 2019 zal
+              ontvangen.
+              Hij gaat van de volgende inbare percentages per 1 januari 2020 uit.
+
+              Voorraad
+               Tijdschriften e.d.      100% (terug naar de uitgever)
+               Rookwaren                70%
+               Kantoorartikelen         40%
+
+              De vorderingen op de debiteuren worden volledig ontvangen.
+
+1p   11       Bereken het bedrag dat Gerrit per 1 januari 2020 naar verwachting zal
+              ontvangen uit de verkoop voorraden, inning van debiteuren en
+              terugbetaling vooruitbetaalde huur per 1 januari 2020.
+
+
+
+
+HA-0400-a-o                                    6 / 17                              lees verder ►►►
+              Betaling van de schulden per 1 januari 2020
+
+              Bij liquidatie op 1 januari 2020 zal Gerrit nog aan drie verplichtingen
+              voldoen:
+               het volledig verschuldigde bedrag aan zijn leveranciers,
+               de bedragen aan aflossing en interest die hij per 31 december 2019
+                   nog schuldig is aan de bank en
+               de per saldo af te dragen btw
+              betalen.
+
+3p   12       Bereken het volledige bedrag dat Gerrit op 1 januari 2020 nodig zal
+              hebben om aan deze drie verplichtingen te voldoen.
+
+              Conclusie
+
+              Gerrit heeft inmiddels voldoende informatie om te bezien of er na de
+              financiële afwikkelingen € 900 per maand beschikbaar is voor de
+              overbrugging van de twee jaar tot aan zijn pensioen.
+
+2p   13       Toon met een berekening aan of Gerrit op het voorstel van de eigenaar
+              van het winkelpand zal ingaan.
+              Vul hiertoe de uitwerkbijlage die bij deze vraag hoort volledig in.
+
+
+
+
+HA-0400-a-o                                  7 / 17                            lees verder ►►►
+      Opgave 3
+
+              Op 1 januari 2019 heeft Micran een huis gekocht. Hij heeft bij de bank een
+              hypothecaire lening afgesloten van € 270.000 met een looptijd van
+              360 maanden. De interest is 0,3% per maand en wordt tegelijkertijd met
+              de aflossing aan het einde van elke maand betaald. Voor 2019 zijn de
+              interestuitgaven van Micran aan de bank als gevolg van de hypothecaire
+              lening gegeven:
+
+                             interestuitgaven aan de
+                                  bank in euro’s
+               januari                           810,00
+               februari                          807,75
+               maart                             805,50
+               april                             803,25
+               mei                               801,00
+               juni                              798,75
+               juli                              796,50
+               augustus                          794,25
+               september                         792,00
+               oktober                           789,75
+               november                          787,50
+               december                          785,25
+               totaal 2019                     9.571,50
+
+              Micran had bij het afsluiten van de hypothecaire lening de keuze uit een
+              hypothecaire lening met lineaire aflossing en een hypothecaire lening met
+              aflossing op basis van annuïteiten.
+
+2p   14       Toon met een berekening aan dat Micran gekozen heeft voor een
+              hypothecaire lening met lineaire aflossing.
+
+
+
+
+HA-0400-a-o                                  8 / 17                            lees verder ►►►
+              Met het oog op de klimaatdoelstellingen worden woningen steeds vaker
+              verduurzaamd. Micran wil zijn huis ook verduurzamen. Voor de
+              financiering van de investering in isolatie en warmtepomp denkt hij een
+              bedrag van € 15.000 nodig te hebben. Daarvoor wil hij zijn hypothecaire
+              lening verhogen. De bank is alleen onder bepaalde voorwaarden hiertoe
+              bereid.
+
+2p   15       Geef twee voorwaarden die de bank kan stellen om akkoord te gaan met
+              het verhogen van de hypothecaire lening voor Micran.
+
+
+
+
+HA-0400-a-o                                  9 / 17                           lees verder ►►►
+      Opgave 4
+
+              Tante Beth wil € 5.000 schenken aan of haar nichtje Phillippa of aan het
+              Wereld Natuur Fonds (WNF). Beth heeft zich verdiept in de wetgeving
+              rond schenken.
+
+
+
+
+              Schenken
+
+              Er is volgens de wet sprake van schenken indien er sprake is van een
+              overeenkomst om niet.
+
+              Vrijstelling schenkbelasting
+
+               relatie met de schenker                 bedrag vrijstelling
+               (pleeg)kind                             € 5.428
+               kleinkind                               € 2.173
+               overig                                  € 2.173
+               ANBI1)                                  bedrag van de schenking
+
+
+   noot 1 ANBI = Algemeen Nut Beogende Instelling
+
+
+
+
+HA-0400-a-o                                  10 / 17                             lees verder ►►►
+              Tarieven schenkbelasting
+
+              waarde schenking       (pleeg)kind       kleinkinderen en      overige
+              (na vrijstelling)                       achterkleinkinderen
+              over de eerste             10%                 18%               30%
+              € 124.727
+              over het meerdere          20%                 36%               40%
+
+2p   16       Bereken het bedrag dat Phillippa aan schenking zou ontvangen na aftrek
+              van schenkbelasting indien tante Beth de schenking aan haar zou doen.
+
+              Tante Beth vindt het Wereld Natuur Fonds (WNF) een goed doel. Het
+              WNF is een stichting die geld inzamelt voor het behoud van flora en
+              fauna. Het Wereld Natuur Fonds is geregistreerd als ANBI.
+
+              Als tante Beth het geld aan het WNF geeft, kan dat op drie manieren:
+              a via de collecte langs de deur
+              b via de telefoon een donatie doorgeven
+              c via de website van WNF knuffels en boeken kopen.
+
+2p   17       Geef voor elke van bovenstaande drie manieren aan of er volgens de wet
+              sprake is van een schenking. Motiveer het antwoord.
+
+              Tante Beth kiest voor een schenking aan het WNF.
+
+2p   18       Geef de fiscale redenen voor tante Beth om aan het WNF te schenken in
+              plaats van een schenking aan Phillippa. Vermeld hierbij zowel het
+              belastingvoordeel voor tante Beth als het belastingvoordeel voor het
+              WNF.
+
+
+
+
+HA-0400-a-o                                 11 / 17                           lees verder ►►►
+      Opgave 5
+
+              Bij deze opgave horen de informatiebronnen 4 tot en met 6.
+
+
+
+
+              Adnane heeft te maken met de volgende financiële gebeurtenissen:
+
+              datum      leeftijd Adnane   financiële gebeurtenis
+              1-9-1997      geboorte       ouders openen Groeirekening
+              1-9-2015         18               beëindiging Groeirekening
+                                                starten studie en studievoorschot van
+                                                 DUO
+              1-9-2019         22          afgestudeerd met opgebouwd
+                                           studievoorschot van DUO
+              1-9-2021         24          voornemen om huis te kopen
+
+              Openen groeirekening
+
+              De ouders van Adnane hebben bij de geboorte van Adnane geld gestort
+              op de Groeirekening van de RegioBank, zodat Adnane hiermee later een
+              deel van zijn eventuele studie kan betalen. In informatiebron 4 is
+              informatie over deze Groeirekening opgenomen.
+
+
+
+
+HA-0400-a-o                                    12 / 17                          lees verder ►►►
+              Sparen kan vrijwillig of verplicht zijn en vrij opneembaar of niet vrij
+              opneembaar zijn.
+              Sparen op de Groeirekening van de RegioBank is
+              a verplicht, vrij opneembaar
+              b verplicht, niet vrij opneembaar
+              c vrijwillig, vrij opneembaar
+              d vrijwillig, niet vrij opneembaar
+
+1p   19       Noteer de letter van het juiste antwoord.
+
+              Bij de geboorte van Adnane is door zijn ouders € 7.200 op de
+              Groeirekening gestort. Toen Adnane op 1 september 2010 naar de havo
+              ging, is er nog een keer € 3.600 op deze rekening gestort. Daarnaast
+              waren er geen andere stortingen of opnames.
+
+2p   20       Bereken het bedrag op de Groeirekening van Adnane op
+              1 september 2015.
+
+
+
+
+HA-0400-a-o                                    13 / 17                              lees verder ►►►
+              Studeren
+
+              Op 1 september 2015 ging Adnane Commerciële Economie studeren aan
+              de Haagse Hogeschool. In plaats van te gaan studeren had Adnane er
+              ook voor kunnen kiezen om fulltime te gaan werken.
+
+2p   21       Geef één economisch voordeel voor Adnane en één economisch voordeel
+              voor de samenleving van het feit dat Adnane ging studeren in plaats van
+              fulltime werken.
+
+              Omdat Adnane tijdens zijn studie meer geld uitgaf dan dat hij met zijn
+              bijbaantje in de horeca verdiende, moest hij gebruikmaken van het
+              opgebouwde saldo van zijn spaarrekening of van een studievoorschot bij
+              DUO (zie informatiebron 4). Adnane koos ervoor om gebruik te maken van
+              een studievoorschot in plaats van zijn opgebouwde saldo op de
+              spaarrekening.
+
+1p   22       Geef een financiële reden waarom Adnane gebruik heeft gemaakt van
+              een studievoorschot in plaats van het opgebouwde saldo op de
+              spaarrekening aan te spreken.
+
+              Afgestudeerd
+
+              Adnane is op 1 september 2019 afgestudeerd en heeft toen direct een
+              baan gevonden als verkoper bij Brugman bv. Pas na 2 jaar, vanaf
+              1 september 2021, begint hij met terugbetalen van zijn studievoorschot.
+              Het opgebouwde studievoorschot van Adnane bedraagt op het moment
+              van terugbetalen € 10.525,22.
+
+1p   23       Bereken het opgebouwde studievoorschot bij het afstuderen van Adnane
+              op 1 september 2019.
+
+
+
+
+HA-0400-a-o                                  14 / 17                          lees verder ►►►
+              Voornemen om een huis te kopen
+
+              Per 1 september 2021 wil Adnane een woning kopen. Vanwege de lage
+              hypotheekrente van 2,25% per jaar is het volgens hem interessanter om
+              een huis te kopen dan te huren. Hij heeft een woning gezien van
+              € 130.000 en gaat onderzoeken of hij die kan financieren met een
+              hypothecaire lening. Zo ja, dan gaat hij de woning kopen.
+
+              De geldverstrekker kijkt voor de maximale hypotheek naar het inkomen en
+              uit welke soort arbeidsrelatie het inkomen komt. Een deel van het contract
+              van Adnane staat in informatiebron 5.
+
+3p   24       Geef op basis van informatiebron 5 drie argumenten waaruit blijkt dat er
+              sprake is van een individuele arbeidsovereenkomst en niet van een
+              zzp-overeenkomst.
+
+              Vervolgens wordt op basis van een schema van het Nibud (zie
+              informatiebron 6) de maximale financieringslast berekend.
+
+3p   25       Bereken de maximale financieringslast van de 2,25% hypothecaire lening
+              in euro’s per maand voor Adnane (zie stap 2 uit informatiebron 6).
+
+2p   26       Lukt het Adnane om de aankoop van de woning volledig te financieren
+              met een hypothecaire lening? Motiveer het antwoord (zie stap 3 uit
+              informatiebron 6).
+
+
+
+
+HA-0400-a-o                                  15 / 17                           lees verder ►►►
+      Opgave 6
+
+              Gegeven zijn de onderstaande balansen van winkelketen Blokker bv na
+              winstverdeling (getallen x € 1.000).
+
+ debet                     balansen van winkelketen Blokker bv na                    credit
+                              winstverdeling (getallen x € 1.000)
+                           31            31                             31            31
+                     december      december                       december      december
+                         2017          2016                           2017          2016
+ Immateriële                                  Eigen
+ vaste activa            10.100        26.100 vermogen                19.000      363.500
+ Materiële
+ vaste activa            84.200       202.100 Voorzieningen           45.400        86.100
+ Financiële                                   Onderhandse
+ vaste activa            44.500        52.400 lening                146.700
+                                              Overig lang
+                                              vreemd
+ Voorraad               197.700       371.700 vermogen                35.000      183.300
+
+ Debiteuren              22.800        28.400 Crediteuren             83.100      145.900
+                                              Overig kort
+ Overige                                      vreemd
+ vorderingen             43.900        84.100 vermogen              115.800       191.200
+ Liquide
+ middelen                41.800       205.200
+                        445.000       970.000                       445.000       970.000
+
+2p   27       Geef twee voorbeelden van immateriële vaste activa.
+
+              In de loop van 2017 werd een faillissement van de winkelketen
+              voorkomen door het verstrekken van een langlopende onderhandse lening
+              door de eigenaar, de familie Blokker, aan de winkelketen Blokker bv. Door
+              deze lening verbeterde op het moment van verstrekken de current ratio
+              van Blokker.
+
+2p   28       Leg uit dat op het moment van verstrekken van de onderhandse lening de
+              current ratio van Blokker positief wordt beïnvloed. Betrek in het antwoord
+              het tellereffect en het noemereffect op de current ratio.
+
+
+
+
+HA-0400-a-o                                  16 / 17                           lees verder ►►►
+              Op 13 november 2018 werd de 122 jaar oude winkelketen Blokker door de
+              familie Blokker te koop aangeboden.
+              Volgens hoogleraar e-marketing Cor Molenaar heeft de winkelketen de
+              gevolgen van het internettijdperk niet goed ingeschat, waardoor de
+              verkopen via hun webwinkel achterbleven.
+
+2p   29       Bij welke P van de marketinginstrumenten hoort de verkoop via
+              webwinkels? Licht het antwoord toe.
+
+              De problemen waren al jaren bekend bij Blokker bv. In het jaarverslag
+              over 2014 kondigde Blokker bv een strategiewijziging aan waarbij de klant
+              meer centraal moest komen te staan en formuleerde daarbij een kritische
+              succesfactor (KSF) met bijbehorende kritische prestatie-indicatoren
+              (KPI’s):
+              “We staan dicht bij de klant met eigentijdse formules: de wensen van onze
+              klanten vervullen in onderscheidende winkels en producten tegen een
+              redelijke prijs en met de hoogste service aanbieden. Door ook op social
+              media en via onze klantenservice de vinger aan de pols te houden, staan
+              wij steeds dichter bij de klant. We gaan leveren aan de klant waar en
+              wanneer de klant dat wil, snel, makkelijk en zo kostenefficiënt mogelijk”.
+
+2p   30       Leg uit wat dichter bij de klant staan niet is:
+              a een KSF
+              b een KPI
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+
+
+HA-0400-a-o                                                17 / 17                                           lees verdereinde
+                                                                                                                          ►►► 
+

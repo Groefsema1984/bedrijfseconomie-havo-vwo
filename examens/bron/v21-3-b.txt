@@ -1,0 +1,294 @@
+                       Bijlage VWO
+
+                         2021
+                             tijdvak 3
+
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-21-3-b
+      Formuleblad
+
+            Voor beantwoording van vraag 8 en 17 zijn de volgende formules
+            beschikbaar.
+
+      8     efficiencyresultaat = (sh – wh) x sp
+            prijsresultaat = (sp – wp) x wh
+
+            sh = standaardhoeveelheid
+            wh = werkelijke hoeveelheid
+            sp = standaardprijs
+            wp = werkelijke prijs
+
+     17     somformule meetkundige reeks:
+
+                    rn - 1
+            S=ax
+                     r-1
+
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-21-3-b                             2/9                             lees verder ►►►
+      Informatiebron 1
+
+            Bedrijfsmodel van Wagenaar
+
+ 2010 tot en met 2014            vanaf 2015
+ Magazijn- en opslagruimte       Magazijn- en opslagruimte- e-fulfillment
+
+ Wagenaar biedt webshops de      E-fulfillment bij Wagenaar houdt in dat Wagenaar
+ mogelijkheid om magazijn- en    webshops de mogelijkheid biedt om:
+ opslagruimte te huren om hun    1 magazijn- en opslagruimte te huren.
+ voorraden extern op te slaan.   2 de gehele afhandeling (inslag, opslag,
+                                     orderpicken en verzenden) van hun voorraden
+                                     uit te besteden aan Wagenaar. Wagenaar heeft
+                                     hierbij een samenwerkingsovereenkomst met
+                                     PostNL afgesloten. Het verwerken van de
+                                     retour verzonden producten is ook onderdeel
+                                     van
+                                     e-fulfillment.
+                                 3 hun voorraden bedrijfseconomisch over te laten
+                                     nemen door Wagenaar, door die voorraden op
+                                     de balans van Wagenaar op te nemen (= off-
+                                     balance halen bij de klanten van Wagenaar).
+                                 Wagenaar heeft bij het besluit om het bedrijfsmodel
+                                 te veranderen een onderzoek uit 2014 gebruikt. De
+                                 belangrijkste onderdelen uit dit onderzoek waren:
+                                  De pakketmarkt groeit in hoog tempo. De
+                                     voornaamste reden is dat consumenten steeds
+                                     meer online kopen via webshops.
+                                  Ook stellen consumenten steeds hogere eisen
+                                     aan de bezorging van de producten: “vandaag
+                                     besteld, morgen in huis” is de standaard
+                                     geworden.
+                                  Webshops worden snel groter en zullen
+                                     veel moeten investeren in magazijnruimte
+                                     en personeel om aan de groeiende vraag
+                                     en stijgende eisen van de consumenten te
+                                     kunnen voldoen.
+
+
+
+
+VW-0400-a-21-3-b                         3/9                             lees verder ►►►
+      Informatiebron 2
+
+            Gegevens Wagenaar 2020
+
+            Voorcalculatorische en nacalculatorische resultaten van Wagenaar
+            over 2020
+
+                                  voorcalculatorisch nacalculatorisch                       verschil
+ omzet                                       1.460.000              1.551.250              91.250
+                                                                                      - 2)
+ loonkosten orderpickers1)                        547.500                876.000       /- 328.500
+ overige bedrijfskosten                           650.000                650.000                    0
+                                                                                       -
+ bedrijfsresultaat                                262.500                 25.250           /- 237.250
+                                              -                      -
+ financieringsresultaat                           /- 50.000              /- 50.000                 0
+                                                                     -                 -
+ resultaat voor belasting                         212.500                /- 24.750         /- 237.250
+
+
+   noot 1 Alle orderpickers zijn gezamenlijk verantwoordelijk voor het picken, verpakken en
+          verzenden van de orders. Alle orderpickers zijn uitzendkrachten die dagelijks de
+          gehele dag worden ingehuurd via een uitzendbureau. Er wordt gedurende 365 dagen
+          georderpickt.
+   noot 2 - /- betekent negatief.
+
+
+
+
+            Overige voorcalculatorische en nacalculatorische gegevens van
+            Wagenaar over 2020
+
+ gemiddelde                               voorcalculatorisch              nacalculatorisch
+ orders per dag                           1.000                           1.000
+ orders per jaar                          365.000                         365.000
+ verkooptarief per order                  € 4,00                          € 4,25
+ orderpicktijd per order                  6 minuten                       9 minuten
+ loonkosten orderpickers per uur          € 15,00                         € 16,00
+
+
+
+
+VW-0400-a-21-3-b                              4/9                                     lees verder ►►►
+      Informatiebron 3
+
+            Informatie met betrekking tot onderdeel b van het plan: aantal
+            benodigde orderpickers
+
+            Met een semi-automatisch orderpicksysteem, in de vorm van een
+            orderpicktruck en bijbehorende batchpickingsoftware kan veel tijd worden
+            bespaard op het orderpicken. Door de orderpicktruck hoeven de
+            orderpickers niet meer door het magazijn te lopen om orders te picken en
+            het wordt ook eenvoudiger om van hogere stellingen in het magazijn te
+            picken. Ook kunnen orderpickers met behulp van de software meerdere
+            orders tegelijkertijd picken waardoor een zo kort mogelijke afstand in het
+            magazijn wordt afgelegd.
+
+
+                                     voor het plan         na implementatie van het plan
+ orderpicktijd per order:
+ uitzendkracht                       9 minuten             6 minuten
+ orderpickers in dienst voor         niet van toepassing   4 minuten
+ onbepaalde tijd
+ loonkosten:
+ uitzendkracht                       € 16 per uur          € 16 per uur
+ orderpickers in dienst voor         niet van toepassing   € 500 per week
+ onbepaalde tijd                                           (op basis van 1 fte1) en
+                                                           52 weken per jaar)
+ aantal werkzame uren:
+ per uitzendkracht                   10 uur per dag        8 uur per dag
+ per orderpicker in dienst           niet van toepassing   35 uur per week
+ voor onbepaalde tijd                                      (op basis van 1 fte en
+                                                           52 weken per jaar)
+
+ De vakantie is verdisconteerd in de 35-urige beschikbaarheid in 52 weken.
+
+ noot 1 fte = fulltime equivalent.
+
+
+
+
+VW-0400-a-21-3-b                                 5/9                             lees verder ►►►
+            Verwacht aantal orders per dag in iedere week van 2021
+
+
+
+
+            Wagenaar verwacht over 2021 dezelfde hoeveelheid orders per jaar en
+            gemiddeld per dag als over 2020. In 2021 wordt gedurende 365 dagen
+            georderpickt.
+
+
+
+
+VW-0400-a-21-3-b                          6/9                            lees verder ►►►
+      Informatiebron 4
+
+            Informatie met betrekking tot onderdeel a van het plan: de
+            investering en financiering
+
+
+
+
+            De aanschafprijzen en afschrijvingen
+
+            Aan de hand van opgevraagde offertes, verwacht Wagenaar de volgende
+            uitgaven inclusief 21% btw:
+            semi-automatisch orderpicksysteem              € 484.000
+            installatie semi-automatisch orderpicksysteem  € 60.500 +
+            totaal                                         € 544.500
+
+            software                                            € 36.300
+
+            Het semi-automatisch orderpicksysteem (zie afbeelding) inclusief
+            installatie wordt in 10 jaar lineair afgeschreven tot 25% van de totale
+            aanschafwaarde. De software wordt lineair in 10 jaar geheel
+            afgeschreven.
+
+            Financiering
+
+            Ten behoeve van het bepalen van de extra interestkosten door het plan
+            bepaalt de financieel controller van Wagenaar dat de investering inclusief
+            btw voor 60% met vreemd vermogen gefinancierd moet worden en voor
+            40% met eigen vermogen.
+
+            Het aan te trekken vreemd vermogen zal in 10 jaar lineair worden
+            afgelost. Met ingang van 1 juli 2021 zullen halfjaarlijks, op 1 juli en
+            31 december, de aflossing en de dan verschuldigde interest (4% per jaar)
+            achteraf worden betaald.
+
+
+
+
+VW-0400-a-21-3-b                             7/9                               lees verder ►►►
+      Informatiebron 5
+
+            Gegevens over de verwachte kosten van Motormuis over 2021
+
+            In de onderstaande grafiek zijn de totale verwachte kosten per verkochte
+            motor uitgezet tegen de verwachte afzet in het jaar 2021.
+            De totale verwachte kosten per motor bestaan uit variabele kosten (per
+            motor) en constante kosten (per motor).
+
+
+
+
+            Overige informatie
+
+                  Motormuis wil maximaal 900 motoren per jaar in- en verkopen.
+                  De verwachte variabele kosten zijn proportioneel variabel.
+
+
+
+
+VW-0400-a-21-3-b                              8/9                             lees verder ►►►
+      Informatiebron 6
+
+            Enkele kerngegevens van Motormuis en Das Boot
+
+            Motormuis
+
+            De onderstaande verwachte gegevens hebben betrekking op het jaar
+            2021.
+
+              gevestigd in                                 België
+              tarief inkomstenbelasting                    36%
+                                                1)
+              tarief vennootschapsbelasting                25%
+              inkopen (maximaal)                           900 stuks
+              variabele kosten per stuk                    (vraag 23)
+              totale constante kosten                      € 180.000
+              afzet aan externen bij gegeven               bij € 760              660 stuks
+              verkoopprijs per motor                       bij € 755              720 stuks
+                                                           bij € 750              780 stuks
+                                                           bij € 745              840 stuks
+                                                           bij € 740              900 stuks
+            noot 1 Deze belasting dient in het land van vestiging betaald te worden.
+
+
+            Das Boot
+
+            De onderstaande verwachte gegevens hebben betrekking op het jaar
+            2021.
+
+              gevestigd in                                 Zwitserland
+              tarief inkomstenbelasting                    39%
+              tarief vennootschapsbelasting1)              14%
+              maximale afzet per jaar2)                    180 stuks
+              inkoop motoren transfer price                € ….. (vraag 25)
+              inkoop motoren externe prijs                 € 750
+              overige variabele kosten per stuk            € 700
+              totale constante kosten                      € 270.000
+              verkoopprijs per boot                        € 3.450
+
+
+     noot 1 Deze belasting dient in het land van vestiging betaald te worden.
+     noot 2 Das Boot verwacht de maximale afzet te behalen in 2021.
+
+
+
+
+VW-0400-a-21-3-b                                     9/9                               lees verdereinde
+                                                                                                    ►►► 
+

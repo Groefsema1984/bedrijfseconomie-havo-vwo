@@ -1,0 +1,225 @@
+                       Bijlage VWO
+
+                         2024
+                              tijdvak 1
+
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-24-1-b
+      Formuleblad
+
+            Voor beantwoording van de vragen 27 en 29 zijn de volgende formules
+            beschikbaar.
+
+     27     Budgetresultaat = gerealiseerde afzet x kostprijs - werkelijke kosten
+
+     29     somformule meetkundige reeks:
+
+                 rn - 1
+            S=ax
+                  r-1
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-24-1-b                             2/7                              lees verder ►►►
+      Informatiebron 1
+
+            Informatie over Fenix
+
+ Informatie gedeeltelijke                           per 31 december
+ balans (in euro’s)
+                                           2023         2022         2021           2020
+ Eigen vermogen:                      3.586.000    1.216.000    1.546.000       176.000
+     geplaatst aandelenkapitaal        750.000      600.000      600.000       400.000
+     agio op aandelen                4.000.000    1.600.000    1.600.000                0
+     algemene reserve              -/-1.164.000   -/-984.000   -/-654.000    -/-224.000
+ Lang Vreemd vermogen                 8.000.000    3.500.000    3.000.000       400.000
+ Kort Vreemd vermogen                   600.000      250.000      200.000       100.000
+ Totaalvermogen                     12.186.000     4.966.000    4.746.000       676.000
+
+
+ Informatie gedeeltelijke                  2023         2022         2021           2020
+ resultatenrekening
+ (in euro’s)
+ Omzet                              10.000.000     4.000.000    2.000.000     1.000.000
+ Interestkosten                         480.000      210.000      180.000         24.000
+ Resultaat voor belasting                82.500    -/-330.000   -/-430.000    -/-224.000
+
+
+ Overige gegevens per                      2023         2022         2021           2020
+ 31 december
+ nominale waarde per aandeel
+ (euro’s)                                  0,50         0,50         0,50            0,50
+ aantal werknemers                          180           80           50              30
+ aantal e-deelscooters                    3.000        1.400          750             400
+
+            Opmerking
+            -/- is negatief
+
+
+
+
+VW-0400-a-24-1-b                          3/7                                lees verder ►►►
+      Informatiebron 2
+
+            Stock Appreciation Rights (SARs)
+
+            De SAR is een beloningsvorm voor werknemers.
+            Voor de ondernemer kan de SAR als aanvulling op het beloningsbeleid
+            een uitkomst bieden.
+
+            Geen aandeel, maar vordering
+
+            Bij een SAR krijgt een talentvolle werknemer een vorderingsrecht op de
+            onderneming waarvan de waarde is gekoppeld aan de
+            waardeontwikkeling van de (aandelen van de) onderneming in een
+            periode.
+            Een voorbeeld: een werknemer ontvangt op een datum 10 SARs, waarvan
+            elke SAR overeenkomt met de waarde van 1 aandeel van de
+            onderneming. Op het moment van toekenning van de SARs
+            (het vesting-event) bedraagt de waarde van het aandeel van de
+            onderneming € 200 per stuk. Als de werknemer na enkele jaren zijn SARs
+            uitoefent (het trigger-event) is de waarde van het aandeel € 250.
+            De werknemer ontvangt dan een SAR-uitkering in geld van
+            10 x (250 ̶ 200) = € 500.
+
+            Voor de bv is het voordeel van SARs dat er in de startupfase niet veel
+            liquide middelen aan de onderneming worden onttrokken voor de beloning
+            van (talentvol) personeel.
+
+            Trigger-events
+
+            De onderneming zal na het plaatsvinden van een of meerdere van de
+            volgende trigger events overgaan tot een SAR-uitkering:
+             beëindiging van het dienstverband van een werknemer die een
+                good leaver is. Een bad leaver heeft bij beëindiging van het
+                dienstverband geen recht op een SAR-uitkering;
+             een beursgang of verkoop van de meerderheid van de aandelen in de
+                onderneming aan een derde;
+             een besluit van de algemene vergadering van aandeelhouders (of
+                bestuur) om een SAR-uitkering toe te kennen.
+
+
+
+
+VW-0400-a-24-1-b                           4/7                           lees verder ►►►
+      Informatiebron 3
+
+            SAR-overeenkomst Fenix per 31 december 2023
+
+            Ondergetekenden:
+            1 De besloten vennootschap Fenix, gevestigd te Amsterdam, (hierna:
+              “de Vennootschap”), ten deze vertegenwoordigd door …
+            2 mevrouw C. Wolf, wonende te ... (hierna: "Werknemer")
+
+            zijn overeengekomen als volgt:
+            artikel:
+            1.1 De waarde van de aandelen in de Vennootschap ten behoeve van de
+                berekening van de SAR-Uitkering (artikel 1.3) wordt als volgt
+                berekend: de waarde van een aandeel van Fenix op het vesting-event
+                van 31 december 2023 is gelijk aan 5.000 (x EBIT per aandeel),
+                waarbij de EBIT van het jaar 2023 is en het aantal aandelen van 31
+                december 2023.
+            1.2 Aan Werknemer worden 20 SARs toegekend.
+            1.3 De hoogte van de SAR-uitkering wordt berekend door het aantal SARs
+                te vermenigvuldigen met het positieve verschil tussen de waarde van
+                het aandeel Fenix op het moment van het trigger-event en de waarde
+                van het aandeel Fenix op het vesting-event.
+
+            Aldus overeengekomen en in tweevoud opgemaakt en ondertekend te
+
+             .................[plaats] op ………...........[datum]
+
+            ..........................                            .........................
+            De Vennootschap                                                 Werknemer
+
+
+
+
+VW-0400-a-24-1-b                                 5/7                                  lees verder ►►►
+      Informatiebron 4
+
+            Voorcalculatorische gegevens voor het berekenen van de kostprijs
+            en de verkoopprijs van een aardewerken pot met 12 stroopwafels
+
+            Constante kosten
+
+                  Er wordt een mobiele handkar gekocht. Ook worden er twee
+                   wafelijzers gekocht. De totale afschrijvingskosten bedragen € 1.150
+                   per jaar.
+                  Een wafelbakker staat 100 dagen op de Markt van 11.00 uur tot
+                   17.00 uur. De loonkosten worden gesteld op € 20,00 per uur.
+                  De jaarlijkse verzekeringskosten bedragen € 350.
+
+            Variabele kosten
+
+                  De stroopwafels worden per 250 stuks tegelijk ingekocht voor een
+                   totaalbedrag van € 80 exclusief 9% btw.
+                  Aan energiekosten voor het afbakken van de stroopwafels wordt per
+                   12 stroopwafels € 0,27 ingecalculeerd.
+                  De aardewerken potten worden per 250 stuks tegelijk ingekocht voor
+                   een totaalbedrag van € 2.190,10 inclusief 21% btw.
+
+            Overige gegevens
+
+                  De winstmarge op de aardewerken pot met 12 stroopwafels is 20%
+                   van de verkoopprijs exclusief btw.
+                  De normale afzet in 2023 wordt gesteld op 6.000 aardewerken potten
+                   met stroopwafels. De verwachte afzet in 2023 bedraagt
+                   5.000 aardewerken potten met stroopwafels.
+
+
+
+
+VW-0400-a-24-1-b                               6/7                              lees verder ►►►
+      Informatiebron 5
+
+            Gedeeltelijk ingevuld nacalculatorisch bedrijfsresultaat 2023 van het
+            afbakken en verkopen van stroopwafels (getallen in euro’s)
+
+              totale opbrengst:                                              67.000,00
+              totale kosten
+              - inkoopwaarde omzet
+                stroopwafels                            ………….
+              - constant                                 12.500,00
+              - energie                                   1.687,50
+              - stroopwafelpotten                        30.408,00
+
+
+              totale bijdrage aan het
+              bedrijfsresultaat                                       ………..voordelig
+
+
+            Toelichting overzicht:
+             Er zijn 4.000 stroopwafelpotten met 12 stroopwafels verkocht tegen
+               een verlaagde verkoopprijs van € 16,75 exclusief btw.
+             Er is geen efficiencyverschil op de constante kosten.
+             Er zijn 48.000 stroopwafels ingekocht voor een prijs van € 16.800
+               exclusief btw.
+             De stroopwafelpotten hebben een zelfde inkoopprijs als in de
+               voorcalculatie. Helaas zijn er een aantal stroopwafelpotten gebroken
+               tijdens het vervoer naar de Markt.
+
+
+
+
+VW-0400-a-24-1-b                            7/7                             lees verdereinde
+                                                                                         ►►► 
+

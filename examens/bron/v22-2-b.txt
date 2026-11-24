@@ -1,0 +1,294 @@
+                       Bijlage VWO
+
+                         2022
+                              tijdvak 2
+
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-22-2-b
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-0400-a-22-2-b                        2 / 10   lees verder ►►►
+      Formuleblad
+
+            Voor beantwoording van vraag 24 is de volgende formule beschikbaar:
+
+     24     somformule meetkundige reeks:
+
+                   rn - 1
+            S=ax
+                    r-1
+
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-22-2-b                            3 / 10                       lees verder ►►►
+      Informatiebron 1
+
+            Gegevens over de verkoop door Timo via de eigen website over 2020
+
+            Afzetgegevens
+
+            Gemiddelde aantal ontvangen orders per dag:
+
+ maandag           dinsdag   woensdag     donderdag     vrijdag   zaterdag   zondag      totaal
+                                                                                         over
+                                                                                         2020
+      20              20         20           40          40         80        80        15.640
+
+                  Een order kan uit meerdere artikelen (sieraden) bestaan. In 2020 zijn
+                   per kwartaal 7.820 artikelen verkocht.
+                  De gemiddelde verkoopprijs van één artikel is € 20.
+
+            Inkoopprijs
+
+            De inkoopprijs van een artikel is gemiddeld 50% van de verkoopprijs.
+
+            Een maand voor het begin van elk kwartaal worden alle artikelen in China
+            ingekocht die in dat betreffende kwartaal worden verkocht.
+            Op de eerste dag van elk kwartaal worden de ingekochte artikelen in het
+            magazijn van Timo ontvangen en worden de Chinese leveranciers
+            betaald. Deze betaling aan de leveranciers wordt op moment van betaling
+            door Timo gefinancierd door een rekening-courantkrediet bij een bank,
+            tegen 6% enkelvoudige interest op jaarbasis. Dit krediet wordt steeds
+            60 dagen na afsluiting afgelost.
+
+            Timo heeft een contract met de Chinese leverancier dat de
+            transportkosten per inkoop € 3.000 zijn, onafhankelijk van de ingekochte
+            hoeveelheden.
+
+            Magazijn
+
+            De huurkosten van het magazijn zijn € 52.000 per jaar. De inrichting van
+            het magazijn is op 1 januari 2018 nieuw aangeschaft tegen € 30.000. De
+            bijkomende inrichtingskosten zijn € 5.200. De inrichting plus
+            inrichtingskosten van het magazijn wordt in 10 jaar lineair afgeschreven
+            tot een restwaarde van € 6.000. De verwijderingskosten zijn € 2.000.
+
+
+
+
+VW-0400-a-22-2-b                               4 / 10                               lees verder ►►►
+            Overig
+
+            De bezorging van de orders vanuit het magazijn naar de klant wordt
+            afgehandeld door PostNL. De bezorgkosten voor Timo’s webwinkel zijn
+            gemiddeld € 3,50 per order.
+
+            De kosten voor de website van Timo en de marketing zijn € 125.000 per
+            jaar.
+
+            Het (schrikkel) jaar 2020 wordt gesteld op 52 weken en 365 dagen (op
+            woensdag 1 januari 2020 werden er geen orders ontvangen).
+
+
+
+
+VW-0400-a-22-2-b                          5 / 10                           lees verder ►►►
+      Informatiebron 2
+
+            Informatie over het verkopen van artikelen via Bol.com
+
+
+
+
+                   www.bol.com/nl/m/zakelijk-verkopen
+
+            Bol.com hanteert servicenormen voor zijn aangesloten partners. Dat wil
+            zeggen dat ondernemingen die producten via Bol.com verkopen, moeten
+            voldoen aan bepaalde normen:
+
+              prestatie-indicatoren                     normen
+              annuleringen door de verkoper             maximaal 2% van het totaalaantal
+                                                        orders
+              vragen van klanten (over afhandeling maximaal 5% van het totaalaantal
+              van de orders en dergelijke)         orders
+              beoordelingscijfer van klanten            minimaal een 8 of hoger
+              op tijd geleverd                          minimaal 98% van het totaalaantal
+                                                        orders
+              track– and tracenummer                    100% van het totaalaantal
+                                                        pakketverzendingen
+              telefonische bereikbaarheid           minimaal 90% van de aangeboden
+                                                    gesprekken
+                   www.bol.com/nl/m/servicenormen (aangepast)
+
+
+VW-0400-a-22-2-b                               6 / 10                             lees verder ►►►
+      Informatiebron 3
+
+            Werknemers in 2021
+
+            De werknemers zijn bij Timo in dienst met een nul-urencontract. Elke
+            werknemer die komt werken, werkt op een dag 3 uur, van 17.00 uur tot
+            20.00 uur en maakt de op deze dag binnengekomen orders gereed om te
+            verzenden.
+
+            Er zijn drie typen orders; klein, middel en groot. Hoe groter de order, hoe
+            langer het duurt om deze order gereed te maken:
+
+              type       percentage van het     verwachte duur        gemiddeld aantal
+              order      totale aantal          gereedmaken order     artikelen per order
+                         orders1)
+              klein      50%                    10 minuten            1 artikel
+              middel     25%                    12 minuten            2 artikelen
+              groot      25%                    15 minuten            4 artikelen
+
+
+   noot 1 verdeling van het ordertype geldt op elke dag van de week
+
+
+
+            Timo heeft de volgende bezetting per dag in 2021 ingeschat:
+
+                               geschat aantal benodigde
+                               werknemers per dag in 2021
+              maandag                       2
+              dinsdag                       2
+              woensdag                      2
+              donderdag                     4
+              vrijdag                       4
+              zaterdag                      8
+              zondag                        8
+
+            De loonkosten van de werknemers zijn € 5,00 per uur.
+
+
+
+
+VW-0400-a-22-2-b                                7 / 10                            lees verder ►►►
+      Informatiebron 4
+
+            Gevolgen van het verkopen van artikelen via Bol.com in 2021 ten
+            opzichte van verkopen via Timo’s webwinkel in 2020
+
+            Afzet
+
+            Timo verwacht 40% meer orders binnen te krijgen.
+
+            Verkoopprijs
+
+            Doordat de prijsconcurrentie toeneemt (de consument kan in één
+            oogopslag alle prijzen van de concurrerende producten zien), zal Timo de
+            gemiddelde verkoopprijs per artikel met 10% laten dalen.
+
+            Commissie Bol.com
+
+            De aan Bol.com te betalen commissie bestaat uit een bedrag per verkocht
+            artikel plus een percentage van de verkoopprijs van het verkochte artikel:
+
+              artikelgroep mode bedrag per artikel         percentage van de
+                                                           verkoopprijs
+              sieraden               € 0,83                20,0%
+
+            Overige gevolgen
+
+            Timo blijft verantwoordelijk voor de inkoop, opslag en bezorging van de
+            artikelen. Wel zal Timo met de eigen website stoppen en zal Timo ook
+            geen uitgaven meer doen aan marketing. Overige gegevens ten opzichte
+            van 2020, waaronder de gemiddelde inkoopprijs per artikel en de
+            gemiddelde bezorgkosten per order, blijven onveranderd.
+
+                   bron: https://partnerplatform.bol.com/content/uploads/2020/03/
+                         Commissietabel-PDF-032020-2.pdf
+
+
+
+
+VW-0400-a-22-2-b                               8 / 10                           lees verder ►►►
+      Informatiebron 5
+
+            Waarom een negatieve olieprijs?
+
+            Olie wordt gewonnen uit olievelden diep onder de grond. De olie wordt
+            vervolgens via oliepijpleidingen naar een centrale opslagplaats vervoerd.
+            Daar wordt de olie in enorme tanks opgeslagen. Vervolgens gaat de olie
+            weer via oliepijpleidingen naar een haven waar overslag naar olietankers
+            plaatsvindt. De olietankers varen ten slotte uit naar de uiteindelijke
+            afnemer.
+            Oliehandelaren betalen voor het gebruik van de oliepijpleidingen, tanks en
+            de olietankers.
+
+            Door de coronacrisis is de vraag naar 'geraffineerde olieproducten'
+            (producten die zijn gemaakt uit ruwe olie, zoals benzine, diesel en
+            kerosine) uitzonderlijk laag. Er is dus veel meer aanbod van olie dan er
+            vraag naar is. De opslagcapaciteit van olie (in tanks en olietankers) is
+            volledig benut, waardoor de prijzen voor het gebruik hiervan enorm
+            stijgen. De kosten hiervan lopen zo enorm op, dat oliehandelaren (bij een
+            dalende prijs van olie) heel graag van hun termijncontracten van olie af
+            willen.
+
+            Het gevolg: ze geven geld toe (negatieve prijs) om maar van hun
+            termijncontracten van olie en dus van de enorme kosten van de opslag
+            van olie af te zijn.
+
+
+
+
+VW-0400-a-22-2-b                           9 / 10                            lees verder ►►►
+      Informatiebron 6
+
+            OilExperts
+
+            OilExperts verwacht dat de coronacrisis een jaar na de aanschaf van de
+            olie is afgenomen en de olieprijs van een vat olie is gestegen naar
+            30 dollar per vat. Op 20 april 2021 wil OilExperts de gekochte olie weer
+            verkopen tegen deze verwachte olieprijs.
+
+            Hiertoe laat OilExperts de op 20 april 2020 gekochte en ontvangen olie
+            via oliepijpleidingen transporteren naar de kust waar de olie wordt
+            overgeslagen in een olietanker. Dit transport en deze overslag kosten
+            OilExperts in totaal $ 10 per vat.
+
+            De olietanker wordt voor 325 dagen van een rederij gehuurd tegen een
+            tarief per dag. De olietanker vaart op 30 mei 2020 naar Nederland. Deze
+            blijft vervolgens voor de kust van Rotterdam liggen, tot het moment dat de
+            olie verkocht wordt, op 20 april 2021 (= 325 dagen later).
+
+            Schematisch:
+
+              kosten                                  gebeurtenis
+                                                      op 20 april 2020:
+                                                      aanschaf en ontvangst van 2 miljoen
+                                                      vaten olie à $ 5 per vat
+                  transport naar de kust
+                  overslag in olietanker
+
+              totaal: $ 10 per vat
+                                                      op 30 mei 2020:
+                                                      vertrek olietanker van kust
+                                                      Verenigde Staten naar Rotterdam
+              325 dagen olietanker huren van de
+              rederij
+               tegen het tarief van vraag 23.
+               betaling in één keer op
+                 20 april 2020.
+                                                      op 20 april 2021:
+                                                      verkoop 2 miljoen vaten olie tegen
+                                                      verwachte prijs van $ 30 per vat
+
+
+
+
+VW-0400-a-22-2-b                            10 / 10                            lees verdereinde
+                                                                                            ►►► 
+

@@ -1,0 +1,554 @@
+                                                                  Examen HAVO
+
+                                                                       2022
+                                                                              tijdvak 2
+                                                                       tijdsduur: 3 uur
+
+
+
+                                                              bedrijfseconomie
+
+
+
+
+Bij dit examen horen een bijlage en een uitwerkbijlage.
+
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 30 vragen.
+Voor dit examen zijn maximaal 64 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening gevraagd wordt, worden aan
+het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-0400-a-22-2-o
+      Opgave 1
+
+            Benno (zzp’er, 40 jaar) wil zijn “oude dag” goed geregeld hebben en gaat
+            beleggen. Hij heeft de aandelenkoersen van onder andere
+            Just Eat Takeaway nv en Heineken nv gedurende 12 maanden
+            (1 oktober 2019 – 1 oktober 2020) nauwkeurig bijgehouden (zie
+            onderstaande grafiek).
+
+            Just Eat Takeaway is een platform waarop consumenten uit verschillende
+            Europese landen maaltijden kunnen bestellen bij aangesloten restaurants.
+            Voor elke bestelling die de consument op het platform doet, ontvangt
+            Just Eat Takeaway een commissie van het restaurant.
+
+            Heineken is een bierbrouwerij met vestigingen in veel landen. Heineken
+            levert zijn producten vooral aan cafés, restaurants en de detailhandel.
+
+
+
+
+HA-0400-a-22-2-o                           2 / 15                           lees verder ►►►
+            In februari 2020 zat de schrik bij beleggers er goed in en werden
+            aandelen massaal omgewisseld voor andere vermogenstitels.
+
+2p    1     Noem voor beleggers een minder risicovolle vermogenstitel dan aandelen
+            of op aandelen gebaseerde beleggingsfondsen en leg uit dat daarin
+            beleggen minder risicovol is.
+
+            Overheden namen vanaf 1 februari 2020 maatregelen om het coronavirus
+            te bestrijden en probeerden daarmee de economie zo min mogelijk te
+            schaden. Gedurende enkele maanden ging de horeca in veel landen
+            grotendeels op slot. Bij restaurants kon alleen nog worden afgehaald en
+            was bezorgen nog toegestaan. Vooral cafés zagen zich gedwongen om te
+            sluiten en openden hun deuren pas een paar maanden later.
+            Op de beurs reageerde het aandeel Just Eat Takeaway anders op de
+            afgekondigde overheidsmaatregelen dan het aandeel Heineken
+            (zie grafiek).
+
+1p    2     Geef hiervoor een verklaring gelet op het aanbod van beide
+            ondernemingen.
+
+            Benno besluit op 1 oktober 2020 een pakket van 50 aandelen van
+            Just Eat Takeaway te kopen. Hij verwacht dat de koers elke
+            12 maanden met hetzelfde percentage (afgerond op 1 decimaal) zal
+            stijgen als in de periode 1 oktober 2019 – 1 oktober 2020.
+
+2p    3     Bereken de beurskoers van het aandeel Just Eat Takeaway op
+            1 oktober 2026 zoals Benno die verwacht.
+
+            Benno besluit om op 1 oktober 2021 een tweede pakket van
+            50 aandelen van Just Eat Takeaway te kopen.
+
+2p    4     Bereken de totale koerswinst die Benno op zijn aandelen Just Eat
+            Takeaway zal behalen wanneer zijn verwachtingen uitkomen en hij op
+            1 oktober 2026 alle aandelen Just Eat Takeaway verkoopt.
+
+
+
+
+HA-0400-a-22-2-o                            3 / 15                              lees verder ►►►
+      Opgave 2
+
+            Bij deze opgave horen de informatiebronnen 1 en 2.
+
+            Cor Lok heeft sinds 2012 een cafetaria in een gehuurd pand in een
+            middelgroot dorp. De zaken gaan goed totdat de coronalockdown in maart
+            2020 ingaat. De klanten van Cor kunnen sindsdien alleen nog bestellingen
+            afhalen. Cor vreest voor liquiditeitsproblemen. De overheid ondersteunt
+            bedrijven tijdens de coronacrisis en stelt een aantal tegemoetkomingen
+            beschikbaar:
+             NOW (Noodmaatregel Overbrugging Werkgelegenheid):
+               tegemoetkoming in de loonkosten
+             TOGS (Tegemoetkoming Ondernemers Getroffen Sectoren):
+               tegemoetkoming in de constante kosten
+
+            Cor gaat onderzoeken hoe groot deze tegemoetkomingen van de overheid
+            zijn en of hij daarmee liquiditeitsproblemen in de maanden maart tot en
+            met mei 2020 voorkomt.
+
+            De onderneming van Cor heeft als rechtsvorm de eenmanszaak.
+
+1p    5     Noem een oprichtingsverplichting voor een eenmanszaak.
+
+            Cor stelt samen met zijn boekhouder een liquiditeitsbegroting op voor de
+            periode 1 maart tot en met 31 mei 2020. Ook stellen ze de balans op van
+            zijn cafetaria per 1 maart 2020 (informatiebron 1). Ter voorkoming van
+            liquiditeitsproblemen zijn met de verhuurder en een reclamebureau al
+            afspraken gemaakt over een verlaging van de huur en het maandelijks te
+            betalen bedrag aan het reclamebureau in het tweede kwartaal 2020.
+
+2p    6     Bereken de huurverlaging in euro’s per maand die Cor heeft afgesproken
+            (informatiebron 1).
+
+            Er moeten nog enkele bedragen worden ingevuld op de
+            liquiditeitsbegroting (letter a tot en met d).
+            Dat gebeurt in de vragen 7 tot en met 9.
+
+            Inkopen
+
+            Er wordt op de tweede dag van elke maand ingekocht bij leveranciers. De
+            betaling hiervan gebeurt in één keer op de laatste dag van de betreffende
+            maand.
+            Wat in een maand aan producten wordt ingekocht, wordt in diezelfde
+            maand helemaal verkocht. De inkoopprijs (exclusief btw) van ingekochte
+            goederen is 30% van de verkoopprijs (exclusief btw). De verkopen van
+            Cor worden altijd contant afgerekend.
+
+
+
+HA-0400-a-22-2-o                           4 / 15                           lees verder ►►►
+1p    7     Bereken het bedrag dat in maart 2020 op de liquiditeitsbegroting moet
+            worden ingevuld bij inkopen (letter a).
+
+            Btw-verrekening
+
+            De verrekening van de btw met de Belastingdienst vindt één keer per
+            kwartaal plaats. In april 2020 wordt de btw afgedragen over de maanden
+            januari tot en met maart. Btw wordt alleen gerekend op ingekochte en
+            verkochte producten. Het btw-tarief is 9%.
+
+2p    8     Bereken het bedrag dat in april 2020 aan btw zal moeten worden
+            afgedragen aan de Belastingdienst (letter b).
+
+            Aflossing en interest banklening
+
+            Op de banklening wordt met behulp van maandelijkse annuïteiten op de
+            laatste dag van elke maand achteraf afgelost. De interest is 0,5% per
+            maand. De bedragen op de liquiditeitsbegroting zijn afgerond op hele
+            euro’s.
+
+2p    9     Bereken het bedrag dat in mei 2020 op de liquiditeitsbegroting bij interest
+            (letter c) en aflossing (letter d) moet worden ingevuld. Rond beide
+            bedragen af op hele euro’s.
+
+            Onderzoek naar NOW en TOGS
+
+            Cor en zijn boekhouder gaan vervolgens kijken voor welk bedrag aan
+            tegemoetkoming in het kader van de coronaregelingen zijn cafetaria in
+            aanmerking komt (zie informatiebron 2).
+            De hoogte van de NOW bijdrage die Cor van de overheid zal ontvangen
+            als tegemoetkoming in de loonkosten, is gebaseerd op zijn omzetdaling
+            en de hoogte van de loonkosten.
+
+5p    10    Bereken het bedrag dat Cor in totaal aan NOW tegemoetkoming zal
+            ontvangen (zie informatiebron 1 en 2). Rond het bedrag af op hele euro’s.
+            Vul hiervoor de uitwerkbijlage bij deze vraag in.
+
+
+
+
+HA-0400-a-22-2-o                            5 / 15                            lees verder ►►►
+            De cafetaria van Cor valt onder de getroffen sectoren omdat de
+            omzetdaling in de periode maart tot en met mei 2020 meer dan € 4.000
+            zal zijn. Cor komt in aanmerking voor een tegemoetkoming via de TOGS,
+            wanneer zijn constante kosten in die periode in totaal € 4.000 of hoger
+            zijn.
+
+3p    11    Toon aan met een berekening van de totale constante kosten dat Cor in
+            aanmerking komt voor de TOGS tegemoetkoming. Houd er rekening mee
+            dat de volledige NOW tegemoetkoming leidt tot een daling van de
+            (constante) loonkosten.
+
+            Cor bestudeert de liquiditeitsbegroting en hoopt dat hij mede door de
+            NOW en de TOGS tot en met 31 mei 2020 uit de liquiditeitsproblemen
+            blijft, gemeten door het eindsaldo van liquide middelen aan het eind van
+            elke maand.
+            De TOGS tegemoetkoming zal in april 2020 worden ontvangen. De NOW
+            tegemoetkoming zal in 3 gelijke termijnen steeds aan het eind van de
+            maand, voor het eerst op 30 april, worden ontvangen.
+
+3p    12    Blijft Cor in de maanden maart tot en met mei 2020 uit de
+            liquiditeitsproblemen?
+            Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.
+
+
+
+
+HA-0400-a-22-2-o                            6 / 15                          lees verder ►►►
+       Opgave 3
+
+            Sanne en Nico zijn op 2 januari 2018 op huwelijkse voorwaarden
+            getrouwd. Ze hebben samen twee kinderen: Yari en Yasmin. Sanne gaat
+            op 1 januari 2021 een reclamebureau starten. Sanne en Nico besluiten
+            daarom op 31 december 2020 als huwelijkse voorwaarde toe te voegen
+            dat de eenmanszaak van Sanne haar persoonlijke bezit is.
+
+1p    13    Leg uit welk voordeel Nico kan hebben van deze toevoeging aan de
+            huwelijkse voorwaarden.
+
+            Nico komt op 1 januari 2022 onverwachts te overlijden. Nico had voor zijn
+            overlijden een testament opgesteld. Hierin heeft hij zijn zoon Yari als
+            gevolg van een verstoorde onderlinge relatie onterfd.
+
+            Sanne heeft de waarde per 1 januari 2022 van alle bezittingen en
+            schulden op een rij gezet:
+
+              gemeenschappelijke
+              bezittingen en schulden:
+              koopwoning                         De woning is gekocht op 1 januari 2000.
+                                                 Op 1 januari 2022 is de WOZ-waarde1)
+                                                 € 400.000 en de restschuld van de
+                                                 hypothecaire lening € 50.000.
+              spaargeld                          Sanne en Nico hebben op 1 januari 2011
+                                                 € 20.000 gestort tegen 2,1%
+                                                 samengestelde interest per jaar. Daarna
+                                                 is er niet bijgestort en opgenomen.
+              persoonlijke bezittingen en
+              schulden:
+              reclamebureau van Sanne
+              overige bezittingen                Op 1 januari 2022 is de waarde van de
+                                                 overige bezittingen van Nico € 15.000 en
+                                                 van Sanne € 13.000.
+              banklening                         Op 1 januari 2021 heeft Sanne voor het
+                                                 starten van haar onderneming een lening
+                                                 van € 125.000 afgesloten tegen 4%
+                                                 interest per jaar.
+
+     noot 1 De WOZ-waarde van de woning is de grondslag voor de waardebepaling van een
+            woning bij het vaststellen van de erfenis.
+
+
+
+
+HA-0400-a-22-2-o                              7 / 15                              lees verder ►►►
+            De erfgenamen willen de erfenis van Nico ontvangen als de waarde van
+            de erfenis positief is.
+
+1p    14    Hoe wordt dit genoemd?
+            A  aanvaarden onder voorrecht boedelbeschrijving / beneficiair
+               aanvaarden
+            B verwerpen
+            C zuiver aanvaarden
+
+3p    15    Toon aan met een berekening van de hoogte van de erfenis dat de
+            waarde van de erfenis van Nico positief is.
+
+            Yari wil weten wat na de onterving zijn rechten zijn. Hij vindt op de
+            website van de Rijksoverheid het volgende over onterven van kinderen:
+
+            De legitieme portie, oftewel het wettelijk erfdeel van een kind, is het
+            gedeelte van de erfenis waarop het kind altijd recht heeft, zelfs als in het
+            testament staat dat het kind niets erft. De legitieme portie is de helft van
+            de waarde van het erfdeel als er geen testament was geweest.
+
+
+4p    16    Bereken de hoogte van de legitieme portie van Yari na aftrek van
+            erfbelasting.
+            De benodigde tarieven van erfbelasting en de vrijstellingen staan op de
+            volgende bladzijde.
+
+
+
+
+HA-0400-a-22-2-o                             8 / 15                             lees verder ►►►
+            Tabel tarieven erfbelasting
+
+              dat deel van        partner en            kleinkinderen     overige
+              waarde erfenis      (pleeg- of            en verdere        erfgenamen
+                                  stief)kinderen        afstammelingen    zoals een broer,
+                                  betalen over de       betalen over de   zus of ouder
+                                  waarde                waarde            betalen over de
+                                                                          waarde
+              € 0 - € 126.722            10%                 18%                 30%
+              € 126.723 en
+              meer                       20%                 36%                 40%
+
+            Vrijstellingen
+
+              u bent:                                                        bedrag van
+                                                                          vrijstelling (in €)
+              echtgenoot, geregistreerd partner of samenwonend
+              partner                                                               661.328
+              (klein)kind, pleegkind of stiefkind                                     20.946
+              achterkleinkind                                                          2.208
+              ouder                                                                   49.603
+              andere erfgenaam, bijvoorbeeld een broer of zus                          2.208
+
+
+
+
+HA-0400-a-22-2-o                               9 / 15                            lees verder ►►►
+      Opgave 4
+
+            In deze opgave blijven de belastingen buiten beschouwing.
+
+            De broers Stefanos en Philosof hebben van hun hobby hun werk
+            gemaakt. Tot 2021 importeerden ze Griekse olijfolie en verkochten die
+            aan vrienden en kennissen in Nederland, maar sinds 1 januari 2021
+            hebben ze een eigen webwinkel in olijfolie: S&P Oil vof.
+            Op 1 januari 2021 werken de broers nog in loondienst, maar ze hebben
+            de wens om fulltime zelfstandig ondernemer te worden. Met ingang van
+            het tweede kwartaal verminderen zij hun werkzaamheden in loondienst
+            om per 1 juli 2021, wanneer de doelstellingen van S&P Oil worden
+            behaald, fulltimeondernemer te worden.
+
+            Aan het beëindigen van hun baan in loondienst en het kiezen voor
+            ondernemerschap zitten nadelen.
+
+2p    17    Noem twee financiële nadelen van zelfstandig ondernemerschap
+            vergeleken met werken in loondienst.
+
+            De doelstellingen voor het eerste halfjaar 2021 van S&P Oil waren:
+             kwartaal 1: S&P Oil moet in staat zijn de break-evenafzet te behalen.
+             kwartaal 2: S&P Oil moet voldoende cashflow opleveren. Uit deze
+               cashflow moet voor elke broer € 3.500 per kwartaal beschikbaar zijn
+               en moet de aflossing op de banklening kunnen worden betaald.
+
+
+
+
+HA-0400-a-22-2-o                          10 / 15                           lees verder ►►►
+            In het onderstaande overzicht is het gerealiseerde resultaat voor het
+            eerste en tweede kwartaal van 2021 opgenomen.
+
+            getallen x € 1                                   kwartaal 1            kwartaal 2
+            opbrengsten:
+            omzet                                                    14.400                24.000
+            kosten:
+            inkoopwaarde verkochte goederen                6.000                 8.000
+            overige variabele bedrijfskosten               1.200                 1.600
+            huurkosten loods                               3.600                 3.600
+            afschrijvingskosten                              650                   650
+            interestkosten1)                                 450                   405
+            overige constante bedrijfskosten               2.980                 3.100
+            totale bedrijfskosten                                    14.880                17.355
+            resultaat                                               -/- 480                  6.645
+
+            noot 1 De banklening van € 30.000 is per 1 januari 2021 afgesloten en wordt in 10 kwartalen,
+                   aan het eind van elk kwartaal, lineair afgelost. De interest is 6% op jaarbasis.
+
+
+
+            Verder is nog gegeven:
+
+            getallen x € 1                                              kwartaal 1     kwartaal 2
+            inkoopprijs 1 fles olijfolie                                       2,00             2,00
+            overige variabele kosten per fles                                  0,40             0,40
+            verkoopprijs 1 fles olijfolie                                      4,80             6,00
+
+            De doelstelling van kwartaal 1 betekent dat S&P Oil met behulp van de
+            dekkingsbijdrage de totale constante kosten moet zien te dekken. Hierbij
+            worden de interestkosten tot de constante kosten gerekend.
+
+1p    18    Verklaar dat interestkosten, ondanks het feit dat deze in kwartaal 2 lager
+            zijn dan in kwartaal 1, wel tot de constante kosten behoren.
+
+3p    19    Bereken met behulp van de break–evenafzet hoeveel flessen de broers in
+            het eerste kwartaal meer hadden moeten verkopen om geen negatief
+            resultaat te behalen.
+
+2p    20    Toon met een berekening aan of de doelstelling van het tweede kwartaal
+            is behaald.
+
+
+
+
+HA-0400-a-22-2-o                                11 / 15                                  lees verder ►►►
+      Opgave 5
+
+            Bij deze opgave horen de informatiebronnen 3 tot en met 5.
+
+            Fastned is een onderneming met laadstations langs de snelweg. In een
+            laadstation kunnen elektrische voertuigen in enkele minuten opgeladen
+            worden. Fastned was in 2019 op zoek naar vermogen van € 135.000.000
+            voor de financiering van investeringen. Dit kan via een aandelenemissie
+            en/of een emissie van obligaties.
+
+            Juni 2019: beursgang en geplande emissie van nieuwe aandelen
+
+            Fastned bv is in 2012 opgericht door Bart Lubbers en Michiel Langezaal.
+            Zij brachten Fastned in juni 2019 naar de beurs en boden hierbij een deel
+            van hun eigen aandelen in Fastned aan op de effectenbeurs.
+
+1p    21    Welke aanpassing in de rechtsvorm van Fastned moest er bij deze
+            beursgang worden gedaan?
+
+            De beursnotering maakte het voor Fastned mogelijk om door middel van
+            een emissie van aandelen eigen vermogen aan te trekken.
+
+1p    22    Noem een ander voordeel voor Fastned van een beursnotering ten
+            opzichte van ondernemingen zonder beursnotering.
+
+            Vanwege de gevolgen voor liquiditeit en solvabiliteit geeft FastNed voor
+            de financiering van haar investeringen de voorkeur aan een
+            aandelenemissie in plaats van een emissie van obligaties.
+
+2p    23    Leg de voorkeur van Fastned uit. Betrek zowel liquiditeit als solvabiliteit
+            en zowel aandelenemissie als emissie van obligaties in het antwoord.
+
+
+
+
+HA-0400-a-22-2-o                             12 / 15                            lees verder ►►►
+            1 november 2019: Emissie van obligaties
+
+            Fastned stelt de geplande emissie van nieuwe aandelen uit vanwege
+            toegenomen onzekerheid bij institutionele beleggers over de stimulering
+            door de overheid van elektrisch rijden. Fastned besluit daarom tot een
+            emissie van obligaties per 1 november 2019. De prospectus vermeldt:
+             een doelbedrag van in totaal € 135.000.000
+             De obligaties hebben een nominale waarde van € 500 per stuk
+               en geven 6% enkelvoudige interest per jaar.
+             De koers waartegen de obligaties worden geëmitteerd is 100%.
+
+            Beleggers schrijven voor 80% in op de emissie. De emissie gaat door.
+
+2p    24    Bereken de interestkosten van deze obligatielening over het jaar 2019.
+
+            Aangezien de emissie van obligaties niet voldoende was om het
+            doelbedrag te behalen, onderzoekt Fastned of een aanvullende
+            aandelenemissie op 22 april 2020 wel haalbaar is.
+
+            22 april 2020: geplande emissie van aandelen
+
+            De vraag is of er voldoende belangstelling bij (institutionele) beleggers is
+            om bij een emissiekoers van € 9 per aandeel voor een totaalbedrag van
+            € 27 miljoen aan aandelen te kopen.
+            Bij dit onderzoek spelen drie factoren een rol:
+
+            a      het uitgevoerde klanttevredenheidsonderzoek
+            b      de interne en externe omgeving van Fastned
+            c      de hoogte van de beurskoers op 21 april 2020
+
+            factor a
+            Fastned meet de klanttevredenheid onder andere met de Net Promotor
+            Score (NPS, zie informatiebron 3). Tevredenheid bij klanten zal leiden tot
+            vertrouwen bij aandeelhouders, wat positief is voor de slaagkans van een
+            emissie van nieuwe aandelen. Wanneer de uitkomst van de NPS 35% of
+            hoger is, kan volgens Fastned worden gesteld dat de klant tevreden is.
+
+2p    25    Toon met een berekening van de NPS aan dat de klant volgens Fastned
+            tevreden is.
+
+
+
+
+HA-0400-a-22-2-o                             13 / 15                            lees verder ►►►
+            factor b
+            In informatiebron 4 zijn vier items uit de interne en externe omgeving van
+            Fastned gegeven.
+
+3p    26    Vul alle vier items uit informatiebron 4 op de juiste plaats van de SWOT
+            in.
+            Neem onderstaande tabel over op het antwoordenblad en vul hem in.
+
+              S                                      O
+              item(s): …………………                       item(s): …………………
+              W                                      T
+              item(s): …………………                       item(s): …………………
+
+
+            Factoren a en b geven een positief beeld wat betreft de kans van slagen
+            van de aandelenemissie, maar het go-moment of no-go-moment wordt
+            bepaald door factor c.
+
+            factor c
+            Op de dag voor de emissie wordt met spanning gekeken naar de
+            beursinformatie (informatiebron 5) over het aandeel Fastned. Binnen de
+            directie wordt de kans op een succesvolle aandelenemissie verschillend
+            ingeschat.
+
+2p    27    Zal Fastned in staat zijn om op 22 april 2020 tegen een koers van € 9
+            voor een totaalbedrag van € 27 miljoen aan aandelen te plaatsen?
+            Geef een argument voor en een argument tegen.
+
+3p    28    Welke drie balansposten veranderen er op de balans van Fastned en met
+            welke bedragen wanneer de emissie zou zijn uitgevoerd en de
+            emissieopbrengst van € 27 miljoen wordt behaald (zie informatiebron 5)?
+            Vermeld ook of er sprake is van een toename of een afname van deze
+            drie balansposten.
+
+
+
+
+HA-0400-a-22-2-o                           14 / 15                            lees verder ►►►
+      Opgave 6
+
+            Floriana voert sinds 1 januari 2021 als zzp’er werkzaamheden als externe
+            accountant uit in opdracht van Prius bv. Zij hebben samen de volgende
+            overeenkomst gesloten:
+
+            fragmenten uit de Overeenkomst van zzp
+
+            Partijen:
+            Prius bv (“Opdrachtgever”) en Floriana de Villa (“Opdrachtnemer”),
+            komen als volgt overeen:
+
+            Artikel 1: De Opdracht
+             1.1 Opdrachtgever verleent opdracht aan Opdrachtnemer en
+                    Opdrachtnemer aanvaardt de opdracht van Opdrachtgever tot het
+                    verrichten van de volgende werkzaamheden:
+                    accountantsverklaring opstellen (de “Opdracht”).
+             1.2 De Opdrachtnemer is niet / wel vrij om opdrachten van andere
+                    opdrachtgevers uit te voeren.
+             1.3 Opdrachtnemer is gehouden de Opdracht persoonlijk uit te voeren.
+             1.4 Opdrachtnemer zal met de Opdracht beginnen op of omstreeks
+                    1 juli 2021 en zal ernaar streven om de Opdracht uiterlijk op
+                    31 december 2021 af te ronden.
+
+            Artikel 2: Vergoeding
+             2.1 Ter zake van de uitvoering van de Opdracht ontvangt
+                    Opdrachtnemer van Opdrachtgever een vergoeding / brutoloon
+                    van € 3.300 voor de opdracht.
+
+
+2p    29    Kies bij artikel 1.2 en 2.1 voor het juiste woord.
+
+            Volgens de overeenkomst is de belangrijkste werkzaamheid van Floriana
+            het opstellen van de accountantsverklaring bij organisaties.
+
+3p    30    Noem drie belanghebbenden bij een organisatie en leg uit wat hun
+            specifieke belang is bij een goedgekeurde accountantsverklaring.
+
+
+
+
+HA-0400-a-22-2-o                             15 / 15                        lees verdereinde
+                                                                                         ►►► 
+

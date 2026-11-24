@@ -1,0 +1,244 @@
+                       Bijlage VWO
+
+                         2021
+                             tijdvak 1
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-21-1-b
+      Formuleblad
+
+            Voor beantwoording van vraag 2 is de volgende formule beschikbaar.
+
+      2
+            somformule meetkundige reeks:
+
+                   rn - 1
+            S=ax
+                    r-1
+
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-21-1-b                            2/9                           lees verder ►►►
+      Informatiebron 1
+
+            Enkele punten die Lucy heeft opgenomen in de SWOT-analyse
+
+            1      Als medewerker van een accountantskantoor is Lucy
+                   bedrijfseconomisch goed geschoold.
+            2      In het pand naast de sapbar is een groenteboer gevestigd. Met deze
+                   groenteboer kan ze gezamenlijk inkopen doen.
+            3      Sapbars kunnen snel minder populair worden.
+            4      Lucy heeft weinig ervaring in de omgang met klanten.
+
+
+
+
+VW-0400-a-21-1-b                              3/9                             lees verder ►►►
+      Informatiebron 2
+
+            Marktonderzoek in 2020
+
+            Marktonderzoek levert het volgende beeld op van de bereidheid van
+            bewoners van Bottendaal om een sapbar te bezoeken.
+            De bezoeken zijn gelijkmatig verspreid over de week.
+
+              leeftijdsklasse   ja-zeggers op de vraag:       aantal verwachte
+              in jaren          “Zult u komend jaar een       bezoeken per week door
+                                sapbar bezoeken?” in          de ja-zeggers op de
+                                procenten van de              vorige vraag
+                                betreffende
+                                leeftijdsklasse
+              < 15                           0%                   niet van toepassing
+              15 - 35                       15%                           1,1
+              35 - 55                       6%                            0,6
+              > 55                          1%                            0,2
+
+            De bevolkingsopbouw van de wijk Bottendaal ziet er als volgt uit:
+            onder de leeftijdsklasse staat het absolute aantal inwoners in die klasse.
+
+
+
+
+VW-0400-a-21-1-b                             4/9                                lees verder ►►►
+      Informatiebron 3
+
+            Voorwaarden voor de start van Juicy Lucy
+
+            Voorwaarden van Lucy
+
+            1   Voor haar ingebrachte vermogen wil ze een beloning over 2021 van
+                4% van het eigen vermogen van Juicy Lucy per 1 januari 2021.
+            2 Voor haar werkzaamheden voor Juicy Lucy wil ze een beloning van
+                € 50.000 in 2021.
+            Deze twee beloningen zal Lucy via privé-opnames uit Juicy Lucy
+            onttrekken.
+
+            Voorwaarden van de Remo-bank
+
+            3      Juicy Lucy start met de rechtsvorm eenmanszaak.
+            4      De rentedekkingsfactor over 2021 is tenminste 7,0.
+                                              EBIT over een jaar
+                   Rentedekkingsfactor:
+                                         interestkosten over dat jaar
+            5      Het eigen vermogen van Juicy Lucy mag niet afnemen. Daarom
+                   moeten de privé-opnames van Lucy in 2021 kleiner zijn dan het saldo
+                   van EBIT en interestkosten.
+
+
+
+
+VW-0400-a-21-1-b                               5/9                            lees verder ►►►
+      Informatiebron 4
+
+            Gegevens ten behoeve van de verwachte openingsbalans van Juicy
+            Lucy per 1 januari 2021
+
+            Lucy gaat uit van de volgende gegevens.
+
+                  Op de geërfde snackbar rustte nog een oude hypothecaire lening. Met
+                   de ontvangsten van een nieuwe afgesloten hypothecaire lening bij de
+                   Remo-bank is de oude hypothecaire lening afgelost.
+
+                  Het verschil tussen de waarde van de geërfde snackbar en de
+                   restschuld van de oude hypothecaire lening is € 180.000. Lucy brengt
+                   dit verschil in als eigen vermogen. Daarnaast Lucy brengt Lucy op
+                   1 januari 2021 haar eigen auto in de onderneming in als eigen
+                   vermogen.
+
+                  De Remo-bank verstrekt een hypothecaire lening van € 170.000 met
+                   het pand van de snackbar als zakelijke zekerheid.
+
+                  De ene helft van de voorraad is betaald, de andere helft wordt eind
+                   januari 2021 betaald.
+
+                  De kosten van de gemeentelijke vergunningen voor het terras zijn
+                   € 200 per maand. Op 1 januari 2021 is voor deze vergunning een half
+                   jaar vooruitbetaald.
+
+                  Juicy Lucy heeft een rekening-courantkrediet bij de Remo-bank met
+                   een kredietlimiet van € 20.000. Dit krediet wordt als sluitpost gebruikt
+                   bij het opstellen van de beginbalans.
+
+
+
+
+VW-0400-a-21-1-b                                 6/9                               lees verder ►►►
+      Informatiebron 5
+
+            De exploitatiebegroting van Juicy Lucy over 2021
+
+            Opbrengsten:
+
+            Marktonderzoek heeft uitgewezen dat gemiddeld per klant € 8 per bezoek
+            wordt besteed.
+
+            Variabele kosten:
+
+                  De inkoopwaarde van de omzet is 25% van de omzet.
+                  Lucy geeft het personeel een jaarlijkse bonus van 3% van de totale
+                   omzet. Dit rekent Lucy tot de variabele loonkosten.
+
+            Constante kosten:
+
+            Personeelskosten
+            Juicy Lucy is 343 dagen (49 weken) per jaar geopend. Naast Lucy is er
+            elke dag gemiddeld 4 uur een personeelslid aanwezig. Het basis-bruto-
+            uurloon voor het personeelslid is € 12 exclusief 8% vakantiegeld.
+            Bovenop het basis-bruto-uurloon inclusief vakantiegeld betaalt Lucy 30%
+            werkgeversaandeel sociale lasten.
+
+            Interestkosten
+             De hypothecaire lening bij de Remo-bank wordt in 15 jaar afgelost met
+                30 halfjaarlijkse annuïteiten van € 7.590,49, voor het eerst op
+                30 juni 2021. De interest is 2% per half jaar.
+             De interestkosten voor het rekening-courantkrediet bij de Remo-bank
+                zijn naar schatting € 800 per jaar.
+             Er zijn geen overige interestkosten.
+
+            Afschrijvingskosten
+             Op het pand wordt niet afgeschreven.
+             De inventaris wordt in 8 jaar lineair afgeschreven tot een restwaarde
+               van € 1.200.
+             De afschrijvingskosten op de bestelauto zijn € 1.000 per jaar.
+
+            Overige constante kosten
+            Alle overige constante kosten, inclusief die van de in informatiebron 4
+            genoemde gemeentelijke vergunningen, zijn € 10.000 per jaar.
+
+
+
+
+VW-0400-a-21-1-b                               7/9                             lees verder ►►►
+      Informatiebron 6
+
+            Eigenschappen aandelen ADX-beurs
+
+                                        volatiliteit                 koers/winst-
+                                                                     verhouding1)
+            Anton nv                    hoog                         hoog
+            Bernard nv                  hoog                         hoog
+            Cornelis nv                 hoog                         laag
+            Dirk nv                     hoog                         laag
+            Eduard nv                   laag                         laag
+            Ferdinand nv                laag                         laag
+            Gerard nv                   laag                         hoog
+            Hendrik nv                  laag                         hoog
+
+              beurskoers op 1 januari 2021
+   noot 1
+              EBIT per aandeel over 2020
+
+
+      Informatiebron 7
+
+            Informatie over een aandeel Jacobsen en een putoptie Jacobsen
+
+                                 aandeel Jacobsen          putoptie Jacobsen2)
+            beurskoers per
+            1 januari 2021       € 12
+            uitoefenprijs                                  € 11,50
+            afloopdatum
+            (expiratiedatum)                               31 december 2021
+            optiepremie                                    € 0,30 per onderliggend aandeel
+            verwacht
+            beschikbaar          5% van de
+            dividend over        gemiddelde
+            2021                 beurskoers in 20211)
+
+   noot 1 Hierbij wordt uitgegaan van een gelijkmatige ontwikkeling van de beurskoers over
+          2021.
+   noot 2 Een putoptie Jacobsen heeft 100 aandelen Jacobsen als onderliggende waarde.
+
+
+
+
+VW-0400-a-21-1-b                               8/9                                    lees verder ►►►
+      Informatiebron 8
+
+            Relatie tussen beurskoers Jacobsen en resultaat in situatie a en
+            situatie b
+
+
+
+
+VW-0400-a-21-1-b                          9/9                            lees verdereinde
+                                                                                      ►►► 
+

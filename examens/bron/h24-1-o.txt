@@ -1,0 +1,469 @@
+                                                                Examen HAVO
+
+                                                                      2024
+                                                                             tijdvak 1
+                                                                    maandag 27 mei
+                                                                    13.30 - 16.30 uur
+
+
+                                                             bedrijfseconomie
+
+
+
+
+Bij dit examen horen een bijlage en een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 30 vragen.
+Voor dit examen zijn maximaal 55 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening gevraagd wordt, worden aan
+het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-0400-a-24-1-o
+      Opgave 1
+
+            Ridha spaart om over 10 jaar een huis te kunnen kopen. In de afgelopen
+            jaren heeft hij nauwelijks interest ontvangen op het spaargeld dat hij op
+            de Direct Spaarrekening bij zijn bank had staan. Op de website van zijn
+            bank zoekt hij naar mogelijkheden om een hoger rendement te behalen.
+            Hij leest daar:
+
+                       Onze spaarvormen op basis van samengestelde interest
+            Direct Spaarrekening                        Spaarvastrekening
+                  spaarrekening met een variabele         spaarrekening met een vaste
+                   interest                                 interest en vaste looptijd
+                  De actuele variabele interest           De interest hangt af van de
+                   bedraagt 0,2% per jaar.                  looptijd:
+                                                             5 jaar tegen 1,1% interest
+                                                               per jaar
+                                                             10 jaar tegen 1,35% interest
+                                                               per jaar.
+                  Het gespaarde bedrag is altijd          Het gespaarde bedrag kan niet
+                   direct opneembaar.                       tussentijds worden opgenomen.
+
+            Als Ridha het spaargeld voor 5 jaar vastzet op de Spaarvastrekening,
+            loopt hij het risico dat tijdens de looptijd de interest op de markt …(1)…,
+            terwijl de interest op de Spaarvastrekening niet verandert.
+            Het sparen op de Spaarvastrekening is een vorm van …(2)… sparen.
+2p    1     Maak bovenstaande zinnen economisch correct. Kies uit:
+            bij … (1) … stijgt / daalt
+            bij … (2) … vrijwillig / verplicht
+
+            Ridha onderzoekt hoe groot het verschil in interestopbrengst is wanneer
+            hij € 20.000
+             op de 10-jaar-Spaarvastrekening stort met een looptijd van 10 jaar;
+                of:
+             eerst 5 jaar op de 5-jaar-Spaarvastrekening stort en daarna het totale
+                bedrag inclusief interest stort op de Direct Spaarrekening waar het
+                bedrag vervolgens 5 jaar blijft staan.
+
+            Ridha verwacht dat de interest op de Direct Spaarrekening de komende
+            10 jaar niet wijzigt.
+
+2p    2     Bereken het verschil na 10 jaar in de verwachte interestopbrengst in
+            euro’s tussen de bovenstaande twee keuzemogelijkheden.
+
+
+
+
+HA-0400-a-24-1-o                               2 / 12                            lees verder ►►►
+            Na verder zoeken op de website vindt hij de volgende opmerking:
+
+            Heeft u een flinke buffer op uw spaarrekening en heeft u dit bedrag niet
+            meteen nodig? Dan kunt u proberen om meer rendement te behalen door
+            te beleggen.
+
+
+            Ridha kan kiezen tussen:
+             beleggen in een beleggingsfonds op basis van zijn risicoprofiel
+             zelf beleggen.
+
+            Ridha kiest voor beleggen in een beleggingsfonds, omdat hij daarmee een
+            hoger rendement verwacht te behalen.
+
+1p    3     Geef een reden waarom beleggen in een beleggingsfonds kan leiden tot
+            een hoger rendement.
+
+            Ridha chat met een bankmedewerker en vraagt welk beleggingsfonds
+            voor hem het meest passend is. Uit de vragenlijst die Ridha heeft
+            ingevuld, blijkt dat zijn risicoprofiel risicomijdend is. Ridha kiest daarom
+            voor een beleggingsfonds dat voor een klein deel uit aandelen en voor
+            een groot deel uit obligaties bestaat.
+
+3p    4     Noem drie verschillen tussen obligaties en aandelen waaruit blijkt dat
+            beleggen in obligaties minder risicovol is dan beleggen in aandelen.
+
+
+
+
+HA-0400-a-24-1-o                              3 / 12                             lees verder ►►►
+      Opgave 2
+
+            Bij deze opgave horen de informatiebronnen 1 tot en met 3.
+
+            In deze opgave blijft de btw buiten beschouwing.
+
+            In Nederland is de energiemarkt sinds 2004 geprivatiseerd en kunnen
+            huishoudens kiezen welk energiebedrijf bij hen energie mag leveren.
+            Energiebedrijven hebben een vergunning van de toezichthouder nodig om
+            energie te mogen inkopen en leveren aan huishoudens. De vergunning
+            heeft als functie dat consumenten zeker zijn van de levering van energie.
+            Op 1 januari 2019 heeft Welkom Energie bv een vergunning van de
+            toezichthouder gekregen om energie te leveren aan huishoudens in
+            Nederland. Welkom Energie vervult een maatschappelijke behoefte door
+            de levering van energie.
+
+2p    5     Noem twee andere maatschappelijke behoeften waarin Welkom Energie
+            voorziet.
+
+1p    6     Welke instelling geeft een vergunning af om energie te leveren aan
+            huishoudens?
+            A ACM / Autoriteit Consument & Markt
+            B AFM / Autoriteit Financiële Markten
+            C DNB / De Nederlandse Bank
+
+            De toezichthouder stelt voor het verlenen van de vergunning een aantal
+            eisen. Een financiële eis is dat de liquiditeitspositie gemeten met de
+            current ratio ten minste 1,0 moet zijn op iedere laatste dag van de maand.
+
+2p    7     Leg uit wat een te lage current ratio van een energiebedrijf voor invloed
+            heeft op de leveringszekerheid van energie aan huishoudens.
+
+            In het najaar van 2021 zijn de inkoopprijzen van energie heel sterk
+            gestegen, waardoor er voor Welkom Energie een liquiditeitsprobleem is
+            ontstaan. Het liquiditeitsprobleem hangt samen met de hoeveelheid
+            energie die ingekocht en geleverd moet worden op basis van de vaste en
+            variabele contracten.
+
+            Ontvangsten uit de verkoop van energie in oktober 2021
+
+            De ontvangsten van Welkom Energie zijn de voorschotten
+            (termijnbedragen) die alle klanten iedere maand betalen
+            (zie informatiebron 1).
+
+2p    8     Bereken de ontvangsten uit de voorschotten van alle klanten van
+            Welkom Energie in oktober 2021.
+
+
+
+HA-0400-a-24-1-o                            4 / 12                            lees verder ►►►
+            Uitgaven aan inkoop energie in oktober 2021
+
+            De grootste uitgave van Welkom Energie is de inkoop van energie. In
+            2021 zijn de prijzen daarvan flink gestegen (zie informatiebron 1 en 2).
+
+3p    9     Bereken de verwachte uitgaven aan energie-inkopen in de maand oktober
+            2021 van Welkom Energie.
+
+            Balans
+
+            De verwachtingen over de ontvangsten van alle klanten van
+            Welkom Energie en uitgaven aan inkoop van energie over de maand
+            oktober 2021 zijn uitgekomen. De gedeeltelijk ingevulde balans per
+            31 oktober 2021 van Welkom Energie staat in informatiebron 3.
+
+            Naast de inkoop van energie is er nog € 140.000 betaald in oktober.
+            Alleen de post liquide middelen moet nog worden aangepast. Er zijn geen
+            andere ontvangsten in oktober 2021.
+
+1p    10    Bereken het bedrag van de balanspost Liquide middelen van
+            Welkom Energie per 31 oktober 2021.
+
+2p    11    Bereken de current ratio van Welkom Energie op 31 oktober 2021 en leg
+            uit of Welkom Energie voldoet aan de liquiditeitseis van de
+            toezichthouder.
+
+            De liquiditeitsproblemen van Welkom Energie hielden aan in november en
+            december 2021. In december 2021 vraagt de directie van
+            Welkom Energie het faillissement aan. Het grote aantal vaste
+            energiecontracten van Welkom Energie met huishoudens in verhouding
+            tot de variabele contracten speelde hierbij een belangrijke rol.
+
+2p    12    Leg uit dat Welkom Energie mede door de vaste energiecontracten van
+            klanten in 2021 in liquiditeitsproblemen is gekomen (zie informatiebron 1).
+
+            Het faillissement van Welkom Energie treft naast de overheid en
+            werknemers ook andere stakeholders.
+
+3p    13    Leg voor drie andere stakeholders van Welkom Energie uit wat
+            de gevolgen zijn van het faillissement van Welkom Energie.
+
+
+
+
+HA-0400-a-24-1-o                            5 / 12                            lees verder ►►►
+       Opgave 3
+
+            In deze opgave blijft de btw buiten beschouwing.
+
+            Elvie en Renzo hebben op 1 januari 2024 Maaltijd-aan-Huis opgericht.
+            Maaltijd-aan-Huis is een bezorgservice die kant-en-klaar-maaltijdboxen
+            aflevert bij klanten. Klanten betalen naast de maaltijdboxen ook een vast
+            bedrag per maaltijdbox voor de bezorgservice.
+
+            Maaltijd-aan-Huis heeft ervoor gekozen om de verkoopprijs van de
+            maaltijdboxen lager vast te stellen dan de verkoopprijs van de
+            concurrenten.
+
+2p    14    Geef twee mogelijke marketingdoelstellingen die Maaltijd-aan-Huis door
+            een lagere verkoopprijs dan de concurrent probeert te behalen.
+
+                                     verwachte gegevens voor 2024
+              opbrengsten
+              gemiddelde verkoopprijs per
+              maaltijdbox exclusief bezorgservice          € 15,00
+              bezorgservice                                € 3,05 per maaltijdbox
+              kosten
+              de inkoopwaarde van de ingrediënten          50% van de verkoopprijs
+              per maaltijdbox                              exclusief de prijs van de
+                                                           bezorgservice
+              overige variabele kosten                     3% van de verkoopprijs
+                                                           exclusief de prijs van de
+                                                           bezorgservice
+              interestkosten1)                             0,5% per maand over de
+                                                           onderhandse lening
+              overige constante kosten                     € 5.000 over het gehele jaar 2024
+
+     noot 1 De onderhandse lening van € 2.500 is op 1 januari 2024 afgesloten voor de
+            financiering van een bezorgscooter. Het leenbedrag zal in één keer op
+            31 december 2024 afgelost worden.
+
+
+            De totale constante kosten zijn gelijkmatig over het jaar verdeeld.
+
+1p    15    Leg uit dat de interestkosten van de onderhandse lening constante kosten
+            zijn.
+
+
+
+
+HA-0400-a-24-1-o                                6 / 12                                  lees verder ►►►
+            In januari 2024 worden in totaal 30 maaltijdboxen besteld en afgeleverd.
+
+1p    16    Bereken de dekkingsbijdrage per bezorgde maaltijdbox.
+
+            Elvie en Renzo willen weten hoeveel maaltijdboxen er in januari 2024
+            verkocht moeten worden om alle kosten te dekken.
+
+2p    17    Bereken hoeveel maaltijdboxen er in januari 2024 minimaal verkocht
+            moeten worden om alle kosten te dekken. Rond af op hele maaltijdboxen.
+
+1p    18    Bereken het totale gerealiseerde resultaat van Maaltijd-aan-Huis over
+            januari 2024. Geef aan of er sprake is van een positief of negatief
+            resultaat.
+
+
+
+
+HA-0400-a-24-1-o                           7 / 12                            lees verder ►►►
+      Opgave 4
+
+            De accountant van Jakko bv heeft in de boekhouding van Jakko een fout
+            ontdekt. Jakko heeft op 1 december 2023 een investering gedaan en
+            daarvoor een banklening afgesloten. De gevolgen hiervan zijn niet meer
+            verwerkt in de winst- en verliesrekening over 2023 en in de eindbalans
+            per 31 december 2023.
+
+            Informatie over deze investering en financiering:
+
+            investering
+            aankoop nieuwe inventaris                                       € 40.000
+            installatie                                                     € 2.000
+                                                                            € 42.000
+            btw 21%                                                         € 8.820
+            totaal factuur                                                  € 50.820
+            levensduur in maanden                                           84
+            restwaarde einde levensduur exclusief 21% btw                   € 4.200
+            Er wordt maandelijks lineair afgeschreven op de investering.
+
+            financiering
+            banklening                                              € 42.000
+            annuïteit per maand                                     € 788,75
+            looptijd in maanden                                     60
+            interest per maand                                      0,40%
+            betaling annuïteit op de laatste dag van de maand voor het eerst op
+            31 december 2023
+
+            De accountant geeft aan dat het resultaat van 2023 voor aftrek van
+            belasting moet worden aangepast vanwege de gedane investering en de
+            bijbehorende financiering.
+
+4p    19    Bereken met welk bedrag het resultaat van 2023 aangepast moet worden
+            als gevolg van de investering en financiering per 1 december 2023.
+            Vul hiervoor de uitwerkbijlage bij deze vraag in.
+
+
+
+
+HA-0400-a-24-1-o                            8 / 12                             lees verder ►►►
+            Voor de investering op 1 december 2023 was er nog geen inventaris
+            aanwezig en was er nog geen banklening afgesloten. Door de investering
+            en financiering van de inventaris moeten er enkele balansposten op
+            31 december 2023 worden aangepast, waaronder “Inventaris”,
+            “Banklening”, “Liquide middelen” en “Resultaat 2023 voor aftrek van
+            belasting”. De factuur van € 50.820 is volledig betaald.
+
+2p    20    Bereken de balansposten “Inventaris” en “Banklening” op de balans van
+            1 januari 2024.
+
+            Behalve de genoemde balansposten is er nog een balanspost die
+            verandert als gevolg van de investering in de nieuwe inventaris.
+
+1p    21    Noem naast de reeds genoemde balansposten een andere balanspost.
+
+
+
+
+HA-0400-a-24-1-o                           9 / 12                          lees verder ►►►
+      Opgave 5
+
+            Bij deze opgave horen de informatiebronnen 4 en 5.
+
+            De 22-jarige Evy heeft in het restaurant “De buik vol” de functie van
+            medewerker bediening. Twee keer per jaar wordt er een
+            functioneringsgesprek gehouden tussen leidinggevende Dilan en
+            medewerker Evy.
+
+            Onvoldoende functioneren
+
+            In een functioneringsgesprek zegt Dilan, dat Evy medeverantwoordelijk is
+            voor een afname van de gasttevredenheid in “De buik vol” en de sterke
+            omzetdaling.
+
+            Dilan laat Evy een recente review lezen:
+
+            “Dit nooit meer!
+            Het was koud en ongezellig in het restaurant en het eten was flauw van
+            smaak. We kregen niet wat we hadden besteld en moesten lang wachten
+            op het nagerecht. Bij het afrekenen werd chagrijnig gekeken toen we geen
+            fooi gaven. Voor ons de laatste keer!”
+
+            Dilan zegt dat Evy gezien haar functieomschrijving verantwoordelijk is
+            voor deze slechte review. Volgens Evy is zij daar gezien haar
+            functieomschrijving niet alleen verantwoordelijk voor.
+
+1p    22    Geef met behulp van informatiebron 4 een argument dat Evy kan
+            inbrengen dat zij gezien haar functieomschrijving niet alleen
+            verantwoordelijk is voor de slechte review.
+
+            Arbeidsomstandigheden van Evy
+
+            Evy vertelt Dilan op haar beurt wat haar dwarszit. In de maand februari is
+            ze ziek thuisgebleven en leverde daarvoor een deel van haar loon in. Evy
+            vraagt zich af of het restaurant zich daarbij wel aan de cao-afspraken
+            heeft gehouden.
+
+            Evy geeft aan dat haar klachten grotendeels werkgerelateerd zijn. Ze
+            noemt de hoge werkdruk die het gevolg is van verkeerd inplannen van
+            personeel en de te zware fysieke belasting. Volgens Evy houdt het
+            restaurant zich hierbij niet altijd aan de wettelijke regels met betrekking tot
+            de arbeidsomstandigheden.
+
+1p    23    Noem de wet die gaat over veilig en gezond werken.
+
+
+
+
+HA-0400-a-24-1-o                             10 / 12                             lees verder ►►►
+            Loondoorbetaling bij ziekte
+
+            Evy vraagt zich af waarom haar loon niet voor 95% is doorbetaald in de
+            periode dat ze ziek was. Ze vermoedt dat ze niet heeft voldaan aan
+            bepaalde voorwaarden, waarmee de ondernemingsraad heeft ingestemd.
+            Volgens Dilan is dat omdat Evy herhaaldelijk niet thuis was bij het
+            huisbezoek van de bedrijfsarts (zie informatiebron 5).
+            De ondernemingsraad heeft meerdere bevoegdheden.
+
+1p    24    Noem twee andere bevoegdheden van de ondernemingsraad dan het
+            instemmingsrecht.
+
+            De 22-jarige Evy is ingedeeld in functiegroep 3 met het daarbij behorende
+            brutoloon. Evy heeft een deeltijdbaan met een contract voor onbepaalde
+            tijd. Ze werkt 32 uur per week, verdeeld over 4 dagen van
+            8 uur en ontvangt per maand haar salaris. Februari bestaat uit vier
+            werkweken. In de eerste week van februari heeft Evy gewerkt en
+            vervolgens was ze drie weken aaneengesloten ziek thuis. Haar
+            brutomaandloon bedroeg in februari € 1.108,11 exclusief vakantiegeld.
+
+4p    25    Toon met een berekening aan of de werkgever zich met een betaling van
+            een maandloon van € 1.108,11 in februari heeft gehouden aan de cao (zie
+            informatiebron 5).
+
+            Toekomst Evy
+
+            Bij thuiskomst vertelt Evy haar vriend dat het functioneringsgesprek niet
+            prettig is verlopen en dat ze zich zorgen maakt over het verliezen van
+            haar baan.
+
+            Evy zegt dat ze na een eventueel ontslag altijd nog als zzp’er werk kan
+            vinden in de horeca. Dat heeft volgens haar zelfs voordelen ten opzichte
+            van werken in loondienst. Haar vriend geeft aan dat ze als zzp’er juist
+            enkele voordelen van werken in loondienst mist. Hij wijst haar op enkele
+            paragrafen uit de cao voor de horeca.
+
+1p    26    Noem een voordeel voor Evy wanneer zij als zzp’er gaat werken in de
+            horeca in plaats van in loondienst.
+
+2p    27    Noem twee voordelen die het werken in loondienst heeft ten opzichte van
+            het werken als zzp’er in de horeca. Licht het antwoord met behulp van
+            twee paragrafen uit de horeca-cao toe (zie informatiebron 5).
+
+
+            Let op: de laatste vragen van dit examen staan op de volgende pagina.
+
+
+
+
+HA-0400-a-24-1-o                            11 / 12                           lees verder ►►►
+      Opgave 6
+
+            In de zomer van 2024 wordt het Europees Kampioenschap (EK) voetbal
+            georganiseerd in Duitsland. Adidas sponsort vele evenementen
+            waaronder het EK voetbal van 2024 en verschillende nationale teams.
+
+1p    28    Geef een mogelijk nadeel van sponsoring voor Adidas.
+
+            Voorafgaand en tijdens het EK kunnen Adidas voetbalshirts van nationale
+            ploegen gekocht worden in de winkels van Adidas en in de stadions waar
+            gespeeld wordt.
+
+            De uitbreiding van het assortiment voetbalshirts met je favoriete
+            rugnummer of je eigen naam erop, is een vorm van …(1)….
+            De wereldwijde verkoop van Adidas voetbalshirts via webshops is een
+            vorm van …(2)…. De prijs van een Adidas voetbalshirt ligt hoger dan die
+            van een voetbalshirt zonder bekend merk. Dit is een vorm van …(3)….
+2p    29    Maak bovenstaande zinnen compleet door de juiste marketing-
+            instrumenten in te vullen.
+            … (1) … beleid
+            … (2) … beleid
+            … (3) … beleid
+
+            Pieter en Edwin zijn consumenten die veel Adidas producten kopen. Zij
+            bekijken een EK-voetbalwedstrijd op tv en zien dat Adidas shirtsponsor is
+            van het Duitse nationale team. Na het zien van de wedstrijd bestelt Pieter
+            een EK-voetbalshirt van het Duitse nationale team.
+
+2p    30    Leg uit of Adidas een push- of pull-strategie hanteert bij shirtreclame op
+            tv.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+HA-0400-a-24-1-o                                         12 / 12                                          lees verdereinde
+                                                                                                                       ►►► 
+

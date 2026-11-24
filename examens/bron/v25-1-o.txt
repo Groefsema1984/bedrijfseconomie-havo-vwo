@@ -1,0 +1,555 @@
+                                                                  Examen VWO
+
+                                                                      2025
+                                                                             tijdvak 1
+                                                                   donderdag 22 mei
+                                                                    13.30 - 16.30 uur
+
+
+                                                             bedrijfseconomie
+
+
+
+
+Bij dit examen horen een bijlage en een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 30 vragen.
+Voor dit examen zijn maximaal 63 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening gevraagd wordt, worden aan
+het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-0400-a-25-1-o
+       Opgave 1
+
+            Eind 2022 is het nieuwe woord “graaiflatie” opgenomen in de
+            woordenboeken. Graaiflatie betekent dat bedrijven de verkoopprijzen
+            meer verhogen dan de toegenomen kosten. Graaiflatie zorgt voor een
+            toename van de resultaatmarge. Ook bij Ahold Delhaize, het
+            moederbedrijf van onder andere Albert Heijn en Gall & Gall, zou volgens
+            sommige media sprake zijn van graaiflatie.
+
+            Ahold Delhaize boekte in 2022 een stijging van de omzet en het resultaat
+            ten opzichte van 2021:
+
+            getallen in miljoen euro’s,                        2022                  2021
+            behalve het resultaat per aandeel
+            omzet                                             86.984               75.601
+            inkoopwaarde van de omzet                         63.689               54.916
+
+
+            loonkosten                                        12.674               11.179
+            afschrijvingskosten                                3.433                3.007
+            overige bedrijfskosten                             3.420                3.179
+            totale bedrijfskosten                             83.216               72.281
+            EBIT                                               3.768                3.320
+            financieringsresultaat                              555                    515
+            resultaat voor vennootschapsbelasting              3.213                2.805
+
+
+            resultaatmarge1)                                   …….                 4,39%
+            resultaat voor vennootschapsbelasting         €     3,25       €          2,75
+            per aandeel
+
+     noot 1 (EBIT / omzet) x 100%
+
+
+            Ahold Delhaize voorziet in verschillende maatschappelijke behoeften.
+
+2p     1    Noem twee verschillende maatschappelijke behoeften waarin Ahold
+            Delhaize voorziet. Motiveer beide antwoorden met een verwijzing naar het
+            bovenstaande financiële overzicht.
+
+
+
+
+VW-0400-a-25-1-o                           2 / 15                              lees verder ►►►
+            Het bestuur van Ahold Delhaize spreekt de kritiek van graaiflatie tegen en
+            verwijst naar de resultaatmarge in 2022 en 2021.
+
+1p    2     Toon met een berekening van de resultaatmarge aan of er in 2022 sprake
+            is geweest van graaiflatie.
+
+            Het inkopen van eigen aandelen
+
+            Ahold Delhaize heeft op 1 januari 2022 een deel van haar eigen aandelen
+            ingekocht op de effectenbeurs.
+            Bij het inkopen van de eigen aandelen treedt er een balansmutatie op,
+            waarbij het geplaatste aandelenkapitaal daalt en de liquide middelen
+            afnemen. Door de daling van het geplaatste aandelenkapitaal stijgt het
+            resultaat per aandeel. Na de inkoop van eigen aandelen zijn er geen
+            verdere mutaties geweest op het geplaatste aandelenkapitaal in 2022.
+
+2p    3     Bereken met hoeveel eurocent het resultaat voor vennootschapsbelasting
+            per aandeel in 2022 is gestegen ten opzichte van 2021 als gevolg van het
+            inkopen van eigen aandelen.
+
+            Het beleggersrendement voor aandeelhouders van Ahold Delhaize kan
+            door de aandeleninkoop stijgen.
+
+2p    4     Leg op twee manieren uit hoe de aandeleninkoop van Ahold Delhaize
+            gunstig kan zijn voor het beleggersrendement van aandeelhouders van
+            Ahold Delhaize.
+
+
+
+
+VW-0400-a-25-1-o                            3 / 15                           lees verder ►►►
+      Opgave 2
+
+            Bij deze opgave horen de informatiebronnen 1 tot en met 4.
+
+            Flohr en Femke zijn sinds 2009 samen eigenaar van Camping Vogelhof.
+            Vogelhof verhuurt standplaatsen aan kampeerders, die hier hun eigen tent
+            of caravan op kunnen plaatsen.
+
+            Bij de oprichting van Vogelhof hebben Flohr en Femke gekozen voor een
+            rechtsvorm zonder rechtspersoonlijkheid, waarbij ze allebei eigen
+            vermogen hebben ingebracht.
+
+1p    5     Noem de rechtsvorm van Camping Vogelhof.
+
+            Camping Vogelhof telt in totaal 280 standplaatsen van elk 120 m2. Het
+            verhuurtarief van een standplaats is afhankelijk van een aantal factoren
+            (zie informatiebron 1). In 2024 werd in zowel het voorseizoen,
+            hoogseizoen, als naseizoen 25% van de boekingen gerealiseerd door
+            vroegboekers, die daarvoor een korting kregen.
+
+4p    6     Bereken voor Camping Vogelhof de omzet in 2024 uit de verhuur van
+            standplaatsen.
+            Vul hiervoor de uitwerkbijlage bij deze vraag in.
+
+            Concurrentieanalyse
+
+            Flohr en Femke maken een concurrentieanalyse en concluderen dat de
+            omzet van Vogelhof achterblijft bij die van concurrenten.
+
+1p    7     Noem het onderdeel van het ondernemingsplan waaronder een
+            concurrentieanalyse valt.
+
+            Flohr en Femke willen uitzoeken of het financieel voordelig is om op een
+            van hun campingvelden chalets neer te zetten. Het Toekanveld heeft nu
+            60 standplaatsen. Na de herinrichting van het Toekanveld verdwijnen de
+            huidige 60 plaatsen en worden er chalets op geplaatst. Dit zullen ze doen
+            in de eerste maanden van 2025, zodat ze vanaf het voorjaar de chalets
+            kunnen verhuren.
+
+
+
+
+VW-0400-a-25-1-o                            4 / 15                           lees verder ►►►
+            Voorwaarden voor het herinrichten van het Toekanveld
+
+            Flohr en Femke besluiten tot het herinrichten van het Toekanveld als er
+            wordt voldaan aan elk van de onderstaande voorwaarden:
+            a de financiering van de chalets met inventaris en het herinrichten van
+               het Toekanveld lukt én
+            b het inhuren van zzp’ers voor de eindschoonmaak van de chalets lukt
+               én
+            c de verwachte bijdrage van het Toekanveld aan het resultaat over 2025
+               na de herinrichting en het plaatsen van de chalets minimaal drie keer
+               zo hoog is als wanneer er niet wordt heringericht.
+
+            De financiering
+
+            Voor de financiering van de chalets hebben Flohr en Femke twee opties
+            onderzocht:
+            1 het afsluiten van een hypothecaire lening bij de bank
+            2 het afsluiten van een onderhandse lening bij de oom van Flohr.
+
+            Bij beide leningen moet eenzelfde interestpercentage worden betaald.
+
+            Er zijn bijkomende kosten voor het afsluiten van een hypothecaire lening,
+            die niet gemaakt hoeven te worden bij het afsluiten van een onderhandse
+            lening (zie informatiebron 4).
+
+2p    8     Noem twee van deze bijkomende kosten.
+
+            Flohr en Femke kiezen vanwege het ontbreken van bijkomende kosten
+            voor een onderhandse lening bij de oom van Flohr.
+
+2p    9     Bereken de hoogte van de af te sluiten onderhandse lening bij de oom
+            van Flohr (zie informatiebronnen 2 en 3).
+
+            Overige voorwaarden en conclusie
+
+            Flohr en Femke willen voor de eindschoonmaak van de chalets zzp’ers
+            gaan inhuren. Om te bepalen hoeveel uur de zzp’ers moeten worden
+            ingezet, moet eerst worden berekend hoe vaak per week de chalets
+            moeten worden schoongemaakt.
+
+2p   10     Bereken hoeveel uur per week de zzp’ers gemiddeld moeten worden
+            ingezet (zie informatiebron 2).
+
+
+
+
+VW-0400-a-25-1-o                           5 / 15                           lees verder ►►►
+            Flohr en Femke hebben bewust gekozen voor de inzet van zzp’ers boven
+            het aannemen van personeel in loondienst.
+
+2p   11     Noem twee verschillende bedrijfseconomische voordelen van het inhuren
+            van zzp’ers ten opzichte van het aannemen van personeel in loondienst.
+
+4p   12     Bereken de totale verwachte kosten van het Toekanveld voor 2025 (zie
+            informatiebronnen 2, 3 en 4).
+            Vul hiervoor de uitwerkbijlage bij deze vraag in.
+
+            Wanneer er niet wordt heringericht, dan is de verwachte bijdrage van het
+            Toekanveld aan het resultaat over 2025 € 115.000 voordelig.
+
+5p   13     Analyseer of Flohr en Femke zullen besluiten tot het herinrichten en
+            plaatsen van de chalets op het Toekanveld.
+            Vul hiervoor de uitwerkbijlage bij deze vraag in.
+
+
+
+
+VW-0400-a-25-1-o                            6 / 15                           lees verder ►►►
+            Ga verder op de volgende pagina.
+
+
+
+
+VW-0400-a-25-1-o                        7 / 15   lees verder ►►►
+      Opgave 3
+
+            In deze opgave is de btw 21%.
+
+            Handelsonderneming in schoonmaakartikelen De Kleine bv streeft naar
+            balansverkorting: een balanspost van vaste en / of vlottende activa staat
+            dan niet meer op de balans. Balansverkorting is te realiseren door
+            off-balance-financering.
+
+1p   14     Geef een voorbeeld van off-balance-financiering waardoor de omvang van
+            de activa op de balans kan worden verlaagd.
+
+            De Kleine heeft in 2024 maatregelen genomen om de waarde van de
+            voorraad en debiteuren te verminderen.
+
+            Gegeven zijn de onderstaande overzichten voor de eerste weken van het
+            jaar 2024 (alle getallen x € 1.000).
+
+            Grafiek 1
+
+
+
+
+            De waarde van de voorraad en debiteuren wordt gemeten op de eerste
+            dag van de week. De voorraad van het begin van week 1 is dus € 5.000
+            en aan het einde € 6.800.
+            Later in de week worden de inkopen en verkopen van die week gedaan en
+            worden de betalingen van debiteuren uit voorgaande weken ontvangen.
+
+
+
+
+VW-0400-a-25-1-o                            8 / 15                           lees verder ►►►
+            De Kleine koopt de schoonmaakartikelen altijd per 4 weken in, op de
+            eerste dag van week 1, op de eerste dag van week 5 en zo verder.
+
+            Grafiek 2
+
+
+
+
+            De inkoopwaarde van de omzet bedraagt 40% van de omzet.
+
+            Aan de hand van de overzichten kan worden berekend dat De Kleine voor
+            een steeds lager bedrag inkoopt.
+
+2p   15     Toon met een berekening aan dat de inkopen in week 5 lager zijn dan in
+            week 1. Maak gebruik van grafieken 1 en 2.
+
+            De Kleine heeft op 1 januari 2024, de eerste dag van week 1, de
+            krediettermijn voor debiteuren verkort van 4 weken naar 2 weken.
+            Afnemers maken volledig gebruik van de krediettermijn. Hierdoor
+            verandert de omvang van de balanspost Debiteuren. De verkopen zijn
+            voor 80% op rekening.
+
+2p   16     Bereken de omvang van de balanspost Debiteuren aan het einde van
+            week 9.
+
+
+
+
+VW-0400-a-25-1-o                           9 / 15                          lees verder ►►►
+      Opgave 4
+
+            Klaas Dane heeft in februari 2025 van de notaris bericht gekregen dat hij
+            € 150.000 heeft geërfd van zijn neef Thom. Op de site van de
+            Belastingdienst ziet hij onderstaande gegevens over de te betalen
+            erfbelasting.
+
+            Vrijstellingen
+
+            U bent:                                        bedrag van de vrijstelling
+            echtgenoot, geregistreerd of                           € 795.156
+            samenwonend partner
+            kind, pleeg- of stiefkind                              €     25.187
+            kleinkind                                              €     25.187
+            achterkleinkind                                        €      2.658
+            kind met een beperking                                 €     75.546
+            ouder                                                  €     59.643
+            overige erfgenaam                                      €      2.658
+
+
+            Tarieven erf- en schenkbelasting
+
+            grootte             partner, pleeg-         kleinkinderen     overige
+            schenking /         of stiefkind en         en verdere        erfgenamen
+            waarde erfenis      kind met een            afstammelingen
+                                beperking
+            € 0 – € 138.642             10%                  18%                  30%
+            het meerdere                20%                  36%                  40%
+            boven € 138.642
+
+2p   17     Bereken het bedrag dat Klaas na betaling van de erfbelasting overhoudt
+            van zijn erfdeel.
+
+
+
+
+VW-0400-a-25-1-o                              10 / 15                             lees verder ►►►
+            Klaas wil het bedrag van de erfenis na erfbelasting gebruiken als
+            aanvulling op zijn pensioen. Hij wil met het ontvangen bedrag zo min
+            mogelijk risico lopen en overweegt een aantal mogelijkheden:
+            a het bedrag beleggen in aandelen Philips;
+            b het bedrag beleggen in call opties Philips;
+            c het bedrag beleggen in een beleggingsfonds dat bestaat uit de
+               25 meest verhandelde aandelen van naamloze vennootschappen op
+               de effectenbeurs (AEX);
+            d het bedrag op zijn spaarrekening zetten, waarbij in geval van een
+               faillissement van de bank het spaargeld tot een bedrag van € 100.000
+               is gegarandeerd.
+
+1p   18     Zet de letters a tot en met d in de juiste volgorde van minst risicovol naar
+            meest risicovol.
+
+            Klaas besluit om het totale bedrag van de erfenis na aftrek van de
+            erfbelasting op 1 april 2025 op zijn spaarrekening te zetten. Samen met
+            het bedrag van de erfenis bedraagt het spaarsaldo op deze datum dan
+            € 128.441,92. De samengestelde interest op deze spaarrekening bedraagt
+            0,1% per maand. Van 1 april 2025 tot en met 1 januari 2026 heeft Klaas
+            geen geld opgenomen van of gestort op deze spaarrekening.
+
+            Vanaf 1 januari 2026 wil Klaas maandelijks op de laatste dag van de
+            maand € 1.200 van deze spaarrekening opnemen, voor het laatst op
+            31 december 2033. Op deze laatstgenoemde dag wil hij als buffer
+            minimaal € 25.000 op de spaarrekening overhouden.
+
+4p   19     Kan Klaas 8 jaar lang maandelijks € 1.200 opnemen en op
+            31 december 2033 nog € 25.000 op de spaarrekening hebben staan,
+            nadat de laatste maandelijkse opname op deze datum heeft
+            plaatsgevonden?
+            Motiveer het antwoord met een berekening (zie formuleblad).
+
+
+
+
+VW-0400-a-25-1-o                            11 / 15                             lees verder ►►►
+       Opgave 5
+
+            Bij deze opgave horen de informatiebronnen 5 en 6.
+
+            Air France-KLM is ontstaan door een fusie van de Nederlandse KLM en
+            het Franse Air France. De Franse en de Nederlandse staat zijn
+            belangrijke aandeelhouders van het fusiebedrijf Air France-KLM.
+
+            In de jaren 2020 en 2021 werd de luchtvaartsector zwaar getroffen door
+            de gevolgen van de coronacrisis. Zowel de Franse als Nederlandse staat
+            steunden Air France-KLM door leningen te verstrekken en zich bovendien
+            garant1) te stellen voor leningen van banken aan deze
+            luchtvaartcombinatie.
+
+     noot 1 De overheid garandeert dat een lening wordt terugbetaald als de lener failliet gaat.
+
+
+1p    20    Noem een bedrijfseconomisch voordeel van deze overheidsgarantie voor
+            Air France-KLM.
+
+            De solvabiliteit van Air France-KLM is op 31 december 2021 onvoldoende
+            en het management zet vanaf het begin van 2022 in op verbetering ervan
+            door middel van een toename van het resultaat en een emissie van
+            aandelen.
+
+            Het resultaat van Air France-KLM herstelt zich in het eerste halfjaar van
+            2022 ten opzichte van dezelfde periode in 2021. Dit herstel zet door in het
+            derde kwartaal van 2022.
+
+                                kwartaal 1 en 2                     kwartaal 1 tot en met 3
+
+                                totale resultaat                    totale resultaat
+                                (x € 1 miljoen)                     (x € 1 miljoen)
+            2022                -/- 228                             232
+            2021                -/- 2.971                           -/- 3.164
+
+            -/- betekent negatief
+
+2p    21    Bereken de toename van het resultaat in euro’s in het derde kwartaal van
+            2022 ten opzichte van het resultaat van het derde kwartaal van 2021.
+
+            De toename van het resultaat in de eerste drie kwartalen van 2022 en een
+            emissie van aandelen in die periode hebben geleid tot een verbetering
+            van het eigen vermogen en hebben dus ook gevolgen voor de solvabiliteit.
+
+
+
+
+VW-0400-a-25-1-o                                  12 / 15                                  lees verder ►►►
+2p   22     Toon aan met een berekening of de solvabiliteit van Air France-KLM op
+            30 september 2022 is verbeterd ten opzichte van 31 december 2021 (zie
+            informatiebron 5).
+
+            In het vierde kwartaal van 2022 wil Air France-KLM opnieuw met een
+            aandelenemissie het eigen vermogen vergroten.
+            Omdat de beurskoers van het aandeel Air France-KLM al enige tijd
+            daalde, besluit Air France-KLM tot een emissie van converteerbare
+            obligaties in plaats van een aandelenemissie. Bij dit besluit speelt mee
+            dat Air France-KLM ervan uitgaat dat de koers van het aandeel
+            Air France-KLM op lange termijn weer zal stijgen.
+
+2p   23     Leg uit dat door een emissie van converteerbare obligaties op korte
+            termijn de solvabiliteit verslechtert, maar op lange termijn de solvabiliteit
+            kan verbeteren.
+
+            Air France-KLM probeert de Nederlandse staat over te halen om voor een
+            percentage dat gelijk is aan het aandelenbelang van de Nederlandse staat
+            op 17 november 2022 deel te nemen aan de converteerbare
+            obligatielening. Ook wanneer niet wordt geconverteerd, levert deelname
+            voor dat percentage de Nederlandse staat een aanzienlijk financieel
+            voordeel op (zie informatiebron 6).
+
+2p   24     Bereken de totale interestopbrengst voor de Nederlandse staat over de
+            gehele looptijd van de converteerbare obligatielening als de Nederlandse
+            staat deelneemt voor dat percentage. Ga ervan uit dat er niet wordt
+            geconverteerd en dat de marktinterest gedurende de gehele looptijd 3%
+            is.
+
+            Minister Kaag laat weten dat de Nederlandse staat geen belangstelling
+            heeft in deelname aan de converteerbare obligatielening.
+            Een Kamerlid stelt dat de werkgelegenheid wordt geschaad door niet deel
+            te nemen aan de emissie.
+
+2p   25     Leg de stelling van het Kamerlid uit.
+
+            Ondanks dat de Nederlandse staat niet heeft deelgenomen, was de
+            emissie van converteerbare obligaties een succes.
+
+            In 2023 steeg de beurskoers van Air France-KLM tot boven de
+            conversiekoers en werd een groot deel van de converteerbare obligaties
+            omgewisseld in aandelen. Maar niet álle converteerbare obligaties zijn
+            omgewisseld in aandelen.
+
+1p   26     Geef een financiële reden waarom sommige beleggers er in deze situatie
+            voor hebben gekozen hun obligaties niet te converteren.
+
+
+
+
+VW-0400-a-25-1-o                             13 / 15                             lees verder ►►►
+      Opgave 6
+
+            In deze opgave wordt de btw buiten beschouwing gelaten.
+
+            Krantenuitgever Uw Krant
+
+            Bij krantenuitgever Uw Krant kunnen klanten kiezen tussen een
+            abonnement voor een papieren krant voor 6 dagen in de week of een
+            abonnement voor een digitale krant voor 6 dagen in de week.
+            Abonnementen worden rechtstreeks afgesloten via de website van
+            Uw Krant.
+
+            Over de eerste periode van 4 weken in 2025 is het volgende van
+            Uw Krant gegeven:
+
+                                      papieren krant    digitale krant in
+                                     in abonnement         abonnement
+            constante kosten per               € 0,75              € 0,75
+            krant
+            variabele kosten per               € 1,20              € 0,10
+            krant
+            abonnementsprijs                  € 48,00             € 25,68
+            per 4 weken
+            verkoopprijs per                   € 2,00              € 1,07
+            krant
+            afzet                                                                  totaal
+            normale afzet                      36.000             24.000          60.000
+            (aantal kranten per
+            dag)
+            verwachte afzet                    34.500             25.000          59.500
+            (aantal kranten per
+            dag)
+
+            En verder:
+             Een abonnement wordt altijd per 4 weken (24 kranten) afgesloten.
+             De totale constante kosten van Uw Krant worden ongeacht het
+               abonnementstype voor hetzelfde bedrag opgenomen in de kostprijs
+               van een krant.
+             Het kopen van een losse krant is niet mogelijk.
+
+3p   27     Bereken het verwachte resultaat voor Uw Krant over de eerste periode
+            van 4 weken in 2025. Maak hierbij gebruik van het verkoopresultaat en
+            het bezettingsresultaat. Geef telkens aan of er sprake is van een positief
+            of negatief resultaat.
+
+
+
+VW-0400-a-25-1-o                            14 / 15                           lees verder ►►►
+            Door middel van acties probeert Uw Krant om het aantal abonnees te
+            verhogen. Voor nieuwe abonnees geldt in de actieperiode een
+            abonnementsprijs van € 27,60 voor 4 weken voor de papieren krant en
+            € 14,40 voor de digitale krant. Potentiële abonnees worden over deze
+            actie geïnformeerd via social media.
+
+2p   28     Noem twee voordelen voor Uw Krant van het inzetten van social media in
+            plaats van traditionele media.
+
+            Het doel is het resultaat van Uw Krant te verbeteren op korte termijn.
+
+2p   29     Welke abonnementsvorm heeft dan de voorkeur: papier of digitaal? Leg
+            dit uit met behulp van een berekening van de dekkingsbijdrage per type
+            krant in de actieperiode.
+
+            Directieleden Loek en Lisa willen graag het true-pricing-principe
+            toepassen bij Uw Krant. In de directievergadering vertellen zij daarover:
+
+
+            “Bij true pricing worden de verborgen kosten van een product inzichtelijk
+            gemaakt voor de consument. Verborgen kosten als CO2-uitstoot,
+            ontbossing, waterverbruik en onderbetaling van arbeiders en leveranciers
+            worden dan in de prijs van het product opgenomen.
+            Bij true pricing betaalt de consument een hoger bedrag voor zijn product.
+            Een deel van de verkoopprijs wordt dan besteed aan goede doelen.
+            Deze goede doelen gebruiken het geld om de schade die is gemaakt
+            tijdens het productieproces te herstellen of te compenseren”.
+
+
+            Loek en Lisa stellen dat het aantal abonnees niet hoeft af te nemen
+            wanneer de verkoopprijs van de krant als gevolg van true pricing stijgt.
+
+2p   30     Leg uit welk instrument van de marketingmix kan worden gebruikt om de
+            abonnee goed te informeren over de achtergrond van de prijsverhoging.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift.
+
+
+VW-0400-a-25-1-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

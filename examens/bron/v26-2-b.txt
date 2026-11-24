@@ -1,0 +1,227 @@
+                       Bijlage VWO
+
+                         2026
+                              tijdvak 2
+
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-26-2-b
+      Formuleblad
+
+            Voor beantwoording van vraag 10 is de volgende formule beschikbaar.
+
+     10     somformule meetkundige reeks:
+
+             r
+             - -
+             1 1
+             n r
+              S
+              =
+              a
+              ×
+
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-26-2-b                            2/7                          lees verder ►►►
+      Informatiebron 1
+
+            Het personeelsbestand van Zondag voor 2023-2024
+
+            Het personeelsbestand van Zondag is elk schooljaar hetzelfde
+            opgebouwd, zo ook voor het schooljaar 2023-2024. Een schooljaar loopt
+            van 1 augustus tot en met 31 juli van het daarop volgende jaar.
+            Een voltijdcontract bij Zondag omvat 40 contracturen per week. Zondag
+            werkt ook met twee andere soorten contracten:
+             een deeltijdcontract voor 24 contracturen per week;
+             een deeltijdcontract voor 32 contracturen per week;
+
+            In de volgende tabel is per soort contract aangegeven hoeveel docenten
+            bij Zondag in dienst zijn.
+
+            soort contract                        deeltijd-       deeltijd-       voltijd-
+                                                  contract        contract       contract
+                                               voor 24 uur     voor 32 uur    voor 40 uur
+                                                 per week        per week       per week
+            aantal docenten in dienst                   80             120              180
+
+            Voorcalculatie voor het schooljaar 2023-2024
+
+            Het detacheringstarief (verkoopprijs) bedraagt € 125 per gedetacheerd
+            uur.
+
+            Loonkosten voor docenten in dienst bij Zondag
+
+            brutoloon inclusief vakantiegeld         € 39 per contractuur
+            werkgeversdeel sociale lasten en
+            pensioenlasten                           25% van de totale loonkosten
+            aantal weken per schooljaar dat een
+            docent wordt betaald                     52 weken
+
+            Verwachte overige kosten voor Zondag
+
+            waarvan variabel                         € 2,50 per gedetacheerd uur
+            waarvan constant                         € 2.073.600 voor het hele schooljaar
+
+            Normaal aantal gedetacheerde uren per schooljaar
+
+            normaal aantal gedetacheerde uren        414.720
+            per schooljaar (N)
+
+
+
+
+VW-0400-a-26-2-b                               3/7                              lees verder ►►►
+      Informatiebron 2
+
+            Nacalculatorische gegevens van Zondag
+
+            Over het schooljaar 2023-2024 zijn de volgende nacalculatorische
+            gegevens bekend:
+
+            Detachering docenten
+
+            detacheringstarief                € 125 per gedetacheerd uur
+            aantal gedetacheerde uren         400.000 uur
+
+            Kosten voor Zondag
+
+            personeelskosten docenten         € 35.000.000 voor het hele schooljaar
+            overige kosten:
+            waarvan variabel                  € 2,60 per gedetacheerd uur
+            waarvan constant                  € 2.100.000 voor het hele schooljaar
+
+
+
+
+VW-0400-a-26-2-b                           4/7                              lees verder ►►►
+      Informatiebron 3
+
+            Het verkleinen van het personeelsbestand
+
+            Het verkleinen van het personeelsbestand gebeurt in drie fasen. Indien na
+            een fase de totaal gewenste verkleining is bereikt, dan gaat de volgende
+            fase niet in. De drie fasen zijn in volgorde van uitoefening:
+
+            1      Natuurlijk verloop:
+                   Docenten die aan het einde van het schooljaar 2023-2024 met
+                   pensioen gaan, verlaten Zondag.
+            2      Vrijwillig vertrek:
+                   Docenten die vrijwillig vertrekken, krijgen op 1 augustus 2024
+                   eenmalig een bedrag aangeboden. Voor docenten met een contract
+                   van 40 uur per week bedraagt dit € 18.000. Docenten met een
+                   deeltijdcontract krijgen dit bedrag naar rato uitgekeerd.
+            3      Uitkopen:
+                   Voor het overige deel van de besparing wordt aan docenten een
+                   persoonlijke financiële regeling aangeboden. Alleen docenten met een
+                   contract van 40 uur per week zullen hiervoor worden benaderd, te
+                   beginnen met de docenten die het kortst in dienst zijn.
+
+            Financiële regeling in fase 3
+
+            In fase 3 krijgen docenten het volgende aangeboden:
+
+            1      Doorbetaling loon1)
+                   De docent krijgt het brutoloon van € 39 per uur gedurende 13 weken
+                   nog volledig doorbetaald. Deze betaling zal wekelijks plaatsvinden,
+                   voor het eerst op 1 augustus 2024 en voor het laatst op
+                   24 oktober 2024.
+                   én
+            2      Transitievergoeding1)
+                   Op 31 oktober 2024 ontvangt de docent een brutotransitievergoeding.
+                   Deze bedraagt per volledig gewerkt dienstjaar twee brutoweeklonen.
+                   Niet volledig gewerkte dienstjaren worden naar rato uitgekeerd.
+
+    noot 1 Indien een vertrekkende docent hier de voorkeur aan geeft, kunnen deze bedragen
+           ook in één keer op 1 augustus 2024 worden uitgekeerd.
+           Deze bedragen worden, na aftrek van 40% loonbelasting en premies, contant gemaakt
+           tegen een samengesteld interestpercentage van 0,1% per week en vervolgens
+           uitgekeerd aan de vertrekkende docent.
+
+
+
+
+VW-0400-a-26-2-b                               5/7                                 lees verder ►►►
+      Informatiebron 4
+
+            Uitbreiding en verduurzaming Efteling bv 2024-2030
+
+            Verduurzaming
+
+            De Efteling is van plan om grote batterijen aan te schaffen waarmee
+            duurzaam opgewekte stroom tijdelijk kan worden opgeslagen. Door de
+            stroom via een slim energiemanagementsysteem zo efficiënt mogelijk in
+            te zetten wordt het attractiepark meer zelfvoorzienend.
+
+            Uitbreiding
+
+            Verdere uitbreiding van attracties in nieuw attractiegebied. Zie illustratie:
+
+
+            Uitbreiding Efteling Park 2024-2030
+
+
+
+
+VW-0400-a-26-2-b                              6/7                                lees verder ►►►
+      Informatiebron 5
+
+            Balansen Efteling bv per 31 december
+
+ debet                                getallen x € 1.000                          credit
+                          2023       2022                          2023            2022
+ Immateriële                              Geplaatst
+ vaste activa           17.358     16.395 aandelenkapitaal        13.393         13.393
+ Materiële vaste
+ activa                297.729    251.820 Reserves              201.281        175.918
+ Financiële vaste                         Resultaat
+ activa                     286        99 na belasting            37.753         33.937
+ Voorraad                 7.716     6.740 Langlopende
+                                          Voorzieningen            1.839          2.209
+                                          Langlopende
+ Debiteuren               5.631     4.151 schulden                57.000         60.000
+ Te vorderen
+ belastingen en
+ premies                    322       463 Crediteuren             17.296         17.018
+ Overige                                  Te betalen
+ overlopende                              belastingen en
+ activa                   9.797    12.565 premies                  3.300          4.569
+ Liquide                                  Vooruit ontvangen
+ middelen                39.727    63.858 bedragen                14.554         12.251
+                                            Overige
+                                            overlopende
+                                            passiva              32.150          36.796
+                       378.566    356.091                       378.566        356.091
+
+            Toelichting:
+             De Vooruit ontvangen bedragen betreffen jaarabonnementen die niet
+               tussentijds kunnen worden opgezegd door de klant.
+             Het vermogen is gelijkmatig over het jaar toegenomen dan wel
+               afgenomen.
+             Het resultaat na belasting over 2022 wordt volledig toegevoegd aan de
+               reserves.
+
+
+
+
+VW-0400-a-26-2-b                            7/7                            lees verdereinde
+                                                                                        ►►► 
+

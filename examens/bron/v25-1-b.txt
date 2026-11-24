@@ -1,0 +1,259 @@
+                       Bijlage VWO
+
+                         2025
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-25-1-b
+      Formuleblad
+
+            Voor beantwoording van vraag 19 is de volgende formule beschikbaar.
+
+     19     somformule meetkundige reeks:
+
+             r
+             --
+             11
+             n r
+              S
+              =
+              a
+              ×
+
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-25-1-b                            2/9                          lees verder ►►►
+      Informatiebron 1
+
+            Verhuurtarieven en bezetting van een standplaats bij Camping
+            Vogelhof in 2024
+
+             Camping Vogelhof is open van maandag 1 april tot en met zondag
+              29 september
+             aantal standplaatsen: 280
+             Er kunnen twee soorten boekingen worden gedaan:
+              1. weekboeking: een boeking van een week van maandag tot en met
+                  zondag
+              2. dagboeking: een boeking voor één dag.
+
+            Tarieven standplaats, exclusief 9% btw
+
+                                   voorseizoen             hoogseizoen            naseizoen
+              tarief             1 april tot en met       1 juli tot en met    26 augustus tot en
+                                 30 juni                  25 augustus          met 29 september
+                                 (13 weken)               (8 weken)            (5 weken)
+              weekboeking                     € 186                  € 300                  € 210
+              dagboeking                          € 30                € 50                    € 35
+
+            Vroegboekersvoordeel: bij reservering en betaling vóór 1 januari 2024
+            wordt 5% korting gegeven (zogeheten vroegboekkorting).
+
+            Bezetting van de standplaatsen
+
+                                  voorseizoen              hoogseizoen             naseizoen
+              bezetting          1 april tot en          1 juli tot en         26 augustus tot
+                                 met 30 juni             met 25 augustus       en met
+                                 (13 weken)              (8 weken)             29 september
+                                                                               (5 weken)
+              gemiddeld aantal
+              weekboekingen                   110                       280                    120
+              per week
+              gemiddeld aantal
+              dagboekingen                    700                          0                   728
+              per week
+
+
+
+
+VW-0400-a-25-1-b                              3/9                                     lees verder ►►►
+      Informatiebron 2
+
+            Plattegrond van de camping
+
+
+
+
+VW-0400-a-25-1-b                         4/9   lees verder ►►►
+            Herinrichting van het Toekanveld
+
+                  Het volledige Toekanveld, bestaande uit 60 standplaatsen van elk
+                   120 m2,wordt heringericht tot een terrein met nieuw aan te schaffen
+                   chalets (zie informatiebron 3).
+                  De chaletplaatsen zullen een grootte hebben van 180 m2, waardoor er
+                   minder chalets op het Toekanveld kunnen worden geplaatst dan het
+                   huidige aantal standplaatsen.
+                  Er worden alleen chalets aangeschaft van het type uit
+                   informatiebron 3.
+
+            Wat is er anders aan het Toekanveld na het herinrichten?
+
+                  De chalets kunnen alleen per dag worden gehuurd voor € 160 per dag
+                   exclusief 9% btw. Dit geldt voor alle periodes in het jaar. Deze € 160 is
+                   inclusief alle bijkomende kosten zoals gas/water/licht en
+                   reserveringskosten, maar exclusief de verplichte eindschoonmaak van
+                   € 80 per verhuurperiode.
+                  Na elke verhuurperiode zal er een eindschoonmaak plaatsvinden,
+                   waar een schoonmaker 40 minuten over doet.
+                  Er wordt voor het huren van een chalet geen ‘vroegboekkorting’
+                   gegeven.
+                  Flohr en Femke gaan voor de chalets uit van een bezettingsgraad van
+                   90% in alle 26 weken dat Vogelhof open is in 2025.
+                  De verhuurperiode van de chalets is gemiddeld 4 dagen per keer.
+
+            Financieringplan van de chalets en inventaris
+
+            Het herinrichten van het Toekanveld, de aanschaf van de chalets en de
+            inventaris worden als volgt gefinancierd:
+             voor 40% met reeds aanwezige liquide middelen
+             voor 60% met een lening bij de oom van Flohr als wordt voldaan aan
+                de voorwaarden (zie informatiebron 4).
+            De btw wordt niet meegefinancierd.
+
+            Personeel
+
+            Flohr en Femke hebben twee zzp’ers gevonden die in 2025 op de
+            camping willen komen werken, voor maximaal 28 uur per persoon per
+            week. Ze kunnen op elk moment van de week worden ingezet.
+            Vogelhof betaalt de zzp’ers € 25 per gewerkt uur.
+
+
+
+
+VW-0400-a-25-1-b                                5/9                               lees verder ►►►
+      Informatiebron 3
+
+            De aan te schaffen chalets
+
+            chalet type Home Sweet Home
+
+
+
+
+            De aanschafprijs exclusief transport en installatiekosten van een chalet
+            bedraagt € 63.500 exclusief 21% btw.
+
+            Voor het bepalen van de afschrijvingskosten van een chalet is verder van
+            belang:
+             transport en installatiekosten:    € 5.500 exclusief 21% btw
+             restwaarde:                        € 3.000 exclusief 21% btw
+             levensduur:                        15 jaar
+             aanschafdatum:                     1 januari 2025
+             afschrijving:                      lineair
+
+            De aanschafprijs van de inventaris van een chalet bedraagt € 6.000
+            exclusief 21% btw:
+             levensduur:                        15 jaar
+             restwaarde:                        0
+             aanschafdatum:                     1 januari 2025
+             afschrijving:                      lineair
+
+
+
+
+VW-0400-a-25-1-b                            6/9                               lees verder ►►►
+      Informatiebron 4
+
+            De lening bij de oom van Flohr
+
+            De voorwaarden van de lening bij de oom van Flohr zijn:
+             een lening van maximaal € 2 miljoen
+             ingangsdatum: 1 januari 2025
+             looptijd: 15 jaar
+             aflossing: lineair, halfjaarlijks op 30 juni en 31 december
+             interestpercentage: 6% per jaar
+             interestbetaling: halfjaarlijks achteraf op 30 juni en 31 december
+
+
+
+
+VW-0400-a-25-1-b                            7/9                              lees verder ►►►
+      Informatiebron 5
+
+            Balansgegevens Air France-KLM (getallen x € 1 miljoen)
+
+                                         30 september 2022      31 december 2021
+              Vaste activa                           20.898                 19.954
+
+
+              Vlottende activa                       13.665                 10.729
+              waarvan liquide middelen                 8.264                 6.658
+              waarvan overig                           5.401                 4.071
+
+
+              Eigen vermogen                        -/- 2.797             -/- 3.816
+              waarvan geplaatst
+              aandelenkapitaal                         2.571                    643
+              waarvan overig                       -/- 5.368              -/- 4.459
+
+
+              Lang vreemd vermogen                   22.775                 22.773
+              waarvan rentedragende
+              verplichtingen                         10.659                 11.274
+              waarvan overig en
+              leaseverplichtingen                    12.116                 11.499
+
+
+              Kort vreemd vermogen                   14.585                 11.726
+              waarvan rentedragende
+              verplichtingen                           1.074                 1.215
+              waarvan overig en
+              leaseverplichtingen                    13.511                 10.511
+
+
+
+
+VW-0400-a-25-1-b                          8/9                          lees verder ►►►
+      Informatiebron 6
+
+            Gegevens betreffende de eigendomsverhouding en de uitgifte van de
+            converteerbare obligatielening
+
+            Aandeelhouders Air France-KLM
+
+            Aandeelhouders van Air France-KLM met hun aandelenbelang als
+            percentage van het totale aantal uitstaande aandelen van 625 miljoen op
+            17 november 2022:
+
+              Franse staat                                                          28,6%
+              Nederlandse staat                                                       9,3%
+              containerbedrijf CMA CGM                                                9,0%
+              Delta Airlines                                                          2,9%
+              China Eastern Airlines                                                  4,7%
+              medewerkers van Air France-KLM                                          1,2%
+              overig                                                                43,4%
+                                                                                   100,0%
+
+            De converteerbare obligatielening op 17 november 2022
+
+            Er zijn 3.000 converteerbare obligaties met een nominale waarde van
+            € 100.000 per stuk geëmitteerd. De opbrengst van de totale emissie
+            bedraagt € 305,6 miljoen.
+
+            De eerste 3 jaar bedraagt de enkelvoudige interest op de converteerbare
+            obligaties 6,5% per jaar. Daarna is de enkelvoudige interest gelijk aan de
+            marktinterest plus een opslag van 1,3 procentpunt.
+            De looptijd van de converteerbare obligatielening is 10 jaar. Het
+            conversierecht geldt gedurende de gehele looptijd.
+
+
+
+
+VW-0400-a-25-1-b                            9/9                               lees verdereinde
+                                                                                           ►►► 
+

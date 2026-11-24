@@ -1,0 +1,498 @@
+                                                                   Examen VWO
+
+                                                                       2022
+                                                                              tijdvak 1
+                                                                       dinsdag 17 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                              bedrijfseconomie
+
+
+
+
+Bij dit examen horen een bijlage en een uitwerkbijlage.
+
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 30 vragen.
+Voor dit examen zijn maximaal 63 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening gevraagd wordt, worden aan
+het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-0400-a-22-1-o
+      Opgave 1
+
+            In deze opgave blijft de btw buiten beschouwing.
+
+            Het Hypotheekhuis houdt zich bezig met het geven van
+            hypotheekadviezen. Het heeft een hoofdkantoor en meerdere kantoren
+            verspreid over het land. Een ervan staat in de Drentse plaats Hypoveen.
+            Het kantoor in Hypoveen richt zich vooral op starters op de woningmarkt
+            en biedt twee diensten aan:
+             een basic hypotheekadvies: een advies plus bemiddeling bij een
+               verstrekker van een hypothecaire lening.
+             een comfort hypotheekadvies: het basic hypotheekadvies plus het
+               regelen van alle gegevens die nodig zijn voor de notaris.
+            Op het kantoor in Hypoveen werken vijf hypotheekadviseurs.
+
+            Voorcalculatie 2021
+
+            Ten behoeve van de voorcalculatie over 2021 heeft het hoofdkantoor de
+            volgende toegestane kosten vastgesteld voor het kantoor in Hypoveen:
+
+              constante kosten
+              huisvesting en kantoorkosten                     €   89.600 per jaar
+              loonkosten van alle medewerkers                  € 490.000 per jaar
+              variabele kosten
+              afdracht voor kosten aan hoofdkantoor            €     150 per advies
+
+            Van het hoofdkantoor mogen de adviseurs niet per uitgebracht advies
+            worden betaald, maar krijgen zij een vast salaris per maand.
+
+2p    1     Geef voor deze salarisregeling een argument. Licht het antwoord toe.
+
+            Op het kantoor in Hypoveen wordt 46 weken per jaar gewerkt. Een
+            fulltime-werkweek omvat 36 uur. Dit geldt als het normale aantal uren
+            voor een hypotheekadviseur per week. De totale constante kosten worden
+            doorberekend in een uurtarief.
+
+            Het hoofdkantoor heeft het volgende aantal uren arbeid aangegeven voor
+            de berekening van een kostprijs van een advies:
+             De normale arbeidstijd voor één basic hypotheekadvies is 15 uur.
+             De normale arbeidstijd voor één comfort hypotheekadvies is 18 uur.
+
+3p    2     Bereken de kostprijs van elk van de adviezen, basic én comfort.
+
+
+
+
+VW-0400-a-22-1-o                             2 / 13                           lees verder ►►►
+            Nacalculatie 2021
+
+            De klanten hebben de volgende vaste prijzen per hypotheekadvies
+            betaald:
+            basic hypotheekadvies        € 1.400
+            comfort hypotheekadvies      € 1.800
+
+            In verband met de nacalculatie houden alleen de adviseurs hun voor
+            klanten gewerkte uren bij. Voor de rapportage aan het hoofdkantoor zijn
+            de volgende gegevens verzameld:
+
+              verslag kantoor Hypoveen 2021
+              verkochte adviezen:
+              basic                                                      200
+              comfort                                                    300
+              werkelijk door de vijf adviseurs gewerkte uren:
+              basic                                                    3.100 uur
+              comfort                                                  5.100 uur
+              werkelijke constante kosten:
+              huisvesting en kantoorkosten                            85.200 euro
+              loonkosten van alle medewerkers                        503.600 euro
+
+2p    3     Bereken het gerealiseerde verkoopresultaat van het kantoor in Hypoveen
+            over 2021. Geef aan of dit een voordelig/positief/+ of een
+            nadelig/negatief/– resultaat is.
+
+2p    4     Bereken het gerealiseerde bezettingsresultaat op de constante kosten van
+            het kantoor in Hypoveen over 2021. Geef aan of dit een
+            voordelig/positief/+ of een nadelig/negatief/– resultaat is.
+
+
+
+
+VW-0400-a-22-1-o                             3 / 13                         lees verder ►►►
+      Opgave 2
+
+            Bij deze opgave horen de informatiebronnen 1 tot en met 5.
+
+            In deze opgave blijft de btw buiten beschouwing.
+
+            Selma, Idris en Marijke zijn drie
+            studenten van de opleidingen
+            Bedrijfskunde en Food Business aan de
+            HAS Hogeschool in Den Bosch. Ze
+            besluiten begin 2021 om als
+            studieopdracht een businessplan te
+            maken voor een bezorgdienst van
+            supermarktproducten.
+
+            Ze willen samenwerken met de Bossche
+            supermarktketen Noor én met de gemeente Den Bosch. Voor supermarkt
+            Noor willen ze op commerciële basis producten aan de klanten van
+            supermarkt Noor bezorgen en voor de gemeente willen ze steun bieden
+            aan kwetsbare burgers die niet zelf boodschappen kunnen doen. Ze
+            hebben twee opbrengsten:
+             Van supermarkt Noor en de klanten van supermarkt Noor zullen ze
+               een vergoeding ontvangen voor het bezorgen van boodschappen.
+             Van de gemeente verwachten ze subsidie voor de geboden steun aan
+               kwetsbare Bosschenaren.
+
+            Ze noemen de bezorgdienst Hiero bv, met Selma, Idris en Marijke als
+            aandeelhouders.
+
+            Marketingplan
+            Om te beginnen stellen ze hun bedrijfsmodel op (zie informatiebron 1).
+
+            Hiero kiest voor gedifferentieerde marketing.
+
+3p    5     Hoe blijkt uit informatiebron 1 dat Hiero kiest voor gedifferentieerde
+            marketing? Licht het antwoord toe met twee P’s van de marketingmix.
+
+            Financieel plan
+
+            In overleg met de gemeente en hun studiebegeleider richt Hiero zich in
+            eerste instantie op twee wijken: West en Engelen (zie informatiebron 2) .
+
+            Het doel van de gemeentelijke subsidie is om kwetsbare burgers zoals
+            65-plussers te ondersteunen.
+
+
+
+
+VW-0400-a-22-1-o                            4 / 13                           lees verder ►►►
+            Hiero zou door die subsidie een prikkel moeten krijgen om zich meer te
+            richten op de wijk West waar de meeste ouderen wonen. Selma is blij met
+            de subsidie, maar vindt dat het bezorgen in de wijk Engelen
+            aantrekkelijker is dan in West, ondanks dat het percentage 65-plussers in
+            West hoger is.
+
+2p    6     Ondersteun de bewering van Selma met behulp van twee argumenten uit
+            informatiebron 2.
+
+3p    7     Bereken met behulp van informatiebron 2 de verwachte wekelijkse
+            opbrengst in de periode van 1 april 2021 tot en met 31 maart 2022.
+            Vul hiervoor de uitwerkbijlage bij deze vraag in.
+
+            Vervolgens verkennen de oprichters van Hiero de benodigde
+            investeringen en de bijbehorende financiering (zie informatiebron 3).
+
+3p    8     Stel voor Hiero de openingsbalans per 1 april 2021 op.
+            Vul hiervoor de uitwerkbijlage bij deze vraag in.
+
+            Exploitatiebegroting
+
+            Na de openingsbalans wordt voor Hiero een exploitatiebegroting gemaakt.
+            Het boekjaar loopt van 1 april 2021 tot en met 31 maart 2022.
+            In informatiebron 4 staan gegevens die nodig zijn voor de berekening van
+            de verwachte kosten van de Goupils.
+
+1p    9     Bereken de verwachte jaarlijkse totale afschrijvingskosten als gevolg van
+            de aanschaf van de elektrische Goupils.
+
+2p   10     Bereken de verwachte jaarlijkse totale variabele kosten van beide
+            elektrische Goupils.
+
+            In informatiebron 5 staan de overige gegevens die nodig zijn voor het
+            opstellen van de exploitatiebegroting.
+
+4p   11     Stel voor Hiero de exploitatiebegroting op over het boekjaar van
+            1 april 2021 tot en met 31 maart 2022.
+            Vul hiervoor de uitwerkbijlage bij deze vraag in.
+
+            Bij de nabespreking met de begeleider zijn Selma, Idris en Marijke heel
+            tevreden met het verwachte resultaat voor belasting: “Deel het verwachte
+            resultaat voor belasting door drie, dan zou ieder van ons een mooi bruto-
+            inkomen krijgen; het is een goed winstgevend bedrijfsmodel.”
+            De begeleider vertelt dat het verwachte resultaat voor belasting niet hun
+            inkomen is.
+
+2p   12     Onderbouw met twee argumenten de opvatting van de begeleider.
+
+
+VW-0400-a-22-1-o                            5 / 13                             lees verder ►►►
+      Opgave 3
+
+            Sibel heeft een deel van haar spaargeld belegd in aandelen Swatch. Dit
+            geeft een risico. Daarom heeft ze het risico op koersdaling afgedekt door
+            te beleggen in opties Swatch met aandelen Swatch als onderliggende
+            waarde.
+
+1p   13     Noem een andere vermogenstitel waarin kan worden belegd, naast
+            aandelen en opties.
+
+            Risicobeperking
+
+            Om zich in te dekken tegen een mogelijk verlies door daling van de
+            beurskoers van de gekochte aandelen Swatch, heeft Sibel dit risico
+            afgedekt door het kopen van …(a)… . Hiermee heeft Sibel een …(b)…
+            tegenover haar aandelen ingenomen. Het afdekken van dit risico wordt
+            …(c)… genoemd.
+
+3p   14     Geef aan wat er bij (a), (b) en (c) moet komen te staan.
+            Kies
+            bij (a) uit call–opties / put–opties
+            bij (b) uit shortpositie / longpositie
+            en vul bij (c) het juiste begrip in.
+
+
+
+
+            In de grafiek kan het rendement van de belegging in de door Sibel
+            gekochte opties worden afgelezen. Dit rendement is afhankelijk van de
+            beurskoers van het onderliggende aandeel Swatch op het moment van
+            het al dan niet gebruikmaken van het uitoefenrecht.
+
+
+
+
+VW-0400-a-22-1-o                            6 / 13                           lees verder ►►►
+            De optie heeft een uitoefenprijs van …(d)… en een optiepremie per
+            onderliggend aandeel van …(e).
+
+2p   15     Welke bedragen moeten er bij (d) en (e) worden ingevuld? Motiveer de
+            antwoorden.
+
+            Op 1 januari 2022 koopt Sibel de 200 aandelen Swatch voor de dan
+            geldende beurskoers van € 14,75 en tevens 2 opties (zie vraag 14a) van
+            elk 100 onderliggende aandelen voor de bij vraag 15 bepaalde
+            uitoefenprijs en optiepremie. Op de expiratiedatum is de beurskoers van
+            het aandeel Swatch € 16,20. Sibel maakt op dat moment van het
+            uitoefenrecht van de optie gebruik.
+            Bij het bepalen van het rendement wordt een eventuele dividenduitkering
+            buiten beschouwing gelaten.
+
+2p   16     Bereken het rendement in procenten dat Sibel behaalt met haar
+            beleggingen. Geef aan of het een voordelig/positief /+ of een nadelig/
+            negatief/– rendement betreft.
+
+
+
+
+VW-0400-a-22-1-o                            7 / 13                            lees verder ►►►
+      Opgave 4
+
+            Bij deze opgave hoort informatiebron 6.
+
+            Henk Verhaas is 80 jaar oud. Vanwege zijn leeftijd vindt hij het tijd om
+            over zijn nalatenschap na te denken.
+            Henks stamboom is hieronder weergegeven ( † betekent overleden):
+
+
+
+
+1p   17     Indien Henk Verhaas geen testament heeft laten opmaken, wie zijn dan
+            de erfgenamen van Henk Verhaas? Noteer de letter(s) van het/de juiste
+            antwoord(en).
+            a Willem
+            b Frederik
+            c Sander
+            d Willemijn
+            e Linda
+
+            Henk wil zijn zoon Sander een bedrag van € 80.000 geven. Sander wil dit
+            geld beleggen. Het bedrag van € 80.000 kan in de vorm van een
+            schenking op 1 januari 2022, maar dit kan ook door een testament op te
+            stellen en hierin op te nemen dat Henk bij zijn overlijden (een deel van) de
+            erfenis aan Sander nalaat. Sander geeft aan dat bij een schenking minder
+            belasting betaald hoeft te worden dan wanneer hij het geld krijgt uit de
+            erfenis.
+
+2p   18     Leg zonder berekening uit of Sanders redenering klopt
+            (zie informatiebron 6).
+
+
+
+
+VW-0400-a-22-1-o                            8 / 13                             lees verder ►►►
+            Omdat Sander dit bedrag wil gebruiken om te beleggen, wordt in
+            onderling overleg besloten dat Henk deze € 80.000 aan Sander schenkt.
+            Henk geeft Sander 2 keuzes:
+
+            keuze 1: dit bedrag in één keer ontvangen op 1 januari 2022, of
+            keuze 2: dit bedrag gelijkmatig verspreid over meerdere jaren ontvangen.
+
+1p   19     Waarom is het voor Sander fiscaal aantrekkelijker om dit bedrag over
+            meerdere jaren te ontvangen?
+
+            Naast de fiscale gevolgen zijn er ook andere financiële gevolgen van deze
+            twee keuzes. Sander berekent welke van de twee keuzes voor hem
+            financieel het aantrekkelijkst is. Hierbij gaat hij uit van onderstaande
+            gegevens bij keuze 2:
+             De € 80.000 wordt in 10 gelijke jaarlijkse bedragen op 1 januari aan
+                Sander overgemaakt, voor het eerst op 1 januari 2022.
+             Sander zal de toekomstige schenkingen na aftrek van
+                schenkbelasting, contant maken tegen 8% interest. De
+                schenkbelasting wordt ook altijd op de dag van ontvangst van de
+                schenking betaald.
+
+3p   20     Toon aan, met behulp van het berekenen van de contante waarde per
+            1 januari 2022 van de schenkingen na belasting, dat keuze 1 voor Sander
+            financieel aantrekkelijker is dan keuze 2 (zie formuleblad).
+
+            Henk overlijdt in 2022. De erfenis van Henk bedraagt € 200.000. Een
+            schenking wordt juridisch beschouwd als een vooruitontvangen erfenis.
+
+1p   21     Op welk bedrag kan Sander na Henks overlijden aanspraak maken als
+            erfgenaam? Noteer de letter van het juiste antwoord.
+            a €0
+            b € 20.000
+            c € 50.000
+            d € 100.000
+            Motiveer het antwoord met een berekening.
+
+
+
+
+VW-0400-a-22-1-o                           9 / 13                           lees verder ►►►
+      Opgave 5
+
+            Bij deze opgave horen de informatiebronnen 7 en 8.
+
+            In deze opgave blijft de btw buiten
+            beschouwing.
+
+            Paul en Osman studeren Financial
+            Control aan de Hogeschool van
+            Haarlem. Ze financieren hun studie
+            onder andere door op vrije dagdelen
+            bij een aantal bekenden het gras te
+            maaien en ramen te zemen. De laatste
+            tijd krijgen ze via deze bekenden meer
+            aanvragen om dergelijke kleine klusjes uit te voeren.
+
+            Startup Klusstudent
+
+            Eind 2021 vragen Paul en Osman zich af of ze de vraag naar de
+            uitvoering van dergelijke klusjes, waar geen scholing voor nodig is,
+            kunnen omzetten naar een winstgevende startup. Ze hebben het idee om
+            met ingang van 1 januari 2022 een digitaal platform in de vorm van een
+            app te introduceren waar de vraag naar en het aanbod van klussen
+            kunnen samenkomen (zie informatiebron 7). Ze gaan daarom de
+            haalbaarheid van dit plan onderzoeken.
+
+            Het gebruik van de app van Klusstudent levert voor degene die de klus
+            plaatst klantwaarde op. Klantwaarde heeft twee kanten: een
+            ‘opbrengstenkant’ en een ‘kostenkant’.
+
+2p   22     Beschrijf de klantwaarde die de app van Klusstudent genereert voor de
+            plaatsers van de klussen. Geef hiervoor een voorbeeld van een
+            ‘opbrengst’ en een ‘kostenpost’ die de app met zich meebrengt.
+
+            Paul maakt zich vooral zorgen of Klusstudent over 2022 een positief
+            resultaat zal behalen. Osman maakt zich met name zorgen over de
+            cashflow na belastingen van Klusstudent.
+
+            Paul en Osman maken een overzicht van de verwachte opbrengsten en
+            kosten in 2022 van hun platform (zie informatiebron 8).
+
+            Resultaat
+
+3p   23     Toon met behulp van de break-evenafzet over 2022 aan dat het
+            verwachte resultaat over 2022 voor Klusstudent positief is.
+            Vul hiervoor de uitwerkbijlage bij deze vraag in.
+
+
+
+VW-0400-a-22-1-o                            10 / 13                         lees verder ►►►
+            Ondanks het verwachte (geringe) positieve resultaat over 2022 heeft met
+            name Paul zorgen over de samenstelling van de kosten: een groot
+            gedeelte van de kosten bestaat uit constante kosten. Hierdoor is het
+            bedrijfsrisico groot. Onder bedrijfsrisico wordt verstaan: de mate waarin
+            een afzetverandering gevolgen heeft voor het resultaat.
+
+2p   24     Leg uit dat het hebben van relatief veel constante kosten in verhouding tot
+            variabele kosten het bedrijfsrisico vergroot. Betrek in het antwoord zowel
+            de constante kosten als de variabele kosten.
+
+            Om het bedrijfsrisico te verlagen, willen Paul en Osman een aantal zaken
+            in hun kostenstructuur aanpakken. Ze hebben maatregelen bedacht
+            waarmee ze het bedrijfsrisico zouden kunnen verlagen. Een van de
+            maatregelen is gericht op het verlagen van de afschrijvingskosten.
+
+            De jaarlijkse afschrijvingskosten zullen verlaagd worden bij een …..a ….
+            van de restwaarde en/of bij een … b… van de afschrijvingstermijn.
+
+1p   25     Wat moet worden ingevuld bij a en b om te komen tot een
+            bedrijfseconomisch juiste zin?
+            a. verlaging / verhoging
+            b. verkorting / verlenging
+
+            Osman geeft aan dat door de afschrijvingskosten te verlagen het
+            bedrijfsrisico weliswaar daalt, maar vraagt zich af welke gevolgen dit heeft
+            voor de cashflow na belastingen van Klusstudent.
+            Cashflow na belastingen = resultaat na belasting + afschrijvingskosten.
+
+2p   26     Leg uit welk gevolg het verlagen van de afschrijvingskosten heeft voor de
+            cashflow na belastingen van Klusstudent. Motiveer het antwoord.
+
+            Paul en Osman besluiten tot oprichting van Klusstudent vof
+            (vennootschap onder firma). In het vof-contract van Klusstudent staat de
+            regeling met betrekking tot de verdeling van het resultaat. Volgens de
+            Belastingdienst moet deze verdeling van het resultaat gebeuren op
+            zakelijke gronden, waarbij er rekening wordt gehouden met ieders
+            inbreng, bijvoorbeeld het ingebrachte vermogen van Paul en Osman.
+
+2p   27     Geef twee andere vormen van zakelijke inbreng, waarop de verdeling van
+            het resultaat gegrond kan zijn.
+
+
+
+
+VW-0400-a-22-1-o                            11 / 13                            lees verder ►►►
+      Opgave 6
+
+            In deze opgave blijven belastingen buiten beschouwing.
+
+            Van hotelketen Schaeffer nv zijn onderstaande financiële gegevens
+            bekend:
+
+ debet                       Balans Schaeffer (getallen x € 1.000)                    credit
+                   31 december 1 januari                         31 december       1 januari
+                          2021     2021                                 2021           2021
+ Vaste
+ activa                    2.600      2.400 Aandelenkapitaal            1.500         1.500
+ Vlottende
+ activa                    1.350      1.100 Reserves                      600            500
+                                              Resultaat over
+                                              2021                        400
+                                              4% Onderhandse
+                                              lening                      700            800
+                                              Crediteuren                 600            600
+                                              Vooruitontvangen
+                                              bedragen                    150            100
+                           3.950      3.500                             3.950         3.500
+
+                  Op de onderhandse lening is op 1 april 2021 afgelost.
+                  Bij alle andere balansposten hebben veranderingen gelijkmatig
+                   verspreid over het jaar plaatsgevonden.
+                  De totale interestkosten over 2021 waren € 29.000.
+
+            De interest vreemd vermogen (IVV) over 2021 van Schaeffer is 2%.
+
+3p   28     Toon met behulp van de berekening van de RTV over 2021 van Schaeffer
+            aan dat bij Schaeffer in 2021 sprake moet zijn geweest van een positief
+            hefboomeffect.
+
+2p   29     Leg uit dat de hoogte van de IVV wordt beïnvloed door de hoogte van de
+            hefboomfactor.
+
+
+
+
+VW-0400-a-22-1-o                              12 / 13                           lees verder ►►►
+            Het werkelijk betaalde interesttarief over de onderhandse lening over
+            2021 is 4%. De IVV is echter 2%.
+
+1p   30     Geef een verklaring voor dit verschil en verwijs hierbij naar de
+            samenstelling van het vreemd vermogen van Schaeffer.
+
+
+
+
+VW-0400-a-22-1-o                            13 / 13                            lees verdereinde
+                                                                                            ►►► 
+

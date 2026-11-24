@@ -1,0 +1,256 @@
+                       Bijlage VWO
+
+                         2022
+                             tijdvak 3
+
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-22-3-b
+      Formuleblad
+
+            Voor beantwoording van vraag 22 is de volgende formule beschikbaar.
+
+     22
+            somformule meetkundige reeks:
+
+                   rn - 1
+            S=ax
+                    r-1
+
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-22-3-b                            2/8                          lees verder ►►►
+      Informatiebron 1
+
+            Ontslagen bij Biohuis
+
+            Naar schatting zal er per 1 april 2022 voor in totaal 15,0 fte1) aan banen
+            verdwijnen, gelijkmatig verdeeld over 5 leeftijdsklassen. Dit zal in twee
+            fasen gaan gebeuren:
+
+                  fase 1 vrijwillig ontslag: werknemers mogen vrijwillig ontslag nemen.
+                   Dit dienen ze aan te geven voor 1 januari 2022. Werknemers die
+                   hiervoor kiezen, ontvangen een beëindigingsvergoeding van € 15.000
+                   op basis van 1,0 fte. Werknemers met een kleiner dienstverband
+                   ontvangen een bedrag naar rato van hun dienstomvang. Per
+                   leeftijdsklasse mag er maximaal voor 3,0 fte aan vrijwillig ontslag
+                   worden genomen.
+
+                  fase 2 gedwongen ontslag: indien in fase 1 in een leeftijdsklasse
+                   minder dan 3,0 fte aan vrijwillig ontslag wordt ingediend, worden
+                   werknemers die in een leeftijdsklasse als laatste zijn aangenomen als
+                   eerste ontslagen, totdat de 3,0 fte binnen de leeftijdsklasse is bereikt.
+                   Deze werknemers ontvangen dan de wettelijke transitievergoeding.
+
+    noot 1 fte = fulltime-equivalent = 40 uur per week
+
+
+
+
+VW-0400-a-22-3-b                                 3/8                               lees verder ►►►
+      Informatiebron 2
+
+            Beëindigingsovereenkomst dienstverband
+
+                      Gegevens werkgever                      Gegevens werknemer
+            Naam:     Biohuis nv                              Lot Kienstra
+            Adres:    Hanshorst 17                            Heuvelland 60b
+                      5246 ZM Meentbergen                     5247 KK Driehoven
+
+            De werkgever wordt vertegenwoordigd door Ron de Both.
+
+            De werknemer werkt op basis van een arbeidsovereenkomst van
+            24 uur per week als verkoopmedewerker bij de werkgever. Het brutoloon
+            is € 1.320 per maand, exclusief 8% vakantiegeld en exclusief provisie.
+
+            De arbeidsovereenkomst tussen werkgever en werknemer wordt met
+            wederzijds goedvinden beëindigd met ingang van 1 april 2022.
+
+            Tot aan 1 april 2022 hoeft de werknemer zijn werk niet meer te verrichten.
+            Tevens is het niet toegestaan tot deze datum contact met klanten te
+            hebben in welke vorm dan ook.
+
+            Aan de werknemer wordt een beëindigingsvergoeding toegekend van
+            € 15.000 op basis van 1,0 fte, welke op 24 april 2022 aan de werknemer
+            zal worden uitbetaald.
+
+            Na ondertekening kan de werknemer binnen 14 dagen en zonder opgave
+            van redenen alsnog afzien van de overeenkomst, middels een schriftelijke
+            brief aan de werkgever.
+
+            Ondertekening
+
+            Plaats:                                     Plaats:
+
+            Datum:                                      Datum:
+
+            Handtekening werkgever:                     Handtekening werknemer:
+
+            Ron de Both                                 Lot Kienstra
+
+
+
+
+VW-0400-a-22-3-b                            4/8                              lees verder ►►►
+      Informatiebron 3
+
+            Basisloon- en provisieregeling Biohuis afdeling ‘verkoop’
+
+            Het binnenhalen van orders voor de afzet van bioblokken wordt gedaan
+            door:
+             Lot Kienstra, gedurende 24 uur per week
+             Stephan van der Wiel, gedurende 36 uur per week
+
+            Basisloon
+
+            Beide werknemers hebben een salaris van € 2.200 bruto per maand op
+            basis van een 40-urige werkweek. Dit bedrag is exclusief 8%
+            vakantiegeld.
+
+            Provisie
+
+            Beide werknemers krijgen gezamenlijk een maandelijkse provisie. Deze
+            wordt onderling verdeeld, naar rato van het aantal gewerkte uren per
+            week. De provisie wordt berekend over de maand waarin de bioblokken
+            worden geleverd aan de bouwbedrijven.
+
+            Maandelijkse provisie =
+            2,5% x (omzet over een maand – totale variabele kosten (exclusief
+            provisiekosten) over die maand)
+
+            Over deze provisie wordt 8% vakantiegeld betaald.
+
+            Om de provisie uit te rekenen zijn de gegevens uit informatiebron 4 nodig.
+
+
+
+
+VW-0400-a-22-3-b                            5/8                              lees verder ►►►
+      Informatiebron 4
+
+            De kosten van Biohuis
+
+
+
+
+            Extra informatie
+
+                  Biohuis is voorzichtig wegens recente financiële tegenvallers bij
+                   klanten en rekent daarom omzet en kosten toe aan de maand waarin
+                   de orders worden afgeleverd: dit is altijd 6 maanden na het
+                   binnenhalen van een order.
+                  De afgeleverde orders zijn gelijkmatig over een half jaar verdeeld.
+                  De kosten in de eerste helft van 2022 zijn geprognosticeerd op basis
+                   van de af te leveren orders.
+
+
+
+
+VW-0400-a-22-3-b                               6/8                              lees verder ►►►
+      Informatiebron 5
+
+            Transitievergoeding
+
+            De te ontvangen transitievergoeding wordt bepaald op basis van:
+             basisloon per maand inclusief provisie
+             periode in dienst
+
+            Transitievergoeding in euro’s
+
+                                    basisloon per maand inclusief provisie in €
+                                    minder       3.000   4.000    5.000    6.000    meer
+                                    dan 3.000    tot     tot      tot      tot      dan
+                                                 4.000   5.000    6.000    7.000    7.000
+                        1 maand         4.236    5.931    7.625    9.319   11.014   12.708
+                        2 maanden       4.306    6.028    7.750    9.472   11.194   12.917
+                        3 maanden       4.375    6.125    7.875    9.625   11.375   13.125
+                        4 maanden       4.444    6.222    8.000    9.778   11.556   13.333
+                        5 maanden       4.514    6.319    8.125    9.931   11.736   13.542
+                        6 maanden       4.583    6.417    8.250   10.083   11.917   13.750
+              5 jaar
+                        7 maanden       4.653    6.514    8.375   10.236   12.097   13.958
+                        8 maanden       4.722    6.611    8.500   10.389   12.278   14.167
+                        9 maanden       4.792    6.708    8.625   10.542   12.458   14.375
+                       10 maanden       4.861    6.806    8.750   10.694   12.639   14.583
+                       11 maanden       4.931    6.903    8.875   10.847   12.819   14.792
+ periode
+                       12 maanden       5.000    7.000    9.000   11.000   13.000   15.000
+ in
+                        1 maand         5.069    7.097    9.125   11.153   13.181   15.208
+ dienst
+                        2 maanden       5.139    7.194    9.250   11.306   13.361   15.417
+                        3 maanden       5.208    7.292    9.375   11.458   13.542   15.625
+                        4 maanden       5.278    7.389    9.500   11.611   13.722   15.833
+                        5 maanden       5.347    7.486    9.625   11.764   13.903   16.042
+                        6 maanden       5.417    7.583    9.750   11.917   14.083   16.250
+              6 jaar
+                        7 maanden       5.486    7.681    9.875   12.069   14.264   16.458
+                        8 maanden       5.556    7.778   10.000   12.222   14.444   16.667
+                        9 maanden       .5.625   7.875   10.125   12.375   14.625   16.875
+                       10 maanden       5.694    7.972   10.250   12.528   14.806   17.083
+                       11 maanden       5.764    8.069   10.375   12.681   14.986   17.292
+                       12 maanden       5.833    8.167   10.500   12.833   15.167   17.500
+
+
+
+
+VW-0400-a-22-3-b                             7/8                               lees verder ►►►
+      Informatiebron 6
+
+            Balansen en winst- en verliesrekening J.Bos Schilderwerken
+
+            Op de balans heeft Jan het eigen vermogen van de eenmanszaak
+            gesplitst in drie delen: het door hemzelf ingebrachte vermogen, Reserves
+            en Resultaat.
+
+ debet                             Balans vóór winstverdeling J. Bos               credit
+                                            Schilderwerken
+                                    per 31 december (getallen x € 1)
+                           2021        2020                              2021        2020
+ Werkplaats             238.000 230.000 Vermogen Jan Bos               65.000     65.000
+ Transportmiddelen        70.000     90.000 Reserves                   150.000   125.000
+ Gereedschappen          46.000      40.000 Resultaat                  120.000   110.000
+ Materialen               17.000     15.000   Voorzieningen             31.000    21.000
+                                            4% hypothecaire
+ Debiteuren                2.000      3.000 lening                     120.000   120.000
+ Liquide middelen       135.000      78.000 Crediteuren                 22.000    15.000
+                        508.000 456.000                                508.000   456.000
+
+
+
+ kosten                             Winst- en verliesrekening J. Bos       opbrengsten
+                                       Schilderwerken over 2021
+                                             (getallen x € 1)
+ inkoopwaarde gebruikte                             omzet
+ materialen                            240.000                                   900.000
+ loonkosten                            420.000
+ diverse kosten                         81.200
+ afschrijvingskosten                    34.000
+ interestkosten                          4.800
+ resultaat                             120.000
+                                       900.000                                   900.000
+
+
+
+
+VW-0400-a-22-3-b                              8/8                            lees verdereinde
+                                                                                          ►►► 
+

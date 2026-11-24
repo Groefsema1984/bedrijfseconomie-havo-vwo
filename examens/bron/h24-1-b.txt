@@ -1,0 +1,239 @@
+                      Bijlage HAVO
+
+                         2024
+                              tijdvak 1
+
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+HA-0400-a-24-1-b
+      Informatiebron 1
+
+            Hoe werkt een energiebedrijf?
+
+            Een energiebedrijf levert energie bestaande uit stroom (gemeten in
+            kilowattuur, kWh) en gas (gemeten in kubieke meter, m3) aan
+            huishoudens. De prijzen die huishoudens hiervoor betalen zijn afhankelijk
+            van het soort contract dat wordt afgesloten. De energiebedrijven
+            produceren de energie niet zelf, zij kopen die in op de energiemarkt
+            waarop de prijzen maandelijks wisselen.
+
+            Ontvangsten van Welkom Energie
+
+            Welkom Energie levert stroom en gas aan huishoudens.
+            Er zijn twee soorten contracten:
+             Variabel contract: de prijs per eenheid energie die klanten betalen
+                wordt elk half jaar aangepast aan de ontwikkelingen op de
+                energiemarkt. Als de inkoopprijs voor Welkom Energie stijgt, dan gaat
+                het voorschot dat klanten maandelijks moeten betalen ook omhoog.
+                Daalt de inkoopprijs, dan gaat het maandelijkse voorschot voor
+                klanten ook omlaag.
+             Vast contract voor 1 jaar: de prijs die klanten betalen staat voor 1 jaar
+                vast. De prijs wordt vastgesteld op de dag dat het contract wordt
+                afgesloten. Alle klanten van Welkom Energie met een vast contract
+                hebben het contract afgesloten op 1 januari 2021.
+             Alle klanten (zowel met vast als met variabel contract) betalen een
+                maandelijks voorschot.
+
+            Berekening maandelijks voorschot:
+            1 De klanten schatten in hoeveel energie zij in een jaar gebruiken.
+            2 De hoeveelheid energie wordt vermenigvuldigd met de prijzen van
+               stroom en gas (afhankelijk van het soort contract).
+            3 Dit totaal wordt gedeeld door 12. Dit is het maandelijkse voorschot.
+
+            Aan het eind van het jaar komt de eindafrekening. Dan wordt het
+            werkelijke verbruik verrekend met het geschatte verbruik en moet de klant
+            bijbetalen (indien meer verbruikt dan geschat) of krijgt de klant geld terug
+            (indien minder verbruikt dan geschat).
+
+
+
+
+HA-0400-a-24-1-b                             2/8                               lees verder ►►►
+   Gegevens van Welkom Energie ten behoeve van het uitrekenen van de totale
+                ontvangsten uit voorschotten in oktober 2021
+                     verkoopprijs      verkoopprijs        totale    totale
+                      stroom per               gas     verwachte verwachte
+                            kWh             per m3    verbruik in  verbruik
+                                                      aantal kWh  in aantal
+                                                         per jaar    m3 per
+                                                                       jaar
+ variabel contract     € 0,48           € 1,50        1.000.000     500.000
+ vast contract         € 0,25           € 0,80        3.000.000   1.200.000
+
+
+
+
+HA-0400-a-24-1-b                     3/8                          lees verder ►►►
+      Informatiebron 2
+
+            Inkoop energie
+
+            De uitgaven aan inkoop van energie van Welkom Energie zijn niet
+            gelijkmatig over het jaar verspreid. Dat komt doordat het verbruik van
+            huishoudens ook niet gelijkmatig over het jaar verdeeld is. In
+            onderstaande tabel staat de verwachting van het cumulatief verbruik van
+            gas en stroom in 2021.
+
+            maand            cumulatief verbruik
+                                in het jaar
+            januari                  16%
+            februari                 30%
+            maart                    42%
+            april                    50%
+            mei                      55%
+            juni                     57%
+            juli                     59%
+            augustus                 61%
+            september                65%
+            oktober                  73%
+            november                 85%
+            december                100%
+
+            De hoeveelheid energie (stroom en gas) die huishoudens in een maand
+            verwachten te verbruiken, wordt in de daaraan voorafgaande maand door
+            Welkom Energie ingekocht tegen de dan geldende inkoopprijzen.
+
+                                 inkoopprijs per maand in 2021
+            maand                    inkoopprijs van          inkoopprijs van gas
+                                     stroom per kWh           per m3
+            september                € 0,21                   € 0,95
+            oktober                  € 0,34                   € 1,20
+            november                 € 0,49                   € 1,50
+
+
+
+
+HA-0400-a-24-1-b                              4/8                          lees verder ►►►
+      Informatiebron 3
+
+ debet             Balans Welkom Energie bv 2021 (getallen x € 1)               credit
+                   30 september    31 oktober             30 september    31 oktober
+ Vaste                                        Eigen
+ Activa                1.750.000    1.750.000 Vermogen         100.000    ……………
+ Vlottende
+ activa
+ exclusief                                    Lang
+ liquide                                      vreemd
+ middelen              2.000.000    2.100.000 vermogen        1.500.000    1.500.000
+                                              Kort
+ Liquide                                      vreemd
+ middelen              1.000.000   (vraag 10) vermogen        3.150.000    2.950.000
+                       4.750.000    …………..                    4.750.000    …………..
+
+
+
+
+HA-0400-a-24-1-b                            5/8                           lees verder ►►►
+      Informatiebron 4
+
+            Functieomschrijving
+
+            De medewerker bediening komt voornamelijk voor in het horecabedrijf.
+            Kenmerkend voor de functie is de dienstverlening in het algemeen en het
+            reageren op verwachtingen en wensen van de gast in het bijzonder.
+
+            resultaatgebieden                taken
+            voorbereiding en bediening          dekken / klaarmaken van tafels
+                                                assisteren bij opbouw van zalen
+                                                 (recepties, feesten)
+                                                aannemen van tafelreserveringen
+            bediening                           ontvangen en placeren van gasten
+                                                opnemen van bestellingen en geven
+                                                 van informatie aan de gasten
+                                                doorgeven van bestellingen aan de
+                                                 keuken
+                                                serveren van gerechten
+            kassa- en                           controleren, afdragen en
+            verantwoordingswerkzaamheden         verantwoorden van ontvangen
+                                                 gelden
+                                                opmaken van de rekening en
+                                                 afrekenen met gasten
+
+
+
+
+HA-0400-a-24-1-b                           6/8                             lees verder ►►►
+      Informatiebron 5
+
+            Enkele paragrafen uit de horeca-cao
+            looptijd: van 1 januari 2022 tot en met 31 december 2023
+
+ 1.23 Normale arbeidstijd          De normale arbeidstijd is 38 uur per week bij een
+                                   voltijdbaan.
+ 1.24 Deeltijd                     Als je minder uren werkt dan de normale arbeidstijd
+                                   (voltijd) is dat deeltijd. In dat geval geldt deze cao voor
+                                   zover mogelijk naar evenredigheid van de
+                                   overeengekomen arbeidsomvang.
+ 4.7 Loon                          Je verdient een brutoloon dat afhankelijk is van
+                                   functiegroep en leeftijd.
+ 4.16 Vakantiegeld                 Je hebt recht op 8% vakantiegeld.
+ 5.1 Ontwikkelingsbudget           Je werkgever stelt per kalenderjaar een budget vast
+                                   voor de kosten van de ontwikkeling van werknemers.
+ 7.1 Wachtdag bij                  Als je ziek bent ontvang je jouw loon over alle dagen
+ ziekteverzuim                     die je ziek bent, behalve over de eerste dag van je
+                                   ziekte. Deze wachtdag duurt 8 uur en geldt per
+                                   ziektegeval.
+ 7.2 Doorbetalen van loon          Als je ziek bent, ontvang je de wettelijke
+ bij ziekte                        loondoorbetaling van 70% van het brutomaandloon
+                                   gedurende ten hoogste 104 weken.
+                                   Daarbovenop, onder de voorwaarde dat je optimaal
+                                   meewerkt aan jouw re-integratie, een aanvulling tot
+                                   maximaal 95% van het brutomaandloon.
+                                   Jouw werkgever stelt met goedkeuring van de
+                                   ondernemingsraad een reglement op waarin deze
+                                   voorwaarden zijn opgenomen.
+
+                   bron: horeca-cao (bewerkt)
+
+
+
+
+HA-0400-a-24-1-b                                7/8                               lees verder ►►►
+            Bepaling brutoloon in horeca-cao
+
+                                                functiegroepen
+ brutoloon                1            2           3          4          5               6
+ maandloon (€)
+ exclusief
+ vakantiegeld
+ bij een
+ voltijdbaan
+ 21 jaar of ouder     1.684,80 1.720,74       1.799,47    1.883,77    1.945,96      2.169,09
+ 20 jaar              1.516,32 1.548,67       1.619,52    1.695,39    1.751,36      1.952,18
+ 19 jaar              1.347,84 1.376,59       1.439,58    1.507,02    1.556,77      1.735,27
+ 18 jaar              1.179,36 1.204,52       1.259,63    1.318,64    1.362,17      1.518,36
+
+
+            Reglement bij ziekte
+
+ Ziekmelding                  Bij ziekte doe je voor 9.00 uur ’s ochtends zelf een
+                              telefonische ziekmelding bij je werkgever.
+ Thuisblijven                 De bedrijfsarts gaat in de eerste ziekteweek op
+                              huisbezoek. Je wacht thuis het bezoek van de bedrijfsarts
+                              af.
+ Genezing niet                Tijdens de ziekte mag je niets doen wat de genezing kan
+ belemmeren                   belemmeren.
+ Herstel en re-integratie Zodra je daartoe in staat bent, hervat je het werk.
+ Sancties                     Bij overtreding van bovengenoemde voorschriften kan
+                              jouw werkgever loondoorbetaling opschorten en/of
+                              aanvulling tot 95% weigeren.
+ Vitaliteit                   Je kunt deelnemen aan het vitaliteitsprogramma, waardoor
+                              je sneller herstelt.
+
+
+
+
+HA-0400-a-24-1-b                             8/8                                 lees verdereinde
+                                                                                              ►►► 
+

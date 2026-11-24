@@ -1,0 +1,219 @@
+                      Bijlage HAVO
+
+                         2021
+                             tijdvak 1
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+HA-0400-a-21-1-b
+      Informatiebron 1
+
+            Kritische succesfactoren en prestatie-indicatoren van het callcenter
+            Super Mobile
+
+              tabel 1                                           wegingsfactor
+              a. de wachttijd voor de klant                      3
+              b. het productief inzetten van medewerkers         1
+              c. de snelheid van de beantwoording van e-mail     5
+              d. de snelheid van het invoeren van
+                 abonnementswijzigingen                          4
+              totaal wegingsfactoren                            13
+
+
+
+              tabel 2                                           rapportcijfer
+                                                                (op schaal van 1 - 10)
+              1. het aantal dagen waarna een ontvangen e-mail
+                 wordt beantwoord                               8
+              2. het aantal minuten in de wachtstand            7
+              3. het aantal ziektedagen van de medewerkers      2
+              4. het gemiddeld aantal dagen waarbinnen een
+                 mutatie verwerkt is                            6
+
+
+
+
+HA-0400-a-21-1-b                              2/7                           lees verder ►►►
+      Informatiebron 2
+
+            Opbouw van het begrote resultaat en het gerealiseerde resultaat over
+            het vierde kwartaal van 20201) van het callcenter van Super Mobile
+
+            noot 1) Het kwartaal bestaat uit 13 weken.
+
+
+                                      begroot                      gerealiseerd
+ opbrengsten
+ vergoeding van
+ hoofdkantoor per
+ klantcontact                         € 2,92                       € 2,92
+
+
+ kosten
+ afschrijving
+ computernetwerk                      zie grafiek op bladzijde 4   zie grafiek op bladzijde 4
+ ICT ondersteuning                    € 1.000 per maand            € 900 per maand
+ loonkosten medewerkers               brutoloon per uur: € 20      brutoloon per uur: € 20
+ callcenter                           vakantiegeld: 8% van het     vakantiegeld: 8% van het
+                                      brutoloon.                   brutoloon.
+                                      sociale lasten werkgever:    sociale lasten werkgever:
+                                      15% van het brutoloon        15% van het brutoloon
+                                      inclusief vakantiegeld.      inclusief vakantiegeld.
+                                      werkweek: 40 uur per         werkweek: 40 uur per
+                                      fulltimebaan.                fulltimebaan.
+ reiskosten medewerkers               NS businesscard              NS businesscard
+ callcenter                           (zie tabel op bladzijde 4)   (zie tabel op bladzijde 4)
+ HRM ondersteuning                    € 50 per fulltime-           € 45 per fulltime-
+                                      medewerker per week          medewerker per week
+
+
+ resultaat                            € 3.569,60 positief          € ………….. (vraag 7)
+
+
+ overige gegevens
+ aantal klantcontacten                78.000                       62.400
+ aantal fulltime-
+ medewerkers                          15                           15
+
+
+
+
+HA-0400-a-21-1-b                                  3/7                              lees verder ►►►
+            Computernetwerk: de ontwikkeling van de boekwaarde van het
+            computernetwerk tijdens de levensduur van 3 jaar
+
+
+
+
+            Reiskostenvergoeding
+
+            NS businesscard
+
+
+            Personeel
+
+            Werknemers van het callcenter wonen in Nederland en reizen met de trein
+            tweede klas en OV (= openbaar vervoer)-fiets.
+
+              tarief               voorwaarden             tweede klas   eerste klas
+              maandabonnement
+              NS businesscard in
+              2020
+              met Trein Vrij-      voor een vast
+              abonnement           bedrag onbeperkt
+                                   met de trein reizen
+                                   door het hele land         € 317         € 535
+              met OV Vrij-         voor een vast
+              abonnement           bedrag onbeperkt
+                                   met de trein en OV-
+                                   fiets reizen door het
+                                   hele land                  € 370         € 589
+
+
+
+
+HA-0400-a-21-1-b                           4/7                             lees verder ►►►
+      Informatiebron 3
+
+            Het spaardeposito
+
+            Willem en Liesbeth hebben het gehele bedrag van € 55.000 van de in de
+            loterij gewonnen geldprijs per 1 januari 2014 op een daarvoor nieuw
+            geopend spaardeposito bij de Yapi Credi bank gestort. Voor dit
+            spaardeposito geldt een vaste looptijd van tien jaar, waarop wel geld mag
+            worden bijgestort, maar waaruit niet boetevrij geld mag worden
+            opgenomen. Als er toch geld wordt opgenomen, dan is de boete 1% van
+            het opgenomen bedrag voor elk jaar dat dit bedrag nog vast zou hebben
+            gestaan. De boete wordt direct op dezelfde dag ingehouden op het
+            spaarsaldo.
+
+            De bank vergoedt 2% samengestelde interest per jaar. De interest wordt
+            jaarlijks op 31 december op het spaardeposito bijgeschreven. Willem en
+            Liesbeth hebben tot 31 december 2020 geen opnames uit het
+            spaardeposito gedaan. Wel hebben ze € 5.000 op 1 januari 2016
+            bijgestort.
+
+
+
+
+HA-0400-a-21-1-b                            5/7                              lees verder ►►►
+      Informatiebron 4
+
+            De huurtoeslag
+
+            Bij het bepalen van de hoogte van de huurtoeslag in een jaar kijkt de
+            Belastingdienst naar
+             het gezamenlijke inkomen van de bewoners in dat jaar,
+             de hoogte van de maandelijkse huur in dat jaar en
+             het gezamenlijke vermogen van de bewoners op 1 januari van dat
+                jaar.
+
+            Wanneer het gezamenlijke vermogen meer bedraagt dan € 60.720, dan is
+            er in geen enkele situatie nog recht op huurtoeslag.
+
+            Het jaarinkomen in 2020 van Willem is € 22.000 en van Liesbeth € 6.000.
+            De maandelijkse huur van de woning van Willem en Liesbeth bedraagt
+            € 600.
+
+            In onderstaande tabel is de hoogte van de maandelijkse huurtoeslag in
+            het jaar 2020 opgenomen. De huurtoeslag hangt af van de hoogte van het
+            gezamenlijk jaarinkomen en de maandelijkse huur.
+
+                                     getallen x € 1
+               huur →          500        550         600     650        750
+            jaarinkomen
+                ↓
+            22.000             228        261         293     298          0
+            24.000             190        222         255     259          0
+            26.000             148        180         213     218          0
+            28.000             103        135         168     173          0
+            30.000              55         80         120     125          0
+
+
+
+
+HA-0400-a-21-1-b                            6/7                                lees verder ►►►
+      Informatiebron 5
+
+            De schenkbelasting
+
+            Hoeveel schenkbelasting u moet betalen, hangt af van de relatie met de
+            schenker en de vrijstellingen.
+
+              waarde               partner en            kleinkinderen en      overige
+              schenking (€)        kinderen              verdere               personen
+                                   betalen over de       afstammelingen        betalen over
+                                   waarde                betalen over de       de waarde
+                                                         waarde
+              0 – 124.726          10%                   18%                   30%
+              124.727 en meer      20%                   36%                   40%
+
+
+            Vrijstellingen
+
+              U krijgt het geld van        U beslist zelf wat u      U gebruikt het voor een
+                                           ermee doet. Dan is de     koophuis. Dan krijgt u
+                                           jaarlijkse vrijstelling   eenmalig tijdens uw
+                                           (€)                       leven een vrijstelling
+                                                                     van (€)
+              uw ouders                    5.428                     102.010
+              iemand anders                2.173                     102.010
+
+                   bron: Belastingdienst
+
+
+
+
+HA-0400-a-21-1-b                                   7/7                               lees verdereinde
+                                                                                                  ►►► 
+

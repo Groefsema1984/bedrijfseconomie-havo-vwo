@@ -55,11 +55,12 @@ tekenVraag = function(){
   const kopTxt=`<p class="zacht" style="margin-top:0;font-size:13px">Examen ${v.jaar} tijdvak ${v.tv} · vraag ${v.nr}${v.titel?' · '+esc(v.titel):''}</p>`;
   const oud=kaart.querySelector(':scope > .vctx'); if(oud&&v.ctx) oud.remove();
   const ctx=v.ctx?`<div style="font-size:15px;background:var(--bg);border-radius:12px;padding:10px 12px;margin-bottom:12px">${fmt(v.ctx)}</div>`:'';
-  const imgs=(v.img||[]).map((s,i)=>`<button class="knop zacht" style="min-height:40px;padding:6px 12px;font-size:14px" onclick="toonImg('${s}')">${s.includes('-b-')?'📊 Informatiebron':'📄 Examenpagina'}</button>`).join(' ');
+  const imgs=(v.img||[]).map((s,i)=>`<button class="knop zacht" style="min-height:40px;padding:6px 12px;font-size:14px" onclick="toonImg('${s}')">${s.includes('-b-')?'📊 Bijlage p. '+s.split('-').pop():s.includes('-u-')?'✏️ Uitwerkbijlage':'📄 Examenpagina'}</button>`).join(' ');
   kaart.insertAdjacentHTML('afterbegin',kopTxt+ctx+(imgs?`<div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px">${imgs}</div><div id="imgBox"></div>`:''));
   if(!$('#qz .vraag .vtekst')) $('#qz .vraag').style.whiteSpace='pre-line';
   // toon bij een bron-vraag direct de eerste informatiebron, anders de examenpagina als er een figuur in staat
-  const bron=(v.img||[]).find(s=>s.includes('-b-')); const fig=/grafiek|figuur|tabel|afbeelding|hieronder|lijn |oppervlakte|curve/i.test(v.q+' '+(v.o||[]).join(' '));
+  const uw=/uitwerkbijlage/i.test(v.q)&&(v.img||[]).find(s=>s.includes('-u-'));
+  const bron=uw||(v.img||[]).find(s=>s.includes('-b-')); const fig=/grafiek|figuur|tabel|afbeelding|hieronder|lijn |oppervlakte|curve/i.test(v.q+' '+(v.o||[]).join(' '));
   if(bron) toonImg(bron); else if(fig&&(v.img||[]).length) toonImg(v.img[0]);
 };
 function toonImg(s){ const b=$('#imgBox'); if(!b) return; if(b.dataset.s===s){ b.innerHTML=''; b.dataset.s=''; return }
@@ -88,7 +89,7 @@ function printExamen(){
    .knop{position:fixed;top:10px;right:10px;padding:10px 16px;font-size:16px} @media print{.knop{display:none}}</style></head><body>
    <button class="knop" onclick="print()">Printen</button><h1>${esc(titel)}</h1><p>Naam: ______________________ Klas: ______ </p>
    ${v.map((x,i)=>`<div class="v"><b>${i+1}. (${x.jaar} tv${x.tv}, vraag ${x.nr}${x.titel?' · '+esc(x.titel):''})</b>${x.ctx?`<div class="ctx">${esc(x.ctx)}</div>`:''}<div style="white-space:pre-line">${esc(x.q)}</div>${x.t==='open'?'<div style="height:90px;border-bottom:1px dotted #999"></div>':(x.o||[]).map((o,k)=>`<div class="o">${L[k]}&nbsp; ${esc(o)}</div>`).join('')}</div>`).join('')}
-   <div class="pb"><h1>Examenpagina's en informatiebronnen</h1>${imgs.map(s=>`<p style="font-size:12px;margin:12px 0 0">${s.replace('-o-',' · examen p. ').replace('-b-',' · bijlage p. ')}</p><img src="${location.href.replace(/[^/]*$/,'')}${EX_IMG}${s}.jpg">`).join('')}</div>
+   <div class="pb"><h1>Examenpagina's en informatiebronnen</h1>${imgs.map(s=>`<p style="font-size:12px;margin:12px 0 0">${s.replace('-o-',' · examen p. ').replace('-b-',' · bijlage p. ').replace('-u-',' · uitwerkbijlage p. ')}</p><img src="${location.href.replace(/[^/]*$/,'')}${EX_IMG}${s}.jpg">`).join('')}</div>
    <div class="pb"><h1>Antwoordblad</h1><table><tr><th>Vraag</th><th>Antwoord</th></tr>${v.map((x,i)=>`<tr><td>${i+1}</td><td style="width:${antw&&x.t==='open'?'auto':'120px'};white-space:pre-line">${antw?(x.t==='open'?esc(x.model||''):L[x.a]):''}</td></tr>`).join('')}</table></div>
    </body></html>`);
   w.document.close();

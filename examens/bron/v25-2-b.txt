@@ -1,0 +1,221 @@
+                       Bijlage VWO
+
+                         2025
+                              tijdvak 2
+
+
+
+
+                   bedrijfseconomie
+
+
+
+
+VW-0400-a-25-2-b
+      Formuleblad
+
+            Voor beantwoording van vraag 2 is de volgende formule beschikbaar.
+
+      2     somformule meetkundige reeks:
+
+                   rn - 1
+            S=ax
+                    r-1
+
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-25-2-b                            2/7                           lees verder ►►►
+      Informatiebron 1
+
+            Verwachte exploitatiekosten en exploitatie-uitgaven:
+
+            Vervoer:
+             Voor het vervoer van de hei-installatie naar de diverse bouwplaatsen
+               is met een transportbedrijf een overeenkomst afgesloten. Er zijn
+               afspraken gemaakt over:
+                de loonkosten van de chauffeur: € 75 per uur
+                een vergoeding voor vervoer: € 17,50 per kilometer
+             In de maand mei zijn er heiwerkzaamheden gepland op 8 locaties. De
+               hei-installatie moet eenmalig naar de locatie worden vervoerd en
+               teruggebracht. Aan een retourrit besteedt een chauffeur gemiddeld
+               6 uur per locatie.
+             In mei wordt in totaal 700 kilometer afgelegd voor vervoer van de hei-
+               installatie.
+             De totale kosten voor het vervoer van de hei-installatie worden betaald
+               in de maand waarin die vervoerd wordt.
+
+            Brandstof:
+             Bij het heien wordt per dag 500 liter brandstof verbruikt. De prijs per
+               liter is € 2,02. In mei wordt er in totaal 22 dagen geheid. De brandstof
+               wordt in de maand van verbruik betaald.
+
+            Verzekeringspremie:
+             De premie voor bedrijfsverzekeringen wordt jaarlijks op 1 april voor
+               een periode van 12 maanden vooruitbetaald. De maandelijkse
+               verzekeringspremie vóór 1 april 2025 bedroeg € 1.500. Per 1 april
+               2025 wordt de jaarlijkse verzekeringspremie met 6% verhoogd voor
+               het komende verzekeringsjaar.
+             Naast bedrijfsverzekeringen moet ook de nieuwe hei-installatie per
+               1 juni 2025 worden verzekerd. De jaarlijkse premie is 0,5% van de
+               aankoopprijs van € 1.495.000 en wordt op 31 mei 2025 voor de
+               komende twaalf maanden vooruitbetaald.
+
+            Nettoloon en netto vakantiegeld:
+             Vanaf 1 januari 2025 is het totale brutoloon, dus voor alle werknemers
+               samen, gestegen tot € 26.250 per maand.
+             Het nettoloon wordt maandelijks aan de werknemers uitbetaald. Het
+               nettoloon wordt berekend door het brutoloon te verminderen met 40%
+               loonheffing.
+             Het vakantiegeld bedraagt 8% van het brutoloon over de
+               voorafgaande 12 maanden en wordt jaarlijks in mei uitbetaald na
+               inhouding van 40% loonheffing.
+
+            Overig:
+            De overige uitgaven zijn in april € 7.500 en in mei € 8.000.
+
+
+VW-0400-a-25-2-b                             3/7                               lees verder ►►►
+      Informatiebron 2
+
+            Balans met toelichting Beukers bv
+
+ debet                      Balans Beukers bv per 31 maart 2025 (x € 1)               credit
+ Terrein                                150.000 Geplaatst                            40.000
+                                                aandelenkapitaal
+ Loods                        500.000             Winstreserve                       80.000
+ Afschrijving loods           406.250             Resultaat lopend                   45.000
+                                                  boekjaar
+                                         93.750 Voorziening                          36.945
+                                                onderhoud
+ Hei-installatie              600.000             4% Hypothecaire                  180.000
+                                                  lening
+ Afschrijving hei-            540.000             Te betalen                         12.180
+ installatie                                      netto vakantiegeld
+                                         60.000 Te betalen                           42.525
+                                                loonheffing
+ Inventaris                    41.500             Te betalen interest                 1.800
+                                                  4% hypothecaire
+                                                  lening
+ Afschrijving                  10.000
+ inventaris
+                                         31.500
+ Bank                                   103.200                                    ______
+                                        438.450                                    438.450
+
+            Toelichting op de balans:
+
+                  Het boekjaar loopt van 1 januari tot en met 31 december.
+                  Op de hei-installatie wordt maandelijks 0,375% van de aanschafprijs
+                   min de restwaarde afgeschreven. De restwaarde bedraagt 5% van de
+                   aanschafprijs.
+                  De interest en aflossing op de 4% hypothecaire lening worden jaarlijks
+                   op 31 december achteraf betaald.
+                  Het te betalen netto vakantiegeld is het bruto vakantiegeld na aftrek
+                   van loonheffing van de afgelopen 10 maanden (1 juni 2024 tot en met
+                   31 maart 2025).
+                  In de eerste maand van elk kwartaal wordt de loonheffing van het
+                   kwartaal daarvoor betaald.
+
+
+
+
+VW-0400-a-25-2-b                               4/7                              lees verder ►►►
+      Informatiebron 3
+
+            Subsidieregeling
+
+            Bedrijven kunnen bij de Rijksdienst voor Ondernemend Nederland (RVO)
+            subsidie aanvragen voor de aanschaf van nieuwe, emissieloze,
+            elektrische bouwmachines.
+
+            De subsidie op de aankoop van nieuwe, emissieloze, elektrische
+            bouwmachines bedraagt 50% van het verschil in prijs tussen een
+            emissieloze, elektrische bouwmachine en een vergelijkbare bouwmachine
+            met dieselmotor.
+
+            Subsidie
+
+            Voor de elektrisch aangedreven hei-installatie moet op 1 juni 2025
+            € 1.495.000 worden betaald. Een vergelijkbare diesel-aangedreven hei-
+            installatie heeft een aanschafprijs van € 995.000.
+
+
+
+
+VW-0400-a-25-2-b                           5/7                            lees verder ►►►
+      Informatiebron 4
+
+            Personeelsgegevens van HWO
+
+            Algemene gegevens, geldend voor elk jaar
+
+                  Taakomvang per week: HWO kent een 36-urige werkweek voor zijn
+                   installateurs.
+                  Een installateur werkt 45 weken per jaar, maar krijgt wel 52 weken per
+                   jaar uitbetaald.
+                  Een installateur is gemiddeld 4 uur per te installeren waterontharder
+                   kwijt aan reis- en installatietijd.
+                  De afzet en installatie van de waterontharders is evenredig over het
+                   jaar verdeeld.
+                  Om de uitvoering van werkzaamheden te garanderen, is de
+                   personeelsbezetting altijd 1,0 fte meer dan op basis van de verwachte
+                   afzet en reis- en installatietijd nodig is.
+
+
+
+
+VW-0400-a-25-2-b                               6/7                              lees verder ►►►
+      Informatiebron 5
+
+            Het verkopen van regeneratiezout
+
+            Regeneratiezout is een zout dat zorgt voor een
+            goede reiniging van een waterontharder.Bij
+            regelmatig gebruik van regeneratiezout wordt de
+            levensduur van een waterontharder verlengd.
+
+
+              verkoopprijzen Regenit
+              regeneratiezout in 2025
+              per zak                        € 22,95
+              per 5 zakken                   € 99,00
+
+
+
+              bijdrage in de verzendkosten per bestelling
+              1 tot en met 4 zakken                      € 4,95 per bestelling te betalen door
+                                                         de klant aan HWO
+              vanaf 5 zakken                             geen bijdrage in de verzendkosten
+                                                         voor de klant
+
+            Gegevens over de verwachte afzet en kosten van regeneratiezout
+            over 2025
+
+            Verwachte afzet in 2025
+
+              aantal zakken per                     1          2         3        4            5
+              bestelling
+              aantal bestellingen                  500        800       300       0          600
+
+            Verwachte kosten over 2025
+
+                  inkoopprijs van de zakken bij de leverancier: € 9,50 per stuk, inclusief
+                   de verzendkosten van de leverancier naar HWO.
+                  de kosten voor het vervoer van de zakken regeneratiezout van HWO
+                   naar zijn klanten bedraagt € 7,50 per bestelling.
+                  constante kosten, toegerekend aan de verkoop van regeneratiezout:
+                   € 400 per maand.
+
+
+
+
+VW-0400-a-25-2-b                                 7/7                                  lees verdereinde
+                                                                                                   ►►► 
+

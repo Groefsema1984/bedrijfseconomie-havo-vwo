@@ -1,0 +1,270 @@
+                       Bijlage VWO
+
+                         2023
+                              tijdvak 1
+
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-23-1-b
+      Formuleblad
+
+            Voor beantwoording van vraag 8 is de volgende formule beschikbaar.
+
+      8     somformule meetkundige reeks:
+
+                   rn - 1
+            S=ax
+                    r-1
+
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-23-1-b                            2/9                           lees verder ►►►
+      Informatiebron 1
+
+            Randvoorwaarden
+
+            Bij het opstarten van de onderneming van Jaap en Ineke de Waard stellen
+            ze allebei een aantal randvoorwaarden:
+            a In het kader van duurzaamheid worden de hottubs niet gestookt op
+                hout, maar op biopropaan, hernieuwbare energie geproduceerd uit
+                biomassa. Dit geeft een lagere CO2-uitstoot. Daardoor wordt een
+                nieuwe doelgroep bereikt.
+            b Binnen de regio zijn er nog geen andere aanbieders van mobiele
+                hottubs.
+            c De beide eigenaren willen minimaal een verwacht rendement van 6%
+                op hun ingelegde vermogen in de op te richten onderneming behalen.
+            d De op te richten onderneming zal zich uitsluitend toeleggen op de
+                verhuur van mobiele hottubs inclusief aanhangers.
+            e Er wordt samenwerking gezocht met een producent van aanhangers
+                om deze op maat te maken voor vervoer van de hottubs.
+
+
+
+
+VW-0400-a-23-1-b                           3/9                            lees verder ►►►
+      Informatiebron 2
+
+            Voorwaarden Groeispaarrekening Staalbank
+
+            Staalbank stelt bij het openen van een groeispaarrekening de volgende
+            voorwaarden:
+
+                  U heeft de keuze uit een eenmalige storting van minimaal € 10.000
+                   of u stort maandelijks een vast bedrag van minimaal € 250 op uw
+                   groeispaarrekening. De interestvergoeding is op basis van
+                   samengestelde interest. Deze is 0,51% per jaar of 0,0424% per
+                   maand en wordt jaarlijks respectievelijk maandelijks aan het einde van
+                   elke maand op uw groeispaarrekening bijgeschreven. Per 1 maart
+                   2019 verlaagt Staalbank het interestpercentage samengestelde
+                   interest (SI) per jaar tot 0,299% SI per jaar respectievelijk tot
+                   0,0249% SI per maand.
+                  Bij opening van uw groeispaarrekening ontvangt u een welkomstbonus
+                   van € 100 als u eenmalig € 10.000 of maandelijks minimaal € 250 op
+                   de groeispaarrekening stort.
+                  De interestvergoeding is de eerste vijf jaar vast. Na deze periode
+                   behoudt de bank zich het recht voor het rentepercentage te wijzigen.
+                   Als de bank het rentepercentage verlaagt, vervalt de verplichting van
+                   de houder van de groeispaarrekening om maandelijks een bedrag op
+                   deze rekening te storten.
+
+            Groeispaarrekening van Jaap bij Staalbank
+
+            Jaap heeft vanaf 1 maart 2014 maandelijks op de eerste dag van elke
+            maand € 500 op de groeispaarrekening gestort. Het geld op deze
+            rekening wil hij over 15 jaar gebruiken als aanvulling op zijn pensioen.
+            Jaap besloot om vanaf 1 april 2019 niets meer op de groeispaarrekening
+            te storten en het bedrag hierop te laten staan.
+
+
+
+
+VW-0400-a-23-1-b                               4/9                              lees verder ►►►
+      Informatiebron 3
+
+            Openingsbalans van De Baddertobbe per 1 april 2022
+
+ debet                              Balans De Baddertobbe                             credit
+                                 per 1 april 2022 (getallen in €)
+
+ Inventaris                              2.750 Vermogen Jaap de Waard                30.000
+ Aanhangwagens en hottubs               48.000 Vermogen Ineke de Waard                3.000
+                                                  6%-Banklening                      30.000
+ Te vorderen btw                        10.658
+ Vooruitbetaalde huur garage             1.200
+ Bank                                      392
+                                        63.000                                       63.000
+
+            Toelichting op de balans:
+
+                  De Baddertobbe bezit 5 identieke aanhangwagens en 5 dezelfde
+                   hottubs.
+                  De vooruitbetaalde huur heeft betrekking op een garage voor het
+                   kunnen stallen van de 5 aanhangwagens en hottubs. De huur wordt
+                   telkens op de laatste dag van het voorafgaande kwartaal voor het
+                   daaropvolgende kwartaal betaald.
+                  Het kredietplafond van het rekening-courantkrediet is € 5.000.
+                  Op de 6%-lening van de bank moet twee keer per jaar,
+                   op 30 september en 31 maart, € 3.000 worden afgelost en de
+                   verschuldigde interest over het voorafgaande halfjaar worden betaald.
+                   De eerste aflossing vindt plaats op 30 september 2022.
+
+
+
+
+VW-0400-a-23-1-b                                 5/9                            lees verder ►►►
+      Informatiebron 4
+
+            Overige gegevens met betrekking tot bepalen van de verhuurprijs
+            van een hottub met aanhangwagen per week voor de periode
+            1 april 2022 tot en met 31 maart 2023:
+
+                  De inventaris wordt lineair in 5 jaar volledig afgeschreven.
+                  De aanhangwagens en de hottubs worden in 6 jaar lineair
+                   afgeschreven tot een restwaarde van 15% van de aanschafprijs.
+                  Als interestkosten wordt de over de periode 1 april 2022 tot en met
+                   31 maart 2023 te betalen interest van de 6%-banklening opgenomen.
+                  De totale kosten van de verzekering van de aanhangwagens en
+                   hottubs zijn € 125 per maand. Met ingang van 1 januari 2023 stijgt de
+                   premie met 4%.
+                   De premie wordt maandelijks betaald.
+                  In de periode 1 april 2022 tot en met 31 maart 2023 wordt in totaal
+                   € 1.200 toegevoegd aan een per 1 april 2022 te vormen
+                   onderhoudsvoorziening aanhangwagens en hottubs.
+                  Voor de verwarming van het water wordt één gasfles met biopropaan
+                   aan de huurder verstrekt. De inkoopprijs hiervan is € 25 per gasfles
+                   exclusief 21% btw. De inkoopprijs wordt verwerkt in de verhuurprijs.
+                   Op 31 maart 2023 zijn er geen gasflessen op voorraad.
+                  De 5 hottubs kunnen het gehele jaar door (52 weken) worden
+                   gehuurd.
+                  Het normale aantal weken dat een hottub wordt verhuurd, wordt
+                   gesteld op 75% van de maximale bezetting.
+                  De verwachte bezetting is 180 verhuurde hottubs.
+                  De winstopslag is 25% van de kostprijs.
+                  De btw bedraagt 21%.
+
+
+
+
+VW-0400-a-23-1-b                               6/9                              lees verder ►►►
+      Informatiebron 5
+
+            Nacalculatorische gegevens voor het berekenen van het
+            gerealiseerde resultaat uit de verhuur van mobiele hottubs inclusief
+            aanhangwagens over de periode 1 april 2022 tot en met
+            31 maart 2023
+
+                  Er zijn in totaal 210 aanhangers met hottubs voor € 166,38 inclusief
+                   21% btw per week verhuurd per aanhanger met hottub.
+                  De totale constante kosten bedroegen € 17.025.
+                  De toename van de constante kosten is veroorzaakt door een hogere
+                   verzekeringspremie door drie geclaimde schades.
+                  De inkoopprijs van een gasfles is € 31,46, inclusief 21% btw. Aan het
+                   begin en het einde van het boekjaar zijn er geen gasflessen op
+                   voorraad.
+
+
+
+
+VW-0400-a-23-1-b                               7/9                              lees verder ►►►
+      Informatiebron 6
+
+            Tarieven schenk- en erfbelasting en vrijstellingen schenk- en
+            erfbelasting 2020
+
+            Vrijstelling erfbelasting in 2020
+
+                                                                             bedrag van uw
+              U bent:                                                         vrijstelling in
+                                                                             2020 in euro’s
+              echtgenoot, geregistreerd partner of samenwonend
+              partner                                                                643.194
+              kind, pleegkind of stiefkind                                             20.371
+              kleinkind                                                                20.371
+              achterkleinkind                                                           2.147
+              ouder                                                                    48.242
+              andere erfgenaam, bijvoorbeeld een broer of zus                           2.147
+
+            Vrijstellingen schenkbelasting 2020
+
+                                                                                vrijstelling
+              jaarlijkse schenking 2020                                    schenkbelasting
+                                                                                  in euro’s
+              (pleeg)kind                                                               5.363
+              kleinkind                                                                 2.147
+              overig                                                                    2.147
+              ANBI's en SBBI's                                            volledig vrijgesteld
+
+            Tarieven schenk- en erfbelasting 2020
+
+              gedeelte waarde       partner,             kleinkinderen     overige
+              erfenis /             (pleeg- of           en                erfgenamen
+              schenking             stief)kind,          verdere           zoals een broer,
+                                    kind met een         afstammelingen    zus of ouders
+                                    beperking
+              schijf 1
+                                             10%              18%                 30%
+              € 0 - € 123.248
+              schijf 2
+                                             20%              36%                 40%
+              € 123.249 en meer
+
+
+
+
+VW-0400-a-23-1-b                                   8/9                            lees verder ►►►
+      Informatiebron 7
+
+            Wat is schenken op papier?
+
+            Perspectief schenker
+
+            Bij een schenking op papier legt u op papier vast dat u iemand over een
+            bepaalde tijd een bedrag geeft, bijvoorbeeld omdat u het geld nu nog niet
+            kunt missen of omdat het 'vastzit' in uw huis. Een schenking op papier
+            heet in notariële akten vaak een ‘schuldigerkenning uit vrijgevigheid’.
+
+            Als u zich aan een aantal regels houdt, kan schenken op papier voordelig
+            zijn. Daarom maken vooral ouders hiervan gebruik om hun vermogen over
+            te dragen op hun kinderen. Het bedrag dat de ouders op papier schenken,
+            telt namelijk niet mee met hun erfenis. De kinderen betalen daardoor
+            minder erfbelasting.
+
+            De schenkers moeten wel zorgen dat zij:
+             de schenking door een notaris laten vastleggen. Dat moet bij elke
+               volgende schenking opnieuw.
+             over het totaal geschonken bedrag 6% enkelvoudige interest per
+               12 maanden aan de ontvanger betalen.
+
+            Perspectief ontvangers
+
+            Gevolgen voor de ontvangers:
+             ze ontvangen rente over de vordering op de ouders.
+             de vordering op de ouders telt mee bij het vermogen en kan mogelijk
+               invloed hebben op de te ontvangen toeslagen van de overheid.
+
+                   bron: Belastingdienst
+
+
+
+
+VW-0400-a-23-1-b                            9/9                              lees verdereinde
+                                                                                          ►►► 
+

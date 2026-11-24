@@ -1,0 +1,533 @@
+                                                                  Examen VWO
+
+                                                                      2022
+                                                                             tijdvak 3
+                                                                     woensdag 6 juli
+                                                                    13.30 - 16.30 uur
+
+
+                                                             bedrijfseconomie
+
+
+
+
+Bij dit examen horen een bijlage en een uitwerkbijlage.
+
+
+Achter de uitwerkbijlage is een erratum opgenomen.
+
+
+
+
+Dit examen bestaat uit 30 vragen.
+Voor dit examen zijn maximaal 63 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening gevraagd wordt, worden aan
+het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-0400-a-22-3-o
+      Opgave 1
+
+            Juweliersketen Ringeling nv presenteert in haar jaarverslag over 2021
+            onder andere de balans per 31 december 2021 voor resultaatverdeling:
+
+                     Balans Ringeling per 31 december 2021 (getallen x € 1)
+            debet
+            Gebouwen                                                      15.690.000
+            Inventaris                                                     1.800.000
+            Debiteuren                                                     2.300.000
+            Voorraden                                                      2.650.000
+            Liquide middelen                                               1.100.000
+                                                                          23.540.000
+            credit
+            Maatschappelijk aandelenkapitaal             9.000.000
+            Aandelen in portefeuille                     6.000.000
+                                                                           3.000.000
+            Agioreserve                                                    6.500.000
+            Algemene Reserve                                               5.000.000
+            Resultaat voor belasting 2021                                     640.000
+            Voorzieningen                                                  2.000.000
+            Hypothecaire lening                                            5.000.000
+            Crediteuren                                                    1.400.000
+                                                                          23.540.000
+
+
+
+
+VW-0400-a-22-3-o                            2 / 15                         lees verder ►►►
+            Verder is gegeven:
+             De nominale waarde van een aandeel Ringeling is € 25.
+             Over het resultaat voor belasting moet vennootschapsbelasting
+               worden betaald. Hierover is bekend:
+
+
+
+
+            Verdeling van het resultaat
+
+            De Algemene Vergadering van Aandeelhouders heeft op 3 januari 2022
+            goedkeuring verleend aan het onderstaande voorstel tot de verdeling van
+            het resultaat na vennootschapsbelasting.
+
+                  Er wordt € 1,50 dividend per aandeel beschikbaar gesteld,
+                   onderverdeeld in € 0,60 stockdividend en € 0,90 cashdividend.
+                  Het stockdividend wordt beschikbaar gesteld tegen de nominale
+                   waarde.
+                  Het restant wordt toegevoegd aan de Algemene Reserve.
+
+2p    1     Bereken de toename van de Algemene Reserve als gevolg van de
+            verdeling van het resultaat over 2021.
+
+2p    2     Bereken de intrinsieke waarde per aandeel op 3 januari 2022 nadat aan
+            alle verplichtingen als gevolg van de verdeling van het resultaat over 2021
+            is voldaan.
+
+            Bernhard heeft 2.500 aandelen Ringeling. De dividendbelasting is 15%.
+
+2p    3     Bereken het bedrag dat Bernhard op zijn bankrekening krijgt overgemaakt
+            als gevolg van de verdeling van het resultaat over 2021.
+
+
+
+
+VW-0400-a-22-3-o                              3 / 15                          lees verder ►►►
+            Ringeling berekent de solvabiliteit aan de hand van de volgende formule:
+            (totaal vermogen / vreemd vermogen) x 100%.
+
+2p    4     Welk gevolg hebben de resultaatverdeling en het voldoen aan alle
+            verplichtingen die hieruit voortkomen voor de solvabiliteit van Ringeling?
+            Motiveer het antwoord zonder een berekening te maken. Betrek in het
+            antwoord zowel het teller- als het noemereffect van de solvabiliteit.
+
+
+
+
+VW-0400-a-22-3-o                            4 / 15                            lees verder ►►►
+      Opgave 2
+
+            Bij deze opgave horen de informatiebronnen 1 tot en met 5.
+
+            In deze opgave blijft de btw buiten beschouwing.
+
+            Biohuis nv importeert biologisch afbreekbare bouwblokken (bioblokken,
+            gemaakt van suikerriet, maïs en cassave) en levert deze aan
+            bouwbedrijven. Deze gebruiken de blokken voor het relatief goedkoop
+            kunnen bouwen van woningen voor studenten.
+
+            Biohuis is behoorlijk getroffen door de economische crisis als gevolg van
+            het coronavirus. De afzet is sinds de eerste helft van 2020 flink gedaald.
+            Biohuis wil overgaan tot een reorganisatie, waarbij een deel van het
+            personeel zal worden ontslagen.
+
+2p    5     Noem de twee stakeholders die het personeel vertegenwoordigen bij een
+            reorganisatie.
+
+            Reorganisatie
+
+            In november 2021 zag Biohuis al aankomen dat het onvermijdelijk is dat
+            er ontslagen wegens bedrijfseconomische redenen zullen gaan vallen
+            (zie informatiebron 1).
+            De ontslagen in fase 2 zijn wegens bedrijfseconomische redenen en niet
+            wegens dringende redenen.
+
+2p    6     Leg uit wat het verschil is tussen een bedrijfseconomische reden voor
+            ontslag en een dringende reden voor ontslag. Betrek beide redenen voor
+            ontslag in het antwoord.
+
+            De ontslagen binnen Biohuis worden wettelijk verdeeld over
+            vijf leeftijdsklassen volgens het principe ‘last in first out’ binnen elke
+            leeftijdsklasse. Dit principe van ontslagverdeling wordt ook wel het
+            afspiegelingsbeginsel genoemd.
+            Zonder deze wettelijke regel had Biohuis vrije ontslagkeuze: Biohuis mag
+            dan zelf bepalen welke medewerkers er ontslagen zullen worden.
+
+2p    7     Geef twee niet-financiële voordelen voor Biohuis van ontslagbepaling
+            volgens het afspiegelingsbeginsel ten opzichte van vrije ontslagkeuze.
+            Licht het antwoord toe.
+
+
+
+
+VW-0400-a-22-3-o                            5 / 15                            lees verder ►►►
+            Het kan zijn dat de beëindigingsvergoeding van € 15.000 bij vrijwillig
+            ontslag (fase 1) hoger is dan de te betalen transitievergoeding (fase 2).
+            Toch heeft Biohuis in dit geval de voorkeur om werknemers vrijwillig te
+            laten vertrekken boven gedwongen ontslag.
+
+2p    8     Geef hier twee redenen voor.
+
+            Lot Kienstra werkt sinds 1 november 2016 bij Biohuis. Ze is samen met
+            één andere collega verantwoordelijk voor het binnenhalen van orders voor
+            de afzet van de bioblokken: de afdeling ‘verkoop’.
+            Lot weet dat ze de laatst aangenomen werknemer is in haar
+            leeftijdsklasse en vreest voor haar ontslag in fase 2. Ze is namelijk rond
+            gaan vragen in het bedrijf en heeft nog van niemand in haar
+            leeftijdsklasse gehoord dat die vrijwillig ontslag neemt (fase 1). Ze wil
+            bepalen of het financieel verstandiger is om vrijwillig ontslag te nemen
+            (fase 1) of om zich te laten ontslaan (fase 2).
+
+            Ze heeft van haar manager een concept beëindigingsovereenkomst
+            gekregen (zie informatiebron 2) met de bepalingen bij vrijwillig ontslag
+            (fase 1).
+
+            Lot leest dat in geval van vrijwillig ontslag Biohuis haar verbiedt, vanaf het
+            moment van haar ontslagaanzegging tot aan 1 april 2022, haar
+            klantcontacten te benaderen.
+
+1p    9     Welk belang heeft Biohuis bij dit verbod?
+
+            Transitievergoeding in fase 2
+
+            Bij ontslag wordt er een transitievergoeding betaald door de werkgever.
+            Deze is mede bedoeld om het zoeken naar een andere baan te faciliteren.
+            De transitievergoeding is afhankelijk van het brutomaandsalaris per
+            volledig dienstjaar vanaf de eerste werkdag. Dit bedrag bestaat bij Lot uit
+            een basissalaris en een provisie, die onder andere afhankelijk is van
+            omzet en kosten (zie informatiebron 3 en 4).
+
+            Als uitgangspunt wordt op 1 april 2022 de gemiddelde provisie van de
+            afgelopen 12 maanden (tweede kwartaal 2021 tot en met eerste kwartaal
+            2022) berekend.
+
+4p   10     Bereken de gemiddelde provisie inclusief vakantiegeld per maand van Lot
+            in deze afgelopen 12 maanden (zie informatiebron 3 en 4).
+            Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.
+
+
+
+
+VW-0400-a-22-3-o                             6 / 15                             lees verder ►►►
+            Lot heeft altijd de mening gehad dat de wijze waarop de provisie wordt
+            bepaald, zeker in het begin, maar nu ook aan het einde van haar
+            dienstverband, voor haar nadelig kan uitpakken.
+
+2p   11     Onderbouw de mening van Lot. Betrek in het antwoord het begin en het
+            einde van het dienstverband van Lot en informatiebron 3 en 4.
+
+            Uit informatiebron 5 is af te leiden hoe hoog de transitievergoeding is die
+            Lot zal ontvangen als Lot zich laat ontslaan (fase 2).
+
+            Als het bedrag dat ze krijgt bij vrijwillig ontslag (fase 1) hoger is dan de te
+            ontvangen transitievergoeding (fase 2), zal Lot haar vrijwillig ontslag
+            indienen.
+
+3p   12     Zal Lot haar vrijwillig ontslag indienen? Motiveer het antwoord met behulp
+            van een berekening.
+
+
+
+
+VW-0400-a-22-3-o                              7 / 15                              lees verder ►►►
+      Opgave 3
+
+            Sporty, met als rechtsvorm de eenmanszaak, is een groothandel in
+            sportartikelen in Haarlem. Van Sporty zijn de volgende gegevens bekend:
+
+ debet                   Gedeeltelijke balansen Sporty (getallen x € 1)              credit
+                         31-3-2022     31-12-2021                31-3-2022     31-12-2021
+ Debiteuren                  ………..       ………… Eigen
+                                              vermogen             188.500          150.000
+                                                  Voorziening
+ Voorraden                   …..I…..      500.000 onderhoud        ..…III..…          5.000
+ Te vorderen
+ btw                          ……....      210.000 Crediteuren      ……...…           …II…..
+ Liquide                                          Te betalen
+ middelen                    ….IV….        75.000 btw              …….…..           260.331
+
+
+
+                             verkopen inclusief 21% btw      inkopen inclusief 21% btw
+kwartaal 4 van 2021                    1.500.000                          ……..…
+kwartaal 1 van 2022                    1.149.500                          423.500
+
+                  Alle in- en verkopen vinden gelijkmatig binnen het kwartaal plaats.
+                  Van de verkopen is de helft op rekening.
+                  Alle inkopen zijn op rekening.
+                  De krediettermijn debiteuren en de krediettermijn crediteuren zijn
+                   1,5 maand. Van deze krediettermijnen wordt volledig gebruik gemaakt.
+                  Alle verkochte en ingekochte producten worden op de dag van
+                   verkoop en inkoop respectievelijk afgeleverd en ontvangen.
+                  De inkoopwaarde is 40% van de omzet.
+                  De btw wordt op de eerste dag van het volgende kwartaal met de
+                   Belastingdienst verrekend.
+
+2p   13     Bereken de grootte van de balanspost Voorraden per 31 maart 2022 (I).
+
+            De posten Te vorderen btw en Te betalen btw hebben op 31 december
+            2021 alleen betrekking op de inkopen en verkopen van de sportartikelen.
+
+2p   14     Bereken de grootte van de balanspost Crediteuren per 31 december 2021
+            (II).
+
+
+
+
+VW-0400-a-22-3-o                              8 / 15                           lees verder ►►►
+            In februari 2022 is door Sporty € 3.630 inclusief € 630 btw betaald aan
+            een schildersbedrijf voor het onderhoud van het pand van Sporty. De
+            maandelijkse dotatie aan Voorziening onderhoud is € 500.
+
+1p   15     Bereken de grootte van de balanspost Voorziening onderhoud per
+            31 maart 2022 (III).
+
+            Naast bovenstaande gegevens zijn de overige kosten en overige uitgaven
+            € 500.000 in het eerste kwartaal van 2022. De eigenaar van Sporty neemt
+            elk kwartaal bedragen op van de bankrekening van Sporty voor
+            privédoeleinden.
+
+2p   16     Bereken de totale privéopnames door de eigenaar van Sporty in het
+            eerste kwartaal van 2022. Vergelijk hiervoor het eigen vermogen per
+            31 maart 2022 met het eigen vermogen per 31 december 2021.
+
+
+
+
+VW-0400-a-22-3-o                            9 / 15                            lees verder ►►►
+      Opgave 4
+
+            Nieck Wanders heeft sinds 2010 een fitnessstudio in Puttershoek:
+            Wanders Sport. De laatste jaren merkt hij dat zijn winst flink afneemt.
+            Hij hoort van concurrerende
+            fitnessstudio’s in de stad dat
+            zij hetzelfde probleem
+            hebben.
+            Samen met twee
+            concurrenten onderzoekt
+            Nieck de winstgevendheid
+            van de fitnessbranche.
+
+
+            Vijfkrachtenmodel van
+            Porter
+
+            Voor hun analyse gebruiken ze het vijfkrachtenmodel van Porter. Deze vijf
+            krachten zijn:
+            I. Interne concurrentie in de markt
+            II. (Dreiging van) nieuwe toetreders
+            III. …
+            IV. …
+            V. …
+
+3p   17     Noem de overige drie krachten en geef per kracht aan hoe deze een
+            bedreiging zou kunnen vormen voor de winstgevendheid van de
+            fitnessbranche.
+
+            Sommige marketeers vinden dat er een zesde kracht aan dit model zou
+            moeten worden toegevoegd: de ‘Invloed van de Overheid’.
+
+2p   18     Geef twee voorbeelden van de manier waarop de overheid invloed kan
+            hebben op het winstpotentieel van de fitnessbranche. Licht de
+            voorbeelden toe.
+
+
+
+
+VW-0400-a-22-3-o                            10 / 15                            lees verder ►►►
+            Verkoopcijfers
+
+            Nieck heeft een aantal cijfers van Wanders Sport vergeleken met cijfers
+            van de fitnessbranche in Puttershoek en in heel Nederland.
+
+                   Wanders Sport                Puttershoek                    Nederland
+            aantal       index    omzet     aantal   index      omzet    aantal     index    omzet
+           klanten       totale    per     klanten   totale      per    klanten     totale    per
+                         omzet    klant              omzet      klant               omzet    klant
+                                   per                           per                          per
+                                   jaar                          jaar                         jaar
+ 2019              240     100      …..       950      100        ….    2.140.000     100       …..
+ 2020              229      99    € 228       932          98     …..   2.226.000     104        ….
+ 2021              215      97    (vraag      880          95   € 251   2.356.000     109     € 203
+                                     19)
+
+            Ondanks de daling van het aantal klanten is de omzet per klant in 2021
+            wél toegenomen ten opzichte van 2020.
+
+2p   19     Bereken de omzet per klant in 2021 voor Wanders Sport.
+
+2p   20     Bereken het marktaandeel in procenten op basis van omzet van
+            Wanders Sport in Puttershoek in 2021.
+
+
+
+
+VW-0400-a-22-3-o                                 11 / 15                               lees verder ►►►
+      Opgave 5
+
+            Bij deze opgave hoort informatiebron 6.
+
+            In deze opgave blijven de belastingen buiten beschouwing.
+
+            Jan Bos is eigenaar van de eenmanszaak “J. Bos Schilderwerken”.
+            Informatiebron 6 bevat (een gedeelte van) de jaarrekening over 2021.
+            Jan Bos overweegt om per 1 januari 2022, zijn zestigste verjaardag, te
+            stoppen met werken en wil zijn bedrijf verkopen. Jan vindt op het internet
+            dat in de schildersbranche de gemiddelde overnamesom van een
+            eenmanszaak 2,3 keer het resultaat is en de gemiddelde overnamesom
+            van een besloten vennootschap 3 keer het resultaat is.
+
+2p   21     Geef een verklaring voor dit verschil.
+
+            Jan heeft zes werknemers in dienst met een contract voor onbepaalde
+            tijd. Deze zes willen gezamenlijk het schildersbedrijf overnemen met als
+            nieuwe rechtsvorm een besloten vennootschap.
+            De twee partijen spreken af om eerst een minimumovernamesom (Jan) en
+            een maximumovernamesom (werknemers) te bepalen en vervolgens te
+            kijken of ze tot overeenstemming kunnen komen.
+
+            Minimumovernamesom
+
+            Jan maakt zich geen zorgen over zijn inkomen na zijn zevenenzestigste
+            verjaardag: vanaf 1 januari 2029 krijgt hij AOW en pensioen. De
+            minimumovernamesom zal voldoende moeten zijn om de tussenliggende
+            7 jaren, van zijn zestigste tot zijn zevenenzestigste verjaardag, te
+            overbruggen. Hij heeft de volgende gegevens verzameld over wat hij als
+            maandelijks inkomen zou willen tot het bereiken van zijn AOW-leeftijd.
+            Jan ziet de contante waarde van deze gewenste maandelijkse inkomens
+            als zijn minimumovernamesom.
+
+              gewenst maandelijks inkomen       € 4.700   aan het begin van elke maand
+              eerste ontvangst                            1 januari 2022
+              laatste ontvangst                           1 december 2028
+              rekenrente                        0,1 %     per maand
+
+2p   22     Bereken de contante waarde per 1 januari 2022 van Jans gewenste
+            maandelijkse inkomens in de jaren 2022 tot met 2028 (zie formuleblad).
+
+
+
+
+VW-0400-a-22-3-o                            12 / 15                           lees verder ►►►
+            Maximumovernamesom
+
+            De zes werknemers willen maximaal 1,5 keer de intrinsieke waarde na
+            resultaatverdeling van het bedrijf betalen.
+
+            Ze gaan er van uit dat Jan het gehele resultaat over 2021 aan het bedrijf
+            zal onttrekken en ze zijn dan bereid om maximaal € 322.500 te betalen
+            voor de overname. Dat is 1,5 x de intrinsieke waarde na
+            resultaatverdeling over 2021. Er is dus sprake van goodwill.
+
+2p   23     Noem, in het algemeen, twee bedrijfseconomische redenen waarom
+            overnamekandidaten bereid zijn om voor een bedrijf meer te betalen dan
+            de intrinsieke waarde.
+
+            Na deze eerste ronde zien de standpunten er als volgt uit:
+
+              gemiddelde overnamesom                    € 360.000 3 x 120.000
+              minimumovernamesom Jan Bos                € ...……… vraag 22
+                                                                  1,5 x intrinsieke waarde
+              maximumovernamesom personeel              € 322.500 na resultaatverdeling
+
+            Onderhandelingen
+
+            De onderhandelingen lopen vast. Beide partijen besluiten een
+            bemiddelaar in te schakelen. Deze bemiddelaar ziet ruimte in een andere
+            verdeling van het resultaat over 2021 en stelt het volgende compromis
+            voor.
+
+                  Jan laat € 50.000 van het resultaat over 2021 in het bedrijf zitten.
+                  Van het overige deel van het resultaat plus de overnamesom zou Jan
+                   de komende 7 jaar moeten kunnen leven volgens zijn wensen uit
+                   vraag 23.
+                  De zes werknemers betalen Jan € 360.000 als overnamesom.
+
+            Door dit compromis ontstaat er een nieuwe intrinsieke waarde na
+            resultaatverdeling van het bedrijf.
+
+2p   24     Geef de veranderingen op de balans van het schildersbedrijf (ten opzichte
+            van de balans vóór resultaatverdeling) aan als het resultaat op deze wijze
+            verdeeld wordt.
+            Vul hiervoor de uitwerkbijlage bij deze vraag waar nodig in.
+
+            Conclusie
+
+3p   25     Laat met een berekening zien of dit compromis voor beide partijen
+            acceptabel is en de overname doorgaat.
+
+
+
+VW-0400-a-22-3-o                              13 / 15                           lees verder ►►►
+      Opgave 6
+
+            Birgit en Moshaber hebben met behulp van hun aankoopmakelaar een
+            koopwoning gevonden en laten zich vervolgens adviseren over een
+            geschikte financieringsvorm. Na invullen van enkele gegevens, waaronder
+            de gewenste looptijd van 30 jaar, toont de rekentool van de
+            hypotheekadviseur De Hypotheker voor twee hypotheekvormen de
+            hypotheekuitgaven, voor en na belastingvoordeel.
+
+
+
+
+ gewenst hypotheekbedrag                       €329.500
+ brutojaarinkomen partner 1                    € 30.000
+ brutojaarinkomen partner 2                    € 30.000
+ gewenste looptijd                                  30 jaar
+ leeftijden partners                    35 jaar, 37 jaar
+
+
+ hypotheekvorm                                                  annuïteit        lineair
+
+
+ bereken:
+ hypotheekuitgaven voor
+ belastingvoordeel in jaar 1                                  € 14.712,15   € 17.573,33
+ hypotheekuitgaven na
+ belastingvoordeel in jaar 1                                  € 12.735,15   € 15.596,33
+
+
+
+
+VW-0400-a-22-3-o                          14 / 15                           lees verder ►►►
+            Het lijkt erop dat de annuïteitenhypotheek financieel voordeliger is dan de
+            lineaire hypotheek, zowel voor als na belastingvoordeel, maar volgens
+            De Hypotheker gelden de vermelde bedragen alleen voor het eerste jaar
+            van de lening. In bovenstaande tabel is gerekend met eenzelfde
+            interestpercentage dat de kredietverstrekker ING-bank voor beide
+            hypotheekvormen hanteert.
+
+2p   26     Wie is/zijn de hypotheekgever(s)? Motiveer het antwoord.
+
+2p   27     Leg uit dat de aflossing in het eerste jaar bij de lineaire hypotheek hoger
+            is dan de aflossing in het eerste jaar bij de annuïteitenhypotheek.
+            Motiveer het antwoord door gebruik te maken van de getoonde
+            hypotheekuitgaven voor belastingvoordeel, maar motiveer zonder een
+            berekening te maken.
+
+            De hypotheekadviseur geeft aan dat de hoogte van de hypotheekuitgaven
+            na belastingvoordeel afhankelijk is van het belastingpercentage
+            waartegen de hypotheekrente van het bruto-inkomen kan worden
+            afgetrokken. Dat percentage is niet voor iedereen gelijk.
+
+3p   28     Leid het belastingtarief af waarvan De Hypotheker is uitgegaan in
+            bovenstaande rekentool. Ga hierbij uit van de lineaire lening.
+            Vul de uitwerkbijlage bij deze vraag in.
+
+            Volgens de hypotheekadviseur zullen de hypotheekuitgaven na
+            belastingvoordeel bij de lineaire hypotheek afnemen, terwijl die bij de
+            annuïteitenhypotheek toenemen.
+
+2p   29     Leg uit, zonder gebruik te maken van een berekening, dat de
+            hypotheekuitgaven na belastingvoordeel bij de annuïteitenhypotheek elk
+            jaar toenemen.
+
+            Nu Birgit en Moshaber weten wat de financiële mogelijkheden zijn,
+            hebben ze, onder voorbehoud van financiering, een bod uitgebracht op de
+            woning. Ze hopen snel naar de notaris te kunnen.
+
+1p   30     Wat is de functie van de notaris in het aankoopproces van een huis?
+
+
+
+
+VW-0400-a-22-3-o                            15 / 15                             lees verdereinde
+                                                                                             ►►► 
+

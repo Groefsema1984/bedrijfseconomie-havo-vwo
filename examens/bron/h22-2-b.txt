@@ -1,0 +1,227 @@
+                      Bijlage HAVO
+
+                         2022
+                             tijdvak 2
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+HA-0400-a-22-2-b
+      Informatiebron 1
+
+            De balans en liquiditeitsbegroting
+
+            Balans per 1 maart 2020
+
+            debet                               Balans 1 maart 2020                        credit
+                                                  (getallen x € 1)
+            Keuken1)                         15.750     Eigen vermogen                    16.726
+            Inventaris1)                     13.000 Banklening                            15.999
+            Voorraad                           1.000 Te betalen btw                         3.750
+            Vooruitbetaalde huur 2)            1.600
+            Te vorderen btw                    1.125
+            Liquide middelen                   4.000
+                                             36.475                                       36.475
+    noot 1 Op de keuken en inventaris wordt in 2020 maandelijks in totaal € 250 afgeschreven.
+    noot 2 De huur wordt op de eerste dag van elk kwartaal vooruitbetaald. Cor heeft een
+           verlaging van de huur gekregen voor het tweede kwartaal (april tot en met juni) van
+           2020.
+
+
+
+
+HA-0400-a-22-2-b                                2/8                                   lees verder ►►►
+            Liquiditeitsbegroting (gedeeltelijk ingevuld) maart tot en met
+            mei 2020
+
+                                                                 maart          april          mei
+            ontvangsten:
+            verkopen3)                                          11.990         6.540         6.540
+            NOW                                                                ……..         ………
+            TOGS                                                               ……..         ………
+            totaal ontvangsten                                  11.990          …….          ……..
+
+
+            uitgaven4)
+            reclame5)                                              500           300            300
+                     6)
+            overig                                                 200           100            100
+            loon7)                                               6.000         6.000         6.000
+            interest banklening                                      80            78 c………
+            aflossing banklening                                   326           328 d………
+            inkopen3)                                        a……..             1.962         1.962
+            verrekening btw                                               b……….
+            huur2)                                                             3.000
+            totaal uitgaven                                       .……           …….           …….
+
+
+            verandering van liquide middelen (+                   …….           ..…..         …….
+            of -)
+            beginsaldo liquide middelen                          4.000          …….           …….
+            eindsaldo liquide middelen                            …….           …….           …….
+
+
+    noot 2 De huur wordt op de eerste dag van elk kwartaal vooruitbetaald. Cor heeft een
+           verlaging van de huur gekregen voor het tweede kwartaal (april tot en met juni) van
+           2020.
+    noot 3 De verkopen en inkopen zijn inclusief 9% btw.
+    noot 4 In de liquiditeitsbegroting komen geen privéopnames voor. Cor gaat ervan uit dat hij
+           deze niet hoeft te doen, omdat zijn partner nog inkomen heeft.
+    noot 5 Er wordt maandelijks een vast bedrag betaald. Dit bedrag kan worden aangepast, wat
+           Cor met ingang van 1 april ook doet. Het bedrag van de reclame-uitgaven is gelijk aan
+           het bedrag van de reclamekosten.
+    noot 6 Deze uitgaven zijn onafhankelijk van de omzet. Een deel, zoals abonnementen, kan
+           Cor aanpassen.
+    noot 7 Het bedrag van loonuitgaven is gelijk aan het bedrag van de loonkosten.
+
+
+
+
+HA-0400-a-22-2-b                                3/8                                     lees verder ►►►
+      Informatiebron 2
+
+            Coronaregelingen
+
+            NOW
+
+            NOW: een tegemoetkoming van de overheid in de loonkosten van
+            werknemers.
+            De NOW geldt voor alle werkgevers die werknemers in dienst hebben die
+            in Nederland sociaal verzekerd zijn. Bedrijven die gedurende de maanden
+            maart tot en met mei 2020 ten minste 20% omzetdaling hebben ten
+            opzichte van de gemiddelde maandomzet in 2019, kunnen een
+            tegemoetkoming van maximaal 90% van de loonkosten in die periode
+            krijgen.
+
+            De tegemoetkoming is naar rato van de omzetdaling. Bij een omzetdaling
+            van 100% is de tegemoetkoming 90% van de loonkosten, maar bij
+            bijvoorbeeld een omzetdaling van 50% is de tegemoetkoming 45% van de
+            loonkosten enzovoort.
+
+            Hoe bereken je de (verwachte) omzetdaling over drie maanden?
+
+            1      Wat was de omzet (exclusief btw)
+                   in het jaar 2019?
+            2      Wat is de verwachte omzet
+                   (exclusief btw) in de maanden:
+                    maart 2020
+                    april 2020
+                    mei 2020?
+            3      verwacht percentage omzetdaling:   Vergelijk hiervoor de
+                                                      gemiddelde maandomzet in de
+                                                      maanden maart tot en met mei
+                                                      2020 met de gemiddelde
+                                                      maandomzet in 2019.
+
+
+
+
+HA-0400-a-22-2-b                              4/8                         lees verder ►►►
+            TOGS
+
+            De overheid geeft ondernemers in een aantal specifieke sectoren die
+            getroffen zijn door coronamaatregelen een eenmalig vast bedrag van
+            € 4.000 via de Tegemoetkoming Ondernemers Getroffen Sectoren
+            (TOGS). Het bedrag zal in april worden uitbetaald.
+
+            Om voor de TOGS in aanmerking te komen, geldt de onderstaande
+            voorwaarde:
+            U verwacht in de periode van 1 maart 2020 tot en met 30 mei 2020 een
+            omzetdaling van minimaal € 4.000 en u verwacht in deze periode ook
+            minimaal € 4.000 aan constante kosten.
+
+
+
+
+HA-0400-a-22-2-b                           5/8                             lees verder ►►►
+      Informatiebron 3
+
+            De Net Promotor Score (NPS)
+
+
+
+
+            Positief, neutraal, negatief
+
+            Respondenten worden, op basis van het cijfer dat zij geven voor
+            klanttevredenheid, ingedeeld in 3 groepen:
+
+            Positieve klanten: dit zijn trouwe klanten die zeer tevreden zijn. Zij nemen
+            meer producten en/of diensten af en zouden jouw bedrijf aanbevelen bij
+            familie, vrienden en collega’s. Zij geven een cijfer 9 of 10.
+
+            Neutrale klanten: dit zijn klanten die redelijk tevreden zijn over het product
+            en/of dienst van jouw bedrijf, maar als een concurrent met een
+            aantrekkelijker aanbod komt, is er wel kans dat zij bij jouw bedrijf
+            weggaan. Zij geven een cijfer 7 of 8.
+
+            Negatieve klanten: dit zijn klanten die jouw bedrijf eerder zouden afraden
+            dan aanraden. Er bestaat een mogelijkheid dat deze klanten het imago
+            van jouw bedrijf kunnen beschadigen. Zij geven een cijfer van 0 tot en
+            met 6.
+
+            De NPS berekenen
+
+            Om de NPS–score te berekenen, verminder je het percentage positieve
+            klanten met het percentage negatieve klanten. De uitkomst kan
+            tussen –100% en + 100% variëren.
+
+
+
+
+HA-0400-a-22-2-b                              6/8                               lees verder ►►►
+      Informatiebron 4
+
+            De interne en externe omgeving van Fastned
+
+            1      De verkoop van Fully Electric Vehicles (FEV, volledig elektrische
+                   voertuigen) groeit sterk in 2019 en naar verwachting ook in 2020.
+                   Het marktaandeel van FEV’s in de verkoop van nieuwe auto’s neemt
+                   in alle landen waarin Fastned actief is toe.
+            2      Ook Fastned zal de gevolgen ondervinden van het coronavirus. Er zal
+                   minder auto worden gereden en de snellaadstations zullen minder
+                   worden bezocht. Ook zal de bouw van nieuwe laadstations vertraging
+                   oplopen.
+            3      Fastned is constant afhankelijk van nieuw vermogen (van private
+                   investeerders).
+            4      De missie van Fastned is vrijheid bezorgen aan mensen die
+                   elektrische voertuigen besturen en het versnellen van de transitie naar
+                   elektrische mobiliteit. Deze missie wordt door velen gesteund. Fastned
+                   kan beschikken over een team van medewerkers met een
+                   verschillende achtergrond, opleiding en leeftijd dat bijzonder
+                   gemotiveerd is.
+
+
+
+
+HA-0400-a-22-2-b                                7/8                              lees verder ►►►
+      Informatiebron 5
+
+            Informatie over het aandeel Fastned
+
+            Vóór de emissie van 22 april 2020
+
+            Vóór de emissie van 22 april 2020 zijn er 14,800.000 geplaatste aandelen
+            met een nominale waarde van € 0,01 per aandeel.
+
+            Beursinformatie Fastned op de dag vóór de emissie (21 april 2020)
+
+            Op 21 april 2020 was de koers van het aandeel Fastned bij sluiting van de
+            beurs € 9,39. Er zijn die dag slechts 3.485 aandelen Fastned verhandeld
+            op de beurs.
+
+
+
+
+HA-0400-a-22-2-b                            8/8                             lees verdereinde
+                                                                                         ►►► 
+

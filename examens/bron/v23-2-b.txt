@@ -1,0 +1,231 @@
+                       Bijlage VWO
+
+                         2023
+                              tijdvak 2
+
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-23-2-b
+      Formuleblad
+
+            Voor beantwoording van vraag 21 is de volgende formule beschikbaar.
+
+     21
+            somformule meetkundige reeks:
+
+                   rn - 1
+            S=ax
+                    r-1
+
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-23-2-b                            2/9                           lees verder ►►►
+      Informatiebron 1
+
+            Voorwaarden Tredos Bank
+
+            De bank wil de lening van € 505.000 verstrekken onder de volgende
+            voorwaarden:
+
+                  De lineaire lening heeft een looptijd van 20 jaar.
+                  Het interestpercentage is 4% per jaar.
+                  Er wordt hypotheekrecht gevestigd op het aan te kopen pand.
+                  Zowel Peter als Eline moeten een borgstelling afgeven van € 50.000.
+                  De borgstellingen vervallen definitief als de solvabiliteit (TV/VV) boven
+                   de 140% is.
+
+
+
+
+VW-0400-a-23-2-b                                 3/9                               lees verder ►►►
+      Informatiebron 2
+
+            Wat is een borgstelling?
+
+            Een borgstelling is een zogenaamd persoonlijk zekerheidsrecht. De
+            directeur-grootaandeelhouder (DGA) stelt zich met zijn privévermogen
+            garant voor de terugbetaling van (een deel van) de financiering van de bv,
+            als op enig moment zou blijken dat de bv niet aan haar
+            terugbetalingsverplichting kan voldoen. De bank kan de DGA pas als
+            privépersoon aanspreken als vaststaat dat de bv haar
+            terugbetalingsverplichting niet nakomt.
+
+            Een persoonlijke borgstelling, af te geven door de ondernemer, is vaak
+            het sluitstuk van een financieringsofferte. Bijna altijd zijn dan al diverse
+            activa van de onderneming als zekerheid verstrekt en komt daarbovenop
+            dus nog die persoonlijke borgstelling. Dat leidt nog wel eens tot
+            ongenoegen en irritatie bij ondernemers. “Waarom moet dit? Vaak zal het
+            antwoord van de bank zijn dat er persoonlijke betrokkenheid van de
+            ondernemer moet zijn. ”In hoeverre gelooft u zelf in uw plan en bent u
+            bereid zich daar persoonlijk aan te verbinden?”
+
+
+
+
+VW-0400-a-23-2-b                             4/9                               lees verder ►►►
+      Informatiebron 3
+
+            Balans Peel bv per 31 december 2021 (dus voor de aankoop van het
+            pand en financiering ervan)
+
+              debet                       Balans Peel bv per 31 december                credit
+                                               2021 (getallen x € 1)
+                                                    Maatschappelijk
+                         1)
+              Licentie                       80.000 aandelenkapitaal2)             1.000.000
+                                                       Aandelen in portefeuille      700.000
+                                                   Geplaatst
+              Voorraad                     400.000 aandelenkapitaal                  300.000
+              Debiteuren                   140.000 Reserves                            95.000
+              Liquide middelen               55.000    Crediteuren                   280.000
+              totaal                       675.000 totaal                            675.000
+
+
+   Toelichting op de balans:
+   noot 1 Licentie betreft de mogelijkheid om in Nederland te mogen verkopen.
+   noot 2 De nominale waarde van een aandeel is € 100.
+
+
+
+
+VW-0400-a-23-2-b                               5/9                                lees verder ►►►
+      Informatiebron 4
+
+            Begrote winst- en verliesrekening 2022 van Peel bv
+
+              omzet                                     1.250.000
+              inkoopwaarde van de omzet                   810.000
+              afschrijvingskosten                        ………….
+              overige kosten                              287.050
+              resultaat voor vennootschapsbelasting      ………….
+
+
+            Overzicht van de tarieven voor vennootschapsbelasting in 2022
+
+              voor het deel van het belastbare bedrag        tarief
+              tot en met € 395.000                          14,9%
+              boven € 395.000                               25,0%
+
+            Dividend en dividendbelasting
+
+            In deze casus wordt ervan uitgegaan dat de dividenduitkering en de
+            dividendbelasting van 15% in hetzelfde jaar worden betaald als het
+            behaalde resultaat.
+
+            Een organisatie die meer dan 5% aandelen in een andere organisatie
+            bezit, is uitgezonderd van dividendbelasting. Dit betekent dat HUP
+            dividend zonder aftrek van dividendbelasting ontvangt.
+
+
+
+
+VW-0400-a-23-2-b                            6/9                            lees verder ►►►
+      Informatiebron 5
+
+            Onderhandse lening oom Zuiker
+
+            Beste Eline en Peter,
+
+            Wat leuk dat ik jullie kan helpen met een onderhandse lening bij de
+            aankoop van het pand! Hieronder lezen jullie mijn voorwaarden met
+            betrekking tot de lening.
+
+                  Het geleende bedrag is …<antwoord vraag 14>…
+                  Ingangsdatum is 1 januari 2022.
+                  Er is geen hypotheekrecht op het pand.
+                  De looptijd is 20 jaar.
+                  De annuïteit is € 15.165,85 per jaar.
+                  Het interestpercentage is 5% per jaar.
+
+            De cashflow na vennootschapsbelasting over 2022 van Peel bv moet
+            minimaal € 130.000 zijn.
+
+            Als jullie aan mijn voorwaarden kunnen voldoen, ben ik bereid jullie een
+            bedrag uit te lenen.
+
+            Met vriendelijke groet,
+
+            Oom Piet Zuiker
+
+
+
+
+VW-0400-a-23-2-b                            7/9                              lees verder ►►►
+      Informatiebron 6
+
+            De geboorte van een nieuw bedrijf
+
+            VDL Groep bv is een internationaal industrieel familiebedrijf dat zich
+            toelegt op de ontwikkeling, productie en verkoop van halffabricaten,
+            bussen en overige eindproducten en de assemblage van personenauto’s.
+            VDL groep innoveert door een combinatie van vakmanschap,
+            ondernemerschap en hoogwaardige machines.
+
+            Koninklijke D.S.M. nv is een wereldwijd, “purpose-led” bedrijf dat
+            maatschappelijk verantwoord ondernemen hoog op de agenda heeft staan
+            en actief is op het gebied van gezondheid, voeding en duurzaam leven.
+
+            In het najaar van 2020 hebben VDL en D.S.M. een gezamenlijk bedrijf,
+            Dutch PPE Solutions, opgericht dat D.S.M.’s specialistische expertise van
+            materialen combineert met de kennis van productieprocessen van VDL.
+            Dutch PPE Solutions richt zich in eerste instantie op medische
+            mondkapjes (type FFP2) voor de gezondheidszorg in Nederland.
+            Dutch PPE breidt de productie uiteindelijk uit met mondkapjes met een
+            aangepaste filterlaag voor professionals in andere beroepsgroepen en
+            voor consumenten in heel Europa.
+
+            Voor de distributie van (medische) mondkapjes worden apotheken,
+            drogisterijen en de groothandel ingeschakeld. Afhankelijk van de grootte
+            van de bestelling wordt er een korting gegeven aan de distributeur.
+
+
+
+
+VW-0400-a-23-2-b                            8/9                              lees verder ►►►
+      Informatiebron 7
+
+            Verwachtingen en realisaties Dutch PPE in het vierde
+            kwartaal 2020
+
+                                           verwachtingen           realisaties vierde
+                                           vierde kwartaal                   kwartaal
+                                                     2020                        2020
+              aantal mondkapjes                    …………..                    2.040.000
+              omzet                            € 2.700.000               € 2.626.500
+              verkoopresultaat                 …………….                    €     382.500
+
+
+              bezettingsresultaat              €    19.200               €       9.600
+
+
+              budgetresultaat
+              op filtermateriaal               €         0              ………………
+              ten gevolge van:
+                  efficiencyresultaat                                 -/- €    40.800
+                  prijsresultaat                                       ………………
+              overige budgetresultaten          €        0             -/- €    15.750
+
+
+
+
+VW-0400-a-23-2-b                         9/9                              lees verdereinde
+                                                                                       ►►► 
+

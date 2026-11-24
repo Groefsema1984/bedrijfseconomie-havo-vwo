@@ -1,0 +1,517 @@
+                                                                 Examen HAVO
+
+                                                                       2021
+                                                                              tijdvak 1
+                                                                     maandag 17 mei
+                                                                     13.30 - 16.30 uur
+
+
+                                                              bedrijfseconomie
+
+
+
+
+Bij dit examen horen een bijlage en een uitwerkbijlage.
+
+
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 29 vragen.
+Voor dit examen zijn maximaal 61 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening gevraagd wordt, worden aan
+het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-0400-a-21-1-o
+       Opgave 1
+
+            Het ICT bedrijf Kanon bv wil zeggenschap verwerven binnen een
+            software-ontwikkelingsbedrijf: Ace. Hierdoor kunnen de belangen van
+            Kanon beter gewaarborgd worden. Kanon verwerft op 30 november 2020
+            15% van de geplaatste aandelen van Acé tegen de beurskoers € 8,60 per
+            aandeel Acé. Deze beurskoers ligt 37% boven de gemiddelde koers van
+            Acé van de laatste 12 maanden voor het overnamebod.
+
+1p     1    Bereken de gemiddelde koers van Acé van de laatste 12 maanden voor
+            het overnamebod. Rond hierbij af op hele centen.
+
+            Hieronder is een deel van de creditzijde van de balans van Acé per
+            30 november 2020 vermeld.
+
+                           getallen  € 1
+            Aandelenkapitaal                           42.441.000
+            Agioreserve                               512.026.000
+                                                 - 1)
+            Algemene reserve                      /-   91.870.000
+            Winstreserve                             169.742.000
+            Eigen vermogen                           632.339.000
+
+     noot 1 - /- betekent negatief
+
+
+            De nominale waarde van een aandeel Acé bedraagt € 0,50.
+
+2p     2    Bereken het bedrag dat Kanon voor het gewenste aandelenpakket Acé
+            biedt.
+
+
+
+
+HA-0400-a-21-1-o                            2 / 15                          lees verder ►►►
+            Op de balans van Kanon komen onder andere de volgende posten voor:
+             Deelnemingen, als onderdeel van de financiële vaste activa
+             Effecten
+
+2p    3     Motiveer onder welke balanspost (Deelnemingen of Effecten) bij Kanon de
+            gekochte aandelen Acé opgenomen zullen worden. Betrek in de motivatie
+            zowel “Deelnemingen” als “Effecten”.
+
+
+
+
+HA-0400-a-21-1-o                          3 / 15                          lees verder ►►►
+      Opgave 2
+
+            Bij deze opgave horen de informatiebronnen 1 en 2.
+
+            In deze opgave blijft de btw buiten beschouwing.
+
+
+
+
+            Telefoonprovider Super Mobile betrad per 1 januari 2020 de Nederlandse
+            markt. Om ontevreden klanten beter van dienst te kunnen zijn, startte
+            Super Mobile op 1 oktober 2020 met een proef: een eigen callcenter. Het
+            callcenter verwerkt vragen, klachten, wijzigingsverzoeken en dergelijke
+            naar aanleiding van binnenkomende telefoontjes, e-mails en
+            chatberichten.
+            Over de proef is het volgende bekend:
+
+                  Het callcenter is gevestigd in hetzelfde gebouw als het hoofdkantoor
+                   en kan daar gebruikmaken van services zoals HRM (Human Resource
+                   Management) en ICT.
+                  Het callcenter ontvangt van het hoofdkantoor een vergoeding per
+                   klantcontact om de kosten te dekken.
+                  De proef wordt in januari 2021 geëvalueerd.
+
+
+
+
+HA-0400-a-21-1-o                              4 / 15                          lees verder ►►►
+            Nieuwe medewerkers
+
+            De afdeling HRM had voor de te verrichten werkzaamheden in het
+            callcenter een voorkeur voor het in loondienst nemen van werknemers
+            boven het contracteren van zzp’ers.
+
+2p    4     Geef twee niet-financiële redenen waarom HRM-afdelingen er de
+            voorkeur aan geven om voor te verrichten werkzaamheden werknemers in
+            loondienst te nemen in plaats van zzp’ers te contracteren.
+
+            Er werden 15 werknemers aangesteld. Deze kregen een individuele
+            arbeidsovereenkomst voor bepaalde tijd. De duur van de
+            arbeidsovereenkomst is van 1 oktober 2020 tot en met 31 januari 2021.
+
+2p    5     Noem twee voordelen voor Super Mobile van een individuele
+            arbeidsovereenkomst voor bepaalde tijd in vergelijking met een
+            individuele arbeidsovereenkomst voor onbepaalde tijd.
+
+            Evaluatie van de proefperiode
+
+            De directie van Super Mobile beoordeelt het functioneren van het
+            callcenter in het vierde kwartaal van 2020 op basis van financiële en niet-
+            financiële prestaties. Zij zal overwegen het callcenter te continueren als
+            voldaan wordt aan twee criteria:
+
+                  de niet-financiële prestaties van het callcenter leveren een voldoende
+                   (≥ 6,0) rapportcijfer op;
+                  het gerealiseerde financiële resultaat van het callcenter over het
+                   vierde kwartaal 2020 is positief.
+
+            Niet-financiële prestaties (zie informatiebron 1)
+
+3p    6     Bereken het rapportcijfer van het callcenter voor de niet-financiële
+            prestaties.
+            Ga hierbij als volgt te werk:
+             Beantwoord de vraag of tabel 1 de kritische succesfactoren of de
+               prestatie-indicatoren bevat.
+             Koppel de kritische succesfactoren aan de bijbehorende prestatie-
+               indicatoren.
+             Bereken vervolgens het gewogen gemiddelde rapportcijfer.
+
+
+
+
+HA-0400-a-21-1-o                               5 / 15                            lees verder ►►►
+            Financiële prestaties
+
+6p    7     Bereken het gerealiseerde resultaat van het callcenter over het vierde
+            kwartaal van 2020 (zie informatiebron 2).
+            Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.
+
+            Uit de evaluatie van de proefperiode blijkt dat niet aan alle criteria wordt
+            voldaan.
+            De directie van het hoofdkantoor gaat in januari 2021 in overleg met de
+            ondernemingsraad (OR). De directie maakt aan de OR van
+            Super Mobile bekend dat zij overweegt om het callcenter per
+            1 februari 2021 te sluiten (optie B, zie onder). De OR adviseert om het
+            callcenter niet te sluiten, omdat het niet in het belang van de onderneming
+            is. De directie neemt dit advies echter niet over. Desondanks komt de OR
+            met een tegenvoorstel (optie A, zie onder).
+
+            De OR heeft in het algemeen vier bevoegdheden of rechten. De OR van
+            Super Mobile maakt al gebruik van haar adviesrecht.
+
+1p    8     Van welk ander recht maakt de OR van Super Mobile gebruik?
+
+            De opties houden in:
+             Optie A: de OR stelt een hogere vergoeding per klantcontact door het
+               hoofdkantoor voor, waardoor het callcenter kostendekkend wordt.
+             Optie B: de directie sluit het eigen callcenter en gaat gebruikmaken
+               van een extern callcenter in India (outsourcing) per 1 februari 2021
+               tegen betaling van een tarief per afgenomen uur dienstverlening.
+
+            Uitwerking optie A
+
+1p    9     Bereken hoe hoog de vergoeding per gerealiseerd klantcontact zal
+            moeten zijn, zodat het callcenter tenminste kostendekkend is in het eerste
+            kwartaal 2021. Ga hierbij uit van hetzelfde aantal gerealiseerde
+            klantcontacten en dezelfde kosten als in het vierde kwartaal 2020.
+
+
+
+
+HA-0400-a-21-1-o                            6 / 15                             lees verder ►►►
+            Deze hogere vergoeding wordt door de directie van Super Mobile
+            afgewezen. Daarom resteert alleen optie B.
+
+            Uitwerking optie B
+
+            Bij outsourcing zijn de computers van het callcenter nog op een andere
+            afdeling te gebruiken. Dat speelt dus geen rol bij de keuze om wel of niet
+            optie B uit te voeren.
+            Het gebruik van outsourcing heeft een positief financieel effect. Bij
+            outsourcing wordt alleen voor productieve tijd betaald, dat wil zeggen voor
+            de tijd dat er contact is met een klant. Er wordt niet betaald voor de tijd
+            om te wachten op een oproep, voor koffiepauzes of voor scholingstijd,
+            zoals in het eigen callcenter wel het geval is.
+
+                                       gebruik van 1 betaald uur                aantal
+                                                                            klantcontacten
+                                                                              per betaald
+                                                                                  uur
+            eigen callcenter      48 minuten            12 minuten
+                                  productief            niet productief          8
+            outsourcing           60 minuten                                 ……………..
+                                  productief                                (vraag 11)
+
+1p    10    Toon aan dat in het eigen callcenter het aantal gerealiseerde
+            klantcontacten per betaald uur 8 is (zie informatiebron 2).
+
+            De duur van een klantcontact is bij het eigen callcenter even lang als bij
+            outsourcing.
+
+1p    11    Bereken het aantal klantcontacten per betaald uur indien gekozen wordt
+            voor outsourcing.
+
+            Ga voor de beantwoording van vraag 12 en 13 uit van het aantal
+            gerealiseerde contacten in het vierde kwartaal 2020.
+
+1p    12    Bereken het totale aantal benodigde uren indien gekozen wordt voor
+            outsourcing.
+
+            Het tarief per uur dat het externe callcenter vraagt is € 30.
+
+            De directie stelt dat de totale kosten per kwartaal van het eigen callcenter
+            hoger zijn dan de totale kosten per kwartaal bij outsourcing bij elke
+            vergoeding door het hoofdkantoor.
+
+1p    13    Toon dit aan.
+
+
+
+
+HA-0400-a-21-1-o                             7 / 15                              lees verder ►►►
+      Opgave 3
+
+            Piet verdiept zich in de wereld van het beleggen. Hij onderzoekt
+            beleggingen in obligaties met korte looptijd en obligaties met lange
+            looptijd.
+
+2p    14    Noem een voordeel voor een belegger van obligaties met een korte
+            looptijd ten opzichte van obligaties met een lange looptijd. Motiveer het
+            antwoord.
+
+            Een brede spreiding van de beleggingsportefeuille over obligaties van
+            verschillende uitgevende partijen is van groot belang. Daarbij geldt: hoe
+            … (1) … de kredietwaardigheid van de uitgevers van de obligaties,
+            hoe … (2) … spreiding noodzakelijk is.
+            Een belegger die obligaties van een onderneming in bezit heeft, is …(3)…
+            van die onderneming.
+
+3p    15    Maak bovenstaande zinnen economisch correct. Kies uit:
+            bij (1) lager / hoger
+            bij (2) meer / minder
+            bij (3) een schuldeiser / een schuldenaar
+
+            Stelling: een belegger kan in jaren van een verwacht dalend
+            interestpercentage op de kapitaalmarkt beter kiezen voor een belegging in
+            aandelen dan in obligaties.
+
+2p    16    Geef een argument voor deze stelling.
+
+
+
+
+HA-0400-a-21-1-o                            8 / 15                             lees verder ►►►
+            Piet is een belegger die hoopt dat hij zijn studerende kinderen
+            over 12 jaar financieel kan ondersteunen. Een adviseur vertelt Piet dat hij
+            daarom nu alvast in aandelen moet gaan beleggen in plaats van
+            obligaties.
+
+1p    17    Geef een economisch argument om in deze situatie te beleggen in
+            aandelen in plaats van in obligaties.
+
+
+
+
+HA-0400-a-21-1-o                            9 / 15                            lees verder ►►►
+      Opgave 4
+
+            Edo en Jesse hebben op 1 januari 2019 een woning gekocht zonder
+            Nationale Hypotheek Garantie (NHG).
+
+            W. Assuur heeft Edo en Jesse bij de keuze van een geschikte
+            hypothecaire lening geholpen. Zij heeft hen onder andere gewezen op
+            twee aflossingsvormen: lineair of door middel van annuïteiten.
+            De gekozen hypothecaire lening heeft een looptijd van 30 jaar en een vast
+            interestpercentage gedurende 10 jaar. De hypotheekakte is opgemaakt op
+            het kantoor van H. van den Bergh.
+
+            In onderstaande grafiek zijn voor 2019, 2020 en 2021 de waarde van de
+            woning van Edo en Jesse en hun hypothecaire schuld in beeld gebracht.
+            Alle bedragen zijn per 1 januari.
+
+
+
+
+2p    18    Leg met behulp van bovenstaande grafiek en een berekening uit voor
+            welke vorm van aflossing Edo en Jesse hebben gekozen.
+
+            Tijdens het koopproces van de woning hebben Edo en Jesse te maken
+            gekregen met de kredietverstrekker en drie andere beroepsgroepen: de
+            hypotheekadviseur, de makelaar en de notaris.
+
+2p    19    Geef voor zowel W. Assuur als voor H. van den Bergh aan tot welke van
+            deze drie beroepsgroepen deze persoon behoort.
+
+
+
+
+HA-0400-a-21-1-o                          10 / 15                           lees verder ►►►
+              De basisinterest die de kredietverstrekker in rekening brengt, is de
+              interest voor hypothecaire leningen met NHG. NHG is een borgstelling
+              voor de kredietverstrekker. Wanneer de geldlener in betalingsgebreke
+              blijft, kan de kredietverstrekker zich wenden tot NHG. NHG is er alleen
+              voor woningen tot een maximale aankoopprijs van € 310.000 (in 2020).
+              Bovenop deze basisinterest komt een interestopslag die afhangt van de
+              verhouding tussen hypothecaire schuld en woningwaarde (hypothecaire
+              schuld / woningwaarde x 100%).
+
+              In de onderstaande tabel zijn de interestpercentages te zien die de
+              kredietverstrekker hanteert.
+
+
+                               (hypothecaire schuld / woningwaarde) x 100% zonder NHG
+ vast              basis-     ≤40%    ≤50%    ≤60%      ≤70%    ≤80%    ≤90%    ≤100%   >100%
+ interest-         interest
+ percentage        met
+ gedurende         NHG
+ periode:
+     1 jaar        1,20%      1,25%   1,30%   1,35%     1,40%   1,50%   1,55%   1,60%   1,85%
+     2 jaar        1,24%      1,29%   1,34%   1,39%     1,44%   1,54%   1,59%   1,64%   1,89%
+     5 jaar        1,25%      1,30%   1,35%   1,40%     1,45%   1,55%   1,60%   1,65%   1,90%
+     6 jaar        1,26%      1,31%   1,36%   1,41%     1,46%   1,56%   1,61%   1,66%   1,91%
+ 10 jaar           1,33%      1,38%   1,43%   1,48%     1,53%   1,63%   1,68%   1,73%   1,98%
+ 12 jaar           1,64%      1,69%   1,74%   1,79%     1,84%   1,94%   1,99%   2,04%   2,29%
+ 15 jaar           1,72%      1,77%   1,82%   1,87%     1,92%   2,02%   2,07%   2,12%   2,37%
+ 20 jaar           1,80%      1,85%   1,90%   1,95%     2,00%   2,10%   2,15%   2,20%   2,45%
+ 30 jaar           2,14%      2,19%   2,24%   2,29%     2,34%   2,44%   2,49%   2,54%   2,79%
+
+
+
+2p    20      Leg uit dat de kredietverstrekker de hoogte van de interestopslag laat
+              afhangen van de verhouding hypothecaire schuld en woningwaarde,
+              gemeten via (hypothecaire schuld / woningwaarde x 100%).
+
+2p    21      Bereken de opslag op de basisinterest met NHG die de kredietverstrekker
+              heeft toegepast bij het afsluiten van de lening van Edo en Jesse in 2019.
+              Gebruik zowel de grafiek als de tabel.
+
+
+
+
+HA-0400-a-21-1-o                              11 / 15                              lees verder ►►►
+      Opgave 5
+
+            Bij deze opgave horen de informatiebronnen 3 tot en met 5.
+
+            Willem en Liesbeth zijn in gemeenschap van goederen getrouwd en
+            hebben een zoon (Ivan) en een kleinkind (Erik, kind van Ivan). Willem en
+            Liesbeth wonen al jaren in een sociale huurwoning. In 2013 hebben ze
+            een geldprijs van € 55.000 netto in de loterij gewonnen. Ze nemen zich
+            voor om Ivan en Erik eind 2020 een bedrag te schenken.
+
+            Het gewonnen geld hebben ze op 1 januari 2014 op een spaardeposito
+            gestort (zie informatiebron 3). Op 1 januari 2016 hebben ze eenmalig
+            € 5.000 op deze rekening bijgestort. Willem en Liesbeth hebben geen
+            ander vermogen dan het spaardeposito.
+
+            Willem en Liesbeth hebben in 2020 een te groot vermogen en daardoor
+            geen recht op huurtoeslag in 2020 (zie informatiebron 4).
+
+3p    22    Toon aan dat Willem en Liesbeth in het jaar 2020 geen recht hebben op
+            huurtoeslag. Bereken hiervoor het saldo op het spaardeposito op
+            1 januari 2020.
+
+1p    23    Bereken het bedrag aan huurtoeslag dat Willem en Liesbeth in 2020 zijn
+            misgelopen doordat ze geen recht meer hadden op huurtoeslag.
+
+            De schenkingsplannen van eind 2020 worden bijgesteld.
+            Willem en Liesbeth hebben op dat moment een slechte relatie met Ivan en
+            besluiten om op 31 december 2020 alleen een schenking van € 10.000 te
+            doen aan hun kleinkind Erik.
+
+2p    24    Bereken de schenkbelasting over de schenking aan Erik (zie
+            informatiebron 5).
+
+            Om de schenking aan Erik te kunnen betalen, nemen Willem en Liesbeth
+            op 31 december 2020 eenmalig een bedrag van het spaardeposito op, na
+            aftrek van de boete.
+            Diezelfde dag nog maken ze de schenking over aan Erik.
+            De schenking aan Erik kan gevolgen hebben voor het recht op
+            huurtoeslag over 2021 en 2022.
+
+            Vermogen onder de vermogensgrens?
+
+4p    25    Toon met een berekening van het vermogen van Willem en Liesbeth aan
+            dat zij nu zowel in 2021 als in 2022 wel recht zullen hebben op
+            huurtoeslag. Geef de berekening voor zowel 2021 als voor 2022.
+            Ga er hierbij van uit dat de vermogensgrens in 2021 en 2022 gelijk is aan
+            die in 2020.
+
+
+HA-0400-a-21-1-o                           12 / 15                           lees verder ►►►
+            De buurman heeft nog een tip voor Willem en Liesbeth in verband met
+            hun slechte relatie met Ivan. De tip houdt in: “onterf Ivan en verklein door
+            middel van schenkingen aan Erik de legitieme portie van Ivan.”
+
+2p    26    Leg uit wat de buurman met deze tip bedoelt.
+            Ga hierbij als volgt te werk:
+             Wat wordt verstaan onder legitieme portie?
+             Leg uit dat door schenkingen de legitieme portie van Ivan afneemt.
+
+
+
+
+HA-0400-a-21-1-o                            13 / 15                             lees verder ►►►
+      Opgave 6
+
+            In deze opgave is het btw-tarief 21%.
+
+            Annemiek en haar zakenpartner Rianna hebben een
+            relatiebemiddelingsbureau: Only1 vof. De administratie wordt door
+            Annemiek gedaan. Op 30 december 2020 heeft ze onderstaande
+            (gedeeltelijk ingevulde) overzichten opgesteld voor de nog niet afgesloten
+            maand december 2020.
+
+                     Liquiditeitsoverzicht van december 2020, getallen x € 1
+            uitgaven                                 ontvangsten
+            marketing                       555 relatiebemiddeling                9.680
+            huur                                -
+            overig                          250
+            afgedragen btw                2.800
+            privé-onttrekking Rianna      2.000
+            privé-onttrekking
+            Annemiek                      3.000
+            ………….                      ………….
+            ………….                      ………….
+            ………….                      ………….
+            ………….                      ………….
+
+
+
+                   Winst- en verliesrekening over december 2020, getallen x € 1
+            kosten                                   opbrengsten
+            marketingkosten                  450 relatiebemiddeling               7.500
+            huurkosten                       460
+            overige kosten                   240
+            afschrijvingskosten              200
+            …………….                     ………….
+            ……………                      ………….
+            …………….                     ………….
+            …………….                     ………….
+            …………….                     ………….
+            …………….                     ………….
+
+
+
+
+HA-0400-a-21-1-o                           14 / 15                           lees verder ►►►
+            Annemiek moet op 31 december 2020 nog enkele financiële feiten in deze
+            overzichten verwerken.
+
+            a      Only1 heeft een banklening. Op 31 december 2020 worden de
+                   interest van € 600 over geheel 2020 en de jaarlijkse aflossing van
+                   € 2.000 betaald.
+            b      Op 31 december 2020 komen er nog ontvangsten binnen van facturen
+                   die in november zijn verzonden voor verleende bemiddelingsdiensten
+                   van Only1. Het gaat om een totaalbedrag van € 2.178 inclusief 21%
+                   btw. De btw is al eerder verrekend met de Belastingdienst.
+
+            Only1 bepaalt het resultaat elke maand.
+
+4p    27    Geef voor elk van de twee financiële feiten (a en b) aan wat de
+            consequenties ervan zijn voor zowel het liquiditeitsoverzicht als de winst-
+            en verliesrekening.
+            Vul hiervoor de uitwerkbijlage bij deze vraag volledig in (naam van de
+            post, bedrag en juiste plek).
+
+            Volgens de overeenkomst met de kredietverstrekker mag het eigen
+            vermogen van Only1 aan het einde van een maand nooit minder zijn dan
+            aan het begin van die maand.
+
+3p    28    Toon met een berekening aan of Only1 zich op 31 december 2020 aan
+            deze overeenkomst met de kredietverstrekker houdt.
+
+            Annemiek vertelt haar zakenpartner Rianna, dat ze in de maand februari
+            2021 met haar levenspartner Nick wil gaan trouwen. Op dit moment
+            hebben Annemiek en Nick een samenlevingscontract. Om de kosten van
+            de notaris te voorkomen, trouwt Annemiek het liefst in wettelijke
+            (beperkte) gemeenschap van goederen, maar Nick is bang dat er dan een
+            kans bestaat dat hij in dat geval ook opdraait voor de schulden van Only1.
+
+2p    29    Met welke aanpassing van de rechtsvorm van Only1 kunnen de zorgen
+            van Nick worden weggenomen? Motiveer het antwoord.
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+HA-0400-a-21-1-o                                         15 / 15                                          lees verdereinde
+                                                                                                                       ►►► 
+

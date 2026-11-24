@@ -1,0 +1,564 @@
+                                                                   Examen VWO
+
+                                                                       2021
+                                                                              tijdvak 2
+                                                                     woensdag 23 juni
+                                                                     13.30 - 16.30 uur
+
+
+                                                               bedrijfseconomie
+
+
+
+
+Bij dit examen horen een bijlage en een uitwerkbijlage.
+Achter het correctievoorschrift is een aanvulling op het correctievoorschrift opgenomen.
+
+
+
+
+Dit examen bestaat uit 29 vragen.
+Voor dit examen zijn maximaal 63 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening gevraagd wordt, worden
+aan het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+VW-0400-a-21-2-o
+      Opgave 1
+
+            De creditzijde van de balans per 1 januari 2019 van Duijff Diervoeders nv
+            uit Castenray ziet er als volgt uit:
+
+                                             (getallen x € 1)
+              Maatschappelijk
+              aandelenkapitaal                 900.000
+              Aandelen in portefeuille         300.000
+              Geplaatst
+              aandelenkapitaal                                    600.000
+              Agioreserve                                        2.000.000
+              Algemene Reserve                                   3.750.000
+              Voorzieningen                                       820.000
+              Langlopende leningen                               5.500.000
+              Kortlopende leningen                                930.000
+                                                                13.600.000
+
+            Verder is gegeven:
+             De nominale waarde van een aandeel is € 2,50.
+             De beurskoers van een aandeel per 1 januari 2019 is € 25.
+             De intrinsieke waarde van een aandeel per 1 januari 2019 is € 26,46.
+
+2p    1     Geef een mogelijke oorzaak dat de beurskoers van een aandeel afwijkt
+            van de intrinsieke waarde per aandeel.
+            Betrek in het antwoord zowel de beurskoers als de intrinsieke waarde per
+            aandeel.
+
+            Dividendbeleid 2011 - 2018
+
+                  Aan aandeelhouders werd, indien het resultaat na
+                   vennootschapsbelasting dit toeliet, een dividend van € 0,40 per
+                   aandeel beschikbaar gesteld.
+                  Het restant werd aan de Algemene Reserve toegevoegd.
+
+            Dividendbeleid vanaf 2019
+
+            De directie merkt op dat aandeelhouders in 2019 bij een relatief hoog
+            resultaat teleurgesteld zijn als het dividend niet meestijgt met de groei van
+            het resultaat. De directie heeft een voorstel voor de verdeling van het
+            resultaat vanaf 2019 gepresenteerd.
+
+
+
+
+VW-0400-a-21-2-o                               2 / 16                           lees verder ►►►
+            Het positieve resultaat na vennootschapsbelasting wordt in onderstaande
+            volgorde verdeeld:
+             Er wordt € 50.000 toegevoegd aan de Algemene Reserve.
+             Aan aandeelhouders wordt € 0,40 dividend per aandeel beschikbaar
+                gesteld. Indien nodig wordt hiervoor de Dividendreserve aangewend.
+                Met ingang van de verdeling van het resultaat over 2019 wordt een
+                Dividendreserve op de balans opgenomen.
+             Van een eventueel restant wordt de ene helft als dividend aan de
+                aandeelhouders beschikbaar gesteld en de andere helft toegevoegd
+                aan de Dividendreserve.
+
+            De Algemene Vergadering van Aandeelhouders heeft dit voorstel
+            goedgekeurd.
+
+            Over de jaren 2019 en 2020 zijn de volgende gegevens bekend:
+
+              jaar             resultaat na vennootschapsbelasting in €
+              2019             279.500
+              2020              92.000
+
+            In 2019 zijn er geen nieuwe aandelen geplaatst.
+
+3p    2     Bereken het bedrag dat als gevolg van de verdeling van het resultaat over
+            2019 aan de Dividendreserve wordt toegevoegd.
+
+2p    3     Bereken de grootte van de Dividendreserve nadat de uitkeringen van het
+            resultaat van 2020 aan de aandeelhouders verwerkt zijn.
+
+
+
+
+VW-0400-a-21-2-o                           3 / 16                           lees verder ►►►
+      Opgave 2
+
+            Bij deze opgave horen de informatiebronnen 1 tot en met 4.
+
+            In deze opgave blijven de belastingen buiten beschouwing.
+
+
+
+
+            Broekenhuis nv is een landelijke keten van broekenwinkels. De keten richt
+            zich op consumenten in grote steden. De missie van Broekenhuis luidt
+            sinds de oprichting in 2010:
+
+            In elke stad in Nederland met meer dan 100.000 inwoners staat in 2025
+            minimaal één Broekenhuis.
+
+            Een medewerker van de afdeling Marketing van Broekenhuis bekritiseert
+            deze missie: ‘De markt voor kleding anno 2021 is anders dan die in 2010.
+            Vooral door het toegenomen fenomeen ‘showrooming’
+            (zie informatiebron 1) zie ik zeker gevaar voor de winstgevendheid van
+            kledingwinkels zonder webwinkel. Ik vraag me af of we wel nieuwe
+            vestigingen moeten openen.’
+
+
+
+
+VW-0400-a-21-2-o                           4 / 16                           lees verder ►►►
+            In het concurrentiemodel van Porter worden vijf krachten beschreven die
+            het winstpotentieel van een markt bepalen.
+
+
+
+
+2p    4     Geef van twee krachten uit het model van Porter aan op welke wijze de
+            opkomst van webwinkels het winstpotentieel van kledingwinkels zonder
+            webwinkel bedreigt. Motiveer het antwoord.
+
+            Ondanks de kritiek van de medewerker besluit de directie toch meer
+            vestigingen te openen.
+            Op 1 januari 2021 zijn er nog vier steden met meer dan 100.000 inwoners
+            die geen Broekenhuis hebben (zie informatiebron 2). De directie wil in de
+            periode 2021 tot en met 2025 in deze vier steden een Broekenhuis gaan
+            realiseren.
+            De directie wil het plan doorzetten indien ze hiervoor de financiering kan
+            regelen.
+
+            De directie kiest ervoor om te starten in die stad met het verwachte
+            hoogste marktaandeel op basis van de omzet in 2021 en niet in een stad
+            op basis van de verwachte grootste omzet in 2021.
+
+2p    5     Toon met behulp van een berekening van het verwachte marktaandeel op
+            basis van de omzet van Apeldoorn aan dat Apeldoorn niet de eerste stad
+            is waarin Broekenhuis een nieuwe vestiging zal openen (zie
+            informatiebron 2).
+
+
+
+
+VW-0400-a-21-2-o                            5 / 16                           lees verder ►►►
+            Financieringsbehoefte
+
+            Voor de aankoop en verbouwing van deze vier vestigingen
+             moet er naar schatting van 2021 tot en met 2025 maandelijks op de
+               laatste dag van de maand een bedrag van € 250.000 per keer worden
+               betaald aan aannemers. De eerste betaling is op 31 januari 2021 en
+               de laatste betaling is op 31 december 2025.
+             moeten er naar schatting de volgende eenmalige grotere betalingen
+               voor de aankoop van bedrijfspanden worden gedaan:
+               • op 1 januari 2021: € 2.000.000
+               • op 1 januari 2023: € 3.000.000
+               • op 1 januari 2025: € 5.000.000
+
+            Vanwege de lage rentestand wordt al het geld dat nodig is om alle
+            bovenstaande toekomstige betalingen te kunnen doen in één keer
+            aangetrokken op 1 januari 2021. Van deze betalingen wordt de contante
+            waarde per 1 januari 2021 berekend. De verwachte gemiddelde
+            marktrente van 0,02% samengestelde interest per maand wordt hierbij als
+            rekenrente gebruikt.
+
+4p    6     Toon met behulp van een berekening aan dat, afgerond op een veelvoud
+            van € 1.000, de contante waarde van de toekomstige betalingen op
+            1 januari 2021 in totaal afgerond € 24.847.000 is (zie formuleblad).
+
+            Financieringsplan
+
+            Het benodigde bedrag van € 24.847.000 zal op drie manieren worden
+            verkregen (zie informatiebron 3).
+
+            De emissiekoers van de converteerbare obligaties is 125%.
+
+2p    7     Geef twee bedrijfseconomische redenen waarom beleggers bereid zijn
+            voor een converteerbare obligatie meer dan de nominale waarde te
+            betalen.
+
+            De directie van Broekenhuis wilde aanvankelijk zoveel mogelijk
+            financieren met eigen vermogen, de aandeelhouders wilden zoveel
+            mogelijk financieren met vreemd vermogen. Uiteindelijk is er een
+            compromis gevonden in de uitgifte van een converteerbare
+            obligatielening.
+
+2p    8     Leg uit waarom de uitgifte van een converteerbare obligatielening hier als
+            een compromis van vreemd vermogen en eigen vermogen kan worden
+            gezien.
+
+
+
+
+VW-0400-a-21-2-o                            6 / 16                           lees verder ►►►
+            De aandeelhouders stellen een maximum aan het aantal uit te geven
+            aandelen.
+
+2p    9     Geef twee bedrijfseconomische redenen waarom de aandeelhouders een
+            eis stellen aan het maximumaantal uit te geven aandelen.
+
+            In informatiebron 4 is de balans van Broekenhuis per 31 december 2020
+            weergegeven.
+
+            Door de solvabiliteitseis kan niet het gehele bedrag van € 24.847.000 in
+            de vorm van vreemd vermogen worden aangetrokken, omdat er een
+            maximum is aan het totale vreemd vermogen per 1 januari 2021.
+
+2p   10     Bereken de maximale hoogte van het totale vreemd vermogen per
+            1 januari 2021 na het aantrekken van € 24.847.000.
+
+6p   11     Toon met behulp van een berekening aan of de directie van Broekenhuis
+            het plan zal doorzetten.
+            Vul hiertoe de uitwerkbijlage bij deze vraag volledig in.
+
+
+
+
+VW-0400-a-21-2-o                            7 / 16                           lees verder ►►►
+      Opgave 3
+
+            In deze opgave is de btw 9%.
+
+
+
+
+            Wie in Rijnmond een ijsje wil halen, gaat al snel naar IJsbrand IJs. Al
+            decennia lang heeft de eigenaar IJsbrand Bol hier een ijsspeciaalzaak,
+            waar hij ambachtelijk schepijs verkoopt. Om meer nostalgie uit te stralen,
+            heeft IJsbrand in 2017 besloten om een ondertitel toe te voegen aan zijn
+            bedrijfsnaam. Deze luidt sindsdien:
+
+            IJsbrand IJs
+            onwijs lekker ijs sinds 1978
+
+1p   12     Tot welke P van de marketingmix behoort de toevoeging van een
+            ondertitel?
+
+            Als je bij IJsbrand IJs een ijsje koopt, krijg je één grote bol op de
+            befaamde ijsbrandhoorn. Het is niet mogelijk om meerdere bollen ijs op
+            één hoorn te krijgen.
+
+
+
+
+VW-0400-a-21-2-o                            8 / 16                            lees verder ►►►
+            Voor het bepalen van het voorcalculatorisch bedrijfsresultaat over 2021
+            heeft IJsbrand de volgende gegevens beschikbaar:
+
+              verwachte afzet                       20.000 stuks        hoorn + bol ijs
+              normale afzet                         25.000 stuks        hoorn + bol ijs
+              verkoopcapaciteit                     50.000 stuks        hoorn + bol ijs
+              kosten ingrediënten: hoorn            € 0,21              per hoorn
+              kosten ingrediënten: ijs              € 19,00             per 5 liter ijs1)
+              verwachte constante kosten            € 15.000            per jaar
+              resultaat per product                 50%                 van de verkoopprijs
+                                                                        exclusief btw
+              btw                                   9%
+
+     noot 1 Uit één liter ijs worden standaard 20 bollen ijs gehaald.
+
+
+3p    13    Bereken de voorgecalculeerde verkoopprijs inclusief btw per ijsje
+            (hoorn + bol ijs) in 2021.
+
+2p    14    Bereken met behulp van het voorcalculatorisch verkoopresultaat en het
+            voorcalculatorisch bezettingsresultaat het voorcalculatorisch
+            bedrijfsresultaat. Geef aan of het voordelige of nadelige resultaten
+            betreft.
+
+            Op de uitwerkbijlage bij vraag 15 is de lijn getekend die het verband
+            weergeeft tussen de productie/afzet en het voorcalculatorisch
+            bedrijfsresultaat over 2021.
+
+2p    15    Teken de lijn die het verband weergeeft tussen de verwachte
+            afzet/productie en het voorcalculatorisch bezettingsresultaat over 2021.
+            Gebruik hiertoe de uitwerkbijlage bij deze vraag.
+
+
+
+
+VW-0400-a-21-2-o                                   9 / 16                             lees verder ►►►
+      Opgave 4
+
+            Bij deze opgave blijft de btw buiten beschouwing.
+
+            Schrijf & Zo bv is een groothandel in kantoormiddelen.
+            Per 31 december 2020 zijn onderstaande kengetallen van Schrijf & Zo en
+            van de kantoormiddelenbranche bekend:
+
+              kengetal (op 31 december 2020)           Schrijf   kantoormiddelenbranche
+                                                       & Zo      (gemiddeld)
+              current ratio:
+                  vlottende activa                     1,13      1,0
+              kort vreemd vermogen
+              quick ratio:
+              vlottende activa exclusief voorraden     0,5       0,5
+                     kort vreemd vermogen
+              solvabiliteit:
+              vreemd vermogen                          71%       60%
+                               x 100%
+                totaalvermogen
+
+            De financieel directeur van Schrijf & Zo merkt op dat de current ratio van
+            Schrijf & Zo groter is dan het gemiddelde van die in de
+            kantoorartikelenbranche. In vergelijking met de kantoormiddelenbranche
+            is bij Schrijf & Zo een bepaalde omvang van de vlottende activa met
+            relatief … (1) … kort vreemd vermogen gefinancierd dan met eigen
+            vermogen en/of lang vreemd vermogen.
+
+1p   16     Wat moet bij (1) ingevuld worden om een bedrijfseconomisch juiste zin te
+            krijgen?
+            Kies uit:
+            a meer
+            b minder
+
+
+
+
+VW-0400-a-21-2-o                             10 / 16                          lees verder ►►►
+            De ontwikkeling van de kapitaalmarktrente heeft in 2020 invloed gehad op
+            de solvabiliteit in de branche.
+
+            Omdat de kapitaalmarktrente in 2020 is gedaald, is door het afsluiten van
+            nieuwe leningen de gemiddelde interest op het vreemd vermogen (IVV) in
+            de kantoormiddelenbranche ...a… . De rentabiliteit op het totaal
+            geïnvesteerd vermogen (RTV) bleef gelijk. Door meer vreemd vermogen
+            en de verandering van IVV werd het hefboomeffect in de
+            kantoormiddelenbranche …b... en is de solvabiliteit in de
+                                                    vreemd vermogen
+            kantoormiddelenbranche gemeten door                         x 100% ...c…
+                                                     totaalvermogen
+
+2p   17     Wat moet bij a, b en c ingevuld worden om een bedrijfseconomisch juiste
+            zin te krijgen?
+            Kies uit:
+            bij a: gestegen / gedaald
+            bij b: groter / kleiner
+            bij c: verbeterd / verslechterd
+
+            De balans per 31 december 2020 en de winst- en verliesrekening over
+            2020 van Schrijf & Zo zijn hieronder weergegeven.
+
+           debet                      Balans Schrijf & Zo per 31 december           credit
+                                              2020 (getallen x € 1)
+           Vaste activa                   130.000 Eigen vermogen                   64.000
+           Vlottende activa:                            Lang vreemd vermogen       76.000
+                  Debiteuren               30.000 Kort vreemd vermogen            80.000
+                  Voorraden                50.000
+                  Liquide middelen         10.000
+
+
+                                           220.000                               220.000
+
+            Alle getallen in de balans zijn ook de jaargemiddelden over 2020.
+
+                           Winst- en verliesrekening Schrijf & Zo over 2020
+                                            (getallen x € 1)
+            omzet                                             200.000
+            inkoopwaarde omzet                                100.000
+            afschrijvingskosten                                20.000
+            overige bedrijfskosten                             50.000
+            interestkosten                                      5.000
+
+
+            resultaat voor belasting                           25.000
+
+
+VW-0400-a-21-2-o                              11 / 16                           lees verder ►►►
+3p   18     Bereken de rentabiliteit van het totaalvermogen (RTV) van Schrijf & Zo
+            over 2020 met behulp van het Dupontschema.
+            Vul hiertoe het Dupontschema in de uitwerkbijlage volledig in.
+
+            Doordat Schrijf & Zo veel incourante voorraden heeft, namelijk 30% van
+            de totale voorraadwaarde, wil de financieel directeur deze voorraden op
+            1 januari 2021 met een korting en dus onder de balanswaarde verkopen.
+            De ontvangsten uit deze uitverkoop komen op 1 januari 2021 bij de liquide
+            middelen.
+
+2p   19     Welk gevolg heeft de verkoop met korting voor de current ratio van Schrijf
+            & Zo? Motiveer het antwoord en betrek in het antwoord zowel het teller-
+            als het noemereffect.
+
+            Ondanks de uitverkoop van de incourante voorraden komt Schrijf & Zo in
+            de financiële problemen. Er wordt in de loop van 2021 surseance van
+            betaling aangevraagd.
+
+1p   20     Wie kan deze surseance van betaling aanvragen?
+            A een crediteur van Schrijf & Zo
+            B de Belastingdienst
+            C Schrijf & Zo
+            D de curator
+
+
+
+
+VW-0400-a-21-2-o                           12 / 16                           lees verder ►►►
+      Opgave 5
+
+            Bij deze opgave horen de informatiebronnen 5 tot en met 8.
+
+            In deze opgave blijven de belastingen buiten beschouwing.
+
+
+
+
+            Paul van Haperen is een aardappelteler uit Zeeuws-Vlaanderen.
+            Uit de aardappelteelt wil hij jaarlijks een resultaat van minimaal
+            € 42.000 behalen. In informatiebron 5 staan gegevens over het bedrijf van
+            Paul en de aardappelmarkt.
+
+3p   21     Bereken of Paul op basis van een gemiddelde oogst tegen de gemiddelde
+            prijs het minimaal gewenste resultaat kan behalen.
+            Vul hiertoe de uitwerkbijlage bij deze vraag volledig in.
+
+            In mei 2020 ziet Paul al dat de teelt van de aardappelen voorspoedig gaat
+            en hij verwacht zijn gemiddelde oogst in tonnen per hectare precies te
+            behalen. Vanwege de heftige prijsschommelingen van de afgelopen jaren
+            zoekt hij echter zijn prijszekerheid op de termijnmarkt voor aardappelen,
+            de EPX (European Potatoes Exchange). De EPX is een voorbeeld van
+            een financiële markt.
+
+1p   22     Noem een instantie die in Nederland toezicht houdt op de financiële
+            markten.
+
+
+
+
+VW-0400-a-21-2-o                           13 / 16                          lees verder ►►►
+            Aankoop termijncontract
+
+            Paul koopt via de EPX een termijncontract met voor hem een
+            gegarandeerde minimumprijs (zie informatiebron 6).
+
+1p   23     Dit termijncontract kan het beste vergeleken worden met
+            A een putoptie, want Paul heeft de plicht te verkopen/leveren.
+            B een calloptie, want Paul heeft de plicht te verkopen/leveren.
+            C een putoptie, want Paul heeft het recht te verkopen/leveren.
+            D een calloptie, want Paul heeft het recht te verkopen/leveren.
+
+            Paul vraagt zich eerst af of hij na de koop van dit termijncontract nog wel
+            bij elke marktprijs zijn gewenste minimale resultaat van € 42.000 kan
+            behalen (zie informatiebron 7 en de bijbehorende grafiek staat in de
+            uitwerkbijlage die hoort bij vraag 25). Hieruit blijkt dat dit niet lukt met het
+            gekochte termijncontract.
+
+            Verkoop termijncontract
+
+            Het door Paul gekochte termijncontract geeft wel zekerheid, maar behaalt
+            het gewenste resultaat dus niet. Daarom zoekt Paul naar een manier om
+            zijn resultaat over 2020 te verhogen en verkoopt hij via de EPX een
+            termijncontract dat hem verplicht om de aardappels tegen een
+            vastgestelde maximumprijs te leveren (zie informatiebron 8).
+
+            Pauls tweede vraag is of hij na koop van het eerste en verkoop van het
+            tweede termijncontract bij elke marktprijs zijn minimaal gewenste resultaat
+            zal behalen. Hij berekent daartoe bij verschillende marktprijzen zijn
+            opbrengsten en kosten.
+
+4p   24     Bereken bij de verschillende marktprijzen de opbrengsten en kosten.
+            Vul hiertoe de uitwerkbijlage bij deze vraag in.
+
+            Paul maakt een grafiek met daarop twee lijnen:
+            1 zijn verwachte resultaat met alleen het eerste termijncontract (al
+               getekend in de uitwerkbijlage met lijn (1))
+            2 zijn verwachte resultaat met beide termijncontracten.
+
+2p   25     Teken in de uitwerkbijlage bij deze vraag het verloop van het resultaat dat
+            Paul in 2020 uit de aardappelteelt verwacht te behalen bij een marktprijs
+            van 200 tot 250 euro, als Paul gebruikmaakt van beide termijncontracten.
+            Nummer de lijn (2).
+
+2p   26     Voldoet de situatie met beide termijncontracten aan de eis van Paul van
+            een resultaat van € 42.000? Motiveer het antwoord.
+
+
+
+
+VW-0400-a-21-2-o                              14 / 16                              lees verder ►►►
+      Opgave 6
+
+            Verma bv is een verzekeringsmaatschappij voor particulieren. De
+            bedrijfseconomische doelstelling van Verma is ‘het duurzaam realiseren
+            van een positief bedrijfsresultaat’. Verma heeft als kernwaarden
+            ‘rechtvaardigheid’ en ‘zorgvuldigheid’. Onlangs heeft Verma het
+            personeelsbeleid herzien.
+            De bedrijfseconomische doelstelling, kernwaarden en personeelsbeleid
+            zijn aan elkaar gerelateerd volgens onderstaande structuur:
+
+                   ... (1) …   leidt tot =>     ... (2) …   leidt tot =>      … (3) …
+
+1p   27     Hoe zijn de drie begrippen ‘bedrijfseconomische doelstelling’,
+            ‘kernwaarden’ en ‘personeelsbeleid’ gerelateerd aan elkaar? Noteer het
+            antwoord door achter de nummers (1), (2) en (3) het juiste begrip te
+            zetten.Noteer het als volgt:
+            (1) =
+            (2) =
+            (3) =
+
+            Marit Groenendijk heeft sinds 1 maart 2019 bij Verma een
+            arbeidsovereenkomst voor onbepaalde tijd. Marit heeft medio 2020 een
+            officieel gesprek met haar werkgever waarin Marit aangeeft tevreden te
+            zijn over haar werk en werkzaamheden. Haar werkgever is ook tevreden
+            over de kwaliteit van het werk dat Marit levert, maar heeft ook een aantal
+            verbeterpunten. Ze maken in onderling overleg afspraken over hoe Marit
+            voor 1 januari 2021 verbetering kan gaan laten zien in haar
+            werkzaamheden en op welke ondersteuning ze daarbij mag rekenen.
+
+2p   28     Hoe wordt een dergelijk gesprek tussen Marit en haar werkgever formeel
+            genoemd? Motiveer het antwoord door een kenmerk van een dergelijk
+            gesprek te noemen.
+
+
+
+
+VW-0400-a-21-2-o                              15 / 16                         lees verder ►►►
+            Haar werkgever is van mening dat Marit zich niet aan de gemaakte
+            afspraken gehouden heeft en wil haar per 31 december 2020 ontslaan.
+            Marit denkt dat dit ontslag ongegrond is en wil zich hiertegen verzetten.
+
+1p   29     Bij welke onafhankelijk(e) instelling/orgaan kan Marit voor hulp bij dit
+            verzet terecht, gelet op de aard van de werkzaamheden van deze/dit
+            instelling/orgaan?
+            A de Arbodienst
+            B de vakbond
+            C de Ondernemingsraad
+            D afdeling Personeelszaken
+
+
+
+
+Bronvermelding
+Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen
+behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.
+
+
+VW-0400-a-21-2-o                                         16 / 16                                          lees verdereinde
+                                                                                                                       ►►► 
+

@@ -1,0 +1,307 @@
+                       Bijlage VWO
+
+                         2021
+                             tijdvak 2
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-21-2-b
+      Formuleblad
+
+            Voor beantwoording van vraag 6 is de volgende formule beschikbaar.
+
+      6
+            somformule meetkundige reeks:
+
+                   rn - 1
+            S=ax
+                    r-1
+
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-21-2-b                            2 / 11                        lees verder ►►►
+      Informatiebron 1
+
+            Showrooming
+
+            Mensen gebruiken winkels steeds vaker om een product te bekijken en te
+            proberen, maar kopen het uiteindelijk in een webshop. Dit noemen we
+            showrooming en vormt voor winkeliers een serieus probleem.
+
+
+
+
+            In de VS zijn 500 mensen naar hun laatste niet-dagelijkse aankoop (zoals
+            schoenen, kleding of elektronica) gevraagd. Wat bleek? Een kwart had
+            zich schuldig gemaakt aan 'showrooming'.
+
+            De reden ligt voor de hand: online denken de consumenten goedkoper uit
+            te zijn. Naar verwachting zal dit in Nederland niet veel anders zijn, al is
+            het lastig in te schatten hoe vaak het gebeurt.
+
+                   bron: www.ad.nl (aangepast)
+
+
+
+
+VW-0400-a-21-2-b                             3 / 11                           lees verder ►►►
+      Informatiebron 2
+
+            Verwachtingen voor de steden waar Broekenhuis een vestiging heeft
+            of wil hebben
+
+            stad (met meer      totale afzet            gemiddelde           aantal
+            dan 100.000         broeken in de           prijs (€) van een    vestigingen van
+            inwoners per        stad in 2021            broek in de hele     Broekenhuis
+            1 januari 2021)                             stad in 2021         per 1 januari
+                                                                             20212)
+            Almere                         170.000             44                     0
+            Amersfoort                     130.000             46                     1
+            Amsterdam                      950.000             51                     4
+            Apeldoorn                      120.000             41                     0
+            Arnhem                         130.000             41                     1
+            Breda                          150.000             45                     1
+            Den Bosch                      110.000             44                     0
+            Den Haag                       500.000             48                     2
+            Dordrecht                       80.000             47                     1
+            Ede                             90.000             41                     1
+            Eindhoven                      180.000             43                     1
+            Emmen                           80.000             40                     0
+            Enschede                       110.000             41                     1
+            Groningen                      170.000             43                     2
+            Haarlem                        130.000             46                     2
+            Haarlemmermeer                 120.000             46                     1
+            Leiden                         100.000             45                     1
+            Maastricht                     100.000             42                     1
+            Nijmegen                       140.000             43                     1
+            Rotterdam                      600.000             48                     3
+            Tilburg                        160.000             46                     1
+            Utrecht                        320.000             49                     2
+            Zaanstad                       120.000             44                     1
+            Zoetermeer                     100.000             43                     1
+            Zwolle                         100.000             41                     1
+            totaal                       4.960.000           46,311)                 30
+
+
+    noot 1 Dit is een gewogen gemiddelde.
+    noot 2 Per 1 januari 2021 heeft Broekenhuis geen vestiging(en) in andere steden dan
+           hierboven genoemd.
+
+
+VW-0400-a-21-2-b                               4 / 11                                lees verder ►►►
+            Verwachtingen bij de realisatie van een nieuwe Broekenhuisvestiging
+            in 2021
+
+              stad         jaarlijkse afzet    gemiddelde prijs     marktaandeel
+                           in de stad          (€) van een broek    van
+                                               bij Broekenhuis in   Broekenhuis op
+                                               de stad              basis van omzet
+                                                                    in de stad
+              Almere                                   40               4,28%
+              Apeldoorn          5.000                 40                 …..
+              Den Bosch                                40               3,72%
+              Emmen                                    40               5,00%
+
+            Gemakshalve wordt er vanuit gegaan dat ondanks de komst van een
+            vestiging van een Broekenhuis winkel:
+             de totale afzet en
+             de gemiddelde prijs van een broek
+            in de steden hetzelfde blijven.
+
+
+
+
+VW-0400-a-21-2-b                          5 / 11                         lees verder ►►►
+      Informatiebron 3
+
+            Financieringsplan
+
+            In de financieringsbehoefte van € 24.847.000 wordt in de volgende
+            volgorde voorzien:
+
+            Allereerst wordt er zo veel mogelijk vreemd vermogen aangetrokken. Het
+            restant wordt gefinancierd door eigen vermogen aan te trekken.
+
+            1      Er zal een emissie van 3.200 converteerbare obligaties per
+                   1 januari 2021 plaatsvinden. Deze converteerbare lening heeft de
+                   volgende kenmerken:
+                    nominale waarde: € 2.000 per converteerbare obligatie
+                    looptijd: 60 maanden
+                    interest: 0,05% per maand, te vergoeden op elke laatste dag van de
+                       maand, voor het eerst op 31 januari 2021
+                    emissiekoers: 125%
+                   Een marktanalyse laat zien dat deze emissie zeker gaat slagen.
+
+            2      Het krediet bij de Roetbank kan worden opgehoogd. De maximale
+                   ophoging is afhankelijk van de solvabiliteitseis van de Roetbank
+                   (zie verderop in deze informatiebron).
+
+            3      Omdat de gehele investering niet alleen met vreemd vermogen kan
+                   worden gefinancierd, wordt het restant verkregen door middel van een
+                   aandelenemissie per 1 januari 2021 met de volgende voorwaarden en
+                   kenmerken:
+                    De verwachte emissiekoers zal 2% onder de beurskoers per
+                     31 december 2020 liggen.
+                    De aandeelhouders hebben te kennen gegeven dat het aantal
+                     geplaatste aandelen op 1 januari 2021 niet met meer dan 5% mag
+                     stijgen. Eventuele conversies in de toekomst blijven buiten
+                     beschouwing.
+
+
+
+
+VW-0400-a-21-2-b                              6 / 11                           lees verder ►►►
+            Solvabiliteitseis van de Roetbank
+
+            De Roetbank heeft de voorwaarde gesteld dat de solvabiliteit na het
+            uitvoeren van bovenstaand financieringsplan maximaal mag dalen tot
+            160% per 1 januari 2021.
+
+            De solvabiliteit wordt berekend aan de hand van de volgende formule:
+
+                               totaalvermogen
+            solvabiliteit =                   x 100%
+                              vreemd vermogen
+
+
+
+
+VW-0400-a-21-2-b                            7 / 11                         lees verder ►►►
+      Informatiebron 4
+
+            De balans van Broekenhuis
+
+            Balans per 31 december 2020 vóór aankoop en financiering van de
+            vier nieuwe vestigingen
+
+              debet                      31 december 2020                      credit
+                                         (getallen x € 1.000)
+              Immateriële vaste activa      8.941 Aandelenkapitaal             2.000
+              Bedrijfspand                 91.400 Reserves                    40.660
+              Inventaris                   11.200 Resultaat 2020               9.240
+              Financiële vaste activa         820 Voorzieningen                5.800
+              Voorraden                     6.909 Lening Roetbank             12.000
+                                                  Overige langlopende
+              Debiteuren                    1.493 schulden                    42.919
+              Overlopende posten            1.178 Kortlopende schulden        11.600
+              Liquide middelen              3.212 Overlopende posten              934
+                                         125.153                            125.153
+
+            Overige informatie:
+             De nominale waarde van een aandeel Broekenhuis is € 0,50.
+             De beurskoers van een aandeel Broekenhuis per 31 december 2020 is
+               € 24,50.
+
+
+
+
+VW-0400-a-21-2-b                            8 / 11                       lees verder ►►►
+      Informatiebron 5
+
+            Gegevens over het bedrijf van Paul en de aardappelmarkt
+
+            naam van de boerderij:     de Pieper
+            rechtsvorm:                eenmanszaak
+            eigenaar:                  Paul van Haperen
+            omvang:                    12 hectare, waarvan ieder jaar twee derde deel
+                                       in gebruik is en een derde deel niet gebruikt
+                                       wordt om de grond niet uit te putten
+
+            Opbrengsten
+
+                  De jaarlijkse oogst varieert tussen de 35 en 60 ton aardappels
+                   (1 ton = 1.000 kilo) per hectare. De gemiddelde oogst is 50 ton
+                   aardappels per hectare.
+                  De verkoopprijs voor de teler wordt uitgedrukt in euro per ton
+                   aardappels en varieerde de afgelopen jaren tussen € 150 en € 300 per
+                   ton. De gemiddelde verkoopprijs is € 220 per ton aardappels.
+
+            Kosten met betrekking tot het deel van de grond waarop aardappels
+            verbouwd worden
+
+                  Per 1 ton aardappeloogst is 100 kilo zaaigoed nodig à € 30 per
+                   100 kilo.
+                  Grond- en gewasbewerking door loonwerkers kost jaarlijks € 2.000 per
+                   hectare.
+                  Overige kosten zijn jaarlijks € 15.200.
+
+
+
+
+VW-0400-a-21-2-b                              9 / 11                          lees verder ►►►
+      Informatiebron 6
+
+            Gegevens over het door Paul gekochte termijncontract
+
+            Paul heeft zestien termijncontracten gekocht en daarmee het recht om
+            zijn hele verwachte oogst op de leverdatum te mogen verkopen tegen de
+            uitoefenprijs via de EPX.
+
+            leverdatum: donderdag 26 november 2020
+
+              aantal                 aankoopprijs       hoeveelheid ton    uitoefenprijs
+              contracten             per contract       per contract       per ton
+              16                     € 300              25                 € 220
+
+
+
+      Informatiebron 7
+
+            Verwacht resultaat bij een gemiddelde oogst, met een gekocht
+            termijncontract, bij verschillende marktprijzen
+
+                                                          marktprijs per ton in €
+                                                    210         220          230             240
+              opbrengsten
+                  oogst
+                  termijncontract
+              kosten
+                  oogst (vraag 21)
+                  termijncontract
+
+
+              verwacht resultaat                40.000       40.000       44.000         48.000
+
+            De berekeningen zijn niet ingevuld, wel het verwachte resultaat.
+
+
+
+
+VW-0400-a-21-2-b                              10 / 11                               lees verder ►►►
+      Informatiebron 8
+
+            Gegevens over het door Paul verkochte termijncontract
+
+            Paul heeft zestien termijncontracten verkocht en daarmee de plicht om,
+            indien daartoe gevraagd, zijn hele verwachte oogst op de leverdatum te
+            verkopen tegen de uitoefenprijs via de EPX.
+
+            leverdatum: donderdag 26 november 2020
+
+              aantal           verkoopprijs         hoeveelheid ton   uitoefenprijs
+              contracten       per contract         per contract      per ton
+              16               € 200                25                € 230
+
+
+
+
+VW-0400-a-21-2-b                          11 / 11                             lees verdereinde
+                                                                                           ►►► 
+

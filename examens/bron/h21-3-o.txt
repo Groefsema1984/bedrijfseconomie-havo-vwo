@@ -1,0 +1,542 @@
+                                                                 Examen HAVO
+
+                                                                      2021
+                                                                             tijdvak 3
+                                                                     donderdag 8 juli
+                                                                    13.30 - 16.30 uur
+
+
+                                                              bedrijfseconomie
+
+
+
+
+Bij dit examen horen een bijlage en een uitwerkbijlage.
+
+
+
+
+Dit examen bestaat uit 30 vragen.
+Voor dit examen zijn maximaal 62 punten te behalen.
+Voor elk vraagnummer staat hoeveel punten met een goed antwoord behaald
+kunnen worden.
+
+Als bij een vraag een verklaring, uitleg of berekening gevraagd wordt, worden aan
+het antwoord meestal geen punten toegekend als deze verklaring, uitleg of
+berekening ontbreekt.
+
+Geef niet meer antwoorden (redenen, voorbeelden e.d.) dan er worden gevraagd.
+Als er bijvoorbeeld twee redenen worden gevraagd en je geeft meer dan twee
+redenen, dan worden alleen de eerste twee in de beoordeling meegeteld.
+
+
+HA-0400-a-21-3-o
+       Opgave 1
+
+               Op 19 maart 2019 ziet de stamboom van de familie De Groot, na het
+               overlijden van Trudy op 18 maart 2019, er als volgt uit:
+
+                ouders:
+
+
+
+
+                kinderen:
+
+
+                kleinkinderen:
+
+               † betekent overleden.
+
+               Op het moment van overlijden van Trudy was haar vermogen
+               € 180.000. Trudy had geen testament opgemaakt. Alle erfgenamen zullen
+               de erfenis zuiver aanvaarden.
+
+               Wettelijke regels erfenis
+
+               Indien er geen testament is opgemaakt, zal de erfenis bij het overlijden
+               van een ouder als volgt verdeeld worden.
+                De helft van het totale gezamenlijke vermogen (bezittingen minus
+                   schulden), gemeten op het moment van overlijden, komt ten gunste
+                   aan de langstlevende: dit is meestal de partner.
+                Indien de partner al is overleden, valt de erfenis toe aan de kinderen
+                   met een gelijk kindsdeel.
+                Indien een van de kinderen al is overleden, wordt het kindsdeel
+                   gelijkelijk verdeeld onder de kinderen van dat overleden kind.
+
+2p     1       Bereken voor elke erfgenaam de omvang in euro’s van het erfdeel.
+
+
+
+
+HA-0400-a- o                                   2 / 15                           lees verder ►►►
+               Over het erfdeel moet erfbelasting worden afgedragen. Dat gebeurt op
+               basis van onderstaande tabellen.
+
+               Vrijstelling erfbelasting
+
+               relatie met de overledene                      bedrag vrijstelling
+               partner                                             € 650.912
+               kind of kleinkind                                   € 20.615
+               ouder                                               € 48.965
+               overige erfgenamen                                  €   2.173
+
+               Tarieven erfbelasting
+
+               waarde erfenis      partner en       kleinkinderen en    overige
+               (na vrijstelling)   kind             achterkleinkinderen erfgenamen
+                                                                        zoals broer en
+                                                                        zus
+               over de eerste
+                                       10%                 18%                    30%
+               € 124.727
+               over het
+                                       20%                 36%                    40%
+               meerdere
+
+2p     2       Bereken de te betalen erfbelasting over het erfdeel van Marleen.
+
+               Trudy en Marleen hadden ruzie. Daarom overwoog Trudy om Marleen te
+               onterven. Trudy had dat echter niet vastgelegd in een testament.
+
+2p     3       Als Trudy dat wel had vastgelegd in een testament, betekent dit dan dat
+               Marleen geen aanspraak kan maken op een deel van de erfenis? Motiveer
+               het antwoord.
+
+
+
+
+HA-0400-a- o                                    3 / 15                            lees verder ►►►
+       Opgave 2
+
+               Bij deze opgave horen de informatiebronnen 1 tot en met 3.
+
+               In deze opgave blijft de btw buiten beschouwing.
+
+
+
+
+               BJones bv is een modeketen met vijf fysieke winkels en een
+               distributiecentrum. Alleen het distributiecentrum is in eigen bezit van
+               BJones. De winkels zijn gehuurd. Bridget is per 1 januari 2018 directeur
+               en enige aandeelhouder. Bridget stelt een SWOT-analyse van BJones op
+               om het toekomstperspectief van het bedrijf te kunnen vergroten. In de
+               SWOT-analyse staat onder andere:
+                het veranderende koopgedrag van consumenten: consumenten doen
+                   vaker online aankopen en minder vaak aankopen in fysieke winkels
+                de hoge personeelskosten van BJones: het personeelsbestand is te
+                   groot
+
+               Een SWOT-analyse bestaat uit vier onderdelen: de analyse van
+               Strengths, Weaknesses, Opportunities en Threats.
+
+2p     4       In welk onderdeel van de SWOT-analyse van BJones zou het
+               veranderende koopgedrag van consumenten meegenomen moeten
+               worden? Motiveer het antwoord.
+
+2p     5       In welk onderdeel van de SWOT-analyse van BJones zouden de hoge
+               personeelskosten van BJones meegenomen moeten worden? Motiveer
+               het antwoord.
+
+
+
+
+HA-0400-a- o                                  4 / 15                           lees verder ►►►
+               Het veranderende koopgedrag van consumenten heeft geleid tot een
+               daling van de omzet en de winst in de kledingbranche. Hoewel ook
+               BJones heeft gemerkt dat de omzet en winst zijn gedaald, is er pas sinds
+               het vierde kwartaal van 2019 sprake van een gestegen
+               faillissementsrisico bij BJones.
+
+               In informatiebron 1 is de balans per 31 december 2019 van BJones
+               opgenomen. Voor de inschatting van het faillissementsrisico wordt onder
+               andere de liquiditeitspositie berekend door middel van de quick ratio.
+               Deze is in het algemeen geschikter dan de current ratio.
+
+2p     6       Geef aan wat het verschil is tussen de quick ratio en current ratio en geef
+               vervolgens aan waarom in het algemeen de quick ratio geschikter is voor
+               het vaststellen van het faillissementsrisico dan de current ratio.
+
+               Op 1 oktober 2019 was de quick ratio 0,64.
+
+2p     7       Toon aan of het faillissementsrisico van BJones in het vierde kwartaal van
+               2019 is toegenomen. Bereken hiertoe de quick ratio per
+               31 december 2019 (zie formuleblad en informatiebron 1).
+
+               BJones heeft verplichtingen met betrekking tot onroerend goed die niet uit
+               de balans van BJones blijken, maar wel het faillissementsrisico vergroten.
+
+1p     8       Geef een voorbeeld van zo’n niet uit de balans blijkende verplichting voor
+               BJones die het faillissementsrisico kan vergroten.
+
+
+
+
+HA-0400-a- o                                   5 / 15                             lees verder ►►►
+               Surseance van betaling?
+
+               Vanwege de hoge personeelskosten en het verhoogde faillissementsrisico
+               wil Bridget begin december 2019 surseance van betaling aanvragen. Ze
+               verwacht bij toekennen van surseance van betaling dat ze het overtollige
+               personeel kan ontslaan. De accountant geeft aan dat surseance van
+               betaling hiervoor geen geschikt middel is.
+
+1p     9       Leg uit dat het aanvragen van surseance van betaling geen oplossing is
+               om overtollig personeel te kunnen ontslaan.
+
+               Faillissement en doorstart
+
+               Aangezien Bridget geen toekomst ziet voor het bedrijf zoals het nu is,
+               vraagt zij eind december 2019 faillissement aan. Per 1 januari 2020 is
+               BJones failliet verklaard. Vanaf dat moment wordt er door de curator
+               gekeken of BJones overgenomen kan worden en vervolgens een doorstart
+               kan maken.
+
+               Investeringsbedrijf Darcy nv overweegt BJones over te nemen voor
+               € 325.000 en een doorstart te maken. De doorstart omvat:
+                het sluiten van de huidige winkels
+                het handhaven van de merknaam BJones
+                een herpositionering: online verkoop
+
+               In informatiebron 2 staat een plan voor deze herpositionering uitgewerkt.
+               Daarin is een overzicht opgenomen van de verwachte omzet na de
+               herpositionering. Bij de online verkopen moet Darcy nog beslissen over
+               de omvang van het assortiment en de levertijd. Darcy kiest voor:
+                een groot assortiment
+                een levertijd van 2 dagen
+
+2p    10       Geef aan of er bij de grootte van het assortiment sprake is van een
+               kritische succesfactor of van een kritische prestatie-indicator. Motiveer het
+               antwoord.
+
+1p    11       Bepaal de omzet die bij deze keuze van Darcy hoort.
+               Vul deze berekende omzet in op de uitwerkbijlage die bij deze vraag en
+               vraag 13 hoort.
+
+
+
+
+HA-0400-a- o                                    6 / 15                            lees verder ►►►
+               Verwacht resultaat na herpositionering
+
+               In informatiebron 3 staat een overzicht van te verwachten kosten voor
+               BJones in het eerste jaar (1 april 2020 tot en met 31 maart 2021) na de
+               doorstart.
+
+3p    12       Bereken de interestkosten van Darcy in het eerste jaar na de doorstart,
+               dus vanaf 1 april 2020 tot en met 31 maart 2021 (zie informatiebronnen 1
+               en 3).
+
+               Darcy wil per 1 april 2020 met BJones een doorstart maken als het
+               verwachte bedrijfsresultaat als percentage van de investering
+               (€ 325.000) in het eerste jaar na de doorstart hoger zal zijn dan 30%.
+
+5p    13       Geef aan of Darcy per 1 april 2020 met BJones een doorstart zal maken
+               (zie informatiebronnen 2 en 3).
+               Vul hiertoe de uitwerkbijlage die bij deze vraag hoort volledig in.
+
+
+
+
+HA-0400-a- o                                   7 / 15                            lees verder ►►►
+       Opgave 3
+
+               In deze opgave is het btw-tarief 21%.
+
+
+
+
+               Vink is een webshop in kantoorartikelen en heeft als rechtsvorm de
+               eenmanszaak.
+
+               Van Vink is de onderstaande balans per 1 december 2019 gegeven.
+
+                debet                           (getallen x € 1)                     credit
+                Vaste activa                           Eigen vermogen                3.866
+                Inventaris                     3.250
+                                                       Lang vreemd
+                                                       vermogen
+                Vlottende activa                       Banklening                    2.500
+                Voorraad                         500
+                Vooruitbetaalde                      Kort vreemd
+                huur                           1.200 vermogen
+                Debiteuren                       137 Crediteuren                        847
+                Te vorderen btw                  126 Te betalen btw                     600
+                Liquide middelen               2.600
+                                               7.813                                 7.813
+
+
+
+
+HA-0400-a- o                                  8 / 15                           lees verder ►►►
+               Op de balans van Vink staat de balanspost Vooruitbetaalde huur. Deze
+               balanspost hoort tot de overlopende posten.
+
+2p    14       Leg uit waarom Vooruitbetaalde huur tot de overlopende posten hoort.
+
+               Vink stelt maandelijks een balans en een winst- en verliesrekening op.
+               In december 2019 moeten de onderstaande gegevens nog in de
+               boekhouding worden verwerkt.
+
+               a   de inkoop van kantoorartikelen in december 2019 voor € 992,20
+                   inclusief btw
+                   De betaling is in januari 2020.
+               b   de betaling van de annuïteit van december 2019 met betrekking tot de
+                   banklening
+                   De maandelijkse annuïteit is € 53 en is gebaseerd op een
+                   interestvergoeding van 0,2% per maand.
+               c   een privéopname van € 2.000 van de bank in december
+               d   de huurkosten van december
+                   Op 1 november is de huur voor drie maanden vooruitbetaald per bank.
+               e   de aanschaf op 1 december van inventaris voor € 3.267 inclusief btw
+                   De betaling is contant. Op deze inventaris wordt maandelijks in
+                   vijf jaar lineair afgeschreven tot een restwaarde van 0.
+
+3p    15       Bereken met welk bedrag in totaal de liquide middelen van Vink in
+               december 2019 afnemen als gevolg van de verwerking van bovenstaande
+               gegevens a tot en met e.
+               Vul hiertoe het gedeelte van de uitwerkbijlage dat bij deze vraag hoort in.
+               Wanneer er geen verandering is, wordt 0 ingevuld.
+
+4p    16       Bereken de gevolgen voor de totale kosten van Vink over december 2019
+               als gevolg van de verwerking van bovenstaande gegevens a tot en met e.
+               Vul hiertoe het gedeelte van de uitwerkbijlage dat bij deze vraag hoort in.
+               Wanneer er geen gevolg is, wordt 0 ingevuld.
+
+
+
+
+HA-0400-a- o                                   9 / 15                            lees verder ►►►
+       Opgave 4
+
+               In deze opgave is het btw-tarief 21%.
+
+               CosmoSub bv is een organisatie die abonnementen op
+               cosmeticaproducten aan consumenten verkoopt. De abonnementhouders
+               krijgen elke maand een cosmeticaproduct naar keuze.
+               De afnemers betalen voor het abonnement aan CosmoSub € 12,10
+               inclusief btw op elke eerste dag van de maand en krijgen het
+               cosmeticaproduct vervolgens één week later thuisbezorgd.
+
+               Hieronder zijn de gedeeltelijk ingevulde balansen, het overzicht van
+               ontvangsten en uitgaven en de winst- en verliesrekening van CosmoSub
+               gegeven.
+
+                              Balansen (getallen x € 1) CosmoSub
+                                 31          31                            31          31
+                           december    december                      december    december
+                               2019        2018                          2019        2018
+ debet                                                                              credit
+ Gebouwen                    330.000    300.000   Aandelenkapitaal    100.000       100.000
+ Voorraad
+ cosmetica-
+ producten                    …(a)…     50.000    Reserves             35.000        30.000
+
+
+ Te vorderen btw             …(b)...      5.000   6%-Banklening         ……..        250.000
+ Liquide middelen             80.000     66.450   Crediteuren          36.300        24.200
+                                                  Nog te betalen
+                                                  interest 6%-
+                                                  Banklening            9.000        11.250
+ ………………….                   …………       …………       Te betalen btw       17.010          6.000
+                                                  …………………              ………..        ………..
+                         …………..         ………..                          ………..       …………
+
+
+
+
+HA-0400-a- o                                  10 / 15                           lees verder ►►►
+  (gedeeltelijk) overzicht van ontvangsten en uitgaven (getallen x € 1) over 2019
+ ontvangsten                                                                          uitgaven
+ abonnementen                          217.800 inkopen cosmeticaproducten              133.100
+                                                  interest 6%-Banklening                 15.000
+                                                  aflossing 6%-Banklening                ………
+
+               (gedeeltelijke) winst- en verliesrekening (getallen x € 1) over 2019
+ opbrengsten                                                                            kosten
+ abonnementen                          180.000 inkoopwaarde van de omzet               108.000
+                                                  interestkosten 6%-Banklening          ……….
+
+               In het overzicht van ontvangsten en uitgaven staat bij ‘abonnementen’
+               een bedrag van € 217.800, terwijl dit op de winst- en verliesrekening
+               € 180.000 is.
+
+1p    17       Geef de verklaring voor het verschil tussen € 217.800 en € 180.000.
+
+2p    18       Bereken de waarde van de balanspost Voorraad cosmeticaproducten (a)
+               op 31 december 2019.
+
+               Elk jaar worden op 1 april de jaarlijkse lineaire aflossing en de interest
+               van de 6%-Banklening van de voorafgaande twaalf maanden betaald.
+
+2p    19       Bereken de omvang van de 6%-Banklening per 31 december 2019 na de
+               aflossing op 1 april 2019. Gebruik hiertoe de balanspost Te betalen
+               interest 6%-Banklening.
+
+               Half januari 2020 verrekent CosmoSub de te vorderen btw en de te
+               betalen btw over het vierde kwartaal van 2019 met de Belastingdienst. Op
+               de eerste dag van de maanden oktober, november en december van 2019
+               had CosmoSub respectievelijk 2.600, 2.700 en 2.800 betalende
+               abonnees.
+               Verder is gegeven dat:
+                in 2019 de inkoopwaarde van de omzet 60% van de omzet is.
+                in de maanden van het vierde kwartaal van 2019 de inkopen exclusief
+                  btw gelijk zijn aan de inkoopwaarde van de omzet.
+
+2p    20       Bereken de omvang van de balanspost Te vorderen btw (b) per
+               31 december 2019.
+
+2p    21       Bereken het btw-bedrag dat half januari 2020 met de Belastingdienst moet
+               worden verrekend als gevolg van de inkopen en verkopen in het vierde
+               kwartaal van 2019. Geef aan of CosmoSub dit bedrag moet afdragen aan
+               de Belastingdienst of moet ontvangen van de Belastingdienst.
+
+
+
+HA-0400-a- o                                    11 / 15                             lees verder ►►►
+       Opgave 5
+
+               Bij deze opgave hoort informatiebron 4.
+
+               In deze opgave blijft de btw buiten beschouwing.
+
+
+
+
+               Adviesbureau Advice4U heeft een werknemer in dienst genomen. Deze
+               heeft voor zijn werk een auto van de zaak nodig. Advice4U wil voor deze
+               medewerker vanwege milieuoverwegingen een elektrische auto
+               aanschaffen, maar dit mag niet tot hogere totale jaarlijkse kosten voor
+               Advice4U leiden dan wanneer een benzineauto zou worden aangeschaft.
+
+               Advice4U heeft twee vergelijkbare auto’s geselecteerd: één benzineauto
+               en één elektrische auto. Omdat een elektrische auto via het
+               elektriciteitsnet opgeladen moet worden, zal bij de keuze voor de
+               elektrische auto ook een laadpaal worden aangeschaft die op het terrein
+               van Advice4U zal worden geïnstalleerd.
+
+               De verzamelde informatie van de twee auto’s en de laadpaal is
+               opgenomen in informatiebron 4.
+
+               Opvallend is dat op de elektrische auto jaarlijks met een hoger percentage
+               wordt afgeschreven dan op de benzineauto. Een verklaring hiervoor is de
+               verwachte ontwikkeling van technologieën voor elektrische auto’s.
+
+1p    22       Leg uit dat de verwachte technologische ontwikkelingen op het gebied van
+               elektrische auto’s tot een hoger afschrijvingspercentage voor de
+               elektrische auto leiden.
+
+
+
+
+HA-0400-a- o                                  12 / 15                           lees verder ►►►
+               Bij de aanschaf van de benzineauto wordt BPM (belasting op
+               personenauto’s en motorrijwielen) geheven. De door Advice4U
+               geselecteerde benzineauto heeft een CO 2-uitstoot van 125 gram per
+               kilometer.
+
+1p    23       Bereken het BPM-bedrag van de benzineauto (zie informatiebron 4).
+
+3p    24       Bereken voor de benzineauto inclusief BPM en voor de elektrische auto
+               met laadpaal de variabele kosten per kilometer en de constante kosten
+               per jaar.
+               Vul hiertoe de uitwerkbijlage die bij deze vraag hoort volledig in. Let op:
+               niet alle cellen hoeven te worden ingevuld.
+
+               Advice4U verwacht dat de auto 50.000 kilometer per jaar zal rijden.
+
+2p    25       Toon met een berekening aan dat de kosten per jaar van de elektrische
+               auto inclusief laadpaal lager zijn dan de kosten per jaar van de
+               benzineauto.
+
+               Advice4U kiest dus voor de elektrische auto.
+               Een financieel medewerker van Advice4U geeft echter aan dat er niet is
+               gekeken naar de optie om de elektrische auto met laadpaal te leasen in
+               plaats van aan te schaffen. Aan de leasemaatschappij zal Advice4U een
+               maandelijks leasebedrag moeten betalen. In dit leasebedrag zitten de
+               afschrijvingskosten en de overige kosten voor onderhoud,
+               wegenbelasting, verzekering en financiering.
+
+               Uit informatie van de leasemaatschappij blijkt dat het leasebedrag van de
+               elektrische auto met laadpaal € 12.000 per jaar is. De financieel
+               medewerker van Advice4U stelt dat, ongeacht het aantal kilometers, het
+               leasen van de elektrische auto met laadpaal tot minder jaarlijkse kosten
+               leidt dan wanneer deze wordt aangeschaft.
+
+               In de uitwerkbijlage bij vraag 26 is het verloop van de jaarlijkse kosten bij
+               het aanschaffen van de elektrische auto met laadpaal weergegeven.
+
+2p    26       Toon aan dat de financieel medewerker gelijk heeft. Teken hiertoe de lijn
+               die het verloop van de jaarlijkse kosten van de elektrische auto met
+               laadpaal bij lease aangeeft.
+               Gebruik hiertoe de uitwerkbijlage die bij deze vraag hoort.
+
+
+
+
+HA-0400-a- o                                    13 / 15                             lees verder ►►►
+       Opgave 6
+
+               In deze opgave blijven de belastingen buiten beschouwing.
+
+               Erkun is een zelfstandig ondernemer zonder personeel (zzp’er) in de zorg.
+               Omdat hij als zzp’er geen verplicht pensioen opbouwt, is Erkun in 2012
+               zelf begonnen met beleggen en sparen voor zijn ‘oude dag’.
+
+               Beleggingen in aandelen en obligaties
+
+               Het onderstaande overzicht geeft informatie over zijn beleggingen.
+
+                   nominale    beurskoers   vergoeding     beurskoers   aantal op    totale
+                   waarde      per          over 2019      per          1 januari    waarde op
+                   per         aandeel en   per            aandeel en   2019 en      31
+                   aandeel     obligatie    aandeel en     obligatie    op 31        december
+                   en per      op           per            op 31        december     2019
+                   obligatie   1 januari    obligatie      december     2019
+                               2019                        2019
+ aandelen          € 0,10      € 20         € 0,50         € 22         500          ……..
+ obligaties        € 500       101% van     4%             103% van     10           ……..
+                               de                          de
+                               nominale                    nominale
+                               waarde                      waarde
+
+               De vergoedingen over 2019 uit deze vermogenstitels zijn uitgekeerd op
+               31 december 2019.
+
+               Door het beleggen in aandelen en obligaties loopt Erkun risico.
+
+2p    27       Geef twee redenen waarom beleggen in aandelen meer risico geeft dan
+               beleggen in obligaties. Betrek in het antwoord zowel aandelen als
+               obligaties.
+
+               Spaarrekening
+
+               Bij het openen van de spaarrekening op 1 januari 2012 heeft Erkun
+               eenmalig een bedrag gestort. Op 31 december wordt jaarlijks de
+               samengestelde interest van 2% bijgeschreven. Er zijn door Erkun geen
+               opnames en stortingen gedaan. Het bedrag op zijn spaarrekening
+               op 31 december 2019 na bijschrijving van de interest is € 22.440.
+
+
+
+
+HA-0400-a- o                                     14 / 15                            lees verder ►►►
+3p    28       Bereken de totale vergoeding van Erkun over 2019 uit zijn beleggingen en
+               over zijn spaarrekening.
+
+2p    29       Bereken de totale waarde op 31 december 2019 van zijn beleggingen en
+               spaarrekening.
+
+               Erkun wil het risico op zijn beleggingen verlagen door in 2020 zijn
+               aandelen te verkopen en het vrijgekomen geld te beleggen in een
+               beleggingsfonds in plaats van zelf te beleggen.
+
+1p    30       Leg uit dat zijn beleggingsrisico lager kan worden, wanneer Erkun besluit
+               te gaan beleggen in een beleggingsfonds.
+
+
+
+
+HA-0400-a- o                                   15 / 15                           lees verdereinde
+                                                                                              ►►► 
+

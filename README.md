@@ -20,3 +20,12 @@ Na een wijziging in de inhoud:
 ```
 python3 tools/bibliotheek.py && python3 tools/hoofdstukken.py && python3 src/build.py
 ```
+
+Complete centrale examens (havo en vwo 2021-2026):
+
+```
+python3 tools/examen_beco.py            # examens/bron/*.txt -> src/data-examen.js
+python3 tools/examen_beco.py --img MAP  # pdf's uit MAP ({ex}-o/b/u.pdf) -> examens/img/*.jpg
+```
+
+De tekstbestanden in examens/bron zijn gemaakt met `pdftotext -layout` uit de pdf's in 04_COMPLETE_EINDEXAMENS op de Drive.

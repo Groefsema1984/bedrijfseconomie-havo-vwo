@@ -1,0 +1,359 @@
+                       Bijlage VWO
+
+                         2022
+                              tijdvak 1
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-22-1-b
+      Formuleblad
+
+     22     somformule meetkundige reeks:
+
+                 rn - 1
+            S=ax
+                  r-1
+
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-22-1-b                            2 / 11             lees verder ►►►
+      Informatiebron 1
+
+            Bedrijfsmodel van Hiero, voorjaar 2021
+
+ strategische      kern-           waardepropositie         klantrelaties   klantsegmenten
+ partners          activiteiten                             via
+     super-       bezorgen van       Via een app             de app         mensen die
+      markt        producten van       kunnen klanten          sociale         fysiek geen
+      Noor         supermarkt          boodschappen             media           bood-
+     gemeente     Noor                laten                   wijkkrant       schappen
+      Den                              thuisbezorgen uit       hulp-           kunnen of
+      Bosch                            het volledige            verlening       willen doen,
+                                       assortiment.                             zoals
+                                      Klanten hoeven                           ouderen of
+                                       de deur niet uit.                        zieken
+                                      Klanten die                             mensen die
+                                       moeite hebben                            geen bood-
+                                       met de app                               schappen
+                                       kunnen maar 200                          willen doen,
+                                       basisproducten                           zoals
+                                       uit een                                  werkende
+                                       voorbedrukte lijst                       jonge
+                                       aanvinken. De                            professionals
+                                       lijst wordt
+                                       opgehaald.
+ inkomsten–        kanalen         kosten                   opbrengsten
+ bronnen
+     super-          online         servicekosten           variabele vergoeding voor
+      markt            bestellen       (voor inkoop en          de bezorging van producten
+      Noor            bestellen       opslag) aan              van supermarkt Noor
+     klanten          via voor-       supermarkt Noor         vast bezorgtarief voor de
+     gemeente         bedrukte       variabele                klanten
+      Den              lijst           transportkosten         subsidie van de gemeente
+      Bosch           aan huis       loonkosten               Den Bosch
+                       bezorgen       afschrijvings-
+                                       kosten
+                                      interestkosten
+
+
+
+
+VW-0400-a-22-1-b                            3 / 11                               lees verder ►►►
+      Informatiebron 2
+
+            Gegevens die nodig zijn bij de berekening van de geschatte
+            wekelijkse opbrengst van Hiero in het eerste boekjaar,
+            van 1 april 2021 tot en met 31 maart 2022
+
+            Informatie over de wijken West en Engelen in Den Bosch
+
+                                                                West        Engelen
+              aantal inwoners                                   43.680      21.840
+              gemiddelde gezinsgrootte in inwoners              2,1         2,1
+              percentage 65 jaar en ouder                       22          14
+              percentage van de gezinnen uit de wijk dat
+              boodschappen doet bij supermarkt Noor             20          20
+              gemiddeld bestelbedrag per gezin per week         € 70        € 110
+
+            Marktonderzoek
+
+            In enquêtes geeft bijna éénvijfde deel van de ondervraagde klanten van
+            supermarkt Noor aan in de toekomst via Hiero boodschappen te gaan
+            doen.
+            Uit voorzichtigheid wordt verondersteld dat 10% van alle klanten van
+            supermarkt Noor in West en Engelen elke week online precies één keer
+            zal bestellen via Hiero. Dit zijn mensen die bestellen via de app of op
+            papier.
+
+            Onderdelen van de verwachte wekelijkse opbrengst van Hiero
+
+            De opbrengst van Hiero bestaat uit drie delen:
+
+            1. Variabele vergoeding
+
+            Hiero krijgt van supermarkt Noor een variabele vergoeding voor het
+            bezorgen van boodschappen: 5% van het bestelbedrag van de klanten telt
+            als omzet voor Hiero.
+
+            2. Vast bezorgtarief
+
+            Per bezorging ontvangt Hiero € 2,50 van elke afnemer.
+
+            3. Subsidie
+
+            Bovenop de € 2,50 die elke afnemer betaalt, geeft de gemeente Den
+            Bosch aan Hiero een subsidie ter grootte van 20% van het vaste
+            bezorgtarief.
+
+
+VW-0400-a-22-1-b                            4 / 11                          lees verder ►►►
+            Argumentatie voor deze wijze van subsidiering:
+            De gemeente vindt boodschappenbezorging bij 65-plussers belangrijk.
+            De bevolking van Den Bosch bestaat voor 20% uit 65-plussers.
+            Omdat het praktisch niet uitvoerbaar is elke klant die ouder is dan 65 jaar
+            individueel te registreren, ontvangt Hiero van de gemeente de subsidie ter
+            grootte van 20% van alle opbrengsten die komen uit het vaste
+            bezorgtarief.
+
+
+
+
+VW-0400-a-22-1-b                            5 / 11                            lees verder ►►►
+      Informatiebron 3
+
+            Gegevens die nodig zijn bij het opstellen van de openingsbalans per
+            1 april 2021
+
+            Investeringen
+
+                  Van supermarkt Noor neemt Hiero een bestel-app over voor € 12.500.
+                   Deze app is in het verleden voor supermarkt Noor ontwikkeld, maar
+                   nooit in gebruik genomen.
+                  Er worden twee elektrische Goupil G4 bezorgauto’s gekocht. De
+                   aanschafwaarde van een Goupil G4 is € 22.000.
+
+            Financiering
+
+                  De bezorgkratten ter waarde van € 10.000 zijn op 1 april 2021 voor de
+                   helft betaald; het resterende deel wordt in mei betaald.
+                  Selma, Idris en Marijke willen zoveel mogelijk financiering met vreemd
+                   vermogen, dus zo min mogelijk met eigen vermogen.
+                  Supermarkt Noor is bereid een 4% onderhandse lening te verstrekken
+                   onder de voorwaarde dat de solvabiliteit (tv/vv) op de openingsbalans
+                   tenminste 2,25 is.
+                  Selma, Idris en Marijke zullen het resterend benodigd eigen vermogen
+                   inbrengen.
+
+
+
+
+VW-0400-a-22-1-b                               6 / 11                           lees verder ►►►
+      Informatiebron 4
+
+            Informatie over de Goupil bezorgauto’s.
+
+            Goupils aanschaf–         restwaarde verwijderings-         afschrijvingsduur
+                    waarde                       kosten accu
+                                                 einde looptijd
+            2 stuks   € 22.000        € 1.500 per     € 500 per stuk    6 jaar
+                      per stuk        stuk
+
+            Hiero kon kiezen tussen twee lichte bezorgauto’s met dieselmotor of twee
+            elektrische Goupil bezorgauto’s. Een autodealer heeft vóór de keuze de
+            constante en de variabele kosten per bezorgauto met elkaar vergeleken
+            en uitgedrukt in een grafiek, waarin niet de kosten zelf staan, maar het
+            kostenverschil tussen beide auto’s.
+
+            Op de horizontale as staat het aantal te rijden kilometers met één auto
+            per jaar. Op de verticale as staat het kostenverschil in euro’s. De lijn geeft
+            het kostenverschil van de elektrische auto ten opzichte van de dieselauto
+            aan dat hoort bij een bepaald aantal kilometers. In het verschil zijn de
+            constante én de variabele kosten verrekend. Bij 0 gereden kilometers is
+            de elektrische auto dus € 1.000 per jaar duurder dan de dieselauto.
+
+
+
+
+            Aanvullende gegevens
+
+            aantal kilometers                    50                per bezorgauto per dag
+            aantal dagen in gebruik              300               per jaar
+            variabele kosten dieselauto          € 0,14            per kilometer
+
+
+
+
+VW-0400-a-22-1-b                             7 / 11                                lees verder ►►►
+      Informatiebron 5
+
+            Gegevens voor de berekening van het verwachte resultaat van Hiero
+            over het eerste boekjaar, van 1 april 2021 tot en met 31 maart 2022
+
+            Op de exploitatiebegroting moeten alle zeven onderstaande onderdelen
+            verwerkt worden. De kosten moeten nog op de juiste plaats in de
+            uitwerkbijlage gezet worden.
+
+              1 opbrengsten                            52 x de verwachte wekelijkse
+                                                       opbrengst (zie vraag 7)
+              2 interestkosten onderhandse             N.B.: op 1 januari 2022 wordt
+                lening van supermarkt Noor             € 5.000 afgelost.
+              3 servicekosten vergoeding aan
+                supermarkt Noor voor inkoop,           € 16.800 per boekjaar
+                opslag, etc
+              4 afschrijvingskosten Goupils            zie vraag 9
+              5 overige afschrijvingskosten            € 1.250
+              6 variabele kosten Goupils               zie vraag 10
+              7 loonkosten                             te berekenen met onderstaande
+                                                       informatie
+
+            Loonkosten
+
+            Selma, Idris en Marijke staan het eerste jaar als DGA (directeur–
+            grootaandeelhouder) op de loonlijst van Hiero voor iets minder dan een
+            modaal inkomen per persoon.
+            Daarnaast zijn er 52 weken gedurende in totaal 75 uur per week
+            verschillende uitzendkrachten aan het werk.
+
+              loonkosten per DGA                € 44.000    per jaar (inclusief vakantiegeld
+                                                            en sociale lasten)
+              loonkosten uitzendkracht:
+              brutoloon                         € 10        per uur
+              vakantiegeld                      8%          van het brutoloon
+              werkgeversdeel sociale lasten     30%         van het brutoloon inclusief
+                                                            vakantiegeld
+
+
+
+
+VW-0400-a-22-1-b                              8 / 11                             lees verder ►►►
+      Informatiebron 6
+
+            Erfbelasting
+
+                                                   tarieven erfbelasting
+            waarde erfenis       partner,          kleinkinderen          overige
+                                 (pleeg– of        en                     erfgenamen
+                                 stief)kind        verdere                zoals een broer,
+                                                   afstammelingen         zus of ouders
+            0 – 126.722          10%               18%                    30%
+            126.723 en meer      20%               36%                    40%
+
+
+
+            relatie met de overledene                                     bedrag vrijstelling
+            echtgenoot, geregistreerd partner of samenwonend
+            partner                                                       € 661.328
+            (klein)kind, pleegkind of stiefkind                           € 20.946
+            andere erfgenaam,                                             €     2.208
+            bijvoorbeeld een broer of zus
+
+            Schenkbelasting
+
+            waarde schenking:       partner,           kleinkinderen          overige
+            van het gedeelte        (pleeg- of         en verdere             erfgenamen
+                                    stief)kind         afstammelingen         zoals een broer,
+                                                                              zus of ouders
+            € 0 – € 126.722         10%                18%                    30%
+            € 126.723 en meer       20%                36%                    40%
+
+            relatie met de schenker                    vrijstelling
+            kind                                       € 5.515 per jaar
+            overig                                     € 2.208 per jaar
+
+
+
+
+VW-0400-a-22-1-b                              9 / 11                                    lees verder ►►►
+      Informatiebron 7
+
+            Het idee van startup Klusstudent vof
+
+            Vind je klusstudent via Klusstudent! Hoe werkt het?
+
+            1. Plaats je klus in de app van Klusstudent
+
+            In enkele eenvoudige stappen plaats je een klus met het bedrag dat je
+            ervoor wilt betalen. Hiermee nodig je de klusstudenten uit om te reageren.
+
+            2. Klusstudenten reageren
+
+            Geïnteresseerde klusstudenten reageren, vaak al binnen een dag, na het
+            plaatsen van je klus.
+
+            3. Kies je klusstudent en kom met hem/haar in contact
+
+            Vergelijk de profielen van de klusstudenten die gereageerd hebben, maak
+            een keuze en contacteer de klusstudent om de klus te bespreken.
+
+            4. Betaal achteraf
+
+            Na afloop van de uitvoering van de klus betaal je de klusstudent het
+            afgesproken bedrag (de klusprijs).
+
+            5. Evalueer de klusstudent
+
+            Na afloop van de uitvoering van de klus en de betaling aan de klusstudent
+            vul je in de app een korte evaluatie in, waarin je de klusstudent
+            beoordeelt.
+
+
+
+
+VW-0400-a-22-1-b                           10 / 11                           lees verder ►►►
+      Informatiebron 8
+
+            Verwachte opbrengsten en kosten voor Klusstudent
+
+            Verwachte opbrengsten in 2022
+
+            Klusstudent ontvangt een bemiddelingsvergoeding van de plaatsers van
+            de klus. Deze betalen
+             een vast tarief van € 2 per klus
+             een variabel tarief van 25% van de klusprijs
+
+            Paul en Osman verwachten voor 2022:
+
+              aantal geplaatste klussen per maand       300
+              gemiddelde klusprijs                      € 18,00
+
+            Verwachte kosten in 2022
+
+                  App: een goed werkende app is de basis voor het succes van
+                   Klusstudent. Er zal een app worden ontwikkeld. De afschrijvingskosten
+                   van de app zijn € 6.800 per jaar.
+                   Eens per kwartaal zal de app een update ondergaan, waarvoor naar
+                   verwachting op elke eerste dag van het kwartaal € 450
+                   (vooruit)betaald zal worden. Deze uitgaven worden in het kwartaal van
+                   betaling ook als kosten geboekt.
+                  Personeel: Klusstudent wil van maandag tot en met zaterdag tussen
+                   9.00 uur en 18.00 uur continu bereikbaar zijn voor contact via e-mail
+                   en sociale media. Omdat Paul en Osman door de week ook studeren,
+                   wordt er een medewerker ingehuurd die maandelijks € 500 zal kosten.
+                  Marketing: per klus zal 20% van de bemiddelingsvergoeding aan
+                   marketingactiviteiten worden uitgegeven.
+                  De overige kosten voor Klusstudent in 2022 worden geschat op
+                   € 3.000 en zijn constante kosten.
+
+
+
+
+VW-0400-a-22-1-b                              11 / 11                          lees verdereinde
+                                                                                            ►►► 
+

@@ -1,0 +1,281 @@
+                      Bijlage HAVO
+
+                         2021
+                             tijdvak 2
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+HA-0400-a-21-2-b
+      Informatiebron 1
+
+            Berekenen van een hypothecaire lening
+
+            Voor het berekenen van de maximale hypothecaire lening wordt gekeken
+            naar het toetsinkomen per jaar en de schulden van de aanvrager(s) van
+            de hypothecaire lening en naar de aankooprijs van de woning.
+
+            Toetsinkomen
+
+            Het toetsinkomen dat meetelt voor de hypothecaire lening bestaat uit:
+             brutosalaris
+             vakantietoeslag
+             eindejaarsuitkering indien dit een vaste uitkering is
+             provisie indien deze onafhankelijk van de omzet is
+             sociale uitkering, waarbij het uitmaakt of deze tijdelijk is of niet
+             onregelmatigheidstoeslag over de laatste 12 maanden
+             overwerk over de laatste 12 maanden
+             flexibel inkomen indien men werkzaam is via uitzendbureau of als
+               oproepkracht
+             inkomen als zelfstandige; dit is het gemiddelde resultaat na belasting
+               van de afgelopen 3 jaar
+             alimentatie; alleen partneralimentatie telt mee, niet de
+               kinderalimentatie
+
+            Indien twee personen de woning kopen, dan wordt het gezamenlijke
+            toetsinkomen berekend door het hoogste inkomen voor 100% mee te
+            tellen en het laagste inkomen voor 70% mee te tellen.
+
+            Berekening maximale hypothecaire lening (= c)
+
+                  Stap 1: bereken a = toetsinkomen x 4,5
+                  Stap 2: bereken b = schulden x 4
+                  Stap 3: bereken c = a - b
+                           c kan nooit hoger zijn dan de aankoopprijs van de woning
+
+
+
+
+HA-0400-a-21-2-b                               2/8                             lees verder ►►►
+      Informatiebron 2
+
+            Arbeidsovereenkomst voor onbepaalde tijd van Robin
+
+            Gegevens werkgever
+
+            Naam: ZorgIsMijnZaak
+            Adres: Boterbloemlaan 38, IJsselstein
+
+            Gegevens werknemer
+
+            Naam: Robin Vermeer
+            Adres: Distelstraat 5, Nieuwegein
+
+            Gegevens arbeidsovereenkomst
+
+            De werknemer treedt op 1 januari 2020 in dienst bij de werkgever op
+            basis van een arbeidsovereenkomst voor onbepaalde tijd in de functie van
+            projectmanager.
+            Op de arbeidsovereenkomst is de collectieve arbeidsovereenkomst (cao)
+            Sociaal Werk van toepassing. De werknemer ontvangt bij indiensttreding
+            een exemplaar van de cao.
+
+            Proeftijd
+
+            Er is een proeftijd van twee maanden.
+
+            Werktijden en plaats werkzaamheden
+
+            De werknemer werkt parttime 32 uur per week. De werknemer werkt vier
+            dagen per week. De werkzaamheden worden gewoonlijk verricht op het
+            kantoor in IJsselstein.
+
+            Salaris en vakantietoeslag
+
+            Het salaris bedraagt € 3.300 bruto per maand op basis van een
+            voltijdsbaan van 40 uur per week. De vakantietoeslag bedraagt 8% van
+            het brutojaarsalaris.
+
+            Overige vergoedingen
+
+            Er is een reiskostenvergoeding van € 0,19 per kilometer voor woon-
+            werkverkeer en dienstreizen.
+            De eindejaarsuitkering bedraagt 3% van het brutojaarsalaris exclusief
+            vakantiegeld en wordt uitbetaald in december.
+
+
+
+
+HA-0400-a-21-2-b                            3/8                              lees verder ►►►
+      Informatiebron 3
+
+            Onderneming van Floor
+
+            In onderstaande tabel zijn het eigen vermogen, de liquide middelen en het
+            resultaat na belasting van de eenmanszaak van Floor opgenomen.
+
+            (getallen x € 1)
+                                                         2020       2019          2018
+            eigen vermogen op 31 december             128.000     90.000       60.000
+            liquide middelen op 31 december            53.000     40.000       37.000
+            resultaat na belasting                     50.000     47.000       41.000
+
+            Floor heeft geen andere inkomsten.
+
+            Voor de aankoop van een woning kan Floor maximaal 25% van de liquide
+            middelen op 31 december 2020 uit haar onderneming opnemen.
+
+
+
+
+HA-0400-a-21-2-b                            4/8                             lees verder ►►►
+      Informatiebron 4
+
+Kosten koper en overige aankoopkosten
+
+De overdrachtsbelasting en de notaris- en kadasterkosten voor de eigendomsakte
+vormen samen de 'kosten koper' (k.k.). Daarnaast zijn er overige aankoopkosten.
+
+ kosten               omschrijving                         tarief
+ kosten koper
+ kosten van           Overdrachtsbelasting is een         2% van de
+ overdrachtsbelasting belasting die je betaalt als je een aankoopprijs exclusief
+                      bestaande woning, vakantiewoning, k.k.
+                      winkel- of bedrijfspand koopt.
+ notariskosten        De notaris berekent kosten voor      € 1.200 voor beide
+                      het opmaken van de                   aktes samen
+                      eigendomsakte en de
+                      hypotheekakte.
+ overige
+ aankoopkosten:
+ advies- en           De bank berekent kosten voor         € 2.600
+ bemiddelingskosten   advies en bemiddeling.
+ aanvraagkosten van   Dit is alleen van toepassing voor    0,9% van het
+ nationale            hypothecaire leningen tot            hypotheekbedrag
+ hypotheekgarantie    € 300.000.
+ taxatiekosten        Om zeker te weten dat de woning      € 500
+                      als onderpand voldoende waard is,
+                      moet de woning worden getaxeerd
+                      door een onafhankelijke partij.
+ makelaarskosten      de kosten van de makelaar die in     1,5% van de vraagprijs
+                      dienst van de koper bemiddelt        inclusief k.k. van de
+                                                           woning. Als de
+                                                           aankoopprijs exclusief
+                                                           k.k. lager is dan de
+                                                           vraagprijs inclusief k.k.,
+                                                           dan krijgt de
+                                                           aankoopmakelaar extra
+                                                           12% van het verschil
+                                                           tussen de vraagprijs
+                                                           inclusief k.k. en de
+                                                           aankoopprijs exclusief
+                                                           k.k.
+ bouwtechnische       De keuring geeft zekerheid over de
+ keuringskosten       staat van de woning.                 € 450
+
+
+
+
+HA-0400-a-21-2-b                       5/8                              lees verder ►►►
+      Informatiebron 5
+
+Informatie met betrekking tot afwikkeling na overlijden van tante Door
+
+Uit de gegevens van de privéadministratie van tante Door is het volgende overzicht
+gemaakt.
+
+                                 Uit de privéadministratie          en bovendien dat
+                                 blijkt dat
+ energiemaatschappij             Tante Door ontvangt                Op het moment van
+                                 jaarlijks op 1 november de         overlijden waren de kosten
+                                 eindafrekening. Vanaf              van het werkelijke
+                                 1 november 2020 betaalt            energieverbruik over de
+                                 zij maandelijks € 130. De          periode
+                                 betaling ervan is achteraf,        1 november 2020 tot en
+                                 telkens op de eerste dag           met 31 maart 2021 in
+                                 van elke maand.                    totaal € 840.
+ zorgverzekeraar                 Tante Door had in 2021             De kosten van het
+                                 alleen een                         ziekenhuisonderzoek zijn
+                                 basisverzekering (waarvan          nog niet door het
+                                 de verzekeringspremie              ziekenhuis ingediend bij de
+                                 € 106 per maand bedraagt           zorgverzekeraar. Het blijkt
+                                 en op de laatste dag van           om een nota van
+                                 elke maand wordt                   € 1.280 te gaan. Er zijn
+                                 betaald). Die dekt onder           verder in 2021 geen kosten
+                                 andere ziekenhuiszorg.             gemaakt waarvoor eigen
+                                 Daarop is wel het eigen            risico1) geldt.
+                                 risico1) van € 385 van
+                                 toepassing. In februari
+                                 2021 heeft Tante Door
+                                 ziekenhuisonderzoek laten
+                                 doen.
+
+
+noot 1 Eigen risico is dat deel van de zorgkosten dat de verzekerde zelf moet betalen.
+
+
+
+
+HA-0400-a-21-2-b                                6/8                                      lees verder ►►►
+                         uit de privéadministratie blijkt     en bovendien dat
+                         dat
+ financiële rekeningen      Op de betaalrekening van
+                             tante Door staat per 1 april
+                             2021, na betaling van de huur
+                             voor april 2021, een negatief
+                             saldo van € 240.
+                            Op de spaarrekening staat op
+                             1 april 2021 een positief
+                             saldo van € 9.560 inclusief de
+                             bijgeschreven interest.
+                            Tante Door heeft bij haar
+                             overlijden op 1 april een
+                             creditcardschuld van
+                             € 360.
+ waarde van de           Na onderzoek op Marktplaats          De Belastingdienst gaat
+ inboedel                schatten Eva en Sanne in dat de      akkoord met deze
+                         waarde van de totale inboedel        waardebepaling.
+                         inclusief televisie en computer
+                         € 4.500 is.
+ auto                    Tante Door heeft de auto bij de      In geval van overlijden
+                         autodealer geleased. Het             wordt het leasecontract
+                         leasebedrag is € 250 per maand.      ontbonden en gaat de
+                         De resterende looptijd op het        auto terug naar de
+                         moment van overlijden is             autodealer.
+                         12 maanden. Betaling van het
+                         maandelijkse leasebedrag is op
+                         de laatste dag van de maand.
+
+
+
+
+HA-0400-a-21-2-b                         7/8                               lees verder ►►►
+      Informatiebron 6
+
+            Erfbelasting
+
+            Tarieven erfbelasting:
+
+              waarde erfenis            partner en kind   kleinkinderen    overige
+                                                                           erfgenamen
+              € 0 - € 124.727                 10%              18%               30%
+              € 124.727 en meer               20%              36%               40%
+
+            U betaalt pas erfbelasting als de waarde van de erfenis hoger is dan de
+            vrijstelling.
+
+            Vrijstelling
+
+              U bent:                                                         bedrag van
+                                                                          vrijstelling in €
+              echtgenoot / geregistreerd partner / samenwonend
+              partner                                                              650.913
+              kind / pleegkind / stiefkind / kleinkind                              20.616
+              achterkleinkind                                                         2.173
+              een andere erfgenaam                                                    2.173
+
+
+
+
+HA-0400-a-21-2-b                                8/8                            lees verdereinde
+                                                                                            ►►► 
+

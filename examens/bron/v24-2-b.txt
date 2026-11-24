@@ -1,0 +1,167 @@
+                       Bijlage VWO
+
+                         2024
+                              tijdvak 2
+
+
+
+
+                   bedrijfseconomie
+
+
+
+
+Informatieboekje
+
+
+
+
+VW-0400-a-24-2-b
+      Formuleblad
+
+             Voor beantwoording van vraag 26 is de volgende formule beschikbaar.
+
+     26
+             somformule meetkundige reeks:
+
+                    rn - 1
+            S=ax
+                     r-1
+            hierbij gebruikte symbolen:
+            S = som van de getallen in een meetkundige reeks
+            a = aanvangsterm van de meetkundige reeks
+            r = reden van de meetkundige reeks
+            n = aantal termen van de meetkundige reeks
+
+
+
+
+VW-0400-a-24-2-b                             2/6                           lees verder ►►►
+      Informatiebron 1
+
+            Gegevens over de kostprijs per bezorging in 2022 van Ilse Sushi
+
+            Aanschaf en afschrijving bezorgscooters
+
+                  De bezorgscooters zijn aangeschaft op 1 april 2020 voor € 4.235 per
+                   scooter inclusief 21% btw.
+                  De levensduur is 3 jaar.
+                  De restwaarde per bezorgscooter is € 500 exclusief 21% btw.
+                  Op de bezorgscooters wordt lineair per maand afgeschreven.
+
+            Verzekering, benzine en onderhoud (bedragen exclusief 21% btw)
+
+                  Een bezorgscooter dient all risk verzekerd te worden voor € 55 per
+                   maand.
+                  Met één liter benzine rijdt een bezorgscooter 20 kilometer.
+                   Een liter benzine kost gemiddeld € 1,50.
+                  Voor onderhoud wordt € 0,025 per kilometer gerekend.
+
+            Loonkosten bezorgers
+
+            Een bezorger werkt 4 uur per dag ongeacht het aantal klanten. De
+            loonkosten van een bezorger zijn € 5,50 per uur. Er werken 400 bezorgers
+            per dag voor Ilse Sushi. Ilse Sushi bezorgt in totaal 260 dagen per jaar.
+
+            Overige kosten
+
+            De overige kosten (helm, slot) zijn € 120 per scooter per jaar.
+
+            Normaal en begroot aantal kilometers
+
+            Per bezorging wordt gemiddeld 2 kilometer gereden.
+
+              aantal                    2020           2021            2022          2023
+              bezorgingen                                                       (verwacht)
+              normaal              2.000.000      2.000.000       2.000.000      2.000.000
+              begroot              1.950.000      2.100.000       2.100.000      2.100.000
+
+
+
+
+VW-0400-a-24-2-b                               3/6                              lees verder ►►►
+      Informatiebron 2
+
+            Nacalculatorische gegevens over 2022 van de bezorgdienst
+
+              aantal bezorgingen                    1.900.000
+              afschrijvingskosten                   € 400.000
+              verzekeringskosten                    € 264.000
+              loonkosten                          € 2.451.800
+              overige constante kosten               € 50.000
+              benzinekosten                         € 294.525
+              benzineverbruik in liters               192.500
+              onderhoudskosten                       € 95.000
+
+            Het hoofkantoor betaalt een vergoeding van € 1,75 per bezorging aan de
+            bezorgdienst.
+
+
+
+
+VW-0400-a-24-2-b                           4/6                            lees verder ►►►
+      Informatiebron 3
+
+            DUO
+
+            Op de site van de Dienst Uitvoering Onderwijs (DUO) staat het maximale
+            bedrag van de studiefinanciering:
+
+                                 per maand, maximaal lenen
+              totaal                      € 1.011,50
+
+            De site van DUO vermeldt verder het volgende:
+
+            Lenen
+
+                  U kunt het maandelijkse bedrag dat u leent verhogen, verlagen of
+                   stopzetten.
+                  Na de opleiding moet u de gehele lening terugbetalen met interest.
+                  Als u leent bouwt u een studieschuld op. Als u een huis gaat kopen,
+                   kan de studieschuld meetellen in de berekening van het maximale
+                   hypotheekbedrag.
+
+            Aflossen
+
+                  Als uw studiefinanciering stopt, dan begint op 1 januari daarna de
+                   “aanloopfase”. Dit is een periode van 2 jaar waarin u nog niet hoeft af
+                   te lossen en interest hoeft te betalen. De interest loopt tijdens deze
+                   fase wel door.
+                  Na de aanloopfase start de aflosfase. Vanaf dat moment moet u
+                   maandelijks op de laatste dag van de maand aan DUO een bedrag
+                   terugbetalen, bestaande uit interest en aflossing.
+                  De aflosfase is maximaal 35 jaar.
+
+
+
+
+VW-0400-a-24-2-b                                5/6                               lees verder ►►►
+      Informatiebron 4
+
+            De financiële planning van Job
+
+
+
+
+                01-sep-18        01-sep-23      01-jan-24        01-jan-26   01-jan-31
+                start studie     einde studie   start            start       huisje boompje
+                                                aanloopfase      aflosfase   beestje
+
+
+                   interest 0%                            interest 0,1%
+                   per maand                               per maand
+
+
+
+            −      Volgens Job bedraagt zijn totale studieschuld aan het begin van de
+                   aflosfase op 1 januari 2026, uitgaande van een onveranderd
+                   leenbedrag per maand en maximaal lenen bij DUO: € 62.412,46.
+            −      Direct na het afstuderen op 1 september 2023 bedraagt het
+                   samengestelde interestpercentage 0,1% per maand.
+
+
+
+
+VW-0400-a-24-2-b                                       6/6                                    lees verdereinde
+                                                                                                           ►►► 
+
