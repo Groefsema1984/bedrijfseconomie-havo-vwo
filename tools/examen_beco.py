@@ -10,6 +10,8 @@ Per examenvraag komt er een open vraag met de tekst van de opgave, de vraag, het
 en de bijbehorende informatiebronnen, uitwerkbijlage en examenpagina als afbeelding.
 """
 import glob, json, os, re, subprocess, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from examen_onderwerpen import ONDERWERPEN, onderwerpen
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 BRON = os.path.join(ROOT, 'examens', 'bron')
 IMG = os.path.join(ROOT, 'examens', 'img')
@@ -366,6 +368,7 @@ def main():
             d = EX_DOMEIN.get(f'{ex}.{v["nr"]}') or bib.get(eid) or domein(q, ctx)
             rec = {'id': eid, 't': 'open', 'niv': niv, 'ex': ex, 'jaar': jaar, 'tv': tv, 'titel': f'Opgave {v["opgave"]}', 'd': d, 'e': 'EX.' + d,
                    'nr': v['nr'], 'ctx': ctx, 'q': q, 'model': model, 'pnt': v['pnt']}
+            rec['top'] = onderwerpen(q, model, v['ctx'])
             if img: rec['img'] = img
             mc = re.fullmatch(r'\s*([A-F])\s*', model)
             if mc:
@@ -379,7 +382,8 @@ def main():
     kop = ('// ===== Eindexamenvragen havo en vwo =====\n'
            "// Per vraag: {id:'ex.h24-1.5', t:'open'|'ex', niv:'h'|'v', ex:'h24-1', jaar, tv, nr, titel, d, e:'EX.F', ctx, q, model, pnt, img:[...]}\n"
            '// AUTOMATISCH GEMAAKT door tools/examen_beco.py uit de complete centrale examens (examens/bron). Niet met de hand wijzigen.\n')
-    out = kop + 'const EXAMEN = {vragen:[]};\n' + f'EXAMEN.vragen.push(...{json.dumps(vragen, ensure_ascii=False, indent=0)});\n'
+    ow = [{'id': o[0], 'naam': o[1], 'd': o[2], 'h': o[3], 'v': o[4]} for o in ONDERWERPEN]
+    out = kop + 'const EX_ONDERWERPEN = ' + json.dumps(ow, ensure_ascii=False) + ';\nconst EXAMEN = {vragen:[]};\n' + f'EXAMEN.vragen.push(...{json.dumps(vragen, ensure_ascii=False, indent=0)});\n'
     open(os.path.join(ROOT, 'src', 'data-examen.js'), 'w', encoding='utf-8').write(out)
     print('\n'.join(rapport)); print(len(vragen), 'examenvragen')
 

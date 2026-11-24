@@ -1,6 +1,7 @@
 // ===== Eindexamenvragen havo en vwo =====
 // Per vraag: {id:'ex.h24-1.5', t:'open'|'ex', niv:'h'|'v', ex:'h24-1', jaar, tv, nr, titel, d, e:'EX.F', ctx, q, model, pnt, img:[...]}
 // AUTOMATISCH GEMAAKT door tools/examen_beco.py uit de complete centrale examens (examens/bron). Niet met de hand wijzigen.
+const EX_ONDERWERPEN = [{"id": "rechtsvorm", "naam": "Rechtsvormen en aansprakelijkheid", "d": "B", "h": "h10", "v": "v11"}, {"id": "ib", "naam": "Inkomstenbelasting en ondernemersaftrek", "d": "B", "h": "h22", "v": "v25"}, {"id": "vpb", "naam": "Vennootschaps- en dividendbelasting", "d": "B", "h": "h22", "v": "v25"}, {"id": "winstverdeling", "naam": "Winstverdeling en dividend", "d": "D", "h": "h22", "v": "v16"}, {"id": "btw", "naam": "Btw", "d": "B", "h": "h22", "v": "v25"}, {"id": "erven", "naam": "Schenken en erven", "d": "B", "h": "hv7", "v": "v8"}, {"id": "prive", "naam": "Persoonlijke financiën: budget, huur, studieschuld, verzekeren", "d": "B", "h": "hv3", "v": "hv3"}, {"id": "woning", "naam": "Woning en hypotheek", "d": "B", "h": "hv6", "v": "hv6"}, {"id": "interest", "naam": "Sparen, samengestelde interest en contante waarde", "d": "A", "h": "hv5", "v": "hv5"}, {"id": "beleggen", "naam": "Beleggen en risico", "d": "D", "h": "hv4", "v": "hv4"}, {"id": "starten", "naam": "Ondernemingsplan en zelfstandig ondernemen", "d": "B", "h": "h9", "v": "v10"}, {"id": "mvo", "naam": "MVO en duurzaamheid", "d": "B", "h": "h8", "v": "v9"}, {"id": "organisatie", "naam": "Organisatie, leiding en communicatie", "d": "C", "h": "h11", "v": "v12"}, {"id": "arbeidsrecht", "naam": "Arbeidsrecht: contracten, ontslag, cao, OR", "d": "C", "h": "h13", "v": "v14"}, {"id": "personeel", "naam": "Personeelsbeleid, loonkosten en beloning", "d": "C", "h": "h14", "v": "v15"}, {"id": "investeren", "naam": "Investeringsselectie", "d": "D", "h": "h16", "v": "v18"}, {"id": "afschrijving", "naam": "Afschrijving en boekwaarde", "d": "F", "h": "h20", "v": "v23"}, {"id": "vreemdvermogen", "naam": "Financiering met vreemd vermogen: leningen, krediet, lease", "d": "D", "h": "h15", "v": "v17"}, {"id": "aandelen", "naam": "Eigen vermogen: aandelen, emissie, agio, koers", "d": "D", "h": "h15", "v": "v16"}, {"id": "obligaties", "naam": "Obligaties", "d": "D", "h": "h15", "v": "v17"}, {"id": "faillissement", "naam": "Faillissement en surseance", "d": "B", "h": "h10", "v": "v11"}, {"id": "marktonderzoek", "naam": "Marktonderzoek en doelgroep", "d": "E", "h": "h17", "v": "v19"}, {"id": "marketingmix", "naam": "Marketingmix: product, prijs, plaats, promotie", "d": "E", "h": "h18", "v": "v20"}, {"id": "strategie", "naam": "Strategie: SWOT, KSF en prestatie-indicatoren", "d": "E", "h": "h17", "v": "v19"}, {"id": "marktaandeel", "naam": "Marktaandeel, afzet en prijselasticiteit", "d": "E", "h": "h18", "v": "v22"}, {"id": "kostprijs", "naam": "Kostprijs, constante en variabele kosten", "d": "F", "h": "h20", "v": "v23"}, {"id": "breakeven", "naam": "Break-even en dekkingsbijdrage", "d": "F", "h": "h21", "v": "v24"}, {"id": "costing", "naam": "Absorption en direct costing", "d": "F", "h": "h20", "v": "v27"}, {"id": "verschillen", "naam": "Budgettering en verschillenanalyse", "d": "F", "h": "h24", "v": "v30"}, {"id": "liquiditeitsbegroting", "naam": "Liquiditeitsbegroting: ontvangsten en uitgaven", "d": "F", "h": "h25", "v": "v31"}, {"id": "resultaat", "naam": "Resultatenbegroting en resultaatberekening", "d": "F", "h": "h25", "v": "v31"}, {"id": "periodisering", "naam": "Kosten en uitgaven, periodisering (vooruitbetaald e.d.)", "d": "G", "h": "h23", "v": "v29"}, {"id": "balans", "naam": "Balans en balansmutaties", "d": "G", "h": "hv2", "v": "hv2"}, {"id": "waardering", "naam": "Waarderingsregels en voorzieningen", "d": "G", "h": "h27", "v": "v33"}, {"id": "kengetallen", "naam": "Kengetallen: liquiditeit, solvabiliteit, rentabiliteit", "d": "G", "h": "h29", "v": "v35"}, {"id": "cashflow", "naam": "Cashflow en kasstroomoverzicht", "d": "G", "h": "h29", "v": "v35"}, {"id": "verslaggeving", "naam": "Jaarrekening, accountant en verslaggeving", "d": "G", "h": "h26", "v": "v32"}];
 const EXAMEN = {vragen:[]};
 EXAMEN.vragen.push(...[
 {
@@ -18,6 +19,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de gemiddelde koers van Acé van de laatste 12 maanden voor het overnamebod. Rond hierbij af op hele centen.",
 "model": "8,60 = € 6,28 1,37",
 "pnt": 1,
+"top": [
+"aandelen"
+],
 "img": [
 "h21-1-o-2"
 ]
@@ -37,6 +41,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Kanon voor het gewenste aandelenpakket Acé biedt.",
 "model": "42.441.000 × 8,60 x 0,15 = € 109.497.780 0,50",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h21-1-o-2"
 ]
@@ -56,6 +63,10 @@ EXAMEN.vragen.push(...[
 "q": "Motiveer onder welke balanspost (Deelnemingen of Effecten) bij Kanon de gekochte aandelen Acé opgenomen zullen worden. Betrek in de motivatie zowel “Deelnemingen” als “Effecten”.",
 "model": "• Deelnemingen Bij Deelnemingen gaat het om verworven aandelen waarvan het doel is om zeggenschap te verwerven / hierdoor de concurrentiepositie van de onderneming te handhaven of te verbeteren (op lange termijn) (1p)\n• Bij Effecten is het doel (op korte termijn) met de verworven aandelen dividend en/of koerswinst te behalen (1p)",
 "pnt": 2,
+"top": [
+"personeel",
+"aandelen"
+],
 "img": [
 "h21-1-o-3"
 ]
@@ -75,6 +86,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee niet-financiële redenen waarom HRM-afdelingen er de voorkeur aan geven om voor te verrichten werkzaamheden werknemers in loondienst te nemen in plaats van zzp’ers te contracteren.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Een werknemer heeft een grotere binding met de organisatie / is loyaler aan het werk of werkgever dan een zzp’er.\n- Een werknemer investeert meer in werkrelaties, kennisoverdracht en lange-termijnsucces van de organisatie.\n- Zzp’ers moeten hun aandacht (vaak) verdelen over meerdere opdrachtgevers, waardoor ze vaak minder beschikbaar zijn.\nper juiste reden 1",
 "pnt": 2,
+"top": [
+"starten"
+],
 "img": [
 "h21-1-b-2",
 "h21-1-b-3",
@@ -97,6 +111,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee voordelen voor Super Mobile van een individuele arbeidsovereenkomst voor bepaalde tijd in vergelijking met een individuele arbeidsovereenkomst voor onbepaalde tijd.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De werkgever kan de arbeidsovereenkomst opzeggen met ingang van de afloopdatum van de arbeidsovereenkomst voor bepaalde tijd zonder vermelding van een goede, gedocumenteerde reden.\n- De medewerker kan gemotiveerder zijn, omdat hij/zij een verlenging wil.\nper juist voordeel 1\nOpmerking Voor het antwoord: “makkelijker te ontslaan tijdens de looptijd” wordt geen scorepunt toegekend.",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "h21-1-b-2",
 "h21-1-b-3",
@@ -119,6 +136,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het rapportcijfer van het callcenter voor de niet-financiële prestaties. Ga hierbij als volgt te werk:\n- Beantwoord de vraag of tabel 1 de kritische succesfactoren of de prestatie-indicatoren bevat.\n- Koppel de kritische succesfactoren aan de bijbehorende prestatie- indicatoren.\n- Bereken vervolgens het gewogen gemiddelde rapportcijfer.",
 "model": "• kritische succesfactoren (1p)\n• a - 2, b - 3, c - 1, d - 4 (1p)\n3x7+1x2+5x8+4x6\n• = 6,7 (1p)\n13",
 "pnt": 3,
+"top": [
+"strategie"
+],
 "img": [
 "h21-1-b-2",
 "h21-1-o-5"
@@ -139,6 +159,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gerealiseerde resultaat van het callcenter over het vierde kwartaal van 2020 (zie informatiebron 2). Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "getallen x € 1\ngerealiseerde opbrengsten gerealiseerde kosten: | 182.208\nafschrijving computernetwerk | 1.000\nICT-ondersteuning | 2.700\nloonkosten medewerkers callcenter | 193.752\nreiskosten medewerkers callcenter | 16.650\nHRM-ondersteuning | 8.775\ntotale gerealiseerde kosten | 222.877\ngerealiseerd resultaat | 40.669\npositief / negatief | negatief\nberekeningen:\ngerealiseerde opbrengsten | 62.400 x 2,92 = 182.208\nafschrijving computernetwerk | 4.000 = 1.000 4\nICT-ondersteuning | 3 x 900 = 2.700\nloonkosten medewerkers | 15 x 20 x 40 x 13 x 1,08 x 1,15 =\ncallcenter | 193.752\nreiskosten medewerkers callcenter | 15 x 370 x 3 = 16.650\nHRM-ondersteuning | 45 x 15 x 13 = 8.775\n• 182.208 (1p)\n• 1.000 en 2.700 (2p)\n• 193.752 en 16.650 en 8.775 (2p)\n• 40.669 negatief (1p)",
 "pnt": 6,
+"top": [
+"resultaat"
+],
 "img": [
 "h21-1-b-3",
 "h21-1-b-4",
@@ -161,6 +184,10 @@ EXAMEN.vragen.push(...[
 "q": "Van welk ander recht maakt de OR van Super Mobile gebruik?",
 "model": "het recht van initiatief",
 "pnt": 1,
+"top": [
+"organisatie",
+"arbeidsrecht"
+],
 "img": [
 "h21-1-b-2",
 "h21-1-b-3",
@@ -183,6 +210,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken hoe hoog de vergoeding per gerealiseerd klantcontact zal moeten zijn, zodat het callcenter tenminste kostendekkend is in het eerste kwartaal 2021. Ga hierbij uit van hetzelfde aantal gerealiseerde klantcontacten en dezelfde kosten als in het vierde kwartaal 2020.",
 "model": "totale werkelijke kosten | 222.877\n= | = € 3,57(17)\ntotale gerealiseerde klantcontacten | 62.400\nOpmerking Het antwoord ≥ € 3,5717 of ≥ 3,58 ook goed rekenen.",
 "pnt": 1,
+"top": [
+"kostprijs",
+"vreemdvermogen"
+],
 "img": [
 "h21-1-b-2",
 "h21-1-b-3",
@@ -205,6 +236,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat in het eigen callcenter het aantal gerealiseerde klantcontacten per betaald uur 8 is (zie informatiebron 2).",
 "model": "62.400 = 8 klantcontacten 13 x 40 x 15",
 "pnt": 1,
+"top": [
+"kostprijs"
+],
 "img": [
 "h21-1-b-3",
 "h21-1-b-4",
@@ -226,6 +260,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het aantal klantcontacten per betaald uur indien gekozen wordt voor outsourcing.",
 "model": "60 8x = 10 klantcontacten 48",
 "pnt": 1,
+"top": [
+"kostprijs"
+],
 "img": [
 "h21-1-b-2",
 "h21-1-b-3",
@@ -248,6 +285,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het totale aantal benodigde uren indien gekozen wordt voor outsourcing.",
 "model": "In 1 uur outsourcing zijn er 10 klantcontacten. 1\nEén klantcontact outsourcing vergt uur 10 dus nodig: 62.400 x 0,10 = 6.240 uren bij outsourcing.\nof\n62.400 = 6.240 uren 10",
 "pnt": 1,
+"top": [
+"kostprijs"
+],
 "img": [
 "h21-1-b-2",
 "h21-1-b-3",
@@ -270,6 +310,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon dit aan.",
 "model": "kosten bij eigen callcenter: € 222.877 (en zijn onafhankelijk van de vergoeding door het hoofdkantoor) en kosten bij outsourcing: 6.240 x 30 = € 187.200",
 "pnt": 1,
+"top": [
+"kostprijs"
+],
 "img": [
 "h21-1-b-2",
 "h21-1-b-3",
@@ -292,6 +335,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een voordeel voor een belegger van obligaties met een korte looptijd ten opzichte van obligaties met een lange looptijd. Motiveer het antwoord.",
 "model": "Het vrijgekomen geld kan dan mogelijk belegd worden met een verwachte opbrengst die hoger is dan de verwachte opbrengst van de langlopende obligatie.",
 "pnt": 2,
+"top": [
+"obligaties"
+],
 "img": [
 "h21-1-o-8"
 ]
@@ -311,6 +357,10 @@ EXAMEN.vragen.push(...[
 "q": "Maak bovenstaande zinnen economisch correct. Kies uit: bij (1) lager / hoger bij (2) meer / minder bij (3) een schuldeiser / een schuldenaar\nStelling: een belegger kan in jaren van een verwacht dalend interestpercentage op de kapitaalmarkt beter kiezen voor een belegging in aandelen dan in obligaties.",
 "model": "(1) lager (2) meer\nof (1) hoger (2) minder\n(3) een schuldeiser\nper juist antwoord 1",
 "pnt": 3,
+"top": [
+"aandelen",
+"obligaties"
+],
 "img": [
 "h21-1-o-8"
 ]
@@ -330,6 +380,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef een argument voor deze stelling.",
 "model": "Voorbeelden van een juist antwoord zijn:\n• Ondernemingen kunnen in de toekomst goedkoper lenen. Hierdoor kunnen de investeringen toenemen en daarmee wordt het toekomstige resultaat positief beïnvloed (1p)\n• Hierdoor kan het dividend toenemen / stijgt de beurskoers van aandelen en worden aandelen aantrekkelijker en obligaties niet (1p)\nof\n• Interestkosten van ondernemingen dalen waardoor het resultaat van ondernemingen positief wordt beïnvloed. Hierdoor kan het dividend toenemen / stijgt de beurskoers van aandelen (1p)\n• Hierdoor kan het dividend toenemen / stijgt de beurskoers van aandelen en worden aandelen aantrekkelijker en obligaties niet (1p)\nof\n• Als de kapitaalmarktinterest in de toekomst omlaag gaat, zal het interestpercentage op nieuwe obligaties ook omlaag gaan (1p)\n• Voor beleggers is het alternatief aandelen dan interessanter bij gelijkblijvend resultaat dan beleggen in obligaties (1p)\nAanvulling van het CvTE, het antwoordmodel is aangepast. Nieuw antwoordmodel:\n• Interestkosten van ondernemingen dalen waardoor het resultaat van ondernemingen positief wordt beïnvloed (1p)\n• Hierdoor kan het dividend toenemen / stijgt de beurskoers van aandelen en worden aandelen aantrekkelijker en obligaties niet (1p)",
 "pnt": 2,
+"top": [
+"aandelen",
+"obligaties"
+],
 "img": [
 "h21-1-o-8"
 ]
@@ -349,6 +403,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef een economisch argument om in deze situatie te beleggen in aandelen in plaats van in obligaties.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- (Uit de historie blijkt dat) aandelen op langere termijn beter renderen dan obligaties.\n- Hoe langer de periode hoe groter het risico dat een belegger zich kan permitteren. De kans dat tegenvallers worden goedgemaakt, is groter bij een lange periode dan bij een korte periode.",
 "pnt": 1,
+"top": [
+"aandelen",
+"obligaties"
+],
 "img": [
 "h21-1-o-9"
 ]
@@ -368,6 +426,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg met behulp van bovenstaande grafiek en een berekening uit voor welke vorm van aflossing Edo en Jesse hebben gekozen.",
 "model": "• De aflossing is in het eerste jaar 360.000 – 351.175 = 8.825 en in het tweede jaar 351.175 – 342.197 = 8.978 (1p)\n• De aflossingen nemen toe en dus wordt er annuïtair afgelost (1p)\nof 360.000\n• Bij lineaire aflossing zou de jaarlijkse aflossing steeds = 30 12.000 zijn (1p)\n• Dat is hier niet het geval. De aflossing is in het eerste jaar 360.000 – 351.175 = 8.825 en in het tweede jaar 351.175 – 342.197 = 8.978, dus er wordt annuïtair afgelost (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h21-1-o-10"
 ]
@@ -387,6 +448,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef voor zowel W. Assuur als voor H. van den Bergh aan tot welke van deze drie beroepsgroepen deze persoon behoort.",
 "model": "• W. Assuur: hypotheekadviseur (1p)\n• H. van den Bergh: notaris (1p)",
 "pnt": 2,
+"top": [
+"woning"
+],
 "img": [
 "h21-1-o-10"
 ]
@@ -406,6 +470,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de kredietverstrekker de hoogte van de interestopslag laat afhangen van de verhouding hypothecaire schuld en woningwaarde, gemeten via (hypothecaire schuld / woningwaarde x 100%).",
 "model": "• Wanneer de waarde van de hypothecaire schuld in verhouding tot de waarde van de woning (zekerheid voor de bank) lager wordt, loopt de kredietgever minder risico (1p)\n• en daalt het interestpercentage omdat dit een vergoeding is voor het gelopen risico (1p)",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h21-1-o-11"
 ]
@@ -425,6 +493,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de opslag op de basisinterest met NHG die de kredietverstrekker heeft toegepast bij het afsluiten van de lening van Edo en Jesse in 2019. Gebruik zowel de grafiek als de tabel.",
 "model": "360.000\n• x 100% = 99% dus kolom ≤ 100% (1p)\n365.000\n• Bij 10 jaar (zonder NHG) is dan een interest van 1,73% van toepassing. De interestopslag is dan 1,73% – 1,33% = 0,40% (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"kostprijs"
+],
 "img": [
 "h21-1-o-11"
 ]
@@ -444,6 +516,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat Willem en Liesbeth in het jaar 2020 geen recht hebben op huurtoeslag. Bereken hiervoor het saldo op het spaardeposito op 1 januari 2020.",
 "model": "• (55.000 x 1,022 + 5.000) x 1,024 = 67.351,09\nof 55.000 x 1,026 + 5.000 x 1,024 = 67.351,09 2\n• 67.351,09 > 60.720. (1p)\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 3,
+"top": [
+"prive"
+],
 "img": [
 "h21-1-b-5",
 "h21-1-b-6",
@@ -466,6 +541,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag aan huurtoeslag dat Willem en Liesbeth in 2020 zijn misgelopen doordat ze geen recht meer hadden op huurtoeslag.",
 "model": "12 x 168 = € 2.016",
 "pnt": 1,
+"top": [
+"prive"
+],
 "img": [
 "h21-1-b-5",
 "h21-1-b-6",
@@ -488,6 +566,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de schenkbelasting over de schenking aan Erik (zie informatiebron 5).",
 "model": "Een van de volgende berekeningen:\n- (10.000 – 2.173) x 0,18 = € 1.408,86\n- 102.010 > 10.000. Als Erik de schenking gebruikt voor een koophuis is de schenking volledig vrijgesteld van schenkbelasting. Dus is de schenkbelasting € 0.",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h21-1-b-7",
 "h21-1-o-12"
@@ -508,6 +589,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening van het vermogen van Willem en Liesbeth aan dat zij nu zowel in 2021 als in 2022 wel recht zullen hebben op huurtoeslag. Geef de berekening voor zowel 2021 als voor 2022. Ga er hierbij van uit dat de vermogensgrens in 2021 en 2022 gelijk is aan die in 2020.",
 "model": "• Vermogen op 1 januari 2021 na geldopname en boete: onder de vermogensgrens 67.351,09 x 1,02 – 10.000 – 0,01 x 10.000 x 3 = 58.398,11 (2p)\n• 58.398,11 < 60.720. (1p)\n• Saldo spaardeposito op 1 januari 2022: (58.398,11 x 1,02 =) 59.566,07 < 60.720. (1p)\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 4,
+"top": [
+"prive"
+],
 "img": [
 "h21-1-b-5",
 "h21-1-b-6",
@@ -530,6 +614,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit wat de buurman met deze tip bedoelt. Ga hierbij als volgt te werk:\n- Wat wordt verstaan onder legitieme portie?\n- Leg uit dat door schenkingen de legitieme portie van Ivan afneemt.",
 "model": "• De legitieme portie is het gedeelte van de erfenis waar een kind recht op houdt wanneer hij/zij in een testament onterfd wordt (de helft van wat hij/zij zonder testament zou hebben gekregen) (1p)\n• Door schenkingen aan Erik daalt het vermogen van Willem en Liesbeth en daarmee ook de legitieme portie van Ivan (1p)",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h21-1-b-5",
 "h21-1-b-6",
@@ -552,6 +639,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef voor elk van de twee financiële feiten (a en b) aan wat de consequenties ervan zijn voor zowel het liquiditeitsoverzicht als de winst- en verliesrekening. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in (naam van de post, bedrag en juiste plek).",
 "model": "Liquiditeitsoverzicht van december 2020 uitgaven ontvangsten financieel feit a interest € 600 aflossing € 2.000\nfinancieel feit b relatiebemiddeling € 2.178\nWinst- en verliesrekening over december 2020 kosten opbrengsten financieel feit a interest(kosten) € 50\nfinancieel feit b\nToelichting: 600 interest(kosten): = 50 12\nOpmerkingen\n- Per juiste naam, bedrag en plek 1 scorepunt toekennen.\n- Voor elke ten onrechte opgevoerde post 1 scorepunt in mindering brengen.",
 "pnt": 4,
+"top": [
+"resultaat"
+],
 "img": [
 "h21-1-u-2",
 "h21-1-o-15"
@@ -572,6 +662,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan of Only1 zich op 31 december 2020 aan deze overeenkomst met de kredietverstrekker houdt.",
 "model": "• bedrijfsresultaat: 7.500 – 450 – 460 – 240 – 200 – 50 (interest) = 6.100 (1p)\n• bedrijfsresultaat – privé-onttrekkingen = 6.100 – 5.000 (1p)\n• dus het eigen vermogen stijgt (met 1.100) / daalt niet (1p)\nOpmerking Wanneer in de eerste twee onderdelen van de uitwerking van deze vraag gewerkt wordt met gegevens uit het liquiditeitsoverzicht, dan kan het 3e scorepunt niet worden toegekend.\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 3,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h21-1-o-15"
 ]
@@ -591,6 +684,9 @@ EXAMEN.vragen.push(...[
 "q": "Met welke aanpassing van de rechtsvorm van Only1 kunnen de zorgen van Nick worden weggenomen? Motiveer het antwoord.",
 "model": "• Door de vof om te zetten in een bv (of in een andere ondernemingsvorm met rechtspersoonlijkheid) (1p)\n• zijn de eigenaren niet meer hoofdelijk aansprakelijk voor de schulden van de onderneming (1p)",
 "pnt": 2,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "h21-1-o-15"
 ]
@@ -610,6 +706,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef bij elk type ontslag (I, II of III) aan welke reden/redenen (a tot en met f) daarbij hoort/horen. Noteer het antwoord als volgt: I : …….. II: …….. III: ……..",
 "model": "I : a, b, f II: c, d III: e\nindien zes antwoorden goed 3\nindien vijf of vier antwoorden goed 2\nindien minder dan vier antwoorden goed 1",
 "pnt": 3,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "h21-2-o-2"
 ]
@@ -629,6 +728,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een voordeel voor de onderneming van ontslag volgens het afspiegelingsbeginsel. Licht het antwoord toe.",
 "model": "• De leeftijdsopbouw binnen een functie en binnen de organisatie voor en na de ontslagen blijft zo veel mogelijk gelijk (1p)\n• waardoor na verloop van tijd niet ineens veel ervaring verdwijnt als gevolg van bijvoorbeeld pensionering (1p)\nof\n• De werkgever hoeft niet specifiek te motiveren waarom hij een bepaalde werknemer voordraagt voor opzegging en anderen niet (1p)\n• Dit voorkomt discussies met de ontslagen werknemers (1p)\nof\n• Bij de ontslagkeuze spelen persoonlijke voorkeur of functioneren geen rol: de ontslagvolgorde is dwingend voorgeschreven door de ontslagregels (1p)\n• Dit maakt de acceptatie van het ontslag door de werknemer soms makkelijker. Dit voorkomt discussies met de ontslagen werknemers (1p)",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "h21-2-o-2"
 ]
@@ -648,6 +750,9 @@ EXAMEN.vragen.push(...[
 "q": "Welk gevolg kan de verlaging van de transitievergoeding hebben voor het personeelsbeleid van een werkgever in het algemeen na 1 januari 2020 vergeleken met dat van vóór 1 januari 2020?",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Een werkgever zal een werknemer makkelijker ontslaan.\n- Een werkgever zal (nieuw) personeel eerder een arbeidsovereenkomst voor onbepaalde tijd aanbieden.\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 1,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "h21-2-o-3"
 ]
@@ -667,6 +772,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee voordelen voor de consument van het kopen van een woning ten opzichte van het huren van een woning. Betrek in het antwoord zowel het kopen als het huren.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- lagere maandlasten vergeleken met de hoge huren in de private sector\n- meer invloed op de duur van het koopproces vergeleken met de lange wachtlijsten in de sociale huursector\n- opbouw van vermogen doordat de waarde van de koopwoning kan stijgen De waardestijging van de huurwoning valt toe aan de verhuurder.\n- belastingvoordeel op hypotheekinterest De huur is geen fiscale aftrekpost.\n- Bij een koophuis kan je als bewoner verbouwen/aanbouwen/bijbouwen naar eigen wens en smaak, bij huur is dat afhankelijk van toestemming / financiering van de verhuurder.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h21-2-b-2",
 "h21-2-b-3",
@@ -690,6 +799,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gezamenlijke toetsinkomen van Robin en Floor over het jaar 2020. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "getallen x € 1\nRobin | Floor\njaarinkomen uit dienstverband | 35.164,80\noverige inkomsten | 11.400,00\ngemiddeld jaarinkomen zelfstandige | 46.000\ntotaal | 46.564,80 | 46.000\ngezamenlijk toetsinkomen | 78.764,80\nBerekeningen:\njaarinkomen uit 32 salaris: 3.300 x ( ) x 12 = 31.680 dienstverband 40 salaris inclusief vakantiegeld en eindejaarsuitkering: 31.680 x (1 + 0,08 + 0,03) = 35.164,80 overige inkomsten gemiddeld jaarinkomen 41.000 + 47.000 + 50.000 = 46.000 zelfstandige 3\ngezamenlijk toetsinkomen 46.564,80 + (0,7 x 46.000) = 78.764,80\n• 31.680 (1p)\n• 35.164,80 (1p)\n• 11.400 (1p)\n• 46.000 (1p)\n• 78.764,80 (1p)",
 "pnt": 5,
+"top": [
+"prive",
+"personeel"
+],
 "img": [
 "h21-2-b-3",
 "h21-2-b-4",
@@ -712,6 +825,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat € 350.000 door Robin en Floor hypothecair geleend kan worden (zie informatiebron 1).",
 "model": "• a: 78.764,80 x 4,5 = 354.441,60 b: 1.000 x 4 = 4.000 (1p)\n• c: 354.441,60 – 4.000 = 350.441,60 (> 350.000) (1p)",
 "pnt": 2,
+"top": [
+"woning"
+],
 "img": [
 "h21-2-b-2",
 "h21-2-o-5"
@@ -732,6 +848,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de kosten koper en andere aankoopkosten voor de woning die Robin en Floor willen kopen.",
 "model": "• 0,02 x 350.000 = 7.000,00 0,015 x 359.500 = 5.392,50 (1p)\n• 0,12 x (359.500 – 350.000) = 1.140,00 (1p)\n• 1.200 + 2.600 + 500 + 450 = 4.750,00 € 18.282,50 (1p)",
 "pnt": 3,
+"top": [
+"woning"
+],
 "img": [
 "h21-2-b-5",
 "h21-2-o-5"
@@ -752,6 +871,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan met een berekening of Robin en Floor de kosten koper en andere aankoopkosten met eigen geld kunnen betalen.",
 "model": "• Floor 53.000 x 0,25 = 13.250 Robin 10.000 € 23.250 (1p)\n• De kosten koper en overige aankoopkosten (18.282,50) zijn minder dan de beschikbare liquide middelen (23.250), dus ja (1p)",
 "pnt": 2,
+"top": [
+"woning"
+],
 "img": [
 "h21-2-b-4",
 "h21-2-o-5"
@@ -772,6 +894,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de arbeidsovereenkomst van Robin vergeleken met de rechtsvorm van Floor, de bank een grotere financiële zekerheid geeft met betrekking tot het ontvangen van de betalingsverplichtingen. Betrek zowel Robin als Floor in het antwoord.",
 "model": "Voorbeeld van een juist antwoord is:\n• Robin heeft een arbeidsovereenkomst voor onbepaalde tijd waardoor er meer zekerheid is dat de geldnemer aan de betalingsverplichting kan voldoen (1p)\n• Floor loopt ondernemersrisico, dus kunnen haar inkomsten fluctueren (1p)",
 "pnt": 2,
+"top": [
+"rechtsvorm",
+"arbeidsrecht"
+],
 "img": [
 "h21-2-b-2",
 "h21-2-b-3",
@@ -795,6 +921,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan of Robin en Floor in de eerste twee jaren (2021 en 2022) wel aan de norm van het Nibud voldoen bij een hypothecaire lening van € 350.000 met aflossingen door middel van annuïteiten, maar niet bij een hypothecaire lening van € 350.000 met lineaire aflossingen. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "annuïtaire lening (bedragen in €)\njaar | schuld | interest | aflossing | belasting- | uitgaven\nbegin van | voordeel | na\nhet jaar | belasting- voordeel\n2021 | 350.000,00 | 11.200,00 | 7.121,00 | 4.480,00 | 13.841,00\n2022 | 342.879,00 | 10.972,13 | 7.348,87 | 4.388,85 | 13.932,15\nlineaire lening (bedragen in €)\njaar | schuld | interest | aflossing | belasting- | uitgaven\nbegin van | voordeel | na\nhet jaar | belasting- voordeel\n2021 | 350.000,00 | 11.200,00 | 11.666,67 | 4.480,00 | 18.386,67\n2022 | 338.333,33 | 10.826,67 | 11.666,67 | 4.330,67 | 18.162,67\n• interestbedragen (1p)\n• aflossingsbedragen (1p)\n• belastingvoordeelbedragen (1p)\n• uitgaven na belastingvoordeel (1p)\n• Conclusie: De norm is 78.764,80 x 0,23 = 18.115,90. De annuïtaire lening voldoet wel aan de norm, want de hypotheekuitgaven na belastingvoordeel zijn 13.841,00 en 13.932,15 en zijn lager dan de norm. De lineaire lening voldoet niet aan de norm, want 18.386,67 en 18.162,67 zijn hoger dan de norm (1p)\nOpmerking Als de kandidaat geen berekeningen geeft van de bedragen in de tabellen, worden geen scorepunten in mindering gebracht.",
 "pnt": 5,
+"top": [
+"vreemdvermogen",
+"woning"
+],
 "img": [
 "h21-2-b-2",
 "h21-2-b-3",
@@ -819,6 +949,9 @@ EXAMEN.vragen.push(...[
 "q": "Wat is in het algemeen het doel van surseance van betaling?",
 "model": "Het voorkomen van een faillissement.\nOpmerking Voor het antwoord “uitstel van betaling” wordt geen scorepunt toegekend.\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 1,
+"top": [
+"faillissement"
+],
 "img": [
 "h21-2-o-8"
 ]
@@ -838,6 +971,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat een faillissement van De Zonnige Kant nadelig kan zijn voor de omzet van het Griekse hotel.",
 "model": "Omdat De Zonnige Kant de enige is die toeristen naar het hotel brengt, betekent het faillissement van De Zonnige Kant geen toeristen/hotelovernachtingen en dus geen ontvangsten.",
 "pnt": 1,
+"top": [
+"faillissement"
+],
 "img": [
 "h21-2-o-9"
 ]
@@ -857,6 +993,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit op grond waarvan de verstrekker van de hypothecaire lening eerder aan bod komt dan het Griekse hotel.",
 "model": "Voorbeelden van een juist antwoord zijn\n- De hypotheekverstrekker heeft het recht van hypotheek (en het Griekse hotel heeft dit niet).\n- Een vast actief is onderpand voor de verstrekker van de hypothecaire lening (en de verstrekker kan bij niet betalen het onderpand opeisen).",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h21-2-o-9"
 ]
@@ -876,6 +1016,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit of Harry gelijk heeft.",
 "model": "Harry heeft geen gelijk, want voorbeeld van een juiste motivatie is: De Zonnige Kant is een bv/rechtspersoon en dan ben je privé niet aansprakelijk.",
 "pnt": 1,
+"top": [
+"rechtsvorm",
+"personeel"
+],
 "img": [
 "h21-2-o-9"
 ]
@@ -895,6 +1039,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de ontvangsten in het eerste kwartaal van 2021 uit verkopen.",
 "model": "• contante verkoop: (20.000 + 30.000 + 25.000) x 0,90 = 67.500 debiteuren: (15.000 + 25.000 + 20.000) x 0,10 = 6.000 + 73.500 (2p)\n• btw 0,21 x 73.500 15.435 + ontvangsten € 88.935 (1p)",
 "pnt": 3,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h21-2-o-11"
 ]
@@ -914,6 +1061,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag op de balanspost Vooruitbetaalde verzekeringspremie per 31 maart 2021.",
 "model": "275 x 10 = € 2.750",
 "pnt": 1,
+"top": [
+"prive",
+"periodisering"
+],
 "img": [
 "h21-2-o-11"
 ]
@@ -933,6 +1084,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag van de balanspost Bank per 31 maart 2021. Geef aan of de balanspost Bank aan de debetzijde of aan de creditzijde staat.",
 "model": "• liquide middelen 1 januari 2021: 350 + 250 = 600 ontvangsten uit verkopen: + 88.935 (1p)\n• btw-afdracht – 6.930 betaalde verzekeringspremie en overige uitgaven: 12 x 275 + 4.000 x 3 = – 15.300 (1p)\n• betaald aan crediteuren: (10.000 + 8.000 + 11.000) x 1,21 = – 35.090 (1p)\n• 31 maart 2021 kas: – 500 31 maart 2021 bank: € 31.715 Bank staat aan de debetzijde (1p)",
 "pnt": 4,
+"top": [
+"balans"
+],
 "img": [
 "h21-2-o-11"
 ]
@@ -952,6 +1106,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het saldo van Te betalen btw en Te vorderen btw voor het eerste kwartaal van 2021. Geef bij het saldo aan of het een te ontvangen bedrag van of een te betalen bedrag is aan de Belastingdienst.",
 "model": "• Te betalen btw: (20.000 + 30.000 + 25.000) x 0,21 = 15.750 (1p)\n• Te vorderen btw: (8.000 + 11.000 + 9.000) x 0,21 = 5.880 saldo te betalen aan de Belastingdienst € 9.870 (1p)",
 "pnt": 2,
+"top": [
+"btw"
+],
 "img": [
 "h21-2-o-11"
 ]
@@ -971,6 +1128,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een reden waarom Eva en Sanne besluiten de erfenis beneficiair te aanvaarden in plaats van zuiver te aanvaarden. Betrek beide vormen van aanvaarden in het antwoord.",
 "model": "• In geval van beneficiair aanvaarden van de erfenis kunnen Eva en Sanne, wanneer de schulden groter zijn dan de bezittingen, de erfenis (alsnog) verwerpen (1p)\n• Bij zuivere aanvaarding wordt de erfenis altijd aanvaard, ongeacht de verhouding schuld/bezit (1p)",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h21-2-b-6",
 "h21-2-b-7",
@@ -993,6 +1153,9 @@ EXAMEN.vragen.push(...[
 "q": "Wat had Tante Door moeten doen om de stichting Hulphond Nederland als erfgenaam aan te wijzen?",
 "model": "Tante Door had een testament moeten laten opstellen (bij een notaris) waarin ze de stichting als erfgenaam benoemde.",
 "pnt": 1,
+"top": [
+"erven"
+],
 "img": [
 "h21-2-b-6",
 "h21-2-b-7",
@@ -1015,6 +1178,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een financieel voordeel dat de stichting Hulphond Nederland zou hebben gehad van het direct ontvangen van de erfenis ten opzichte van het ontvangen van de schenking van Eva en Sanne.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- De stichting heeft de ANBI-status en hoeft geen erf-/schenkbelasting te betalen.\n- Eva en Sanne moeten over de erfenis belasting betalen waardoor de schenking aan de stichting lager uitvalt.\n- Bij direct ontvangen van de erfenis zou de waarde van de inboedel aan de stichting Hulphond Nederland toegekomen zijn, terwijl dat bij de huidige verrekening aan Eva en Sanne toekomt.",
 "pnt": 1,
+"top": [
+"erven"
+],
 "img": [
 "h21-2-b-6",
 "h21-2-b-7",
@@ -1037,6 +1203,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken per 1 april 2021 het totaal van de openstaande schulden van tante Door bij de energiemaatschappij en bij de zorgverzekeraar (zie informatiebron 5).",
 "model": "• bij de energiemaatschappij: 840 – 5 x 130 = 190 (1p)\n• bij de zorgverzekeraar: 385 € 575 (1p)",
 "pnt": 2,
+"top": [
+"rechtsvorm",
+"prive"
+],
 "img": [
 "h21-2-b-6",
 "h21-2-b-7",
@@ -1058,6 +1228,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale waarde van de erfenis per 1 april 2021 door de bezittingen te verminderen met de schulden.",
 "model": "• waarde bezittingen op 1 april: spaarrekeningen: 9.560 inboedel: 4.500 14.060 (1p)\n• waarde schulden op 1 april: energiemaatschappij en zorgverzekeraar: 575 rood staan betaalrekening: 240 creditcardschuld 360 1.175 waarde bezittingen min schulden: € 12.885 (2p)",
 "pnt": 3,
+"top": [
+"erven"
+],
 "img": [
 "h21-2-b-6",
 "h21-2-b-7",
@@ -1080,6 +1253,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat de stichting Hulphond Nederland van Sanne en Eva zal ontvangen.",
 "model": "• te betalen erfbelasting (2 personen): (12.885 – 2 x 2.173) x 0,30 = 2.561,70 (2p)\n• De stichting ontvangt: 9.560 (spaarrekening) – (575 + 240 + 360) (schulden) – 2.561,70 = € 5.823,30 (1p)\nOpmerking Wanneer de erfbelasting naar beneden is afgerond op hele euro’s, is dit ook correct.",
 "pnt": 3,
+"top": [
+"erven",
+"interest"
+],
 "img": [
 "h21-2-b-8",
 "h21-2-o-13"
@@ -1100,6 +1277,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef voor twee P’s van de marketingmix aan op welke wijze deze worden ingezet in de samenwerking tussen Jumbo en Hema. Gebruik hiervoor het bovenstaande krantenbericht.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Product: door het assortiment te veranderen\n- Plaats: de Hema distributiekanalen worden uitgebreid (nu ook bij Jumbo).\n- Promotie: er is sprake van co-sponsoring.\nper P met juiste uitleg 1",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h21-2-o-14"
 ]
@@ -1119,6 +1299,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een voordeel voor Jumbo van deze co-sponsoring door Hema. Motiveer het antwoord.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Grotere naamsbekendheid Hema, hierdoor neemt de afzet van Hema producten toe. Deze Hema producten zijn ook te koop bij Jumbo, dus komen er meer klanten bij de Jumbo die ook Jumbo producten gaan kopen.\n- Het sponsorbudget van Jumbo kan nu verdeeld worden over meer sporten (bijvoorbeeld voetbal) met ieder een specifiek publiciteitskanaal (sportblad, tv-programma) waardoor de naamsbekendheid van Jumbo kan toenemen.\n- De kwaliteit van de wielerploeg wordt groter, want door het grotere budget kunnen er betere wielrenners gecontracteerd worden waardoor de wielerploeg en dus ook Jumbo meer in de publiciteit komen.\n- Lagere promotiekosten omdat Hema die voor een deel voor haar rekening neemt.",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "h21-2-o-14"
 ]
@@ -1138,6 +1321,9 @@ EXAMEN.vragen.push(...[
 "q": "Waaruit blijkt dat Hema voor de tompouce gebruik maakt van zowel een push- als een pullstrategie?",
 "model": "• Pullstrategie, want door de reclamefolder wordt het voor de klant aantrekkelijk om naar de tompouce te vragen bij zowel Jumbo als Hema (1p)\n• Pushstrategie, want Hema zal de winkelinrichting verzorgen waardoor het voor Jumbo aantrekkelijk gemaakt wordt om de tompouce in het assortiment op te nemen (1p)",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h21-2-o-15"
 ]
@@ -1157,6 +1343,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken voor elke erfgenaam de omvang in euro’s van het erfdeel.",
 "model": "180.000\n• Dirk en Marleen (ieder een derde, dus) = € 60.000 (1p)\n 3\n60.000\n• Kelly en Tom (als plaatsvervangers van Sandra): = € 30.000 (1p)\n 2",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h21-3-o-2"
 ]
@@ -1176,6 +1365,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de te betalen erfbelasting over het erfdeel van Marleen.",
 "model": "(60.000 – 20.615) x 0,10 = € 3.938,50 (€ 3.938 of € 3.939)\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h21-3-o-3"
 ]
@@ -1195,6 +1387,9 @@ EXAMEN.vragen.push(...[
 "q": "Als Trudy dat wel had vastgelegd in een testament, betekent dit dan dat Marleen geen aanspraak kan maken op een deel van de erfenis? Motiveer het antwoord.",
 "model": "• nee (1p)\n• Marleen heeft als kind altijd recht op haar wettelijk erfdeel/legitieme portie (1p)\nOpmerking Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h21-3-o-3"
 ]
@@ -1214,6 +1409,9 @@ EXAMEN.vragen.push(...[
 "q": "In welk onderdeel van de SWOT-analyse van BJones zou het veranderende koopgedrag van consumenten meegenomen moeten worden? Motiveer het antwoord.",
 "model": "• in de analyse van T (Threats) (1p)\n• want het veranderende koopgedrag (een externe factor) leidt tot een daling van de afzet (1p)\nof\n• in de analyse van O (Opportunities) (1p)\n• want het al aanwezige distributiecentrum (een interne factor) kan de online verkopen faciliteren die passen bij het veranderende koopgedrag (1p)\nOpmerking Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "h21-3-b-3",
 "h21-3-b-4",
@@ -1236,6 +1434,10 @@ EXAMEN.vragen.push(...[
 "q": "In welk onderdeel van de SWOT-analyse van BJones zouden de hoge personeelskosten van BJones meegenomen moeten worden? Motiveer het antwoord.",
 "model": "• in de analyse van W (Weaknesses) (1p)\n• want personeelskosten (een interne factor) kunnen leiden tot relatief hoge verkoopprijzen waardoor de concurrentiepositie van BJones verslechtert (1p)\nOpmerking Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"personeel",
+"strategie"
+],
 "img": [
 "h21-3-b-3",
 "h21-3-b-4",
@@ -1258,6 +1460,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef aan wat het verschil is tussen de quick ratio en current ratio en geef vervolgens aan waarom in het algemeen de quick ratio geschikter is voor het vaststellen van het faillissementsrisico dan de current ratio.",
 "model": "• Bij het bepalen van de quick ratio wordt de voorraad niet meegenomen (wel bij de current ratio) (1p)\n• Voorraden zijn moeilijk te verkopen / zijn in voorkomende gevallen niet tegen de balanswaarde te verkopen (1p)",
 "pnt": 2,
+"top": [
+"kengetallen",
+"faillissement"
+],
 "img": [
 "h21-3-b-3",
 "h21-3-o-5"
@@ -1278,6 +1484,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan of het faillissementsrisico van BJones in het vierde kwartaal van 2019 is toegenomen. Bereken hiertoe de quick ratio per 31 december 2019 (zie formuleblad en informatiebron 1).",
 "model": "280.000 + 10.000 + 4.600\n• = 0,51 (1p)\n304.200 + 234.950 + 35.000\n• 0,51 < 0,64, dus nam het faillissementsrisico toe (1p)",
 "pnt": 2,
+"top": [
+"faillissement",
+"kengetallen"
+],
 "img": [
 "h21-3-b-3",
 "h21-3-o-5"
@@ -1298,6 +1508,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een voorbeeld van zo’n niet uit de balans blijkende verplichting voor BJones die het faillissementsrisico kan vergroten.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- verplichtingen met betrekking tot de huurcontracten van de fysieke winkels\n- verplichtingen met betrekking tot het onderhoud van het distributiecentrum",
 "pnt": 1,
+"top": [
+"faillissement"
+],
 "img": [
 "h21-3-b-3",
 "h21-3-b-4",
@@ -1320,6 +1533,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat het aanvragen van surseance van betaling geen oplossing is om overtollig personeel te kunnen ontslaan.",
 "model": "Bij surseance van betaling gelden de ontslagverboden / geldt regulier ontslagrecht (inclusief eventuele opzegtermijnen).",
 "pnt": 1,
+"top": [
+"faillissement"
+],
 "img": [
 "h21-3-b-3",
 "h21-3-b-4",
@@ -1342,6 +1558,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef aan of er bij de grootte van het assortiment sprake is van een kritische succesfactor of van een kritische prestatie-indicator. Motiveer het antwoord.",
 "model": "• kritische succesfactor (1p)\n• want het is een randvoorwaarde voor succes (1p)\nOpmerking Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "h21-3-b-4",
 "h21-3-o-6"
@@ -1362,6 +1581,7 @@ EXAMEN.vragen.push(...[
 "q": "Bepaal de omzet die bij deze keuze van Darcy hoort. Vul deze berekende omzet in op de uitwerkbijlage die bij deze vraag en vraag 13 hoort.",
 "model": "767.140",
 "pnt": 1,
+"top": [],
 "img": [
 "h21-3-b-3",
 "h21-3-b-4",
@@ -1384,6 +1604,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de interestkosten van Darcy in het eerste jaar na de doorstart, dus vanaf 1 april 2020 tot en met 31 maart 2021 (zie informatiebronnen 1 en 3).",
 "model": "60.000\n• aflossing = € 5.000 per jaar (1p)\n12 3\n• 60.000 x 3,6% x = 540 (1p)\n12 9\n• 55.000 x 3,6% x = 1.485 + 12 € 2.025 (1p)\nOpmerking Aan het antwoord 0,036 x 60.000 = € 2.160 wordt maximaal 1 scorepunt toegekend.",
 "pnt": 3,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h21-3-b-3",
 "h21-3-b-5",
@@ -1405,6 +1628,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef aan of Darcy per 1 april 2020 met BJones een doorstart zal maken (zie informatiebronnen 2 en 3). Vul hiertoe de uitwerkbijlage die bij deze vraag hoort volledig in.",
 "model": "exploitatiebegroting Opbrengsten Omzet (zie vraag 11) 767.140\nKosten\nInkoopwaarde van de omzet | 126.818\nLoonkosten | 374.632\nInterestkosten (zie vraag 12) | 2.025\nOverige kosten | 30.000\nTotale kosten | 533.475\nBedrijfsresultaat | 233.665\nberekeningen:\nLoonkosten 2.200 x 12 x 8 x (1 + 0,08 + 0,02) x 1,35 = 313.632 313.632 + 61.000 = € 374.632 Bedrijfsresultaat als percentage 233.665 x 100% = 71,9% van de 325.000 investering\nConclusie: Darcy maakt een doorstart, omdat 71,9 > 30%\nof\n233.665 > 0,30 x 325.000\n• 313.632 (2p)\n• 61.000 (1p)\n• 233.665 en 71,9% (1p)\n• conclusie (1p)",
 "pnt": 5,
+"top": [
+"personeel",
+"vreemdvermogen"
+],
 "img": [
 "h21-3-b-4",
 "h21-3-b-5",
@@ -1426,6 +1653,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarom Vooruitbetaalde huur tot de overlopende posten hoort.",
 "model": "Als de huur vooruitbetaald wordt, valt het moment van betaling niet samen met de periode waaraan de huurkosten worden toegerekend.",
 "pnt": 2,
+"top": [
+"periodisering"
+],
 "img": [
 "h21-3-o-9"
 ]
@@ -1445,6 +1675,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met welk bedrag in totaal de liquide middelen van Vink in december 2019 afnemen als gevolg van de verwerking van bovenstaande gegevens a tot en met e. Vul hiertoe het gedeelte van de uitwerkbijlage dat bij deze vraag hoort in. Wanneer er geen verandering is, wordt 0 ingevuld.",
 "model": "financiële | afname liquide | gevolg voor | berekeningen\ngebeurtenis | middelen | kosten | gevolgen voor\n(vraag 15) | (vraag 16) | kosten (vraag 16)\na | 0 | 0\nb | 53 | 5 | 0,2% x 2.500\nc | 2.000 | 0\nd | 1.200\n0 | 600 | 2 3.267\ne | 3.267 | 45 | 1,21 x 60\ntotaal | 5.320 | 650\n• indien zes antwoorden juist (3p)\n• indien vijf of vier antwoorden juist (2p)\n• indien drie, twee of één antwoord(en) juist (1p)\n• indien geen antwoord juist (0p)",
 "pnt": 3,
+"top": [
+"vreemdvermogen",
+"btw"
+],
 "img": [
 "h21-3-o-9"
 ]
@@ -1464,6 +1698,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de gevolgen voor de totale kosten van Vink over december 2019 als gevolg van de verwerking van bovenstaande gegevens a tot en met e. Vul hiertoe het gedeelte van de uitwerkbijlage dat bij deze vraag hoort in. Wanneer er geen gevolg is, wordt 0 ingevuld.",
 "model": "(zie vraag 15 voor de uitwerkbijlage)\n• 0 en 0 (1p)\n• 5 (1p)\n• 600 (1p)\n• 45 en totaal (1p)",
 "pnt": 4,
+"top": [
+"kostprijs"
+],
 "img": [
 "h21-3-o-9"
 ]
@@ -1483,6 +1720,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef de verklaring voor het verschil tussen € 217.800 en € 180.000.",
 "model": "De ontvangsten zijn inclusief btw en de opbrengsten zijn exclusief btw.\nOpmerking Het antwoord 180.000 x 1,21 = 217.800 ook goed rekenen.",
 "pnt": 1,
+"top": [
+"btw",
+"liquiditeitsbegroting"
+],
 "img": [
 "h21-3-o-11"
 ]
@@ -1502,6 +1743,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de waarde van de balanspost Voorraad cosmeticaproducten (a) op 31 december 2019.",
 "model": "133.100 50.000 + – 108.000 = € 52.000 1,21\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"balans"
+],
 "img": [
 "h21-3-o-11"
 ]
@@ -1521,6 +1765,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de omvang van de 6%-Banklening per 31 december 2019 na de aflossing op 1 april 2019. Gebruik hiertoe de balanspost Te betalen interest 6%-Banklening.",
 "model": "Voorbeeld van een juiste berekening is: Stel 6%-Banklening na 1 april 2019 = Y. 9\nY x 0,06 x = 9.000 12 Y = € 200.000\nof\n9.000 x 250.000 = € 200.000 11.250",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h21-3-o-11"
 ]
@@ -1540,6 +1787,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de omvang van de balanspost Te vorderen btw (b) per 31 december 2019.",
 "model": "• omzet exclusief btw: (2.600 + 2.700 + 2.800) x 10 = 81.000 inkopen = 0,6 x 81.000 = 48.600 (1p)\n• Te vorderen btw: 48.600 x 0,21 = € 10.206 (1p)",
 "pnt": 2,
+"top": [
+"btw"
+],
 "img": [
 "h21-3-o-11"
 ]
@@ -1559,6 +1809,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het btw-bedrag dat half januari 2020 met de Belastingdienst moet worden verrekend als gevolg van de inkopen en verkopen in het vierde kwartaal van 2019. Geef aan of CosmoSub dit bedrag moet afdragen aan de Belastingdienst of moet ontvangen van de Belastingdienst.",
 "model": "• Te betalen btw 0,21 x 81.000: 17.010 (1p)\n• Te vorderen btw: 10.206 af te dragen btw: € 6.804 (1p)",
 "pnt": 2,
+"top": [
+"btw"
+],
 "img": [
 "h21-3-o-11"
 ]
@@ -1578,6 +1831,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de verwachte technologische ontwikkelingen op het gebied van elektrische auto’s tot een hoger afschrijvingspercentage voor de elektrische auto leiden.",
 "model": "Voorbeeld van een juist antwoord is: Als elektrische auto’s door technologische ontwikkelingen in de toekomst beter worden, dan zullen elektrische auto’s die al zijn verkocht, sneller minder waard worden. / snellere economische veroudering",
 "pnt": 1,
+"top": [
+"afschrijving"
+],
 "img": [
 "h21-3-b-6",
 "h21-3-b-7",
@@ -1599,6 +1855,7 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het BPM-bedrag van de benzineauto (zie informatiebron 4).",
 "model": "(125 – 98) x 139 + 2.077 = € 5.830",
 "pnt": 1,
+"top": [],
 "img": [
 "h21-3-b-6",
 "h21-3-b-7",
@@ -1620,6 +1877,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken voor de benzineauto inclusief BPM en voor de elektrische auto met laadpaal de variabele kosten per kilometer en de constante kosten per jaar. Vul hiertoe de uitwerkbijlage die bij deze vraag hoort volledig in. Let op: niet alle cellen hoeven te worden ingevuld.",
 "model": "per | per\nbenzineauto | elektrische auto\nvariabele | constante | variabele | constante\nkosten per | kosten | kosten per | kosten\nkilometer | per jaar | kilometer | per jaar\nafschrijvingskosten brandstof/energie- | 8.700 | 12.100\nkosten | 0,07 | 0,03\noverige kosten | 4.080 | 2.400\ntotaal | 0,07 | 12.780 | 0,03 | 14.500\nberekeningen:\nbenzineauto afschrijvingskosten (37.670 + 5.830) x 0,2 = 8.700 brandstofkosten 1\nx 1,75 = 0,07 25 elektrische auto afschrijvingskosten (50.000 + 5.000) x 0,22 = 12.100 energiekosten 0,15 x 0,20 = 0,03\n• 8.700 + 12.100 (1p)\n• 0,07 + 0,03 (1p)\n• 12.780 + 14.500 (1p)\nOpmerking Als de antwoorden anders zijn afgerond, geen scorepunten in mindering brengen.",
 "pnt": 3,
+"top": [
+"kostprijs"
+],
 "img": [
 "h21-3-u-3",
 "h21-3-o-13"
@@ -1640,6 +1900,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat de kosten per jaar van de elektrische auto inclusief laadpaal lager zijn dan de kosten per jaar van de benzineauto.",
 "model": "• jaarkosten elektrische auto: 0,03 x 50.000 + 14.500 = 16.000 (1p)\n• jaarkosten benzineauto: 0,07 x 50.000 + 12.780 = 16.280 (€ 16.000 < € 16.280) (1p)",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "h21-3-o-13"
 ]
@@ -1659,6 +1922,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat de financieel medewerker gelijk heeft. Teken hiertoe de lijn die het verloop van de jaarlijkse kosten van de elektrische auto met laadpaal bij lease aangeeft. Gebruik hiertoe de uitwerkbijlage die bij deze vraag hoort.",
 "model": "• beginpunt bij € 12.000 (1p)\n• evenwijdig aan de andere lijn en doorgetrokken tot 100.000 km (€15.000) (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h21-3-u-4",
 "h21-3-o-13"
@@ -1679,6 +1945,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee redenen waarom beleggen in aandelen meer risico geeft dan beleggen in obligaties. Betrek in het antwoord zowel aandelen als obligaties.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De beloning is bij beleggen in aandelen (dividend) onzekerder dan bij obligaties (interest).\n- De koersen van aandelen schommelen over het algemeen meer dan de koersen van obligaties.\n- Bij faillissement krijgen de aandeelhouders pas uitbetaald nadat eerst de schuldeisers, onder andere de obligatiehouders, zijn betaald.\nvoor elke correcte reden 1",
 "pnt": 2,
+"top": [
+"aandelen",
+"obligaties"
+],
 "img": [
 "h21-3-o-14"
 ]
@@ -1698,6 +1968,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale vergoeding van Erkun over 2019 uit zijn beleggingen en over zijn spaarrekening.",
 "model": "• dividend: 500 x 0,50 = 250 (1p)\n• interest obligatie: 0,04 x 500 x 10 = 200 (1p)\n22.440\n• interest spaarrekening: 0,02 x = 440 1,02 totaal: € 890 (1p)",
 "pnt": 3,
+"top": [
+"interest"
+],
 "img": [
 "h21-3-o-15"
 ]
@@ -1717,6 +1990,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale waarde op 31 december 2019 van zijn beleggingen en spaarrekening.",
 "model": "500 x 22 + 10 x (500 x 1,03) + 22.440 = € 38.590\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"interest"
+],
 "img": [
 "h21-3-o-15"
 ]
@@ -1736,6 +2012,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat zijn beleggingsrisico lager kan worden, wanneer Erkun besluit te gaan beleggen in een beleggingsfonds.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Een beleggingsfonds heeft meer kennis / beschikt over meer data.\n- Een beleggingsfonds spreidt de ontvangen gelden over vermogenstitels van meerdere bedrijven / overheden.",
 "pnt": 1,
+"top": [
+"beleggen"
+],
 "img": [
 "h21-3-o-15"
 ]
@@ -1753,6 +2032,9 @@ EXAMEN.vragen.push(...[
 "nr": 1,
 "ctx": "Bernhard Willems (98 jaar) vertelt zijn enige kind Victor dat hij op 12 juni 2020 een testament heeft laten opmaken. Bernhard is sinds enkele jaren weduwnaar.\nTestament\nVandaag, 12 juni 2020, verscheen voor mij, mr. Van der Laar, ………….. te Amsterdam: Bernhard Antoon Willems.\nDe verschenen persoon verklaarde de volgende beschikkingen te maken:\nErfstelling Ik benoem tot mijn erfgenamen, ieder voor een gelijk deel, mijn enig kind Victor Willems en de Stichting CliniClowns Nederland. Indien mijn kind tegelijk met mij of voor mij overlijdt of zijn erfdeel verwerpt, komt dat erfdeel eveneens toe aan de Stichting CliniClowns Nederland.",
 "q": "Welk beroep moet er op de stippellijn worden ingevuld?",
+"top": [
+"woning"
+],
 "img": [
 "h22-1-o-2"
 ],
@@ -1780,6 +2062,9 @@ EXAMEN.vragen.push(...[
 "q": "Wat houdt een erfenis beneficiair aanvaarden in?",
 "model": "De erfgenaam aanvaardt de erfenis alleen als de bezittingen van de erflater groter zijn dan de schulden van de erflater.",
 "pnt": 1,
+"top": [
+"erven"
+],
 "img": [
 "h22-1-o-2"
 ]
@@ -1799,6 +2084,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Victor, uitgaande van een totale erfenis van € 450.000, na aftrek van erfbelasting minder ontvangt als gevolg van het feit dat zijn vader de Stichting CliniClowns heeft opgenomen in zijn testament.",
 "model": "Voorbeelden van een juiste berekening zijn: 450.000\n- 0,80 x = € 180.000 2\n- zonder schenking/testament: belastbare erfenis: 450.000 – 20.946 = 429.054 erfbelasting: 0,10 x 126.722 + 0,20 x (429.054 - 126.722) = 73.138,60 netto erfenis: 450.000 – 73.138,60 = 376.861,40 met schenking/testament: belastbare erfenis: 225.000 – 20.946 = 204.054 erfbelasting: 0,10 x 126.722 + 0,20 x (204.054 – 126.722) = 28.138,60 netto erfenis: 225.000 – 28.138,60 = 196.861,40 Het verschil is 376.861,40 – 196.861,40 = € 180.000\nOpmerking Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h22-1-o-3"
 ]
@@ -1818,6 +2106,9 @@ EXAMEN.vragen.push(...[
 "q": "Hoeveel procent erfbelasting zal de Stichting CliniClowns over de te ontvangen erfenis moeten betalen? Noteer de letter van het juiste antwoord en motiveer het antwoord.\na 0%\nb 30%\nc tussen 30% en 40%\nd 40%",
 "model": "• a (1p)\n• De Stichting CliniClowns heeft een ANBI status / is een ANBI (en betaalt daarom geen erfbelasting) (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h22-1-o-3"
 ]
@@ -1837,6 +2128,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de rechtsvorm van restaurant De Waal.",
 "model": "vennootschap onder firma / vof",
 "pnt": 1,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "h22-1-b-2",
 "h22-1-b-3",
@@ -1860,6 +2154,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat de omzet van restaurant De Waal in het tweede kwartaal van 2020 ten opzichte van het eerste kwartaal van 2020 afnam met 77,1%. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "omzet (in €) | eerste kwartaal 2020 | tweede kwartaal 2020\nrestaurant | 331.500 | 0\nprivate dining | 66.300 | 0\nbezorgen | 0 | 91.000\ntotaal | 397.800 | 91.000\nruimte voor berekeningen eerste kwartaal omzet private dining (75 x 0,2 x 60 + 75 x 0,8 x 70) x 13 = 66.300 omzet bezorgen 0\ntotale omzet eerste kwartaal 331.500 + 66.300 + 0 = 397.800 tweede kwartaal omzet restaurant 0\nomzet private dining 0\nomzet bezorgen 200 x 35 x 13 = 91.000 totale omzet tweede kwartaal 91.000\nprocentuele 91.000 – 397.800 x 100% = -77,1% omzetdaling tweede 397.800 kwartaal ten opzichte van het eerste kwartaal\n• totale omzet eerste kwartaal 397.800 (2p)\n• totale omzet tweede kwartaal 91.000 procentuele omzetontwikkeling - 77,1% (1p)",
 "pnt": 3,
+"top": [
+"marktaandeel"
+],
 "img": [
 "h22-1-b-2",
 "h22-1-u-1",
@@ -1881,6 +2178,9 @@ EXAMEN.vragen.push(...[
 "q": "Welke uitspraak over deze omzetdaling in het tweede kwartaal van 2020 van restaurant De Waal vergeleken met die van de restaurantbranche is juist?",
 "model": "uitspraak 3",
 "pnt": 1,
+"top": [
+"marktaandeel"
+],
 "img": [
 "h22-1-b-2",
 "h22-1-b-3",
@@ -1904,6 +2204,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale constante kosten van restaurant De Waal over het tweede kwartaal 2020 (zie informatiebron 2).",
 "model": "211.000 Loonkosten = 52.750 4\n3 x 800 Leasekosten scooters = 600 4\n22.500 Huisvesting = 11.250 2\n75.000 x 0,9 Afschrijvingen 5 = 3.375 4\n44.900 Overige constante kosten = 11.225 + 4\nTotale constante kosten € 79.200\n• 52.750 en 600 en 11.250 en 11.225 (1p)\n• 3.375 en 79.200 (1p)\nOpmerking Als de kandidaat bij de berekeningen vergeet naar een kwartaal om te rekenen, wordt 1 scorepunt in mindering gebracht.\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "h22-1-b-3",
 "h22-1-o-5"
@@ -1924,6 +2227,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met behulp van de dekkingsbijdrage per menu aan dat restaurant De Waal in het tweede kwartaal 1.000 driegangenmenu’s te weinig heeft bezorgd om de break-evenafzet te bereiken (zie informatiebron 1 en 2).",
 "model": "• inkoopwaarde van de ingrediënten = 35 x 0,30 = 10,50 dekkingsbijdrage per menu = 35 – 10,50 – 2,50 = 22 (1p)\n79.200\n• = 3.600 (1p)\n22\n• In het tweede kwartaal zijn 200 x 13 = 2.600 menu’s bezorgd (3.600 – 2.600 = dus 1.000 driegangenmenu’s te weinig bezorgd) (1p)",
 "pnt": 3,
+"top": [
+"breakeven"
+],
 "img": [
 "h22-1-b-2",
 "h22-1-b-3",
@@ -1945,6 +2251,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale loonkosten en verpakkingskosten in de periode van het derde en vierde kwartaal van 2020.",
 "model": "• 2.600 x 2 = 5.200 (1p)\n• verpakkingskosten = 5.200 x 2,50 = 13.000 constante loonkosten = 52.750 x 2 105.500 + € 118.500 (1p)",
 "pnt": 2,
+"top": [
+"personeel"
+],
 "img": [
 "h22-1-b-4",
 "h22-1-b-5",
@@ -1964,6 +2273,9 @@ EXAMEN.vragen.push(...[
 "nr": 11,
 "ctx": "In deze opgave worden de belastingen buiten beschouwing gelaten.\nIn deze opgave wordt de omzet van drank buiten beschouwing gelaten.\nIn 2020 brak het coronavirus uit en greep de overheid in Nederland in om het coronavirus onder controle te krijgen:\ntweede kwartaal | Restaurants mochten geen gasten ontvangen. Het\n2020 | bezorgen of afhalen van maaltijden was wel toegestaan.\nderde kwartaal | Versoepeling coronamaatregelen: restaurants\n2020 | mochten een beperkt aantal gasten ontvangen, het bezorgen of afhalen van maaltijden bleef toegestaan.\nSytz en Alex zijn de eigenaren van restaurant De Waal. Restaurant De Waal heeft geen rechtspersoonlijkheid.\n…\nDe medewerkers van restaurant De Waal volgden de cursus ‘coronasafe in de horeca’ tijdens de werktijden. De cursuskosten waren voor rekening van de werkgever (zie informatiebron 3).",
 "q": "Konden werknemers door de werkgever verplicht worden om de cursus te volgen?",
+"top": [
+"personeel"
+],
 "img": [
 "h22-1-b-4",
 "h22-1-b-5",
@@ -1993,6 +2305,9 @@ EXAMEN.vragen.push(...[
 "q": "Hebben de maatregelen geleid tot een positief bedrijfsresultaat over het derde en vierde kwartaal van 2020? Stel hiervoor voor restaurant De Waal de winst- en verliesrekening op over het derde en vierde kwartaal van 2020. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "Winst- en verliesrekening derde en vierde kwartaal 2020 (getallen in €)\nomzet kosten | 490.800\ninkoopwaarde van de ingrediënten | 147.240\nkosten online systeem | 3.850\nhuurkosten | 11.250\nloon- en verpakkingskosten (vraag 10) | 118.500\nafschrijvingskosten | 6.750\nleasekosten scooters | 1.200\nkosten online cursus | 675\noverige constante kosten | 22.450 311.915\nbedrijfsresultaat | 178.885\nConclusie: De maatregelen van restaurant de Waal hebben wel / niet (doorhalen wat niet van toepassing is) tot een positief bedrijfsresultaat geleid (want 178.885 > 0).\nberekeningen omzet (117.000 + 37.400 + 2.600 x 35) x 2 = 490.800 inkoopwaarde van de 0,30 x 490.800 = 147.240 ingrediënten kosten online systeem 2.600 + 0,25 x 10.200 = 3.850 2\nhuurkosten 45.000 1 45.000 2 x + x = 11.250 4 3 4 3\nleasekosten scooters 2 x 600 (zie vraag 8) = 1.200\n• 490.800 en 147.240 en 3.850 (3p)\n• 11.250 (2p)\n• 1.200 en 675 en 311.915 (1p)\n• conclusie en positief bedrijfsresultaat van 178.885 (1p)",
 "pnt": 7,
+"top": [
+"resultaat"
+],
 "img": [
 "h22-1-b-2",
 "h22-1-b-3",
@@ -2017,6 +2332,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een voordeel en een nadeel voor een onderneming van het openbaar aantrekken van vermogen ten opzichte van het onderhands aantrekken van vermogen.",
 "model": "Voorbeeld van een juist antwoord is:\n• Voordeel: bij het openbaar aantrekken van vermogen zijn er meer mogelijke kredietgevers dan bij het onderhands aantrekken van vermogen, dus kan er ook een hoger bedrag opgehaald worden (1p)\n• Nadeel:\nVoorbeeld van een juist nadeel:\n- de kosten bij het openbaar aantrekken van vermogen zijn hoger dan bij het onderhands aantrekken van vermogen.\n- de concurrentie kan zien dat er vermogen wordt aangetrokken 1",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h22-1-o-8"
 ]
@@ -2034,6 +2352,9 @@ EXAMEN.vragen.push(...[
 "nr": 14,
 "ctx": "Douwe Egberts NV is een van oorsprong Nederlands bedrijf dat handelt in koffie en thee. Vanwege overname- en uitbreidingsplannen wil Douwe Egberts vermogen aantrekken. Vermogen kan onderhands of openbaar aangetrokken worden.\n…\nDouwe Egberts kiest ervoor om per 1 april 2021 aandelen te emitteren. Bij de emissie van aandelen moet een prospectus1) worden opgesteld. Deze moet door de toezichthouder worden gecontroleerd.\nnoot 1 Prospectus: een wettelijk vereist document bij een emissie van financiële producten, zoals aandelen of obligaties. In de prospectus staan de voorwaarden en de risico’s van de emissie vermeld.",
 "q": "Welke toezichthouder controleert de prospectus?",
+"top": [
+"strategie"
+],
 "img": [
 "h22-1-o-8"
 ],
@@ -2060,6 +2381,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het maximaal beschikbare dividend per aandeel (afgerond op hele centen) op grond van de verdeling van het resultaat van 2021.",
 "model": "• resultaat voor belasting: 179.000.000 vpb: 0,15 x 245.000 + 0,25 x (179.000.000 – 245.000) = 44.725.500 (1p)\n• reservering: 20.000.000 beschikbaar totaal dividend 114.274.500 (1p)\n4.995.000\n• aantal geplaatste aandelen = 99.900.000 (1p)\n0,05 114.274.500\n• beschikbaar dividend per aandeel: = € 1,14 (1p)\n99.900.000",
 "pnt": 4,
+"top": [
+"winstverdeling",
+"aandelen"
+],
 "img": [
 "h22-1-o-9"
 ]
@@ -2079,6 +2404,9 @@ EXAMEN.vragen.push(...[
 "q": "Voor welke optie zal Irene een voorkeur hebben als ze later een huis wil kopen? Licht het antwoord toe.",
 "model": "• Irene zal de voorkeur hebben voor het afsluiten van een abonnement/huren (1p)\n• Dat is (in tegenstelling tot koop op afbetaling) geen vorm van krediet en wordt niet geregistreerd bij BKR (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h22-1-o-11"
 ]
@@ -2098,6 +2426,7 @@ EXAMEN.vragen.push(...[
 "q": "Controleer met een berekening of de uitspraak van Sam juist is.",
 "model": "58 x 15,09 – 700 = 4,81 dus de uitspraak is juist. 12 x 61,37 – 700\nOpmerkingen Voor elke gemaakte fout wordt 1 scorepunt in mindering gebracht. 58 x 15,09 Voor het antwoord = 1,19 dus de uitspraak is onjuist wordt 12 x 61,37 1 scorepunt toegekend.",
 "pnt": 2,
+"top": [],
 "img": [
 "h22-1-o-11"
 ]
@@ -2117,6 +2446,9 @@ EXAMEN.vragen.push(...[
 "q": "Controleer met een berekening of de uitspraak van Yacien juist is bij koop op afbetaling met een looptijd van 12 maanden.",
 "model": "• aflossing eerste maand: 61,37 – 0,0079 x 700 = 55,84 (1p)\n• aflossing tweede maand: 61,37 – 0,0079 x (700 – 55,84) = 56,28 schuld na 2 maanden 700 – 55,84 – 56,28 = 587,88 587.88 < 600 dus de uitspraak is juist (1p)\nOpmerking Voor het antwoord “restschuld na 2 maanden = 700 – 2 x 61,37 = 577,26” worden geen scorepunten toegekend.",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h22-1-o-11"
 ]
@@ -2136,6 +2468,9 @@ EXAMEN.vragen.push(...[
 "q": "Tot welk onderdeel van de SWOT-analyse moet het ontbreken van een keurmerk worden gerekend? Motiveer het antwoord.",
 "model": "• Weaknesses (1p)\n• omdat het gebrek aan een keurmerk negatief uitpakt op de afzet en de certificering van een keurmerk hangt af van een bedrijf zelf (1p)\nOpmerkingen Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald. Voor het tweede deelscorepunt moeten beide kenmerken genoemd worden.",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "h22-1-b-6",
 "h22-1-b-7",
@@ -2158,6 +2493,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een kritische succesfactor (ksf) die past bij de prestatie-indicator 'bezit van een keurmerk voor online winkelen’. Motiveer het antwoord.",
 "model": "Voorbeeld van een juist antwoord is: De bijbehorende kritische succesfactor is veilig/betrouwbaar winkelen. De veiligheid/betrouwbaarheid is bepalend voor het succes van het bedrijf. Het mogen gebruiken van een keurmerk voor online winkelen is een indicatie daarvan.",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "h22-1-b-6",
 "h22-1-b-7",
@@ -2180,6 +2518,9 @@ EXAMEN.vragen.push(...[
 "q": "Onder welke P van de marketingmix valt het verkopen via een (beveiligde) website? Motiveer het antwoord.",
 "model": "• P van plaats (1p)\n• het verkopen via een website is een voorbeeld van een distributiekanaal (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h22-1-b-6",
 "h22-1-b-7",
@@ -2202,6 +2543,9 @@ EXAMEN.vragen.push(...[
 "q": "Wat is meer ten voordele van consumenten?\na de voorwaarde die opgenomen is in dit artikel\nb de algemene voorwaarden van Thuiswinkel Waarborg (zie informatiebron 4) Kies a of b. Motiveer het antwoord.",
 "model": "a 14 dagen na ontvangst is een langere bedenktijd dan 14 dagen na bestelling.\nOpmerking Zonder juiste motivatie wordt geen scorepunt toegekend.",
 "pnt": 1,
+"top": [
+"personeel"
+],
 "img": [
 "h22-1-b-6",
 "h22-1-b-7",
@@ -2223,6 +2567,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit wat het belang is van Thuiswinkel Waarborg voor het stellen van een minimumeis aan de current ratio van Ttime.",
 "model": "Voorbeelden van een goed antwoord:\n- Een voldoende current ratio geeft enige zekerheid met betrekking tot de liquiditeitspositie, waardoor de kans op surseance van betaling en/of faillissement afneemt / Thuiswinkel Waarborg meer zekerheid heeft over de (jaarlijkse) certificeringsontvangsten.\n- Surseance van betaling / faillissementen van aangesloten bedrijven schaden de naam/reputatie van Thuiswinkel Waarborg.",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "h22-1-b-6",
 "h22-1-b-7",
@@ -2245,6 +2592,10 @@ EXAMEN.vragen.push(...[
 "q": "Stel de balans op per 31 december 2021. Bereken het eigen vermogen met behulp van het resultaat over december 2021. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "debet | Balans per 31 december 2021 | credit (getallen x € 1)\nVaste activa | 17.000 | Eigen vermogen | 53.750\nVoorraad | 7.750 | Te betalen btw | 8.305\nDebiteuren | 24.805\nTe vorderen btw | 3.810\nLiquide middelen | 8.690\n62.055 | 62.055\nberekeningen Voorraad 4.840 14.000 + – 10.250 = 7.750 1,21 Debiteuren 20.500 x 1,21 = 24.805 Te vorderen btw 1.500 + ( 2.420 + 4.840 + 6.050 ) x 0,21 = 3.810 1,21 Liquide middelen 6.500 + 2.190 = 8.690 Afschrijvingskosten 6.050 20.000 + – 17.000 = 8.000 vaste activa 1,21 Eigen vermogen 53.500 + 250 (= 20.500 – 10.250 – 2.000 – 8.000) = 53.750 Te betalen btw 4.000 + 20.500 x 0,21 = 8.305\n• 7.750 (1p)\n• 24.805 (1p)\n• 3.810 (1p)\n• 8.690 en 8.000 (1p)\n• 53.750 en 8.305 en 62.055 (1p)\nOpmerking Als de btw verkeerd is berekend, wordt maximaal 1 scorepunt in mindering gebracht.",
 "pnt": 5,
+"top": [
+"balans",
+"resultaat"
+],
 "img": [
 "h22-1-b-8",
 "h22-1-u-3",
@@ -2266,6 +2617,9 @@ EXAMEN.vragen.push(...[
 "q": "Voldoet Ttime ook aan stap 3 om te worden gecertificeerd door Thuiswinkel waarborg? Motiveer het antwoord.",
 "model": "53.750\n• De solvabiliteitsratio is = 6,47 > 4 (1p)\n8.305 7.750 + 24.805 + 3.810 + 8.690\n• De current ratio is = 5,43 > 1,5 8.305 dus Ttime voldoet ook aan stap 3 en wordt gecertificeerd (1p)",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "h22-1-b-6",
 "h22-1-b-7",
@@ -2288,6 +2642,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee redenen waarom het sparen van zegels via de app in plaats van via een spaarboekje de verkopen van PLUS kan stimuleren. Licht het antwoord toe.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Klanten gebruiken de app ook voor het bekijken van aanbiedingen en dergelijke.\n- PLUS krijgt informatie over klantgedrag en kan zo gepersonaliseerde aanbiedingen sturen.\n- PLUS heeft een milieuvriendelijk imago, omdat er op papier wordt bespaard.\nper juist antwoord en toelichting 1",
 "pnt": 2,
+"top": [
+"interest"
+],
 "img": [
 "h22-1-o-14"
 ]
@@ -2307,6 +2664,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat het rendement van het kopen en het inleveren van de spaarzegels voor Diederike 50% is.",
 "model": "• een vol boekje: 0,02 x 200 = 4 (1p)\n6–4\n• x 100% = 50% (1p)\n 4",
 "pnt": 2,
+"top": [
+"interest"
+],
 "img": [
 "h22-1-o-14"
 ]
@@ -2326,6 +2686,9 @@ EXAMEN.vragen.push(...[
 "q": "Welke gevolgen heeft het kopen van de spaarzegels door klanten voor de liquide middelen en het eigen vermogen van PLUS? Kies uit:\nA De liquide middelen nemen toe, het eigen vermogen neemt toe.\nB De liquide middelen nemen toe, het eigen vermogen neemt af.\nC De liquide middelen nemen af, het eigen vermogen neemt toe.\nD De liquide middelen nemen toe, het eigen vermogen blijft gelijk.",
 "model": "D\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 1,
+"top": [
+"balans"
+],
 "img": [
 "h22-1-o-15"
 ]
@@ -2345,6 +2708,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat er bij spaarzegels sprake is van een niet vrij opneembaar spaarsaldo.",
 "model": "Het opnemen kan pas als het “spaarboekje” vol is.",
 "pnt": 1,
+"top": [
+"interest"
+],
 "img": [
 "h22-1-o-15"
 ]
@@ -2364,6 +2730,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem voor beleggers een minder risicovolle vermogenstitel dan aandelen of op aandelen gebaseerde beleggingsfondsen en leg uit dat daarin beleggen minder risicovol is.",
 "model": "• (Staats)obligatie (1p)\n• Voorbeeld van een juiste uitleg: (1p)\n- koersen van obligaties schommelen minder dan koersen van aandelen\n- obligaties geven een vaste interestvergoeding (en aandelen een minder goed voorspelbare dividenduitkering)\n- obligaties worden afgelost, aandelen niet\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h22-2-o-3"
 ]
@@ -2383,6 +2752,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef hiervoor een verklaring gelet op het aanbod van beide ondernemingen.",
 "model": "Voorbeeld van een juist antwoord is: Mensen blijven eten afhalen/ laten bezorgen terwijl ze niet meer in restaurants/cafés/ bij evenementen bier gaan drinken. Beleggers reageren daarop door meer aandelen Just Eat Takeway te kopen (wat de koers doet stijgen). De vraag naar bier zal dalen en dus ook de vraag naar aandelen Heineken. (Hierdoor daalt de koers van het aandeel Heineken.)",
 "pnt": 1,
+"top": [
+"aandelen"
+],
 "img": [
 "h22-2-o-3"
 ]
@@ -2402,6 +2774,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de beurskoers van het aandeel Just Eat Takeaway op 1 oktober 2026 zoals Benno die verwacht.",
 "model": "95,76 – 72,95\n• koersstijging in oktober 2019 – oktober 2020: x 100% = 72,95 31,3% (1p)\n• koers op 1 oktober 2026: 95,76 x 1,3136 = € 490,65 (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h22-2-o-3"
 ]
@@ -2421,6 +2796,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale koerswinst die Benno op zijn aandelen Just Eat Takeaway zal behalen wanneer zijn verwachtingen uitkomen en hij op 1 oktober 2026 alle aandelen Just Eat Takeaway verkoopt.",
 "model": "• pakket 50 aandelen op 1 oktober 2020 = 50 x 95,76 = 4.788 pakket 50 aandelen op 1 oktober 2021 = 50 x 95,76 x 1,313 = 6.286,64 (1p)\n• totale koerswinst = 100 x 490,65 – (4.788 + 6.286,64) = € 37.990,36 (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h22-2-o-3"
 ]
@@ -2440,6 +2818,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een oprichtingsverplichting voor een eenmanszaak.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- inschrijving bij de kamer van Koophandel (KvK)\n- registratie bij de Belastingdienst\n- aanvragen van vergunningen\nOpmerking Bij inschrijving bij de KvK wordt automatisch de registratie bij de Belastingdienst volbracht en vergunningen zijn niet altijd nodig. Desondanks worden deze antwoorden goedgerekend, want deze antwoorden worden genoemd in de syllabus.",
 "pnt": 1,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "h22-2-b-2",
 "h22-2-b-3",
@@ -2463,6 +2844,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de huurverlaging in euro’s per maand die Cor heeft afgesproken (informatiebron 1).",
 "model": "• huur in maart: 1.600 (vooruitbetaalde huur volgens balans) (1p)\n3.000\n• huur vanaf 1 april: = 1.000 per maand (3p)\nhuurverlaging: 1.600 – 1.000 = € 600 per maand 1",
 "pnt": 2,
+"top": [
+"periodisering"
+],
 "img": [
 "h22-2-b-2",
 "h22-2-b-3",
@@ -2484,6 +2868,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat in maart 2020 op de liquiditeitsbegroting moet worden ingevuld bij inkopen (letter a).",
 "model": "inkopen/a: 30% van 11.990 = € 3.597",
 "pnt": 1,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h22-2-b-2",
 "h22-2-b-3",
@@ -2507,6 +2894,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat in april 2020 aan btw zal moeten worden afgedragen aan de Belastingdienst (letter b).",
 "model": "• januari en februari 3.750 – 1.125 = 2.625 (1p)\n11.990 3.597\n• maart: x 0,09 – x 0,09 = 990 – 297 = 693 1,09 1,09 totaal 2.625 + 693 = € 3.318 (1p)",
 "pnt": 2,
+"top": [
+"btw"
+],
 "img": [
 "h22-2-b-2",
 "h22-2-b-3",
@@ -2530,6 +2920,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat in mei 2020 op de liquiditeitsbegroting bij interest (letter c) en aflossing (letter d) moet worden ingevuld. Rond beide bedragen af op hele euro’s.",
 "model": "• Interestkosten/c: 0,005 x (15.999 – 326 – 328) = 76,72 dus 77 (1p)\n• Aflossing/d: (326 + 80) – 77 = € 329 (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"liquiditeitsbegroting"
+],
 "img": [
 "h22-2-b-2",
 "h22-2-b-3",
@@ -2553,6 +2947,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Cor in totaal aan NOW tegemoetkoming zal ontvangen (zie informatiebron 1 en 2). Rond het bedrag af op hele euro’s. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "1. Wat was de omzet (exclusief btw) in het 2. Wat is de verwachte omzet (exclusief | 240.000 jaar 2019? btw) in de maanden:\n- maart 2020 | 11.000\n- april 2020 | 6.000\n- mei 2020 3. verwacht percentage (3 decimalen) | 6.000\nomzetdaling | 61,667%\n4. NOW tegemoetkoming | 9.990,05 → 9.990\nruimte voor berekeningen: omzet maart 11.990 2020 1,09 omzet april 2020 6.540 1,09 omzet mei 2020 6.540 1,09 % omzetdaling 11.000 + 6.000 + 6.000 240.000\n- 3 12 x 100% = 61,667% 20.000\nNOW 61,667% x 90% x 18.000 = 9.990 tegemoetkoming\n• 11.000 en 6.000 en 6.000 (1p)\n• 61,667% (2p)\n• 9.990 (2p)",
 "pnt": 5,
+"top": [
+"btw",
+"marktaandeel"
+],
 "img": [
 "h22-2-b-2",
 "h22-2-b-3",
@@ -2577,6 +2975,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan met een berekening van de totale constante kosten dat Cor in aanmerking komt voor de TOGS tegemoetkoming. Houd er rekening mee dat de volledige NOW tegemoetkoming leidt tot een daling van de (constante) loonkosten.",
 "model": "• Constante kosten 3 maanden: Interest: 80 + 78 + 77 = 235 (1p)\n• Loon: 18.000 – 9.990 = 8.010 (1p)\n• Afschrijving: 3 x 250 = 750 Huur: 3.000 Reclame + overig: 1.500 235 + 8.010 + 750 + 3.000 + 1.500 > 4.000 (komt in aanmerking voor TOGS) (1p)\nAanvulling van het CvTE, het antwoordmodel is aangepast. Nieuw antwoordmodel:\nHuur: 3.600",
 "pnt": 3,
+"top": [
+"personeel",
+"kostprijs"
+],
 "img": [
 "h22-2-b-2",
 "h22-2-b-3",
@@ -2600,6 +3002,10 @@ EXAMEN.vragen.push(...[
 "q": "Blijft Cor in de maanden maart tot en met mei 2020 uit de liquiditeitsproblemen? Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "maart ontvangsten: | april | mei\nverkopen | 11.990 | 6.540 | 6.540\nNOW | 3.330 | 3.330\nTOGS | 4.000 | 0\ntotaal ontvangsten | 11.990 | 13.870 | 9.870\nuitgaven:\nreclame | 500 | 300 | 300\noverig | 200 | 100 | 100\nloon | 6.000 | 6.000 | 6.000\ninterest banklening | 80 | 78 | 77\naflossing banklening | 326 | 328 | 329\nleveranciers | 3.597 | 1.962 | 1.962\nverrekening btw | 3.318\nhuur | 3.000\ntotaal uitgaven | 10.703 | 15.086 | 8.768\nverandering van liquide middelen (+ +1.287 -1.216 +1.102 of -) beginsaldo liquide middelen 4.000 5.287 4.071 eindsaldo liquide middelen 5.287 4.071 5.173\nConclusie: Cor blijft wel / niet in maart tot en met mei 2020 uit de liquiditeitsproblemen, want aan het eind van elke maand is het eindsaldo liquide middelen positief.\n• voor de rijen NOW en TOGS (1p)\n• voor de rij eindsaldo liquide middelen (1p)\n• voor de conclusie (1p)",
 "pnt": 3,
+"top": [
+"liquiditeitsbegroting",
+"vreemdvermogen"
+],
 "img": [
 "h22-2-b-2",
 "h22-2-b-3",
@@ -2624,6 +3030,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit welk voordeel Nico kan hebben van deze toevoeging aan de huwelijkse voorwaarden.",
 "model": "Het vermogen van Nico wordt beschermd tegen een eventueel faillissement en schuldeisers van de onderneming van Sanne.",
 "pnt": 1,
+"top": [
+"faillissement"
+],
 "img": [
 "h22-2-o-7"
 ]
@@ -2641,6 +3050,9 @@ EXAMEN.vragen.push(...[
 "nr": 14,
 "ctx": "Sanne en Nico zijn op 2 januari 2018 op huwelijkse voorwaarden getrouwd. Ze hebben samen twee kinderen: Yari en Yasmin. Sanne gaat op 1 januari 2021 een reclamebureau starten. Sanne en Nico besluiten daarom op 31 december 2020 als huwelijkse voorwaarde toe te voegen dat de eenmanszaak van Sanne haar persoonlijke bezit is.\n…\nNico komt op 1 januari 2022 onverwachts te overlijden. Nico had voor zijn overlijden een testament opgesteld. Hierin heeft hij zijn zoon Yari als gevolg van een verstoorde onderlinge relatie onterfd.\nSanne heeft de waarde per 1 januari 2022 van alle bezittingen en schulden op een rij gezet:\ngemeenschappelijke bezittingen en schulden: koopwoning De woning is gekocht op 1 januari 2000. Op 1 januari 2022 is de WOZ-waarde1) € 400.000 en de restschuld van de hypothecaire lening € 50.000. spaargeld Sanne en Nico hebben op 1 januari 2011 € 20.000 gestort tegen 2,1% samengestelde interest per jaar. Daarna is er niet bijgestort en opgenomen. persoonlijke bezittingen en schulden: reclamebureau van Sanne overige bezittingen Op 1 januari 2022 is de waarde van de overige bezittingen van Nico € 15.000 en van Sanne € 13.000. banklening Op 1 januari 2021 heeft Sanne voor het starten van haar onderneming een lening van € 125.000 afgesloten tegen 4% interest per jaar.\nnoot 1 De WOZ-waarde van de woning is de grondslag voor de waardebepaling van een woning bij het vaststellen van de erfenis.\nDe erfgenamen willen de erfenis van Nico ontvangen als de waarde van de erfenis positief is.",
 "q": "Hoe wordt dit genoemd?",
+"top": [
+"faillissement"
+],
 "img": [
 "h22-2-o-8"
 ],
@@ -2667,6 +3079,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan met een berekening van de hoogte van de erfenis dat de waarde van de erfenis van Nico positief is.",
 "model": " 1\n• koopwoning = x (400.000 – 50.000) = 175.000,00 (1p)\n 2\n 1\n• spaargeld = x 20.000 x 1,02111 = 12.568,49 (1p)\n 2\n• overige bezittingen = 15.000,00 + € 202.568,49 (1p)",
 "pnt": 3,
+"top": [
+"erven"
+],
 "img": [
 "h22-2-o-8"
 ]
@@ -2686,6 +3101,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de hoogte van de legitieme portie van Yari na aftrek van erfbelasting. De benodigde tarieven van erfbelasting en de vrijstellingen staan op de volgende bladzijde.",
 "model": "• erfdeel van iedere erfgenaam zonder testament = (1p)\nx 202.568,49 = 67.522,83 1\n 3\n 1\n• legitieme portie Yari = x 67.522,83 = 33.761,42 (1p)\n 2\n• 33.761,42 – 0,1 x (33.761,42 - 20.946) = € 32.479,88 (2p)",
 "pnt": 4,
+"top": [
+"erven"
+],
 "img": [
 "h22-2-o-8"
 ]
@@ -2705,6 +3123,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee financiële nadelen van zelfstandig ondernemerschap vergeleken met werken in loondienst.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Een ondernemer krijgt geen geld als hij bijvoorbeeld ziek is en mensen in loondienst wel.\n- Een ondernemer bouwt geen pensioen op, mensen in loondienst wel.\n- Het inkomen van een ondernemer kan wisselen en mensen in loondienst hebben een stabieler inkomen.",
 "pnt": 2,
+"top": [
+"starten"
+],
 "img": [
 "h22-2-o-10"
 ]
@@ -2724,6 +3145,10 @@ EXAMEN.vragen.push(...[
 "q": "Verklaar dat interestkosten, ondanks het feit dat deze in kwartaal 2 lager zijn dan in kwartaal 1, wel tot de constante kosten behoren.",
 "model": "Interestkosten zijn onafhankelijk van de behaalde afzet/omzet.",
 "pnt": 1,
+"top": [
+"vreemdvermogen",
+"kostprijs"
+],
 "img": [
 "h22-2-o-11"
 ]
@@ -2743,6 +3168,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met behulp van de break–evenafzet hoeveel flessen de broers in het eerste kwartaal meer hadden moeten verkopen om geen negatief resultaat te behalen.",
 "model": "3.600 + 650 + 450 + 2.980\n• break-evenafzet: = 3.200 (2p)\n4,80 – 2,00 – 0,40 14.400\n• afzet in kwartaal 1: = 3.000, dus 200 flessen meer (1p)\n4,80",
 "pnt": 3,
+"top": [
+"breakeven"
+],
 "img": [
 "h22-2-o-11"
 ]
@@ -2762,6 +3190,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan of de doelstelling van het tweede kwartaal is behaald.",
 "model": "• cashflow = resultaat + afschrijving = 6.645 + 650 = 7.295 (1p)\n30.000\n• benodigde cashflow: 2 x 3.500 + = 10.000 10 7.295 < 10.000: doelstelling niet behaald (1p)",
 "pnt": 2,
+"top": [
+"cashflow",
+"afschrijving"
+],
 "img": [
 "h22-2-o-11"
 ]
@@ -2781,6 +3213,10 @@ EXAMEN.vragen.push(...[
 "q": "Welke aanpassing in de rechtsvorm van Fastned moest er bij deze beursgang worden gedaan?",
 "model": "omzetten (van de bv) in een nv",
 "pnt": 1,
+"top": [
+"rechtsvorm",
+"aandelen"
+],
 "img": [
 "h22-2-b-6",
 "h22-2-b-7",
@@ -2803,6 +3239,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een ander voordeel voor Fastned van een beursnotering ten opzichte van ondernemingen zonder beursnotering.",
 "model": "Voorbeeld van een juist antwoord is:\n- Een beursgenoteerd bedrijf krijgt aandacht van de pers / zorgt voor free publicity.\n- Een beursgenoteerd bedrijf geniet meer aanzien dan een bv waardoor het makkelijker is om personeel aan te trekken.",
 "pnt": 1,
+"top": [
+"aandelen"
+],
 "img": [
 "h22-2-b-6",
 "h22-2-b-7",
@@ -2825,6 +3264,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg de voorkeur van Fastned uit. Betrek zowel liquiditeit als solvabiliteit en zowel aandelenemissie als emissie van obligaties in het antwoord.",
 "model": "Liquiditeit:\n• Fastned zou bij een emissie van aandelen alleen dividend beschikbaar kunnen stellen wanneer de winst dat toelaat, terwijl bij een emissie van obligaties er altijd interest betaald moet worden (wat nadelig is voor de liquiditeit) (1p)\nof\n• Obligaties moeten worden afgelost, aandelen hoeven niet te worden teruggekocht (wat nadelig is voor de liquiditeit) (1p)\nSolvabiliteit:\n• Een emissie van aandelen verbetert de solvabiliteit, want het eigen vermogen neemt toe, terwijl een emissie van obligaties de solvabiliteit juist verslechtert, want het vreemd vermogen neemt toe (1p)",
 "pnt": 2,
+"top": [
+"aandelen",
+"kengetallen"
+],
 "img": [
 "h22-2-b-6",
 "h22-2-b-7",
@@ -2847,6 +3290,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de interestkosten van deze obligatielening over het jaar 2019.",
 "model": " 2\n0,80 x 135.000.000 x 0,06 x = € 1.080.000 12\nOpmerking Voor elke fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"obligaties"
+],
 "img": [
 "h22-2-b-6",
 "h22-2-b-7",
@@ -2869,6 +3316,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening van de NPS aan dat de klant volgens Fastned tevreden is.",
 "model": "186 + 169\n• % positieve klanten: x 100% = 45,9% (46%) 773 62 + 8 % negatieve klanten: x 100% = 9,1% (9%) (1p)\n773\n• NPS = 46% - 9% = 37% (>35%) (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h22-2-b-6",
 "h22-2-o-13"
@@ -2889,6 +3339,9 @@ EXAMEN.vragen.push(...[
 "q": "Vul alle vier items uit informatiebron 4 op de juiste plaats van de SWOT in. Neem onderstaande tabel over op het antwoordenblad en vul hem in.",
 "model": "S item(s) 4 | O item(s) 1\nW item(s) 3 | T item(s) 2\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"strategie"
+],
 "img": [
 "h22-2-b-7",
 "h22-2-o-14"
@@ -2909,6 +3362,9 @@ EXAMEN.vragen.push(...[
 "q": "Zal Fastned in staat zijn om op 22 april 2020 tegen een koers van € 9 voor een totaalbedrag van € 27 miljoen aan aandelen te plaatsen? Geef een argument voor en een argument tegen.",
 "model": "Voorbeeld van een argument voor slagen van de emissie:\n• De emissiekoers ligt onder de beurskoers van 21 april (1p)\nof\nOp 21 april is een beperkte handel (3.485 aandelen). Beleggers wachten af en willen inschrijven op de emissie 1\nVoorbeeld van een argument tegen slagen van de emissie:\n• Er is weinig belangstelling bij beleggers. Zo is er op 21 april maar beperkte handel (3.485 aandelen) en moeten er bij de emissie 3 miljoen aandelen worden geplaatst\nof Beleggers vrezen dat de beurskoers door een emissie van 3 miljoen aandelen zal gaan dalen\nof Beleggers vrezen voor winstverwatering (stijging aantal geplaatste 3 mln aandelen is x 100% = 20,2%) 1\n14,8 mln",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h22-2-b-8",
 "h22-2-o-14"
@@ -2929,6 +3385,9 @@ EXAMEN.vragen.push(...[
 "q": "Welke drie balansposten veranderen er op de balans van Fastned en met welke bedragen wanneer de emissie zou zijn uitgevoerd en de emissieopbrengst van € 27 miljoen wordt behaald (zie informatiebron 5)? Vermeld ook of er sprake is van een toename of een afname van deze drie balansposten.",
 "model": "27.000.000\n• = 3.000.000 aandelen (9p)\ntoename Geplaatst kapitaal / afname Aandelen in portefeuille: 3.000.000 x 0,01 = € 30.000 1\n• toename Agioreserve: 3.000.000 x (9 – 0,01) = € 26.970.000 (1p)\n• toename Liquide middelen / Bank: € 27.000.000 (1p)",
 "pnt": 3,
+"top": [
+"aandelen"
+],
 "img": [
 "h22-2-b-8",
 "h22-2-o-14"
@@ -2949,6 +3408,9 @@ EXAMEN.vragen.push(...[
 "q": "Kies bij artikel 1.2 en 2.1 voor het juiste woord.",
 "model": "• artikel 1.2: wel (1p)\n• artikel 2.1: een vergoeding (1p)",
 "pnt": 2,
+"top": [
+"personeel"
+],
 "img": [
 "h22-2-o-15"
 ]
@@ -2968,6 +3430,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem drie belanghebbenden bij een organisatie en leg uit wat hun specifieke belang is bij een goedgekeurde accountantsverklaring.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- investeerders/beleggers. Belang: risico van hun financiële inbreng beperken / goed beeld wat er met hun ingebrachte vermogen gedaan is\n- Belastingdienst. Belang: correcte berekening winstbelasting / btw–afdracht\n- externe toezichthouders. Belang: het toezicht/de controle is efficiënter.\n- het bestuur. Belang: een correct beeld van de gevolgen van het gevoerde beleid\n- concurrentie. Belang: een correct beeld van de financiële positie\n- leveranciers. Belang: een correct beeld van de financiële positie (wel of niet verstrekken van leverancierskrediet)\nper juist antwoord 1",
 "pnt": 3,
+"top": [
+"mvo",
+"verslaggeving"
+],
 "img": [
 "h22-2-o-15"
 ]
@@ -2987,6 +3453,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken voor Pen & Papier de waarde van de voorraad kantoorartikelen op 31 december 2019.",
 "model": "• Inkoopwaarde van de omzet over 2019: 0,70 x 1.680.000 = 1.176.000 (1p)\n• Voorraad 31 december 2019: 110.000 + 1.112.000 – 1.176.000 = € 46.000 (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h22-3-o-2"
 ]
@@ -3006,6 +3475,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef voor Pen & Papier een financieel nadeel van het aanhouden van een voorraad kantoorartikelen met een hoge waarde.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- misgelopen rendement\n- financieringskosten\n- opslagkosten",
 "pnt": 1,
+"top": [
+"vreemdvermogen",
+"kostprijs"
+],
 "img": [
 "h22-3-o-3"
 ]
@@ -3025,6 +3498,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale ontvangsten in 2019 met betrekking tot de verkopen van Pen & Papier.",
 "model": "• Debiteuren 1 januari 2019 100.000 (1p)\n• Verkopen januari tot en met oktober 1.385.000 Verkopen november (145.000 – 0,5 x 145.000 x 0,7) = 94.250 (1p)\n• Verkopen december 0,3 x 150.000 = 45.000 + € 1.624.250 (1p)",
 "pnt": 3,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h22-3-o-3"
 ]
@@ -3044,6 +3520,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het saldo van de liquide middelen van Pen & Papier op 31 december 2019.",
 "model": "• Crediteuren 1 januari 2019 90.000 Inkopen 2019: 1.112.000 – 80.000 = 1.032.000 + 1.122.000 (1p)\n• Saldo liquide middelen 31 december 2019: 30.000 + 1.624.250 – 1.122.000 – 482.250 = € 50.000 (1p)",
 "pnt": 2,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h22-3-o-3"
 ]
@@ -3063,6 +3542,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met welk bedrag Gerrits totale marge exclusief btw op rookwaren over 2020 zal dalen ten opzichte van 2019 als gevolg van de verwachte afzetdaling.",
 "model": "148.200\n• totale marge in 2020: x 0,26 = 6.422 (1p)\n 6\n148.200 0,65\n• totale marge in 2019: x 0,30 = 11.400 (6p)\ndaling marge: 11.400 – 6.422 = € 4.978 1",
 "pnt": 2,
+"top": [
+"btw"
+],
 "img": [
 "h22-3-b-2",
 "h22-3-b-3",
@@ -3086,6 +3568,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee bedrijfseconomische redenen waarom de verhuurder van het winkelpand per 1 januari 2020 liever de pizzaketen als huurder zou willen hebben dan Gerrit.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De continuïteit van de huuropbrengst is gegarandeerd.\n- Als het risico op faillissement van de pizzaketen lager is, dan neemt het financiële risico verbonden met de huur af.\n- De verhuurder kan mogelijk een hogere huurprijs bedingen bij de keten van pizzawinkels.",
 "pnt": 2,
+"top": [
+"faillissement"
+],
 "img": [
 "h22-3-b-4",
 "h22-3-b-5",
@@ -3107,6 +3592,10 @@ EXAMEN.vragen.push(...[
 "q": "In welk onderdeel van de SWOT-analyse van Gerrit zou het feit dat Gerrit geen gebruikmaakt van social media meegenomen moeten worden? Geef hiervoor twee argumenten.",
 "model": "• Weaknesses (1p)\nMotivatie:\n• omdat de wijk waarin de winkel is gevestigd sterk verjongd is. Jongeren maken veelvuldig gebruik van social media (1p)\n• Het is een interne factor (1p)\nOpmerking Het tweede en derde scorepunt wordt alleen toegekend wanneer het eerste scorepunt is behaald.",
 "pnt": 3,
+"top": [
+"marketingmix",
+"strategie"
+],
 "img": [
 "h22-3-b-2",
 "h22-3-o-5"
@@ -3127,6 +3616,9 @@ EXAMEN.vragen.push(...[
 "q": "In welk onderdeel van de SWOT-analyse van Gerrit zou het feit dat de overheid het antirookbeleid verder aanscherpt meegenomen moeten worden? Geef hiervoor twee argumenten.",
 "model": "• Threats (1p)\nMotivatie:\n• omdat hierdoor roken wordt beperkt (1p)\n• Het is een externe factor (1p)\nOpmerking Het tweede en derde scorepunt wordt alleen toegekend wanneer het eerste scorepunt is behaald.",
 "pnt": 3,
+"top": [
+"strategie"
+],
 "img": [
 "h22-3-b-2",
 "h22-3-b-3",
@@ -3150,6 +3642,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de afschrijvingskosten op de verbouwing en inventaris over het vierde kwartaal van 2019 (zie informatiebron 3).",
 "model": "• afschrijving per kwartaal op de verbouwing: 2,5% van 21.000 = 525 (1p)\n• afschrijving per kwartaal op inventaris 16.000 5 = 800 (4p)\ntotale afschrijving per kwartaal 525 + 800 = € 1.325 1",
 "pnt": 2,
+"top": [
+"afschrijving"
+],
 "img": [
 "h22-3-b-4",
 "h22-3-b-5",
@@ -3171,6 +3666,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Gerrit op 1 januari 2020 van de verhuurder van het winkelpand voor de verbouwing en inventaris van zijn winkel zal kunnen ontvangen.",
 "model": "boekwaarde verbouwing en inventaris op 31 december 2019: 20.325 – 1.325 = € 19.000",
 "pnt": 1,
+"top": [
+"afschrijving"
+],
 "img": [
 "h22-3-b-2",
 "h22-3-b-3",
@@ -3194,6 +3692,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Gerrit per 1 januari 2020 naar verwachting zal ontvangen uit de verkoop voorraden, inning van debiteuren en terugbetaling vooruitbetaalde huur per 1 januari 2020.",
 "model": "2.200 + 0,70 x 7.800 + 0,40 x 4.800 + 750 + 3.600 = € 13.930",
 "pnt": 1,
+"top": [
+"periodisering"
+],
 "img": [
 "h22-3-b-2",
 "h22-3-b-3",
@@ -3217,6 +3718,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het volledige bedrag dat Gerrit op 1 januari 2020 nodig zal hebben om aan deze drie verplichtingen te voldoen.",
 "model": "• leveranciers en af te dragen btw 1.850 + (16.000 – 6.400) = 11.450 (1p)\n480\n• 8.000 (aflossing) + x 2 (interest) = 8.080 12 totaal € 19.530 (2p)",
 "pnt": 3,
+"top": [
+"btw",
+"vreemdvermogen"
+],
 "img": [
 "h22-3-b-2",
 "h22-3-b-3",
@@ -3240,6 +3745,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan of Gerrit op het voorstel van de eigenaar van het winkelpand zal ingaan. Vul hiertoe de uitwerkbijlage die bij deze vraag hoort volledig in.",
 "model": "liquide middelen 31 december 2019 voor 8.980 liquidatie: ontvangsten:\n- boekwaarde verbouwing en inventaris (vraag 10) 19.000 +\n- voorraden, debiteuren, vooruitbetaalde huur 13.930 + (vraag 11)\nuitgaven (vraag 12): liquide middelen 1 januari | 19.530 -\n2020 na liquidatie | 22.380\nconclusie: 22.380 Gerrit gaat wel in op het voorstel want = 932,50 > 900 24 maanden\n• 22.380 (1p)\n• conclusie (1p)",
 "pnt": 2,
+"top": [
+"liquiditeitsbegroting",
+"afschrijving"
+],
 "img": [
 "h22-3-b-2",
 "h22-3-b-3",
@@ -3264,6 +3773,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat Micran gekozen heeft voor een hypothecaire lening met lineaire aflossing.",
 "model": "270.000\n• Bij lineaire aflossing bedraagt de maandelijkse aflossing = 360 750 (1p)\n• De interest in de tweede maand bedraagt: 0,3% x (270.000 – 750) = € 807,75 (1p)\nof\n• De interestbetalingen nemen maandelijks met een gelijk bedrag (van € 2,25) af (1p)\n• en dat is alleen het geval bij lineaire aflossing (en niet bij een annuïteitenlening) (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"woning"
+],
 "img": [
 "h22-3-o-8"
 ]
@@ -3283,6 +3796,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee voorwaarden die de bank kan stellen om akkoord te gaan met het verhogen van de hypothecaire lening voor Micran.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De waarde van het onderpand moet (door het verduurzamen van de woning) ook in voldoende mate meestijgen.\n- Het maandinkomen van Micran moet hoog genoeg zijn voor de extra aflossingen en interestbetalingen.\n- Er is nog voldoende overwaarde.",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h22-3-o-9"
 ]
@@ -3302,6 +3819,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Phillippa aan schenking zou ontvangen na aftrek van schenkbelasting indien tante Beth de schenking aan haar zou doen.",
 "model": "• Schenking 5.000,00 Belasting (5.000 – 2.173) x 0,3 = 848,10 – (1p)\n€ 4.151,90 1",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h22-3-o-11"
 ]
@@ -3321,6 +3841,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef voor elke van bovenstaande drie manieren aan of er volgens de wet sprake is van een schenking. Motiveer het antwoord.",
 "model": "• Collectes en donaties zijn schenkingen, want de gever verwacht er niks voor terug (overeenkomst om niet) (1p)\n• Verkopen uit de webshop zijn geen schenking, want de gever verwacht er iets voor terug (geen overeenkomst om niet / een product) (1p)",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h22-3-o-11"
 ]
@@ -3340,6 +3863,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef de fiscale redenen voor tante Beth om aan het WNF te schenken in plaats van een schenking aan Phillippa. Vermeld hierbij zowel het belastingvoordeel voor tante Beth als het belastingvoordeel voor het WNF.",
 "model": "• Belastingvoordeel tante Beth: een (periodieke) schenking is aftrekbaar voor de inkomstenbelasting (1p)\n• Belastingvoordeel WNF: over een (periodieke) schenking hoeft geen schenkbelasting betaald te worden. Hierdoor ontvangt WNF tot tevredenheid van tante Beth meer geld (1p)",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h22-3-o-11"
 ]
@@ -3359,6 +3885,9 @@ EXAMEN.vragen.push(...[
 "q": "Noteer de letter van het juiste antwoord.",
 "model": "d",
 "pnt": 1,
+"top": [
+"interest"
+],
 "img": [
 "h22-3-b-6",
 "h22-3-b-7",
@@ -3382,6 +3911,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag op de Groeirekening van Adnane op 1 september 2015.",
 "model": "• 7.200 x 1,00413 = 7.583,52 (1p)\n• (7.583,52 + 3.600) x 1,0045 = € 11.408,99 (1p)",
 "pnt": 2,
+"top": [
+"interest"
+],
 "img": [
 "h22-3-b-6",
 "h22-3-b-7",
@@ -3405,6 +3937,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef één economisch voordeel voor Adnane en één economisch voordeel voor de samenleving van het feit dat Adnane ging studeren in plaats van fulltime werken.",
 "model": "• reden Adnane: toenemende zelfontplooiing / persoonlijke ontwikkeling en als gevolg daarvan is Adnane op de arbeidsmarkt meer waard (1p)\n• reden samenleving: er is behoefte aan hoger geschoold personeel voor banen / meer belastingopbrengsten (1p)",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "h22-3-b-6",
 "h22-3-b-7",
@@ -3428,6 +3963,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef een financiële reden waarom Adnane gebruik heeft gemaakt van een studievoorschot in plaats van het opgebouwde saldo op de spaarrekening aan te spreken.",
 "model": "Over de spaarrekening wordt meer interest (0,2%) vergoed dan de te betalen interest (0,12%) op het studievoorschot van DUO.",
 "pnt": 1,
+"top": [
+"prive",
+"interest"
+],
 "img": [
 "h22-3-b-6",
 "h22-3-o-14"
@@ -3448,6 +3987,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het opgebouwde studievoorschot bij het afstuderen van Adnane op 1 september 2019.",
 "model": "10 .525,2 2 = € 10.500 1,001 2 2",
 "pnt": 1,
+"top": [
+"prive"
+],
 "img": [
 "h22-3-b-6",
 "h22-3-b-7",
@@ -3471,6 +4013,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef op basis van informatiebron 5 drie argumenten waaruit blijkt dat er sprake is van een individuele arbeidsovereenkomst en niet van een zzp-overeenkomst.",
 "model": "• gezagsverhouding (werkzaamheden worden opgedragen) (1p)\n• arbeidsverplichting (verplichting tot het uitvoeren van werkzaamheden) (1p)\n• loon(salaris)verplichting (1p)",
 "pnt": 3,
+"top": [
+"starten",
+"arbeidsrecht"
+],
 "img": [
 "h22-3-b-7",
 "h22-3-o-15"
@@ -3491,6 +4037,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de maximale financieringslast van de 2,25% hypothecaire lening in euro’s per maand voor Adnane (zie stap 2 uit informatiebron 6).",
 "model": "• brutojaarsalaris = 2.392 x 12 x 1,08 = 31.000 (1p)\n• Daarbij hoort een financieringslast van 20% (1p)\n31.000\n• x 20% – 0,0045 x 10.500 = € 469,42 (1p)\n12",
 "pnt": 3,
+"top": [
+"vreemdvermogen",
+"woning"
+],
 "img": [
 "h22-3-b-8",
 "h22-3-b-9",
@@ -3512,6 +4062,10 @@ EXAMEN.vragen.push(...[
 "q": "Lukt het Adnane om de aankoop van de woning volledig te financieren met een hypothecaire lening? Motiveer het antwoord (zie stap 3 uit informatiebron 6).",
 "model": "• Adnane mag maximaal een financieringslast van 469,42 hebben. Dit valt in de klasse 422 - 470. Bij een interestpercentage van 2,25% is de maximale hypotheek € 120.123 (1p)\n• Dat is minder dan de koopprijs van de woning (€ 130.000). Adnane kan het huis niet volledig financieren met de hypothecaire lening (1p)\nOpmerking Als de financieringslast naar boven is afgerond, geen scorepunt toekennen voor de eerste deelscore.",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"woning"
+],
 "img": [
 "h22-3-b-8",
 "h22-3-b-9",
@@ -3533,6 +4087,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee voorbeelden van immateriële vaste activa.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- goodwill\n- licenties\n- vergunningen",
 "pnt": 2,
+"top": [
+"balans"
+],
 "img": [
 "h22-3-o-16"
 ]
@@ -3552,6 +4109,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat op het moment van verstrekken van de onderhandse lening de current ratio van Blokker positief wordt beïnvloed. Betrek in het antwoord het tellereffect en het noemereffect op de current ratio.",
 "model": "• Door de onderhandse lening nemen de liquide middelen toe (tellereffect) (1p)\n• zonder dat daar een stijging van het kort vreemd vermogen tegenover staat (noemereffect) (1p)",
 "pnt": 2,
+"top": [
+"kengetallen",
+"vreemdvermogen"
+],
 "img": [
 "h22-3-o-16"
 ]
@@ -3571,6 +4132,9 @@ EXAMEN.vragen.push(...[
 "q": "Bij welke P van de marketinginstrumenten hoort de verkoop via webwinkels? Licht het antwoord toe.",
 "model": "• Plaatsbeleid (1p)\n• Het gaat om de distributie van het product naar de klant toe (1p)\nOpmerking Het tweede deelscorepunt wordt alleen toegekend wanneer het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h22-3-o-17"
 ]
@@ -3590,6 +4154,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit wat dichter bij de klant staan niet is:\na een KSF\nb een KPI\nBronvermelding Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.",
 "model": "• b (1p)\n• een KPI behelst de kwantificering van een prestatie die mede voorspellend is voor succes, terwijl een KSF een factor is die succes mede verklaart en aan het succes bijdraagt. De waarde van een KPI is de uitkomst van het al dan niet mobiliseren van een of meerdere KSF’s (1p)",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "h22-3-o-17"
 ]
@@ -3609,6 +4176,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef van zekerheid 1 en van zekerheid 2 aan tot welke onderdelen van de marketingmix ze horen.",
 "model": "• zekerheid 1: Prijs(beleid) (1p)\n• zekerheid 2: Product(beleid) (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"marketingmix"
+],
 "img": [
 "h23-1-o-2"
 ]
@@ -3626,6 +4197,9 @@ EXAMEN.vragen.push(...[
 "nr": 2,
 "ctx": "Uit een landelijke krant:\nVan een Brabantse buurtsuper is Jumbo gegroeid naar een supermarktketen met 672 winkels, 90 duizend werknemers en een omzet van 8,7 miljard euro in 2019. De snelle groei van Jumbo gaat sprongsgewijs: door concurrenten over te nemen wordt het marktaandeel vergroot. Jumbo vergelijkt daarbij steeds meerdere landen met elkaar. Uit marktonderzoek is gebleken dat België het meest aantrekkelijke land is om nieuwe winkels te openen. Het doel is om over vijf jaar 100 winkels in België te hebben.\nJumbo’s formule draait om de 7 zekerheden:\n1 | Euro’s goedkoper\n2 | Service met een glimlach\n3 | Voor al uw boodschappen\n4 | Vers is ook echt vers\n5 | Vlot winkelen\n6 | Niet tevreden? Geld terug!\n7 | Uw wensen staan centraal\n…\nAls Jumbo een concurrent overneemt kan het bedrijf te veel macht krijgen.",
 "q": "Welke instelling houdt toezicht op een eerlijk verloop van de concurrentie tussen bedrijven?",
+"top": [
+"strategie"
+],
 "img": [
 "h23-1-o-2"
 ],
@@ -3652,6 +4226,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat in 2019 de omzet per winkel van Jumbo 12,5% lager is dan de omzet per winkel van Albert Heijn.",
 "model": "8,7 miljard\n• Omzet per winkel Jumbo: = 12.946.429 672 Omzet per winkel Albert Heijn: 8,7 m iljard 0,21 x 0,35 = 14.795.918 (1p)\n980 12.946.429 – 14.795.918\n• x 100% = –12,5% (1p)\n14.795.918\nof:\n• alleen via gegevens winkel en marktaandeel: 21 35\n- 672 980 x 100% = –12,5% 2\n35 980\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"marktaandeel"
+],
 "img": [
 "h23-1-o-3"
 ]
@@ -3671,6 +4248,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee argumenten waarom de prestaties van twee winkels uit twee verschillende wijken niet alleen kunnen worden gemeten met de jaaromzet per winkel.",
 "model": "Voorbeelden van juiste argumenten zijn:\n- Je moet kijken naar de omzet per vierkante meter in plaats van de omzet per winkel. De ene winkel is groter dan de andere.\n- Het is een nieuwe winkel en de omzet moet nog groeien.\nper juist argument 1",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "h23-1-o-3"
 ]
@@ -3690,6 +4270,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee redenen waarom een belegging in obligaties minder risico geeft dan een belegging in aandelen.",
 "model": "Voorbeelden van juiste redenen zijn:\n- Op obligaties zit een vaste interestvergoeding, terwijl het dividend op aandelen variabel is /afhangt van het resultaat.\n- De beurskoers van aandelen schommelt sterker dan de beurskoers van obligaties.\n- Obligaties worden na afloop van de looptijd afgelost (tegen nominale waarde). Dit geldt niet voor aandelen.\n- Bij faillissement van de onderneming hebben obligatiehouders voorrang op aandeelhouders bij de verdeling van de boedel.\nper juiste reden 1",
 "pnt": 2,
+"top": [
+"aandelen",
+"obligaties"
+],
 "img": [
 "h23-1-b-2",
 "h23-1-b-3",
@@ -3713,6 +4297,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de schulden van KPN geen rol spelen in het aanvaarden van de erfenis.",
 "model": "Voorbeelden van een juist antwoord:\n- De schulden van KPN zijn geen schulden van de erflater en spelen daarom geen rol van betekenis in de keuze.\n- KPN is een rechtspersoon.\n- Een aandeelhouder kan alleen de waarde van het door de aandeelhouder gekochte aandeel verliezen.",
 "pnt": 1,
+"top": [
+"erven"
+],
 "img": [
 "h23-1-b-2",
 "h23-1-b-3",
@@ -3736,6 +4323,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat wanneer KPN vasthoudt aan een stabiel dividendbeleid, het beschikbare dividend per aandeel in 2021 € 0,12 is (zie informatiebron 1).",
 "model": "630.000.000\n• Het resultaat per aandeel in 2021 bedraagt = 0,15 (1p)\n4.200.000.000\n• Bij een stabiel dividendbeleid in 2021 wordt het volgende dividend 0,1120 beschikbaar gesteld: x 0,15 = € 0,12 (1p)\n0,14",
 "pnt": 2,
+"top": [
+"winstverdeling",
+"aandelen"
+],
 "img": [
 "h23-1-b-2",
 "h23-1-b-3",
@@ -3757,6 +4348,10 @@ EXAMEN.vragen.push(...[
 "q": "Uit welke externe factor van de SWOT-analyse blijkt dat KPN vermoedelijk niet zal vasthouden aan het stabiele dividendbeleid? Leg het antwoord uit (zie informatiebron 2).",
 "model": "• Uit de externe omgeving blijkt dat er een Threat is waardoor KPN fors zal moeten investeren\nof Uit de externe omgeving blijkt dat er door de toegenomen vraag naar veiligheid van het computernetwerk een Opportunity is waardoor KPN fors zal moeten investeren 1\n• Daarvoor zijn liquide middelen nodig. Dit zou kunnen betekenen dat KPN minder dividend aan de aandeelhouders zal uitkeren dan past bij het stabiele dividendbeleid (1p)",
 "pnt": 2,
+"top": [
+"winstverdeling",
+"strategie"
+],
 "img": [
 "h23-1-b-4",
 "h23-1-o-5"
@@ -3777,6 +4372,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat bij een dividend van € 0,06 per aandeel de solvabiliteit na verdeling van het resultaat na winstbelasting op 31 december 2021 niet slechter is dan op 31 december 2020. Ga er in de berekening van uit dat het dividend op 31 december 2021 beschikbaar wordt gesteld en uitbetaald.",
 "model": "• per 31 december 2021: Het totale vermogen na winstverdeling en beschikbaar stellen van het dividend: 9.260.000.000 – 4.200.000.000 x 0,06 = 9.008.000.000 (1p)\nVreemd vermogen 6.753.000.000\n• = x 100% = 75% (1p)\nTotaalvermogen 9.008.000.000\n• Op 31 december 2020 was dit 77% (dus de solvabiliteit is niet verslechterd) (1p)",
 "pnt": 3,
+"top": [
+"winstverdeling",
+"aandelen"
+],
 "img": [
 "h23-1-b-2",
 "h23-1-b-3",
@@ -3800,6 +4399,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met behulp van informatiebron 3 de verschuldigde erfbelasting voor elk van de broers.",
 "model": "• waarde erfenis: 40.000 x 2,55 + 100 x 1,02 x 1.000 = 204.000 erfdeel van elk van de broers: 102.000 (1p)\n• te betalen erfbelasting door elk van de broers: 0,30 x (102.000 – 2.173) = € 29.948 (1p)\nOpmerking Voor het afronden van de belasting op eurocenten worden geen scorepunten in mindering gebracht.",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "h23-1-b-5",
 "h23-1-o-6"
@@ -3820,6 +4422,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken hoeveel aandelen elk van de broers moet verkopen om daarmee de verschuldigde erfbelasting te kunnen betalen. Er hoeft niet op hele aandelen te worden afgerond.",
 "model": "29.948 te verkopen aantal aandelen door elk van de broers: = 11.744,31 2,55",
 "pnt": 1,
+"top": [
+"aandelen",
+"erven"
+],
 "img": [
 "h23-1-b-2",
 "h23-1-b-3",
@@ -3843,6 +4449,9 @@ EXAMEN.vragen.push(...[
 "q": "Welke balanspost van Presentz verdwijnt door gebruik te maken van de betaaldiensten van Klarna?",
 "model": "Debiteuren\nOpmerking Voor ‘nog te ontvangen bedragen’ geen scorepunt toekennen.",
 "pnt": 1,
+"top": [
+"balans"
+],
 "img": [
 "h23-1-o-7"
 ]
@@ -3862,6 +4471,7 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte totale commissie die Presentz over 2023 aan Klarna moet betalen.",
 "model": "62.500\n• gemiddelde bestelwaarde in 2022 = = 25 2.500 gemiddelde bestelwaarde in 2023 = 25 x 1,16 = 29 (1p)\n• aantal bestellingen in 2023 = 2.500 x 1,10 = 2.750 (1p)\n• verwachte totale commissie = 2.750 x 1 + 2.750 x (0,03 x 29) = € 5.142,50 (1p)",
 "pnt": 3,
+"top": [],
 "img": [
 "h23-1-o-8"
 ]
@@ -3881,6 +4491,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat het verwachte resultaat van Presentz in 2023 stijgt door gebruik te maken van de betaaldienst van Klarna.",
 "model": "• extra bijdrage aan het resultaat = extra omzet 2.750 x 29 – 2.500 x 25 = 17.250 inkoopwaarde omzet en overige variabele kosten -/- 10.350 extra dekkingsbijdrage (0,40 x 17.250) 6.900 (1p)\n• voordeel wegens wegvallen debiteurenrisico 2.000 + 8.900 (1p)\n• verwachte totale commissie (vraag 14) -/- 5.142,50 extra bijdrage aan resultaat is € 3.757,50 (1p)\nof :\n• (250 x 0,40 x 29) + (2500 x 0,40 x 4) = 6.900 (1p)\n• voordeel wegvallen debiteurenrisico 2.000 + 8.900 (1p)\n• resultaat neemt toe, want € 8.900 > € 5.142,50 (1p)\nAanvulling van het CvTE, het antwoordmodel is aangepast. Nieuw antwoordmodel:\n• (resultaat neemt toe, want) € 8.900 > € 5.142,50 (1p)",
 "pnt": 3,
+"top": [
+"resultaat"
+],
 "img": [
 "h23-1-o-8"
 ]
@@ -3900,6 +4513,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee voordelen voor A&B wanneer haar werknemers tevens haar aandeelhouders zijn.",
 "model": "Voorbeelden van juiste voordelen zijn:\n- Werknemers (die ook aandeelhouder zijn) zijn meer gemotiveerd om zich in te zetten voor het bedrijf.\n- aantrekken en behouden van talent\n- betrokkenheid van werknemers vergroten door inspraak te geven in de besluitvorming\nper juist voordeel 1",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h23-1-o-9"
 ]
@@ -3919,6 +4535,9 @@ EXAMEN.vragen.push(...[
 "q": "Welk onderdeel van het arbeidsvoorwaardenpakket vergroot de waarde van het human capital van A&B? Licht het antwoord toe.",
 "model": "• studiefaciliteiten (1p)\n• want die vergroten de kwaliteit van de werknemers (1p)",
 "pnt": 2,
+"top": [
+"personeel"
+],
 "img": [
 "h23-1-o-9"
 ]
@@ -3938,6 +4557,9 @@ EXAMEN.vragen.push(...[
 "q": "Op grond van welke bevoegdheden van de OR moet de directie dit voorstel voorleggen aan de OR?",
 "model": "• Informatierecht (1p)\n• Instemmingsrecht (1p)",
 "pnt": 2,
+"top": [
+"organisatie"
+],
 "img": [
 "h23-1-o-10"
 ]
@@ -3957,6 +4579,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het brutojaarloon van Irem inclusief vakantietoeslag en eindejaarstoeslag over 2022 na inhouding voor bij te kopen vakantiedagen.",
 "model": "• op 1 januari 2022 maandloon 3.003,26 x 1,015 = 3.048,31 3.048,31 x 12 x 1,16 = 42.432,48 (2p)\n42.432,48\n260\n• uurloon = = 20,40 (8p)\n14 x 8 x 20,40 = 2.284,80 42.432,48 – 2.284,80 = € 40.147,68 2\nOpmerking Per fout 1 scorepunt in mindering brengen.\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 4,
+"top": [
+"prive",
+"personeel"
+],
 "img": [
 "h23-1-o-11"
 ]
@@ -3976,6 +4602,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee prestatie-indicatoren die horen bij deze KSF.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- het verschil tussen het gecommuniceerde en daadwerkelijke tijdstip van aflevering\n- het aantal keren dat de bezorgde maaltijd overeenkomt met de bestelling\n- de temperatuur in graden Celsius van de afgeleverde maaltijd\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "h23-1-b-6",
 "h23-1-b-7",
@@ -3998,6 +4627,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een kenmerk van een zzp-overeenkomst (zie informatiebron 4).",
 "model": "De bezorger kiest zelf voor accepteren van de bestelling wanneer hij of zij dat wil / kiest zelf voor eigen kleding en fiets of kiest om gebruik te maken van bedrijfskleding/ mag zelf bepalen wanneer hij of zij werkt.",
 "pnt": 1,
+"top": [
+"starten"
+],
 "img": [
 "h23-1-b-6",
 "h23-1-b-7",
@@ -4019,6 +4651,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat de kosten van het kopen van de bezorgfietsen lager zijn dan de kosten van leasen. Bereken hiervoor de kosten per maand per e-bike voor zowel leasen als kopen.",
 "model": "• kosten kopen per maand: 2460 – 300 afschrijving = 45 48 72 kosten thermobox: = (3p)\n24 verzekering: 40 klein onderhoud: 8\noverige kosten e-bike: 15 + totaal kopen: 111 1\n• kosten leasen per maand: 120 + 15 + 3 = 138 kopen is € 111 < € 138 leasen (1p)\nOpmerking Wanneer er onjuiste kosten worden opgevoerd bij kopen, per onjuiste post 1 scorepunt in mindering brengen.\nAanvulling van het CvTE, het antwoordmodel is aangepast. Nieuw antwoordmodel:\n• kosten leasen per maand: 120 + 15 + 3 = 138 (kopen is € 111 < € 138 leasen) (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"kostprijs"
+],
 "img": [
 "h23-1-b-8",
 "h23-1-o-12"
@@ -4039,6 +4675,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat bij deze verwachte omzet de kosten per maand van zelf bezorgen lager zijn dan bezorgen via Thuisbezorgd.nl. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "berekeningen:\nconstante kosten | 72\n2 x 45 + 2 x | = 96\ne-bikes | 24 2 x (40 + 8 + 15) = 126 222 of: 2 x 111 = 222\nloonkosten bezorgers | 248,51\nkosten zelf bezorgen | 96 + 126 + 248,51 = 470,51\nmet e-bikes | of: 222 + 248,51 = 470,51\ncommissie bezorgen door Thuisbezorgd.nl | 0,13 x 4.000 = € 520\nConclusie | Zelf bezorgen is goedkoper dan laten bezorgen door Thuisbezorgd.nl, want 470,51< 520.\n• 126 + 96 of 222 (1p)\n• 470,51 en 520 Zelf bezorgen is goedkoper dan laten bezorgen door Thuisbezorgd.nl (want € 470,51 < € 520) (1p)\nAanvulling van het CvTE:\nOpmerking Wanneer een kandidaat bij vraag 23 bij de constante kosten van e-bikes een foutieve berekening van het antwoord op vraag 22 herhaalt en deze correct vermenigvuldigt met 2, moet dit als doorwerkfout worden gezien en niet als identieke fout.",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "h23-1-b-6",
 "h23-1-b-7",
@@ -4062,6 +4701,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale kosten van de ingrediënten en het verpakkingsmateriaal per maaltijd.",
 "model": "16 – 10 = 6 1\nDe kosten van de ingrediënten en het verpakkingsmateriaal per maaltijd zijn 6 – 1,92 = € 4,08 1",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "h23-1-b-6",
 "h23-1-b-7",
@@ -4084,6 +4726,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met welk bedrag het resultaat per maand in 2021 naar verwachting verandert. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "berekeningen\ntoename aantal maaltijden 4.000 = 250 16 toename dekkingsbijdrage 250 x 10 = 2.500 verandering resultaat per 2.500 – € 470,51= € 2.029,49 maand\n• 2.500 (1p)\n• 2.029,49 (1p)",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "h23-1-b-6",
 "h23-1-b-7",
@@ -4107,6 +4752,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een voordeel voor Tim en Noor van het omzetten van Neude als een onderneming zonder rechtspersoonlijkheid naar een ondernemingsvorm met rechtspersoonlijkheid.",
 "model": "Voorbeeld van een juist antwoord: Tim en Noor zijn dan niet meer aansprakelijk met hun privévermogen.",
 "pnt": 1,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "h23-1-o-14"
 ]
@@ -4126,6 +4774,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Neude in het vierde kwartaal van 2022 ontvangt uit de verhuur van boshuisjes.",
 "model": "De reserveringen gemaakt voor november 2022 tot en met januari 2023 worden in het vierde kwartaal van 2022 ontvangen. (3 + 4 + 4) x 3 x 980 = € 32.340\nAanvulling van het CvTE:\nOpmerking Wanneer een correcte berekening wordt gemaakt met een vaste huurprijs van € 980 voor drie boshuisjes, moeten scorepunten worden toegekend.",
 "pnt": 2,
+"top": [
+"balans"
+],
 "img": [
 "h23-1-o-14"
 ]
@@ -4145,6 +4796,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee aanvullende voorwaarden die een bank zal stellen voor het verstrekken van een hypothecaire lening.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De hypotheekgever moet voldoende inkomen hebben om de betalingsverplichtingen (aflossing en interest) na te komen.\n- Het bedrag van de lening is maximaal een bepaald percentage van de waarde van het onderpand.\n- Andere financiële verplichtingen/studieschuld mogen niet te hoog zijn.\n- het aanhouden/openen van een betaalrekening bij de bank die de hypothecaire lening verstrekt\n- verplicht een verzekering afsluiten tegen brand- en stormschade\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h23-1-o-15"
 ]
@@ -4164,6 +4819,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de uitgaven op 30 juni 2023 aan de hypothecaire lening voor het vierde boshuisje van Neude.",
 "model": "• Bedrag hypothecaire lening = 100.000 – 32.340 = 67.660 67.660 Aflossing = = 3.383 20 3.383 In twee gelijke delen wordt er afgelost met = 1.691,50 (1p)\n 2\n 6\n• Interest = 67.660 x 0,04 x = € 1.353,20 12 Totaal: 1.691,50 + 1.353,20 = € 3.044,70 (1p)",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h23-1-o-15"
 ]
@@ -4183,6 +4842,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit wat de invloed van deze aankondiging van de Nederlandse overheid is op de beurskoers van Basic Fit op 28 juni 2021.",
 "model": "• Door(dat) de opening (eerder is dan verwacht) zal het verwachte resultaat positief worden beïnvloed (1p)\n• en daardoor kan de vraag naar het aandeel stijgen en daarmee stijgt ook de koers (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h23-2-o-2"
 ]
@@ -4202,6 +4864,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het agio per nieuw geplaatst aandeel dat door de emissie van 1 juli 2021 ontstaat.",
 "model": "204.000.000\n• Emissiekoers: = € 34 (1p)\n6.000.000\n• Agio per aandeel: 34 – 0,06 = € 33,94 (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h23-2-o-2"
 ]
@@ -4221,6 +4886,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de rentabiliteit van het eigen vermogen over 2021.",
 "model": "Voorbeeld van een juiste berekening is:\n• Eigen vermogen 31 december 2021: € 7,89 x 50 miljoen = € 394.500.000 (1p)\n306.700.000 + 394.500.000\n• Gemiddeld eigen vermogen: = (2p)\n€ 350.600.000 1\n- 116.200.000\n• REV: x 100% = - 33,14% (1p)\n350.600.000",
 "pnt": 3,
+"top": [
+"kengetallen"
+],
 "img": [
 "h23-2-o-2"
 ]
@@ -4240,6 +4908,9 @@ EXAMEN.vragen.push(...[
 "q": "Is een arbeidsongeschiktheidsverzekering een levensverzekering of een schadeverzekering? Leg je antwoord uit.",
 "model": "• een schadeverzekering (1p)\n• heeft tot doel om een verzekerde na het optreden van een verzekerd risico schadeloos te stellen / wanneer Zara arbeidsongeschikt wordt, krijgt zij een uitkering (1p)\nOpmerking Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is toegekend.",
 "pnt": 2,
+"top": [
+"prive"
+],
 "img": [
 "h23-2-b-2",
 "h23-2-b-3",
@@ -4262,6 +4933,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat de interestkosten over 2022 van de hypothecaire lening € 4.500 bedragen.",
 "model": "• 240.000 x 0,02 x 0,5 = 2.400 (1p)\n• 210.000 x 0,02 x 0,5 = 2.100 2.400 + 2.100 = € 4.500 (1p)\nOpmerking Aan het antwoord “240.000 x 0,02 = € 4.800” geen scorepunten toekennen.",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"woning"
+],
 "img": [
 "h23-2-b-2",
 "h23-2-b-3",
@@ -4283,6 +4958,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale constante kosten van de praktijk van Zara over 2022. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "totale constante kosten 2022: berekeningen: Interestkosten hypothecaire lening 4.500 Afschrijvingskosten 40.000 – 4.000 = 9.000 4\nLoonkosten 600 x 1,08 x 1,3 x 12 x 1,033 = 11.046,16 Overige constante kosten 6.299,84 Totale constante kosten 4.500 + 9.000 + 11.046,16 + 6.299,94 = € 30.846,00\n• afschrijvingskosten 9.000,00 (1p)\n• loonkosten 11.046,16 (2p)\n• overige en totale constante kosten 6.299,84 en € 30.846,00 (1p)",
 "pnt": 4,
+"top": [
+"kostprijs"
+],
 "img": [
 "h23-2-b-2",
 "h23-2-b-3",
@@ -4305,6 +4983,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de premie arbeidsongeschiktheidsverzekering per jaar na aftrek van het belastingvoordeel in 2022.",
 "model": "• 97% = 30.846 100 verzekerd bedrag: x 30.846 = 31.800 (1p)\n97\n• jaarpremie: 31.800 x 4% = € 1.272 per jaar (1p)\n• jaarpremie na aftrek belastingvoordeel: 1.272 x (1 – 0,35) = € 826,80 (1p)",
 "pnt": 3,
+"top": [
+"prive"
+],
 "img": [
 "h23-2-b-2",
 "h23-2-b-3",
@@ -4327,6 +5008,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de netto-uitkering per jaar die Zara ontvangt van SureThing als ze een heel jaar arbeidsongeschikt wordt.",
 "model": "uitkering bij arbeidsongeschiktheid: 31.800 x (1 – 0,35) = € 20.670\nOpmerking Wanneer de kandidaat bij vraag 7 en vraag 8 een zelfde fout maakt met (1 – 0,35), dan wordt er maximaal 1 scorepunt in mindering gebracht.",
 "pnt": 1,
+"top": [
+"prive"
+],
 "img": [
 "h23-2-b-2",
 "h23-2-b-3",
@@ -4349,6 +5033,9 @@ EXAMEN.vragen.push(...[
 "q": "Welk orgaan binnen een vereniging keurt de voorgestelde besluiten binnen het broodfonds goed of af?",
 "model": "Algemene ledenvergadering / ALV",
 "pnt": 1,
+"top": [
+"prive"
+],
 "img": [
 "h23-2-b-4",
 "h23-2-o-5"
@@ -4369,6 +5056,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een voordeel en een nadeel van het broodfonds voor Zara ten opzichte van een arbeidsongeschiktheidsverzekering bij SureThing. Leg het antwoord uit.",
 "model": "Voorbeelden van een voordeel zijn:\n- dat de maandelijkse inleg en contributie lager zijn dan de (bruto) premie voor de arbeidsongeschiktheidsverzekering, omdat het broodfonds geen winstdoelstelling heeft.\n- dat het broodfonds minder ingewikkeld is, omdat er geen controlerende artsen zijn om een uitkering te ontvangen.\n- dat deelnemers geen (schenk)belasting over de uitkering hoeven te betalen indien de uitkering lager is dan de schenkingsvrijstelling.\nper juist voordeel 1\nVoorbeelden van een nadeel zijn:\n- SureThing biedt ook hulp en advies ter preventie en bij re-integratie, een broodfonds biedt dat niet.\n- De uitkeringsduur is maximaal 2 jaar, terwijl een arbeidsongeschiktheidsverzekering ook mogelijkheden biedt voor een eventueel langere uitkeringsduur.\n- Deelnemers kunnen gemakkelijk misbruik maken van het fonds, omdat er geen controle is.\nper juist nadeel 1",
 "pnt": 2,
+"top": [
+"prive"
+],
 "img": [
 "h23-2-b-2",
 "h23-2-b-3",
@@ -4391,6 +5081,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan of Zara zich zal aansluiten bij broodfonds Broodnodig. Betrek voorwaarde a en b in je conclusie (zie informatiebron 3).",
 "model": "• schenking: 3.010 x 12 = € 36.120 voorwaarde a: € 36.120 > € 31.800 (voldoende om totale constante kosten en privé-uitgaven te dekken) (1p)\n• voorwaarde b: € 36.120 > € 20.670 (vraag 8) dus Zara kiest voor deelname aan broodfonds Broodnodig (1p)",
 "pnt": 2,
+"top": [
+"erven",
+"kostprijs"
+],
 "img": [
 "h23-2-b-4",
 "h23-2-o-5"
@@ -4411,6 +5105,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de jaarlijkse huuruitgaven na aftrek van de huurtoeslag in 2022 en 2023 voor Djainy en Jan-Willem.",
 "model": "• huuruitgaven in 2022: 12 x (750 – 263) = € 5.844 (1p)\n• huuruitgaven in 2023: 12 x 750 x 1,03 = € 9.270 (1p)",
 "pnt": 2,
+"top": [
+"prive",
+"liquiditeitsbegroting"
+],
 "img": [
 "h23-2-o-6"
 ]
@@ -4430,6 +5128,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat de jaarlijkse huuruitgaven na aftrek van huurtoeslag in procenten van het gezamenlijke jaarinkomen in 2023 gedaald zijn ten opzichte van 2022.",
 "model": "huuruitgaven in procenten van het inkomen in 2022: 5.844 x 100% = 22,48% 26.000 huuruitgaven in procenten van het inkomen in 2023: 9.270 x 100% = 19,31% 48.000",
 "pnt": 1,
+"top": [
+"prive",
+"liquiditeitsbegroting"
+],
 "img": [
 "h23-2-o-6"
 ]
@@ -4449,6 +5151,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg voor elk van de twee voorwaarden uit hoe de bank daarmee haar risico beperkt.",
 "model": "• Het inkomen moet hoog genoeg zijn om de betaling van interest en aflossing aan de bank te kunnen doen / de geldverstrekker eist dat er zekerheid is omtrent het inkomen (1p)\n• De schuld mag een maximaal percentage zijn van de woningwaarde (schuldmarktwaarde). Bij (gedwongen) verkoop moet het onderpand voldoende waard zijn om de restschuld af te lossen (1p)",
 "pnt": 2,
+"top": [
+"beleggen"
+],
 "img": [
 "h23-2-o-6"
 ]
@@ -4468,6 +5173,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat in 2023 de uitgaven per maand van kopen bij de maximale hypothecaire lening minder dan € 15 verschillen van de maandelijkse uitgaven van huren.",
 "model": "(Bij een inkomen van € 48.000 is de maximale hypothecaire lening € 235.279 en de daarbij behorende annuïteit / uitgave aan hypothecaire lening € 760). 9.270 = 772,50 maandelijkse uitgave aan huur: 12\n772,50 – 760 = € 12,50 (< € 15)",
 "pnt": 1,
+"top": [
+"liquiditeitsbegroting",
+"woning"
+],
 "img": [
 "h23-2-o-7"
 ]
@@ -4487,6 +5196,10 @@ EXAMEN.vragen.push(...[
 "q": "Van welke belastingregeling kunnen Djainy en Jan-Willem profiteren wanneer ze een huis kopen?",
 "model": "De interestlasten van de hypothecaire lening mogen in mindering worden gebracht op het bruto inkomen / het voordeel van hypotheekrenteaftrek.",
 "pnt": 1,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h23-2-o-8"
 ]
@@ -4506,6 +5219,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale vermogensopbouw in de eerste 5 jaar als gevolg van het kopen van de woning. Ga hierbij uit van de aannames van de hypotheekadviseur.",
 "model": "• daling schuld hypothecaire lening: 60 x 760 – 11.254,80 = € 34.345,20 (1p)\n• waardestijging woning: 245.000 x 1,05 5 – 245.000 = € 67.688,98 (1p)\n• totale vermogensopbouw: 34.345,20 + 67.688,98 = € 102.034,18 (1p)",
 "pnt": 3,
+"top": [
+"woning"
+],
 "img": [
 "h23-2-o-8"
 ]
@@ -4525,6 +5241,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met behulp van de balans het resultaat in maart 2022. Geef aan of het resultaat voordelig of nadelig was.",
 "model": "• daling eigen vermogen: 2 x (5.899 – 5.699) = € 400 totaal (1p)\n• Hiervan veroorzaakt door privé-opnames: 5.000 Voordelig resultaat 5.000 – 400 = € 4.600 (1p)",
 "pnt": 2,
+"top": [
+"resultaat",
+"balans"
+],
 "img": [
 "h23-2-o-10"
 ]
@@ -4544,6 +5264,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef aan welke balansposten met welk bedrag zullen veranderen door deze verwachte verkoop in april 2022. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "debet | (mutatie)balans april 2022 | credit\nbalanspost | bedrag | balanspost | bedrag\nLiquide middelen | + 1.815 | Vermogen Erik | + 300\nVoorraad | – 900 | Vermogen Younes | + 300\nTe betalen btw | + 315\ntotaal | + € 915 | totaal | + € 915\n• Liquide middelen + 1.815 (1p)\n• Voorraad en totaal – 900 en + € 915 (1p)\n• Vermogen Erik en Younes + 300 en + 300 (1p)\n• Te betalen btw + 315 (1p)\nOpmerking Bij de derde deelscore mag de balanspost Resultaat (voor winstverdeling) van + 600 ook worden goedgekeurd .",
 "pnt": 4,
+"top": [
+"balans"
+],
 "img": [
 "h23-2-o-11"
 ]
@@ -4563,6 +5286,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte omzet van fietsaccessoires en fietsreparaties van De gesmeerde fiets over de maand april 2022.",
 "model": "6.540\n• omzet fietsreparaties: = 6.000 (1p)\n1,09\n• omzet accessoires: 1.500 totaal: € 7.500 (1p)",
 "pnt": 2,
+"top": [
+"btw"
+],
 "img": [
 "h23-2-o-11"
 ]
@@ -4582,6 +5308,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan of er in april 2022 liquiditeitsproblemen voor De gesmeerde fiets ontstaan wanneer er voor € 5.000 aan privé- opnames wordt gedaan. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "uitgaven in april | ontvangsten\n2022 | in april 2022\nHuur | 2.700 | Verkoop | 7.855 fietsaccessoires en reparaties\nBanklening | 2.600\nCrediteuren | 968\nVerrekening btw | 1.637\nPrivé-opnames | 5.000\nOverige uitgaven | 500 | Debiteuren | 450\nSaldo | Saldo | 5.100\ntotaal | 13.405 | totaal | 13.405\n• Verkoop fietsaccessoires en reparaties: 1.500 x 1,21 + 6.540 – 500 = 7.855 (2p)\n• Verrekening btw: 2.435 – 798 = 1.637 (1p)\n• Huur: 3 x 900 = 2.700 (1p)\n• 2.503 (saldo begin) – 5.100 = – 2.597 Conclusie: het rekening-courantkrediet is voldoende om uit de liquiditeitsproblemen te blijven, want 2.597< 4.000 (1p)",
 "pnt": 5,
+"top": [
+"vreemdvermogen",
+"liquiditeitsbegroting"
+],
 "img": [
 "h23-2-u-2",
 "h23-2-o-11"
@@ -4602,6 +5332,9 @@ EXAMEN.vragen.push(...[
 "q": "Welk risico loopt Express door geen minimale bestelhoeveelheid te eisen? Leg het antwoord uit.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- het risico dat de bezorgkosten groter dan de marge op de bezorgde boodschappen en bezorgtarief zijn\n- het risico dat de belofte van binnen 10 minuten bezorgen niet kan worden waargemaakt door een teveel aan kleine bestellingen",
 "pnt": 1,
+"top": [
+"beleggen"
+],
 "img": [
 "h23-2-b-5",
 "h23-2-b-6",
@@ -4624,6 +5357,9 @@ EXAMEN.vragen.push(...[
 "q": "Welke prestatie-indicator past bij de KSF 10-minutenbezorgbelofte?",
 "model": "Voorbeeld van een juist antwoord is: het percentage van de bestellingen dat binnen 10 minuten wordt bezorgd",
 "pnt": 1,
+"top": [
+"strategie"
+],
 "img": [
 "h23-2-b-5",
 "h23-2-b-6",
@@ -4646,6 +5382,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee niet-financiële redenen waarom Express kiest voor werknemers in loondienst in plaats van zzp’ers.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Door werknemers in loondienst te nemen, kunnen de werknemers een binding met de organisatie krijgen en kunnen ze loyaler zijn dan zzp’ers.\n- Een arbeidsovereenkomst geeft meer zekerheid voor werknemers. Hierdoor kan de werving van bezorgers gemakkelijker zijn.\n- Werknemers moeten een aantal uren per week beschikbaar zijn. Hierdoor heeft Express meer zekerheid over voldoende werknemers voor de bezorging.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"starten"
+],
 "img": [
 "h23-2-b-5",
 "h23-2-b-6",
@@ -4668,6 +5407,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef op basis van de marktgegevens twee argumenten om te kiezen voor Groningen in plaats van Haarlem.",
 "model": "Voorbeelden van een juist antwoord zijn\n- Het totale aantal verwachte bestellingen in de stad inclusief Express in Groningen (82.000) is groter dan in Haarlem (56.000).\n- Het verwachte aantal bestellingen / de verwachte omzet voor Express is in Groningen groter dan in Haarlem.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "h23-2-b-6",
 "h23-2-o-12"
@@ -4688,6 +5430,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat in 2023 de gemiddelde variabele kosten per bestelling € 15 bedragen en de totale constante kosten voor Groningen € 138.000 bedragen (zie informatiebron 6).",
 "model": "Voorbeeld van een juiste berekening is:\n• Totale kosten zijn bij 90.000 bestellingen € 2.270.000 en bij 60.000 bestellingen € 1.820.000. Variabele kosten per bestelling zijn: 2.270.000 – 1.820.000 = € 15 (1p)\n90.000 – 60.000\n• Totale variabele kosten zijn dan 90.000 x 15 = 1.350.000. Totale constante kosten zijn dan 2.270.000 – 1.350.000 = 920.000 (1p)\n• In totaal zijn er 20 hubs, dus totale constante kosten voor Groningen 920.000 zijn dan x 3 = € 138.000 (1p)\n20",
 "pnt": 3,
+"top": [
+"kostprijs"
+],
 "img": [
 "h23-2-b-7",
 "h23-2-o-13"
@@ -4708,6 +5453,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte dekkingsbijdrage per bestelling in Groningen (zie informatiebron 5 en 6).",
 "model": "• opbrengst per bestelling = 26 + 1,80 = 27,80 (1p)\n• gemiddelde variabele kosten = 15 dekkingsbijdrage per bestelling = 27,80 –15 = € 12,80 (1p)",
 "pnt": 2,
+"top": [
+"breakeven"
+],
 "img": [
 "h23-2-b-6",
 "h23-2-b-7",
@@ -4729,6 +5477,9 @@ EXAMEN.vragen.push(...[
 "q": "Laat met een berekening van de break-evenafzet zien of Express in 2023 zal uitbreiden naar Groningen (zie informatiebron 5 en 6).",
 "model": "138.000\n• break-evenafzet = = 10.782 bestellingen (1p)\n12,80\n• Verwachte afzet Express in Groningen over 2023 is 20.000. 20.000 x 100% = 185,5% (1p)\n10.782\n• De verwachte afzet in Groningen over 2023 is 85,5% > 15% van de break-evenafzet (1p)\nOpmerkingen Aan het antwoord “10.781 bestellingen” geen scorepunt toekennen.",
 "pnt": 3,
+"top": [
+"breakeven"
+],
 "img": [
 "h23-2-b-6",
 "h23-2-b-7",
@@ -4750,6 +5501,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met hoeveel procent de lengte van een reclameblok bij de NPO in week 12 van 2020 korter is geworden ten opzichte van dezelfde week van 2019.",
 "model": "minuten omzetten in seconden. 170 – 298 x 100% = – 42,95 % (korter) 298",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "h23-2-o-14"
 ]
@@ -4767,6 +5521,9 @@ EXAMEN.vragen.push(...[
 "nr": 30,
 "ctx": "In maart 2020 zijn thuiswerken en thuisblijven het advies van de overheid om verspreiding van het coronavirus te voorkomen. Het effect van deze maatregelen is duidelijk te zien in de kijkcijfers op televisie. In de tweede helft van maart 2020 is er meer televisie gekeken dan voorheen. Ondanks de gestegen kijkcijfers worden veel tv-reclames door bedrijven geannuleerd, wat resulteert in kortere reclameblokken met minder adverteerders op televisie.\nDe publieke omroep (NPO) verliest de meeste minuten per reclameblok. Bij de NPO duurde in week 12 van 2020 een blok gemiddeld 2 minuten en 50 seconden. In 2019 duurde in week 12 een reclameblok 4 minuten en 58 seconden.\n…\nDe marketingafdeling van RTL verkoopt reclameminuten aan bedrijven. Met deze inkomsten wordt de productie van de verschillende programma’s gefinancierd.",
 "q": "De marketingafdeling van RTL doet bij de verkoop aan:",
+"top": [
+"marketingmix"
+],
 "img": [
 "h23-2-o-14"
 ],
@@ -4794,6 +5551,9 @@ EXAMEN.vragen.push(...[
 "q": "Maak bovenstaande zinnen economisch correct. Kies uit: bij … (1) … stijgt / daalt bij … (2) … vrijwillig / verplicht\nRidha onderzoekt hoe groot het verschil in interestopbrengst is wanneer hij € 20.000\n- op de 10-jaar-Spaarvastrekening stort met een looptijd van 10 jaar; of:\n- eerst 5 jaar op de 5-jaar-Spaarvastrekening stort en daarna het totale bedrag inclusief interest stort op de Direct Spaarrekening waar het bedrag vervolgens 5 jaar blijft staan.",
 "model": "• (1) stijgt (1p)\n• (2) vrijwillig (1p)",
 "pnt": 2,
+"top": [
+"interest"
+],
 "img": [
 "h24-1-o-2"
 ]
@@ -4813,6 +5573,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het verschil na 10 jaar in de verwachte interestopbrengst in euro’s tussen de bovenstaande twee keuzemogelijkheden.",
 "model": "• EW (eindwaarde) 5 jaar vast, daarna variabel: 20.000 x 1,0115 x 1,0025 = 21.336,56 (1p)\n• EW 10 jaar vast: 20.000 x 1,0135 10 = 22.870,07 Het verschil in verwachte interestopbrengst bedraagt: 22.870,07 – 21.336,56 = € 1.533,51. (1p)\nof\n(20.000 x 1,013510) – (20.000 x 1,0115 x 1,0025) = € 1.533,51",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "h24-1-o-2"
 ]
@@ -4832,6 +5595,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een reden waarom beleggen in een beleggingsfonds kan leiden tot een hoger rendement.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Er is bij het beleggingsfonds meer kennis (over de risico’s) van beleggen.\n- De kosten per euro belegd vermogen zijn lager dan bij zelf beleggen.\n- Een fonds kan beleggingsrisico’s beter spreiden.\nOpmerking ‘Omdat ze hun werk doen’ is geen voorbeeld van een juist antwoord.",
 "pnt": 1,
+"top": [
+"beleggen"
+],
 "img": [
 "h24-1-o-3"
 ]
@@ -4851,6 +5617,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem drie verschillen tussen obligaties en aandelen waaruit blijkt dat beleggen in obligaties minder risicovol is dan beleggen in aandelen.",
 "model": "(Beleggen in obligaties is minder risicovol dan beleggen in aandelen, omdat) (drie van de volgende):\n- er sprake is van een vaste interest op obligaties en het dividend op aandelen afhankelijk is van het resultaat.\n- de koersschommelingen van aandelen groter zijn dan de koersschommelingen van obligaties.\n- obligaties (tegen nominale waarde) worden afgelost en aandelen niet.\n- bij faillissement obligaties voorrang hebben boven aandelen bij het verdelen van de boedel.\nper juist antwoord 1",
 "pnt": 3,
+"top": [
+"aandelen",
+"obligaties"
+],
 "img": [
 "h24-1-o-3"
 ]
@@ -4870,6 +5640,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee andere maatschappelijke behoeften waarin Welkom Energie voorziet.",
 "model": "voorzien in (twee van de volgende):\n- werkgelegenheid\n- belastinginkomsten\n- inkomen\n- (een bijdrage leveren aan) innovatie\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "h24-1-b-2",
 "h24-1-b-3",
@@ -4893,6 +5666,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit wat een te lage current ratio van een energiebedrijf voor invloed heeft op de leveringszekerheid van energie aan huishoudens.",
 "model": "• Een te lage current ratio betekent dat een bedrijf minder goed kan voldoen aan zijn betalingsverplichtingen op korte termijn. (1p)\n• Hierdoor kan het bedrijf failliet gaan (en moet de levering van energie aan huishoudens door een andere energieleverancier worden overgenomen). (1p)\nof\n• Als het bedrijf zijn rekeningen niet op tijd betaalt kunnen leveranciers reageren door de toelevering van energie te stoppen / pauzeren, (1p)\n• waardoor het energiebedrijf onvoldoende energie kan leveren / de leveringszekerheid vermindert. (1p)",
 "pnt": 2,
+"top": [
+"prive",
+"vreemdvermogen"
+],
 "img": [
 "h24-1-b-2",
 "h24-1-b-3",
@@ -4916,6 +5693,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de ontvangsten uit de voorschotten van alle klanten van Welkom Energie in oktober 2021.",
 "model": "• € 0,48 x 1.000.000 + € 1,50 x 500.000 + € 0,25 x 3.000.000 + € 0,80 x 1.200.000 = € 2.940.000 (1p)\n2.940.000\n• = € 245.000 (1p)\n12",
 "pnt": 2,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h24-1-b-2",
 "h24-1-b-3",
@@ -4937,6 +5717,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte uitgaven aan energie-inkopen in de maand oktober 2021 van Welkom Energie.",
 "model": "((1.000.000 + 3.000.000) x € 0,34 + (500.000 + 1.200.000) x € 1,20) x (0,85 – 0,73) = € 408.000\n• jaarlijkse afzet elektriciteit: (1.000.000 + 3.000.000) en gas (500.000 + 1.200.000) (1p)\n• juiste prijzen: € 0,34 en € 1,20 (1p)\n• geschat volume november: 0,85 – 0,73 = 0,12 en verwachte uitgaven € 408.000 (1p)",
 "pnt": 3,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h24-1-b-2",
 "h24-1-b-3",
@@ -4959,6 +5742,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag van de balanspost Liquide middelen van Welkom Energie per 31 oktober 2021.",
 "model": "Liquide middelen: 1.000.000 + 245.000 (vraag 8) – 408.000 (vraag 9) – 140.000 = € 697.000",
 "pnt": 1,
+"top": [
+"balans"
+],
 "img": [
 "h24-1-b-5",
 "h24-1-o-5"
@@ -4979,6 +5765,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de current ratio van Welkom Energie op 31 oktober 2021 en leg uit of Welkom Energie voldoet aan de liquiditeitseis van de toezichthouder.",
 "model": "2.100.000 + 697.000\n• Current ratio per 31 oktober 2021: = 0,95 (1p)\n2.950.000\n• 0,95 < 1,0 (dus Welkom Energie voldoet niet meer aan de eis) (1p)",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "h24-1-b-2",
 "h24-1-b-3",
@@ -5002,6 +5791,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat Welkom Energie mede door de vaste energiecontracten van klanten in 2021 in liquiditeitsproblemen is gekomen (zie informatiebron 1).",
 "model": "• Bij een vast contract kan de (gestegen) inkoopprijs niet worden doorberekend. (1p)\n• Hierdoor zijn de uitgaven groter dan de ontvangsten en kan de onderneming betalingsproblemen / liquiditeitsproblemen krijgen. (1p)",
 "pnt": 2,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h24-1-b-2",
 "h24-1-b-3",
@@ -5023,6 +5815,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg voor drie andere stakeholders van Welkom Energie uit wat de gevolgen zijn van het faillissement van Welkom Energie.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Klanten moeten een andere leverancier van energie vinden.\n- Aandeelhouders raken mogelijk ingebracht vermogen kwijt.\n- Vermogensverschaffers zoals banken moeten leningen afboeken.\n- (Toe)leveranciers raken een klant kwijt / moeten leverancierskrediet afboeken.\nper stakeholder + gevolg 1",
 "pnt": 3,
+"top": [
+"mvo",
+"faillissement"
+],
 "img": [
 "h24-1-b-2",
 "h24-1-b-3",
@@ -5046,6 +5842,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee mogelijke marketingdoelstellingen die Maaltijd-aan-Huis door een lagere verkoopprijs dan de concurrent probeert te behalen.",
 "model": "Voorbeelden van juiste antwoorden:\n- het veroveren van marktaandeel (met x%)\n- het behalen van een zo groot mogelijke afzet/omzet (met x stuks)\n- het opbouwen van naamsbekendheid (bij x% van de bevolking)\nper juist antwoord 1\nOpmerking Voor ‘het behalen van winst’ geen scorepunt toekennen.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h24-1-o-6"
 ]
@@ -5065,6 +5864,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de interestkosten van de onderhandse lening constante kosten zijn.",
 "model": "De interestkosten zijn niet afhankelijk van het aantal maaltijdboxen dat wordt verkocht / de afzet.",
 "pnt": 1,
+"top": [
+"vreemdvermogen",
+"kostprijs"
+],
 "img": [
 "h24-1-o-6"
 ]
@@ -5084,6 +5887,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de dekkingsbijdrage per bezorgde maaltijdbox.",
 "model": "dekkingsbijdrage per maaltijdbox: 15 + 3,05 – (15 x 0,53) = 10,10",
 "pnt": 1,
+"top": [
+"breakeven"
+],
 "img": [
 "h24-1-o-7"
 ]
@@ -5103,6 +5909,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken hoeveel maaltijdboxen er in januari 2024 minimaal verkocht moeten worden om alle kosten te dekken. Rond af op hele maaltijdboxen.",
 "model": "Voorbeeld van een juiste berekening is:\n• totale constante kosten per maand zijn: 5.000 + 2.500 x 0,005 = 429,17 (1p)\n12 429,17\n• = 42,49 dus 43 maaltijdboxen (1p)\n10,10\nOpmerking Voor een ontbrekende of onjuiste afronding geen scorepunt toekennen.",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "h24-1-o-7"
 ]
@@ -5122,6 +5931,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het totale gerealiseerde resultaat van Maaltijd-aan-Huis over januari 2024. Geef aan of er sprake is van een positief of negatief resultaat.",
 "model": "Voorbeeld van een juiste berekening is: 30 x 10,10 – 429,17 = € 126,17 nadelig / negatief / -/-",
 "pnt": 1,
+"top": [
+"resultaat"
+],
 "img": [
 "h24-1-o-7"
 ]
@@ -5141,6 +5953,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met welk bedrag het resultaat van 2023 aangepast moet worden als gevolg van de investering en financiering per 1 december 2023. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "berekeningen bedrag in € kosten als gevolg van 40.000 + 2.000 – 4.200 450 = investering: 84 afschrijvings(kosten) kosten als gevolg van financiering: interest(kosten) 0,004 x 42.000 = 168+ totaal 618\n• afschrijvings(kosten) en interest(kosten) (1p)\n• 450 (2p)\n• 168 en 618 (1p)",
 "pnt": 4,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h24-1-u-1",
 "h24-1-o-8"
@@ -5161,6 +5976,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de balansposten “Inventaris” en “Banklening” op de balans van 1 januari 2024.",
 "model": "• Inventaris: 42.000 – 450 = € 41.550 (1p)\n• Banklening: 42.000 – (788,75 – 168) = € 41.379,25 (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h24-1-o-9"
 ]
@@ -5180,6 +5998,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem naast de reeds genoemde balansposten een andere balanspost.",
 "model": "Voorbeeld van een juist antwoord is:\n- Te vorderen btw\n- Te vorderen omzetbelasting\n- Af te dragen btw\n- Resultaat voor aftrek van belasting",
 "pnt": 1,
+"top": [
+"balans"
+],
 "img": [
 "h24-1-o-9"
 ]
@@ -5199,6 +6020,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef met behulp van informatiebron 4 een argument dat Evy kan inbrengen dat zij gezien haar functieomschrijving niet alleen verantwoordelijk is voor de slechte review.",
 "model": "Voorbeeld van een juist antwoord is: In de functieomschrijving van Evy staat niet dat zij verantwoordelijk is voor:\n- de temperatuur in het restaurant.\n- de kwaliteit van het eten.\nOpmerking Het antwoord moet te herleiden zijn uit informatiebron 4.",
 "pnt": 1,
+"top": [
+"personeel"
+],
 "img": [
 "h24-1-b-6",
 "h24-1-o-10"
@@ -5219,6 +6043,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de wet die gaat over veilig en gezond werken.",
 "model": "Arbowet / Arbeidsomstandighedenwet",
 "pnt": 1,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "h24-1-b-6",
 "h24-1-b-7",
@@ -5241,6 +6068,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee andere bevoegdheden van de ondernemingsraad dan het instemmingsrecht.",
 "model": "- adviesrecht\n- initiatiefrecht\n- recht op informatie\nOpmerking Alleen met twee juiste antwoorden kan het scorepunt worden toegekend.",
 "pnt": 1,
+"top": [
+"organisatie",
+"arbeidsrecht"
+],
 "img": [
 "h24-1-b-7",
 "h24-1-b-8",
@@ -5262,6 +6093,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan of de werkgever zich met een betaling van een maandloon van € 1.108,11 in februari heeft gehouden aan de cao (zie informatiebron 5).",
 "model": "Voorbeelden van juiste berekeningen zijn: 1.799,47\n• brutoloon in februari (4 weken): x 32 = 1.515,34 (1p)\n38 1.515,34\n• eerste week in februari: = 378,84 (4p)\n 3\neerste week van ziekte (1 wachtdag): 0,70 x 378,84 x = 198,89 1\n 4\n• tweede en derde week van ziekte: 2 x 0,70 x 378,84 = 530,38 (1p)\n• totaal: 198,89 + 530,38 + 378,84 = € 1.108,11. Dus het restaurant heeft zich gehouden aan de cao. (1p)\nof\n1.799,47\n• brutoloon in februari (4 weken): x 32 = 1.515,34 (1p)\n38 1.515,34\n• per week in februari: = 378,84 (4p)\ntijdens 3 weken ziekte (1 onbetaalde wachtdag, dus 11 van 12 dagen) : 11 3 x 378,84 x 0,70 x = 729,27 2\n12\n• Totaal in februari: 729,27 + 378,84 = € 1.108,11. Dus het restaurant heeft zich gehouden aan de cao. (1p)\nOpmerking Wanneer een kandidaat door een doorwerkfout bij de conclusie op een hoger loon uitkomt, moet diens conclusie zijn dat het restaurant zich niet aan de cao heeft gehouden. Anders wordt het laatste scorepunt niet toegekend.\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 4,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "h24-1-b-7",
 "h24-1-b-8",
@@ -5283,6 +6117,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een voordeel voor Evy wanneer zij als zzp’er gaat werken in de horeca in plaats van in loondienst.",
 "model": "Voorbeeld van een juist antwoord is:\n- Als zzp’er heeft Evy meer zeggenschap over haar werktijden.\n- Het tarief per gewerkt uur als zzp’er is hoger dan het loon per gewerkt uur (in loondienst).",
 "pnt": 1,
+"top": [
+"starten"
+],
 "img": [
 "h24-1-b-6",
 "h24-1-b-7",
@@ -5305,6 +6142,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee voordelen die het werken in loondienst heeft ten opzichte van het werken als zzp’er in de horeca. Licht het antwoord met behulp van twee paragrafen uit de horeca-cao toe (zie informatiebron 5).",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- 4.16 vakantiegeld: als zzp’er heeft Evy geen recht op vakantietoeslag.\n- 5.1 ontwikkelingsbudget: voor zzp’ers is er geen ontwikkelingsbudget. 7.2 doorbetalen van loon bij ziekte: als zzp’er heeft Evy geen recht op loondoorbetaling bij ziekte.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"starten",
+"arbeidsrecht"
+],
 "img": [
 "h24-1-b-7",
 "h24-1-b-8",
@@ -5326,6 +6167,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een mogelijk nadeel van sponsoring voor Adidas.",
 "model": "Voorbeeld van een juist antwoord is:\n- Negatieve publiciteit treft ook de sponsor.\n- Het effect van sponsoring is moeilijk meetbaar.\nOpmerking ‘Sponsoring brengt hoge kosten met zich mee’ is geen voorbeeld van een juist antwoord.",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "h24-1-o-12"
 ]
@@ -5345,6 +6189,9 @@ EXAMEN.vragen.push(...[
 "q": "Maak bovenstaande zinnen compleet door de juiste marketing- instrumenten in te vullen. … (1) … beleid … (2) … beleid … (3) … beleid\nPieter en Edwin zijn consumenten die veel Adidas producten kopen. Zij bekijken een EK-voetbalwedstrijd op tv en zien dat Adidas shirtsponsor is van het Duitse nationale team. Na het zien van de wedstrijd bestelt Pieter een EK-voetbalshirt van het Duitse nationale team.",
 "model": "(1) productbeleid (2) plaatsbeleid (3) prijsbeleid\nindien drie goed 2\nindien twee goed 1\nindien een of geen goed 0",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h24-1-o-12"
 ]
@@ -5364,6 +6211,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit of Adidas een push- of pull-strategie hanteert bij shirtreclame op tv.",
 "model": "• pull-strategie (1p)\n• De marketing van Adidas is gericht op de consument (,waardoor vraag wordt gecreëerd in de webshop / tussenhandel). (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h24-1-o-12"
 ]
@@ -5383,6 +6233,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem de rechtsvorm waarbij het mogelijk is om een openbare emissie van aandelen te doen.",
 "model": "de NV/Naamloze Vennootschap",
 "pnt": 1,
+"top": [
+"aandelen",
+"rechtsvorm"
+],
 "img": [
 "h24-2-o-2"
 ]
@@ -5402,6 +6256,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarom een emissie succesvol kan zijn, ondanks dat de emissiekoers hoger is dan de intrinsieke waarde per aandeel.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n• Het beursklimaat is positief, (1p)\n• waardoor investeerders bereid zijn meer voor een aandeel te betalen dan de intrinsieke waarde per aandeel. (1p)\nof\n• De toekomstverwachtingen zijn goed. (1p)\n• Bij een hoge winstverwachting zijn investeerders bereid om meer te betalen dan de intrinsieke waarde per aandeel. (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h24-2-o-2"
 ]
@@ -5421,6 +6278,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het totale agio op aandelen na de emissie op 2 januari 2023.",
 "model": "200.000\n• = 160.000 aandelen te emitteren (1p)\n1,25\n• agio per aandeel: 1,25 – 0,50 = 0,75 totale agio op aandelen: 160.000 x 0,75 = € 120.000 (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h24-2-o-2"
 ]
@@ -5440,6 +6300,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het resultaat na vennootschapsbelasting per aandeel Tijger in 2023.",
 "model": "• totaalaantal aandelen op 31 december 2023 600.000 aantal aandelen voor emissie: = 1.200.000 0,5 geëmitteerde aandelen: _160.000 + geplaatste aandelen op 31 december 2023: 1.360.000 (1p)\n272.000\n• resultaat na vennootschapsbelasting per aandeel: = € 0,20 (1p)\n1.360.000",
 "pnt": 2,
+"top": [
+"vpb",
+"aandelen"
+],
 "img": [
 "h24-2-o-3"
 ]
@@ -5459,6 +6323,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee verschillende bedrijfseconomische redenen waarom Tijger een deel van het resultaat reserveert.",
 "model": "Voorbeelden van juiste antwoorden zijn: Het bedrijf / Tijger wil:\n- investeringen financieren (waarbij minder geld hoeft te worden geleend).\n- het eigen vermogen versterken (waardoor de continuïteit beter is gewaarborgd).\n- schulden aflossen.\n- dividendstabilisatie mogelijk maken.\n- meer liquide middelen beschikbaar houden.\nOpmerking Per juist antwoord 1 scorepunt toekennen.",
 "pnt": 2,
+"top": [
+"winstverdeling"
+],
 "img": [
 "h24-2-o-3"
 ]
@@ -5478,6 +6345,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem een financiële zekerheid die Anne opgeeft door zelf ontslag te nemen.",
 "model": "Voorbeeld van een juist antwoord is: Anne geeft de financiële zekerheid op van:\n- een uitkering bij arbeidsongeschiktheid\n- een uitkering bij werkloosheid\n- het (verder) opbouwen van een pensioen\n- haar loon / vaste inkomen.",
 "pnt": 1,
+"top": [
+"arbeidsrecht",
+"vreemdvermogen"
+],
 "img": [
 "h24-2-b-2",
 "h24-2-b-3",
@@ -5501,6 +6372,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem een dergelijk financieel voordeel.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- gelijke (bruto) maandlasten / uitgaven in de periode waarin de interest vaststaat (bij de annuïteitenlening), terwijl de huur jaarlijks meestal stijgt\n- dalende (bruto) maandlasten / uitgaven bij een lineaire hypothecaire lening terwijl de huur jaarlijks meestal stijgt\n- Interest op hypothecaire lening is fiscaal aftrekbaar (verlaagt je woonlasten), het huurbedrag niet.",
 "pnt": 1,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h24-2-b-2",
 "h24-2-o-5"
@@ -5521,6 +6396,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de overwaarde van de woning per 1 november 2023.",
 "model": "• resterende schuld: 119.582 – (1.264,81– 0,0025 x 119.582) = 118.616,15 (1p)\n• woningwaarde: 480.000 x 1,015 = 487.200 overwaarde: 487.200 – 118.616,15 = € 368.583,85 (1p)",
 "pnt": 2,
+"top": [
+"woning"
+],
 "img": [
 "h24-2-b-2",
 "h24-2-b-3",
@@ -5544,6 +6422,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het vrijkomende bedrag na aftrek van de boete.",
 "model": "• 15.000 x 1,018⁸ + 10.000 x 1,016⁵ = 28.127,10 (1p)\n• 0,01 x 2 x (10.000 + 15.000) = 500 28.127,10 – 500 = € 27.627,10 (1p)",
 "pnt": 2,
+"top": [
+"interest",
+"verschillen"
+],
 "img": [
 "h24-2-b-3",
 "h24-2-o-5"
@@ -5564,6 +6446,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit tot welk instrument van de marketingmix aansluiting bij Booking.com wordt gerekend.",
 "model": "• plaatsbeleid (1p)\n• Door aansluiting bij Booking.com is er een nieuw kanaal waarbij (potentiële) gasten kamers kunnen boeken bij de B&B. (1p)\nof\n• promotiebeleid (1p)\n• Via Booking.com nemen mensen kennis van het bestaan van de B&B (en boeken later via de eigen site van de B&B). (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h24-2-b-4",
 "h24-2-o-5"
@@ -5584,6 +6469,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een ander instrument van de marketingmix en geef aan op welke wijze dit instrument volgens het ingevulde Businessmodel Canvas gebruikt wordt voor de marketing van Chez AnTuan.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- productbeleid: een optimale gastbeleving, of een van de drie onder klantwaarde genoemde onderdelen: heerlijk ontbijt met streek- producten, wellness en verhuur van e-bikes\n- promotiebeleid: mond-tot-mondreclame, social media en toeristeninformatie\nOpmerking Het moet wel om een ander marketinginstrument gaan dan bij vraag 10.",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "h24-2-b-2",
 "h24-2-b-3",
@@ -5607,6 +6495,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met behulp van het geprognosticeerde resultaat de verwachte cashflow in 2024 van Chez AnTuan (zie informatiebron 4). Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "aantal berekeningen totaal overnachtingen in de 8 kamers in het:\n- laagseizoen 4 146 x 365 x 8 x 0,15 = 12\n- middenseizoen 5 365 x 365 x 8 x 0,30 = 12\n- hoogseizoen 3 + 438 12 x 365 x 8 x 0,60 =\ntotaal aantal 949 overnachtingen in 2024 omzet omzet boekingen (146 – 100) x 0,90 x 75 52.276, 50 via Booking.com na + (365 – 100) x 0,90 x aftrek commissie 85 + (438 – 100) x 0,90 x 95 = omzet 100 x (75 + 85 + 95) = 25.500 rechtstreekse boekingen overige omzet 2 x 100 x 17,50 = + 3.500 verhuur e-bikes totale omzet 81.276,50 kosten variabel 949 x 15 = 14.235 constant, exclusief 350 x 12 = 4.200 afschrijving afschrijving 250 x 12 = + 3.000 totale kosten 14.235 + 4.200 + 3.000 21.435\nresultaat | 81.276,50 – 21.435 = | 59.841,50\ncashflow | 59.841,50 + 3.000 = | 62.841,50\n• total aantal overnachtingen: 949 (1p)\n• totale omzet via Booking.com: 52.276,50 (2p)\n• totale omzet: 81.276,50 (1p)\n• totale kosten: 21.435 en resultaat: 59.841,50 (1p)\n• cashflow: 62.841,50 (1p)",
 "pnt": 6,
+"top": [
+"cashflow"
+],
 "img": [
 "h24-2-b-5",
 "h24-2-u-1",
@@ -5628,6 +6519,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken of aan de twee voorwaarden van Anne en Tuan voor het doorzetten van het B&B-plan wordt voldaan.",
 "model": "• financiering: 368,583,85 (vraag 8) + 27.627,10 (vraag 9) + 98.173 > aankoopprijs: 385.000 + verbouwing: 75.000 (1p)\n62.814,5\n• cashflow per maand: > 2 x 2.000 12 Aan beide voorwaarden is voldaan. (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"cashflow"
+],
 "img": [
 "h24-2-b-2",
 "h24-2-b-3",
@@ -5651,6 +6546,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken voor januari 2024 en februari 2024 met welk bedrag per maand het resultaat is afgenomen door deze financiële tegenvaller.",
 "model": "8.000 + 400 afschrijvingskosten: = € 50 per maand 14 x 12",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "h24-2-b-2",
 "h24-2-b-3",
@@ -5674,6 +6572,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit of GOOS een push- of een pull-strategie hanteert bij de verkoop van interieurproducten via de fysieke verkooppunten.",
 "model": "GOOS hanteert een push-strategie,\n- want de fysieke verkooppunten worden door middel van een bonus aangemoedigd om voor meer dan € 10.000 aan producten van GOOS te verkopen.\n- want GOOS richt zich op de tussenhandel om de verkoop te vergroten (en niet op de eindgebruiker).",
 "pnt": 1,
+"top": [
+"personeel"
+],
 "img": [
 "h24-2-o-8"
 ]
@@ -5693,6 +6594,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale ontvangsten in het eerste kwartaal van 2024.",
 "model": "totale ontvangsten:\n• contante verkopen: (25.000 + 20.000 + 17.000) x 0,3 = 18.600 (1p)\n• debiteuren: (18.000 + 26.000 + 25.000 ) x 0,7 = 48.300 + 66.900 (1p)\n• btw over verkopen: 0,21 x 66.900 = 14.049 + ontvangsten uit verkopen interieurproducten inclusief btw = 80.949 (1p)\n• interieuradvies inclusief btw: (6 + 7 + 8) x 1.500 = 31.500 + € 112.449 (1p)",
 "pnt": 4,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h24-2-o-8"
 ]
@@ -5712,6 +6616,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale uitgaven aan het inkopen van interieurproducten in het eerste kwartaal van 2024.",
 "model": "Inkopen in december 2023, januari 2024 en februari 2024 12.000 + 8.000 + 7.000 = 27.000 Uitgaven inclusief btw: 27.000 x 1,21 = € 32.670\nOpmerking Als zowel bij vraag 16 als bij vraag 17 de btw niet is meegenomen in de berekening, dit 1 keer als fout aanrekenen.",
 "pnt": 1,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h24-2-o-9"
 ]
@@ -5731,6 +6638,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de af te dragen btw over het eerste kwartaal van 2024.",
 "model": "• te betalen btw over verkopen van producten: (25.000 + 20.000 + 17.000) x 0,21 = 13.020,00 (1p)\n31.500\n• te betalen btw verkochte adviezen: x 0,21 = 5.466,94 + (1p)\n1,21\n• te vorderen btw: (8.000 + 7.000 + 6.000) x 0,21 = 4.410,00 -/- af te dragen btw: € 14.076,94 (1p)",
 "pnt": 3,
+"top": [
+"btw"
+],
 "img": [
 "h24-2-o-9"
 ]
@@ -5750,6 +6660,7 @@ EXAMEN.vragen.push(...[
 "q": "Toon met berekeningen aan dat bakkerij Broodnodig naar verwachting ook voldoet aan voorwaarden c en d.",
 "model": "800.000\n• De verwachte omzet in 2023 bedraagt = 2.000.000. (1p)\n0,40\n• De verwachte energiekosten exclusief TEK bedragen 80.000 x 2,71 + 60.000 x 0,78 = 263.600. 263.600 x 100% = 13,18 % (1p)\n2.000.000",
 "pnt": 2,
+"top": [],
 "img": [
 "h24-2-o-11"
 ]
@@ -5769,6 +6680,7 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag aan Tegemoetkoming in de Energiekosten die Broodnodig op 1 april 2024 naar verwachting zal ontvangen.",
 "model": "80.000 x (2,71 – 1,19) x 0,50 + 60.000 x (0,78 – 0,35) x 0,50 = € 73.700\nOpmerking Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [],
 "img": [
 "h24-2-o-11"
 ]
@@ -5788,6 +6700,7 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de steunmaatregel niet direct bijdraagt aan de toename van de liquide middelen van Broodnodig in het eerste kwartaal van 2023.",
 "model": "De uitbetaling van de TEK vindt pas plaats op 1 april 2024.",
 "pnt": 1,
+"top": [],
 "img": [
 "h24-2-o-11"
 ]
@@ -5807,6 +6720,9 @@ EXAMEN.vragen.push(...[
 "q": "Licht de stelling van Bert Brot toe.",
 "model": "Voorbeelden van een juist antwoord:\n- Investeringen in verduurzaming van het productieproces die leiden tot minder energieverbruik, kunnen leiden tot lagere kosten en een hoger resultaat.\n- De regeling geldt alleen voor 2023. Daarna kunnen de steunmaatregelen worden ingetrokken waardoor de kosten hoger uitvallen.\n- Ook met subsidie moeten ze 50% van de energiekosten boven de € 1,19 en € 0,35 zelf betalen. (Dus kunnen de kosten nog steeds lager worden door verduurzaming.)",
 "pnt": 1,
+"top": [
+"mvo"
+],
 "img": [
 "h24-2-o-11"
 ]
@@ -5826,6 +6742,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit onder welk onderdeel van de SWOT-analyse van Daglicht voordeel c uit informatiebron 5 geplaatst dient te worden. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "Voordeel c dient geplaatst te worden bij de: Opportunities (Kansen)\nintern / extern, omdat Daglicht geen invloed heeft op de reclame- campagnes die door LUXEV georganiseerd worden\npositief / negatief, omdat deze reclamecampagnes naar verwachting een groot bereik hebben onder (potentiële) klanten / kunnen leiden tot meer afzet (omzet)\n• opportunities (1p)\n• extern + toelichting (1p)\n• positief + toelichting (1p)",
 "pnt": 3,
+"top": [
+"strategie"
+],
 "img": [
 "h24-2-b-6",
 "h24-2-o-12"
@@ -5846,6 +6765,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat Daglicht voldoet aan voorwaarde 1.",
 "model": "Voorbeelden een juist antwoord:\n- Joshua heeft een bedrijf: Daglicht. Bedrijven staan ingeschreven bij de Kamer van Koophandel.\n- Daglicht heeft als rechtsvorm een eenmanszaak. Eén van de oprichtingseisen van een eenmanszaak is inschrijving bij de Kamer van Koophandel.\nOpmerking Alleen bij verwijzing naar bedrijf of rechtsvorm 1 scorepunt toekennen.",
 "pnt": 1,
+"top": [
+"rechtsvorm",
+"starten"
+],
 "img": [
 "h24-2-b-6",
 "h24-2-o-12"
@@ -5866,6 +6789,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarom het voor LUXEV belangrijk is dat bedrijven die montagepartner willen worden in een gezonde financiële positie verkeren.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Als een montagepartner van LUXEV failliet gaat, heeft dit een negatieve invloed op het imago van LUXEV en haar montagepartners.\n- Als een montagepartner failliet gaat, worden mogelijk ook bij LUXEV ingekochte materialen niet betaald.",
 "pnt": 1,
+"top": [
+"faillissement"
+],
 "img": [
 "h24-2-b-6",
 "h24-2-b-7",
@@ -5887,6 +6813,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarom LUXEV de voorkeur geeft aan het beoordelen van de liquiditeitspositie op basis van de quick ratio in plaats van de current ratio. Betrek daarbij het verschil tussen de quick ratio en current ratio in het antwoord.",
 "model": "Voorbeelden van een juist antwoord zijn:\n• Bij het berekenen van de quick ratio worden de voorraden niet meegenomen. Dit gebeurt wel bij het berekenen van de current ratio. (1p)\n• De voorraad kan moeilijk te verkopen zijn. / Het kan een tijd duren voordat de voorraad omgezet is in geld. (1p)",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "h24-2-b-7",
 "h24-2-o-13"
@@ -5907,6 +6836,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met berekeningen aan dat Daglicht per 1 januari 2022 voldoet aan voorwaarde 2.",
 "model": "2.000 + 2.050\n• quick ratio: = 1,08 2.250 + 1.250 + 250 (Daglicht voldoet aan de liquiditeitseis 1,08 > 1,0.) (1p)\n12.000\n• solvabiliteitsratio: = 2,4 1.250 + 2.250 + 1.250 + 250 (Daglicht voldoet aan de solvabiliteitseis 2,4 > 2,0.) (1p)",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "h24-2-b-6",
 "h24-2-b-7",
@@ -5928,6 +6860,7 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee verschillende mogelijkheden voor Joshua om toch te kunnen voldoen aan voorwaarde 3 als hij zelf niet in staat is om te werken.",
 "model": "• personeel aannemen (1p)\n• uitbesteden aan een ander bouwbedrijf/partij (1p)",
 "pnt": 2,
+"top": [],
 "img": [
 "h24-2-b-6",
 "h24-2-b-7",
@@ -5949,6 +6882,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de personeelsvertegenwoordiging die moet worden ingevuld bij a.",
 "model": "vakbond",
 "pnt": 1,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "h24-2-o-14"
 ]
@@ -5968,6 +6904,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef voor een werknemer twee verschillende voordelen van een contract voor onbepaalde tijd in vergelijking met een contract voor bepaalde tijd.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Bij een arbeidsovereenkomst voor onbepaalde tijd is er geen einddatum in het contract en hoef je niet telkens opnieuw te solliciteren.\n- Bij een arbeidsovereenkomst voor onbepaalde tijd kan je makkelijker een (hypothecaire) lening afsluiten.\n- meer zekerheid op de lange termijn over je inkomen\nOpmerking Per juist antwoord 1 scorepunt toekennen.",
 "pnt": 2,
+"top": [
+"arbeidsrecht",
+"vreemdvermogen"
+],
 "img": [
 "h24-2-o-14"
 ]
@@ -5987,6 +6927,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een voordeel voor Roads van medewerkers met een arbeidsovereenkomst voor onbepaalde tijd ten opzichte van een arbeidsovereenkomst voor bepaalde tijd.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Roads kan een werknemer met een arbeidsovereenkomst voor onbepaalde tijd langer aan het bedrijf binden,\n- Roads hoeft niet steeds opnieuw op zoek naar een nieuwe medewerker (voor de functie).",
 "pnt": 1,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "h25-1-o-2"
 ]
@@ -6006,6 +6949,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de ontslaggrond waarop Jordan nu ontslagen kan worden.",
 "model": "bedrijfseconomische redenen / omstandigheden",
 "pnt": 1,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "h25-1-o-2"
 ]
@@ -6025,6 +6971,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarvoor de transitievergoeding bedoeld is.",
 "model": "De transitievergoeding is bedoeld voor scholing / begeleiding naar ander werk / inkomensderving.",
 "pnt": 1,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "h25-1-o-2"
 ]
@@ -6044,6 +6993,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale besparing op de loonkosten voor Roads in 2024 na het ontslag van Jordan.",
 "model": "Voorbeeld van een juiste berekening is: (40 x 27,30 x 52 x 1,08 + 2.839,20) x 1,30 = € 83.415,70\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"arbeidsrecht",
+"personeel"
+],
 "img": [
 "h25-1-o-2"
 ]
@@ -6063,6 +7016,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee nadelen van het zelfstandig ondernemerschap in vergelijking met het werken in loondienst.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Ondernemers hebben een wisselend inkomen (werknemers in loondienst hebben een vast inkomen).\n- Ondernemers krijgen bij ziekte geen inkomen (werknemers in loondienst worden bij ziekte doorbetaald / zijn verzekerd door verplichte werknemersverzekeringen).\n- Ondernemers moeten zelf pensioen opbouwen (,werknemers in loondienst hebben meestal een (verplichte) pensioenregeling).\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"starten"
+],
 "img": [
 "h25-1-b-2",
 "h25-1-b-3",
@@ -6085,6 +7041,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee andere voordelen voor SailingSea van het inzetten van social media in plaats van traditionele media.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Social media geeft de mogelijkheid om op een persoonlijke manier contact te maken met potentiële gasten. (Bij traditionele media is dit niet het geval.)\n- Deniz en Joachim kunnen via social media gemakkelijk de behoeften van potentiële klanten achterhalen en met hun content daarop inspelen. (Bij traditionele media is dit niet mogelijk.)\n- De doelgroep maakt meer gebruik van social media (dan van traditionele media) en dus wordt de doelgroep gemakkelijker bereikt.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h25-1-b-2",
 "h25-1-b-3",
@@ -6107,6 +7066,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee mogelijke voordelen voor SailingSea van het aantrekken van vreemd vermogen via crowdfunding in vergelijking met het aangaan van een lening bij een bank.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Met een succesvolle crowdfunding-campagne creëer je ook naamsbekendheid. (Dit is niet het geval bij het afsluiten van een lening bij de bank.)\n- Bij crowdfunding kunnen de voorwaarden waartegen geleend wordt gunstiger zijn (dan bij de bank).\nper juist antwoord 1\nOpmerking ‘Soms kan er alleen via crowdfunding worden geleend en willen banken geen geld uitlenen’ is geen voorbeeld van een juist antwoord.",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h25-1-b-2",
 "h25-1-b-3",
@@ -6128,6 +7090,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat met crowdfunding moet worden geleend om de boot te kunnen kopen (zie informatiebronnen 1 en 2).",
 "model": "• benodigd investeringsbedrag: 250.000 x 1,08 + 5.000 = 275.000 (1p)\n• beschikbare middelen Joachim 100.000 + 18.739,12 = 105.000 (1p)\n1,03 5\n• beschikbare middelen Deniz 3.000 x 30 + 15.000 = 105.000 op te halen bedrag door crowdfunding: 275.000 – 105.000 x 2 = € 65.000 (1p)\nAanvulling van het CvTE:\nOpmerking: Aan een berekening waarin de aanschaf van de inventaris (€ 5.000) niet is betrokken in het antwoord moeten ook scorepunten worden toegekend.",
 "pnt": 3,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h25-1-b-2",
 "h25-1-b-3",
@@ -6149,6 +7114,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de overlopende post die aan de creditzijde van de balans van SailingSea ontstaat door de aanbetaling van gasten. Leg uit waarom deze overlopende post aan de creditzijde van de balans staat.",
 "model": "Voorbeelden van een juist antwoord zijn:\n• één van de volgende: (1p)\nvooruit ontvangen bedragen vooruit ontvangen huur\n• SailingSea heeft een aanbetaling ontvangen en heeft nog de verplichting om de zeilvakantie/dienst te leveren. (1p)\nOpmerkingen Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald. Als ‘Ontvangen afnemerskrediet’ is genoemd bij de eerste deelscore mag deze niet worden toegekend. Voor een antwoord ‘ontvangen afnemerskrediet’ met een juiste toelichting kan het tweede scorepunt worden toegekend.\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 2,
+"top": [
+"periodisering"
+],
 "img": [
 "h25-1-b-3",
 "h25-1-o-4"
@@ -6169,6 +7137,9 @@ EXAMEN.vragen.push(...[
 "q": "Laat met een berekening van het verwachte resultaat van 2025 zien of ze gaan starten met het plan. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "berekening | getal x € 1\nopbrengst zeilvakanties na | (6 + 4) x 3.750 + 10 x 4.750 = | 85.000\nvroegboekkorting | 0,10 x 0,50 x 85.000 = | -/-4.250 80.750\ninterestkosten | 65.000 x 0,035 | 2.275\nafschrijvingskosten | 250.000 x 1,08 – 50.000 | 11.000\nboot | 20\nafschrijvingskosten inventaris | 0,05 x 5.000 | 250\noverige kosten | 10.400\ntotale kosten | -/-23.925\nresultaat € 56.825 conclusie Aan voorwaarde a wordt voldaan, want er kan voldoende vermogen worden opgehaald. Aan voorwaarde b wordt voldaan, want het verwachte resultaat over 2025 is positief. Dus, ze gaan starten.\n• 80.750 (2p)\n• 2.275 (1p)\n• 11.000 (1p)\n• 56.825 + conclusie (1p)",
 "pnt": 5,
+"top": [
+"resultaat"
+],
 "img": [
 "h25-1-b-2",
 "h25-1-b-3",
@@ -6192,6 +7163,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat er voor een verzekeraar, zoals Aegon, geen verschil is tussen de quick ratio en de current ratio.",
 "model": "Verzekeraars hebben geen voorraad (dus is er geen verschil tussen de quick ratio en de current ratio).",
 "pnt": 1,
+"top": [
+"kengetallen",
+"prive"
+],
 "img": [
 "h25-1-o-5"
 ]
@@ -6211,6 +7186,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de rentabiliteit van het eigen vermogen over 2022.",
 "model": "• gemiddeld eigen vermogen 2022: 172.666 + 174.577 + 117.552 + 172.666 + 174.577 = 406.019 (1p)\n 2\n• De rentabiliteit van het eigen vermogen over 2022: 117.552 x 100% = 29% (1p)\n406.019",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "h25-1-o-5"
 ]
@@ -6230,6 +7208,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef hiervoor een verklaring. Betrek in het antwoord de opbrengsten van beleggen in aandelen en obligaties.",
 "model": "• Als het resultaat grotendeels wordt gereserveerd, wordt er weinig / geen dividend beschikbaar gesteld, (1p)\n• terwijl er bij beleggen in obligaties jaarlijks een vaste interestopbrengst is. (1p)",
 "pnt": 2,
+"top": [
+"aandelen",
+"obligaties"
+],
 "img": [
 "h25-1-o-6"
 ]
@@ -6249,6 +7231,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de solvabiliteit van Aegon op 31 december 2022.",
 "model": "Voorbeelden van juiste berekeningen zijn:\n- solvabiliteit op 31 december 2022: 172.666 + 174.577 + 117.552 (EV/VV) x 100% = 41,7% 450.000 + 607.773 + 56.974\n450.000 + 607.773 + 56.974\n- (VV/TV) x 100% = 70,6% 1.579.542\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "h25-1-o-6"
 ]
@@ -6268,6 +7253,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit welk risico Levi loopt als hij bij een lage solvabiliteit obligaties van Aegon koopt.",
 "model": "Voorbeeld van een juist antwoord is: het risico dat hij zijn vordering / obligatie niet of voor een deel terugkrijgt in geval van een faillissement",
 "pnt": 1,
+"top": [
+"obligaties",
+"kengetallen"
+],
 "img": [
 "h25-1-o-6"
 ]
@@ -6287,6 +7276,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee verschillende instrumenten uit de marketingmix die Fairphone gebruikt voor het uitbreiden van het aantal klanten. Licht het antwoord toe door te verwijzen naar bovenstaande fragmenten.",
 "model": "• promotie(beleid): (fragment 2), met reclamecampagnes meerdere doelgroepen bereiken (1p)\n• product(beleid): (fragment 3), aanpassingen aan camera’s en scherm / software langer ondersteunen / modulaire opbouw (1p)\nof\n• product(beleid): (fragment 1), eerlijke onderdelen en goed recyclebaar (1p)",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h25-1-o-7"
 ]
@@ -6306,6 +7298,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale afzet van smartphones in Europa in 2022.",
 "model": "140.000 = 200.000.000 smartphones 0,0007",
 "pnt": 1,
+"top": [
+"marktaandeel"
+],
 "img": [
 "h25-1-o-7"
 ]
@@ -6325,6 +7320,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef met behulp van fragment 3 een verklaring voor de stelling van de woordvoerder.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Een Fairphone 4 heeft een langere gebruiksduur dan de telefoon van de concurrent, waardoor er bij een groter marktaandeel op termijn minder telefoons hoeven te worden geproduceerd en er minder grondstoffen nodig zijn.\n- Door de modulaire opbouw hoeft niet de gehele telefoon vervangen te worden, maar slechts een onderdeel, terwijl andere telefoons vaak wel geheel vervangen moeten worden.",
 "pnt": 1,
+"top": [
+"marktaandeel"
+],
 "img": [
 "h25-1-o-8"
 ]
@@ -6344,6 +7342,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg met behulp van een berekening uit welke telefoon Janne gaat kopen.",
 "model": "• gemiddelde overige drie testresultaten: 7,2 + 6,2 + 6,1 = 6,5 (3p)\nprijs-kwaliteitverhouding Fairphone 4: 598 = 73,83 1\n0,80 x 8,5 + 0,20 x 6,5\n• Janne koopt de Fairphone 4 (,want 73,83 is een gunstigere prijs- kwaliteitverhouding dan 91,62). (1p)",
 "pnt": 2,
+"top": [
+"mvo"
+],
 "img": [
 "h25-1-o-8"
 ]
@@ -6363,6 +7364,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een belang voor de samenleving van het verder studeren door Eva.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Eva heeft mogelijk een hoger inkomen na haar studie, wat leidt tot extra belastingopbrengsten.\n- Eva beschikt over (meer en actuele) kennis en vaardigheden, waar vraag naar is.",
 "pnt": 1,
+"top": [
+"resultaat"
+],
 "img": [
 "h25-1-b-5",
 "h25-1-b-6",
@@ -6386,6 +7390,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het verwachte totale bedrag dat Eva gedurende haar 3-jarige studietijd tekort komt.",
 "model": "Voorbeeld van een juiste berekening is: 1.031 x 36 + 0,5 x 2.143 + 2.209 + 2.314 – (300 x 36 + 469 x 12) = € 26.282,50\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h25-1-b-5",
 "h25-1-b-6",
@@ -6407,6 +7414,10 @@ EXAMEN.vragen.push(...[
 "q": "Waarom is het voor Eva financieel aantrekkelijker om te lenen bij DUO dan het opgebouwde bedrag op haar spaarrekening te gebruiken?",
 "model": "Voorbeelden van een juist antwoord zijn:\n- De interestvergoeding van ASN Ideaalsparen (1,65%) is hoger dan het te betalen interestpercentage over de lening bij DUO (0,46%).\n- Dan kan het spaargeld voor andere (incidentele) uitgaven worden gebruikt en hoeft ze daar niet voor te lenen tegen een hogere rente dan bij DUO.",
 "pnt": 1,
+"top": [
+"prive",
+"interest"
+],
 "img": [
 "h25-1-b-7",
 "h25-1-b-8",
@@ -6428,6 +7439,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee voordelen voor Eva van het kopen van een appartement in vergelijking tot het huren van een appartement. Betrek in het antwoord zowel het kopen als het huren.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De huur mag jaarlijks worden verhoogd terwijl bij een hypothecaire lening het maandbedrag voor langere tijd vastligt (gedurende de rentevaste periode).\n- Het kopen van een woning zorgt voor vermogensopbouw door de aflossing op de hypothecaire lening en mogelijke waardestijging van de woning. Bij huren is er geen vermogensopbouw.\n- Bij het kopen van een woning kun je naar eigen wensen de woning verbouwen, bij een huurwoning is dat afhankelijk van de toestemming van de verhuurder.\n- Bij het kopen van een woning met een hypothecaire lening heb je belastingvoordeel op de interest (groter dan het eigenwoningforfait). De huur die betaald moet worden bij een huurwoning is geen fiscale aftrekpost.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h25-1-b-5",
 "h25-1-b-6",
@@ -6451,6 +7466,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg vanuit het perspectief van de bank uit waarom een studielening bij DUO van invloed is op de maximale hypothecaire lening.",
 "model": "• De bestedingsruimte van Eva wordt kleiner door de te betalen termijnbedragen aan DUO. (1p)\n• Hierdoor blijft er maandelijks minder geld over voor interest en aflossing voor de hypothecaire lening (waardoor het bedrag dat geleend mag worden lager is). (1p)\nof\n• Hierdoor loopt de bank een groter debiteurenrisico (waardoor het bedrag dat geleend mag worden lager is). (1p)\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"prive"
+],
 "img": [
 "h25-1-b-5",
 "h25-1-b-6",
@@ -6474,6 +7493,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee andere beroepen die betrokken zijn bij de aankoop van een appartement.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- makelaar\n- notaris\n- taxateur\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"woning"
+],
 "img": [
 "h25-1-b-5",
 "h25-1-b-6",
@@ -6497,6 +7519,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat het spaargeld per 1 januari 2026 genoeg is om de kosten koper en de verbouwingskosten te betalen.",
 "model": "Voorbeeld van een juiste berekening is: (6.500 x 1,01410 + 7.500) x 1,0148 x 1,01655 = € 18.157,19 (> € 15.000)\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"woning"
+],
 "img": [
 "h25-1-b-7",
 "h25-1-o-10"
@@ -6517,6 +7542,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale uitgaven aan beide leningen van Eva in februari 2026. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "hypothecaire lening berekening getal x € 1\naflossing 210.000 583,33 = 30 x 12\ninterest (210.000 – 583,33) x 0,0033 = 691,08\ntotale uitgaven na | (1 – 0,3697) x 691,08 + 583,33 | 1.018,92\nbelastingvoordeel | =\nlening DUO 145,60\ntotale uitgaven aan 1.018,92 + 145,60 1.164,52 beide leningen\n• 583,33 (1p)\n• 691,08 (1p)\n• 1.018,92 (1p)\n• 1.164,52 (1p)",
 "pnt": 4,
+"top": [
+"vreemdvermogen",
+"liquiditeitsbegroting"
+],
 "img": [
 "h25-1-b-8",
 "h25-1-u-2",
@@ -6538,6 +7567,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de loonkosten zowel tot de constante als de variabele kosten kunnen behoren.",
 "model": "De constante (loon)kosten zijn onafhankelijk van de afzet / productie en de variabele (loon)kosten zijn afhankelijk van de afzet / productie.",
 "pnt": 1,
+"top": [
+"personeel",
+"kostprijs"
+],
 "img": [
 "h25-1-o-11"
 ]
@@ -6557,6 +7590,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met behulp van de dekkingsbijdrage per pakket hoeveel pakketten De Pluktuin meer had moeten verkopen om in het tweede kwartaal van 2024 de break-evenafzet te behalen.",
 "model": "21.600\n• afzet tweede kwartaal = = 1.440 pakketten (1p)\n15 8.520 + 3.000\n• variabele kosten per pakket = =8 1.440 dekkingsbijdrage per pakket = 15 – 8 = 7 (1p)\n2.100\n• = 300 pakketten (extra) (1p)\n 7\nof 750 + 2.000 + 800 + 2.130 + 6.500\n• break-evenafzet: = (7p)\n1.740 pakketten. De Pluktuin had 1.740 – 1.440 = 300 pakketten (extra) moeten verkopen. 1\nOpmerking Bij een berekening via TO = TK wordt de tweede deelscore niet toegekend.",
 "pnt": 3,
+"top": [
+"breakeven"
+],
 "img": [
 "h25-1-o-11"
 ]
@@ -6576,6 +7612,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een financieel voordeel voor De Pluktuin van het verkopen van een maandelijks Plukabonnement ten opzichte van het verkopen van losse pakketten zonder abonnement. Licht het antwoord toe.",
 "model": "• De Pluktuin ontvangt iedere maand een vast bedrag, (1p)\n• waardoor er continu een inkomstenstroom is waarmee de maandelijkse uitgaven betaald kunnen worden. (Dit is niet het geval wanneer losse pakketten verkocht worden.) (1p)\nof\n• Klanten vergeten vaak het abonnement op te zeggen, (1p)\n• waardoor de omzet hoger is dan bij losse pakketten. (1p)",
 "pnt": 2,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h25-1-o-12"
 ]
@@ -6595,6 +7634,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg met een berekening uit of de procentuele groei van de omzet van Big Bazar in 2022 achterbleef bij die van Action.",
 "model": "93 – 77,4\n• De omzet van Big Bazar is gegroeid met x 100% = 20,2% (1p)\n77,4\n• en bleef daarmee achter bij de omzetgroei van Action van 30% (1p)",
 "pnt": 2,
+"top": [
+"prive"
+],
 "img": [
 "h25-2-o-2"
 ]
@@ -6614,6 +7656,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat oplopende schulden kunnen leiden tot oplopende verliezen.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Door oplopende schuld nemen de interestkosten toe, wat leidt tot toename van verlies.\n- Door oplopende schuld neemt het vertrouwen van investeerders af, waardoor Big Bazar niet meer aan nieuw vermogen kan komen om investeringen te doen waardoor de afzet en winst dalen.",
 "pnt": 1,
+"top": [
+"vreemdvermogen",
+"marktaandeel"
+],
 "img": [
 "h25-2-o-2"
 ]
@@ -6633,6 +7679,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een voordeel en een nadeel van een faillissement van Big Bazar voor de verhuurders van de winkelpanden.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Voordeel: wanneer Big Bazar failliet gaat, kunnen de verhuurders van winkelpanden op zoek naar nieuwe huurders (voor de winkelpanden).\n- Nadeel: verhuurders krijgen mogelijk een gedeelte van de nog te ontvangen huur niet meer terug.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"faillissement"
+],
 "img": [
 "h25-2-o-2"
 ]
@@ -6652,6 +7701,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem naast de bovengenoemde schuldeisers twee andere groepen stakeholders, waarvoor een faillissement van Big Bazar nadelige gevolgen kan hebben. Geef hierbij aan op welke wijze de genoemde stakeholder wordt benadeeld.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Werknemers: zij verliezen hun baan en inkomen.\n- Klanten: zij moeten op zoek naar een andere winkel.\n- Leveranciers: zij verliezen een klant.\n- Aandeelhouders: zij raken hun inkomen en vermogen kwijt.\n- Belastingdienst: zij missen btw-ontvangsten / (vennootschaps)belasting\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"mvo",
+"faillissement"
+],
 "img": [
 "h25-2-o-2"
 ]
@@ -6671,6 +7724,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef een verklaring waarom Rianah na haar studie waarschijnlijk gemakkelijker een baan kan vinden door het verrichten van vrijwilligerswerk.",
 "model": "Voorbeelden van een juist antwoord zijn: (Rianah zal na haar studie waarschijnlijk gemakkelijker een baan vinden omdat:)\n- ze (tijdens haar studie) werkervaring heeft opgedaan.\n- ze door vrijwilligerswerk verschillende vaardigheden heeft ontwikkeld.\n- ze een netwerk heeft opgebouwd.",
 "pnt": 1,
+"top": [
+"personeel",
+"prive"
+],
 "img": [
 "h25-2-b-2",
 "h25-2-b-3",
@@ -6694,6 +7751,9 @@ EXAMEN.vragen.push(...[
 "q": "Is de Stichting Voedselbank Voorwaarts een commerciële of niet- commerciële organisatie? Licht het antwoord toe.",
 "model": "Een niet-commerciële-organisatie, want de organisatie streeft niet naar winst / want het is een stichting.",
 "pnt": 1,
+"top": [
+"resultaat"
+],
 "img": [
 "h25-2-b-2",
 "h25-2-o-3"
@@ -6714,6 +7774,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem het hoogste besluitvormingsorgaan van een stichting en van een vereniging. Neem de onderstaande letters over op je antwoordblad en noteer het hoogste besluitvormingsorgaan.\na stichting:\nb vereniging:\nHet bestuur van Stichting Voedselbank Voorwaerts maakt zich in januari 2024 zorgen over de verslechterde economie in Nederland en de gevolgen daarvan voor de reeds opgestelde exploitatiebegroting van de voedselbank voor het jaar 2024 (zie informatiebron 2). Verwacht wordt dat:\n- supermarkten aan hun klanten vaker korting geven op vers voedsel waarvan de houdbaarheidsdatum in zicht komt.\n- er tegenvallers zijn bij de geldelijke opbrengsten en kosten van de voedselbank.\n- de strengere milieueisen voor stadsverkeer de voedselbank zullen dwingen om een nieuwe milieuvriendelijke transportauto aan te schaffen.",
 "model": "• a (stichting): het (algemeen) bestuur (1p)\n• b (vereniging): algemene ledenvergadering (1p)",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "h25-2-b-3",
 "h25-2-b-4",
@@ -6735,6 +7798,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een argument dat het vaker geven van korting aan klanten door supermarkten op vers voedsel, waarvan de houdbaarheidsdatum in zicht komt, een tegenvaller voor de voedselbanken kan zijn.",
 "model": "Voorbeeld van een juist antwoord is: Door het vaker geven van kortingen kunnen de supermarkten deze goederen toch nog verkopen aan de klanten, waardoor er minder voedseloverschotten zijn (en er minder naar de voedselbanken gaat).",
 "pnt": 1,
+"top": [
+"resultaat"
+],
 "img": [
 "h25-2-b-2",
 "h25-2-b-3",
@@ -6758,6 +7824,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een voorbeeld van tegenvallende opbrengsten en van tegenvallende kosten van Voedselbank Voorwaerts door de verslechterde economie (zie informatiebron 2). Licht beide voorbeelden toe.",
 "model": "Voorbeelden van juiste antwoorden zijn: Tegenvaller aan de opbrengstenkant:\n- De afzet daalt en bedrijven moeten besparen op kosten van sponsoring.\n- Huishoudens / organisaties hebben minder inkomsten en zullen daardoor lagere giften / minder donaties doen. Tegenvaller aan de kostenkant:\n- Bedrijven zullen om kosten te besparen minder voedsel doneren waardoor de inkoopwaarde van (gratis) uitgedeeld voedsel toeneemt.\n- Huishoudens hebben een lager inkomen, waardoor er meer klanten bij de voedselbanken komen, wat leidt tot hogere kosten voor de inkoop van voedsel / toename van de inkoopwaarde van (gratis) uitgedeeld voedsel.\nOpmerkingen Per juiste tegenvaller met juiste toelichting aan de opbrengstenkant 1 scorepunt toekennen Per juiste tegenvaller met juiste toelichting aan de kostenkant 1 scorepunt toekennen.",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "h25-2-b-3",
 "h25-2-b-4",
@@ -6779,6 +7848,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken zowel een solvabiliteits- als een liquiditeitskengetal per 1 januari 2024 voor Voedselbank Voorwaerts (zie informatiebron 2). Vul de uitwerkbijlage bij deze vraag in.",
 "model": "Voorbeelden van een juiste berekening van de solvabiliteit:\nberekening | uitkomst\nsolvabiliteit per | EV/VV x 100%\n1 januari 2024 | 178.750 | 139% x 100% = 65.000 + 64.000\nof: VV/TV x 100% 42% 65.000 + 64.000 x 100% = 307.750 liquiditeit per 7.500 + 255.000 4,1 = 1 januari 2024 64.000\n• correct solvabiliteitskengetal (1,39 of 0,42 geen puntenaftrek) (1p)\n• correct liquiditeitskengetal (1p)",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "h25-2-b-3",
 "h25-2-b-4",
@@ -6801,6 +7873,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met welk bedrag de post ‘afschrijvingskosten transportauto’ op de aangepaste exploitatiebegroting van 2024 moet worden opgenomen (zie informatiebronnen 2 en 3).",
 "model": "75.000 – 11.400 9\n• afschrijving op nieuwe transportauto: x = 4.770 (2p)\n10 12 3\n• afschrijving op huidige transportauto: 4.800 x = 1.200 12 totaal afschrijving transportauto: 4.770 + 1.200 = € 5.970 (1p)\nOpmerkingen Voor elke fout 1 scorepunt in mindering brengen. 75.000 - 11.400 Wanneer een leerling = € 6.360 als antwoord heeft, 10 1 scorepunt toekennen.",
 "pnt": 3,
+"top": [
+"afschrijving"
+],
 "img": [
 "h25-2-b-3",
 "h25-2-b-4",
@@ -6823,6 +7898,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg met behulp van een berekening uit of het verwachte eigen vermogen per 31 december 2024 voldoet aan het reglement van de Vereniging van Voedselbanken Nederland. Vul de uitwerkbijlage bij deze vraag in.",
 "model": "berekening bedrag x € 1 aangepast 23.600 – 30.000 – 15.000 – (5.970 22.570 resultaat 2024 – 4.800) = negatief / - of: 23.600 – 30.000 – 15.000 – (4.770 – 3.600) = eigen vermogen 178.750 – 22.570 = 156.180 31-12-2024 conclusie € 156.180 > € 150.000: Het eigen vermogen voldoet aan de eis van de vereniging.\n• 22.570 / negatief / - (1p)\n• 156.180 (1p)\n• conclusie (1p)",
 "pnt": 3,
+"top": [
+"balans"
+],
 "img": [
 "h25-2-b-2",
 "h25-2-b-3",
@@ -6847,6 +7925,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem het verschil met betrekking tot juridische aansprakelijkheid voor de eigenaren tussen een bv en een vof.",
 "model": "Voorbeeld van een juist antwoord is: Bij een vof is iedere vennoot hoofdelijk / privé aansprakelijk voor alle schulden van de vof en bij de bv (zijn de aandeelhouders dat) niet.",
 "pnt": 1,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "h25-2-o-5"
 ]
@@ -6866,6 +7947,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee voorbeelden van kort vreemd vermogen die op de openingsbalans van Too4You kunnen staan. Leg voor ieder voorbeeld uit waarom dit kort vreemd vermogen is.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Crediteuren, want leveranciers moeten binnen enkele maanden worden betaald.\n- Rekening courantkrediet, want dit krediet moet binnen een jaar worden afgelost.\nOpmerkingen Per juist antwoord met bijbehorende toelichting 1 scorepunt toekennen. Te betalen btw / af te dragen btw levert geen scorepunt op.",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h25-2-o-5"
 ]
@@ -6885,6 +7969,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het verwachte resultaat over februari 2025.",
 "model": "2.420 Omzet februari: 6.000 + = 8.000 1,21 Resultaat februari: 8.000 – 0,125 x 8.000 – 2.500 = € 4.500\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"resultaat"
+],
 "img": [
 "h25-2-o-5"
 ]
@@ -6904,6 +7991,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken of de verdeling van het resultaat over februari 2025 na inhouding van inkomstenbelasting voor Inge voldoende is om op 1 maart 2025 een privé-uitgave te doen van € 1.700.",
 "model": "Het resultaat is voldoende want, 0,60 x 4.500 x (1 – 0,36) = € 1.728 > € 1.700\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"ib",
+"winstverdeling"
+],
 "img": [
 "h25-2-o-5"
 ]
@@ -6923,6 +8014,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een reden voor de verzekeraar om korting aan te bieden aan SuperWebsite bij vooruitbetaling van de verzekeringspremie.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- De verzekeraar heeft minder risico op wanbetaling.\n- De verzekeraar kan de ontvangen gelden tegen een hoger rendement beleggen.",
 "pnt": 1,
+"top": [
+"prive"
+],
 "img": [
 "h25-2-o-6"
 ]
@@ -6942,6 +8036,9 @@ EXAMEN.vragen.push(...[
 "q": "Noteer de gevolgen van de twee bovenstaande financiële feiten (a en b) voor de balans van SuperWebsite van 31 december 2024. Vul de uitwerkbijlage bij deze vraag in.",
 "model": "debet | mutatiebalans financieel feit a | credit (getallen x € 1)\nbalanspost | +/– | bedrag | balanspost | +/– | bedrag\nLiquide | + | € 4.000 | Vooruitontvangen | + | € 4.000\nmiddelen | bedragen / abonnementsgelden\ntotaal | + | € 4.000 | totaal | + | € 4.000\ndebet mutatiebalans financieel feit b credit (getallen x € 1) balanspost +/– bedrag balanspost +/– bedrag Vooruitbetaalde + € 1.700 (verzekerings-) premie / bedragen Liquide – € 1.700 middelen totaal 0\n• Liquide middelen: + 4.000 en Liquide middelen – 1.700 (1p)\n• Vooruitontvangen bedragen / abonnementsgelden: + 4.000 (1p)\n• Vooruitbetaalde (verzekerings-) premie / bedragen + 1.700 (1p)\nOpmerking Als het bedrag bij totaal is vergeten, dit niet fout rekenen.",
 "pnt": 3,
+"top": [
+"balans"
+],
 "img": [
 "h25-2-u-2",
 "h25-2-o-6"
@@ -6962,6 +8059,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale interestkosten over 2025.",
 "model": "• 20.000 x 0,03 = 600 (1p)\n• 20.000 – (2.849,13 – 600) x 0,03 = 532,53 600 + 532,53 = € 1.132,53 (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h25-2-o-6"
 ]
@@ -6981,6 +8081,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken hoeveel jaarabonnementen er verkocht moeten worden om in 2025 een resultaat van minimaal € 40.000 te behalen. Rond af op hele jaarabonnementen.",
 "model": "16.000 + 1.132,53 (vraag 19) + 40.000 = 14,8 4.000 - 150 15 jaarabonnementen\nOpmerkingen Voor elke fout 1 scorepunt in mindering brengen. Er dient op hele jaarabonnementen te worden afgerond om 2 scorepunten te kunnen behalen.",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "h25-2-o-7"
 ]
@@ -7000,6 +8103,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het vermogen van Rita per 1 januari 2025 na verkoop van het appartement en verdeling van het vermogen.",
 "model": "• waarde appartement op 1 januari 2025: 115.000 x 1,029 = 137.435,65 (1p)\n115.000\n• schuldrest hypothecaire lening op 1 januari 25: 115.000 – x9 30 = 80.500 (1p)\n• gezamenlijk vermogen op 2 januari 2025: 137.435,65 – 80.500 + 10.000 = 66.935,65 66.935,65 vermogen op 2 januari Rita na scheiding: = € 33.467,82 (1p)\n 2",
 "pnt": 3,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h25-2-b-6",
 "h25-2-b-7",
@@ -7022,6 +8129,7 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat Rita op basis van haar toetsingsinkomen in aanmerking komt voor een sociale huurwoning.",
 "model": "• inkomen uit arbeid per jaar ((2.274 + 14,92) x 12 + 16 x 8 x 15 x 0,25) x 1,08 = 30.182,80 (3p)\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.\n• inkomen uit arbeid per jaar 30.182,80 alimentatie: 300 x 12: 3.600,00 totaal toetsingsinkomen € 33.782,80 (€ 33.782,80 < € 44.035, ze komt dus in aanmerking voor een sociale huurwoning) (1p)",
 "pnt": 4,
+"top": [],
 "img": [
 "h25-2-b-7",
 "h25-2-o-8"
@@ -7042,6 +8150,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef voor elke toeslag uit informatiebron 6 aan of Rita hiervoor in aanmerking komt. Motiveer het antwoord.",
 "model": "- Zorgtoeslag: Ja, haar toetsingsinkomen (€ 33.782,80) is lager dan € 38.520, haar vermogen per 2 januari 2025 (€ 33.467,82) is lager dan € 126.000.\n- Huurtoeslag: Ja, de huur van € 800 is lager dan € 808, het toetsingsinkomen (€ 33.782,80) is lager dan € 44.035 en het vermogen per 2 januari 2025 (€ 33.467,82) is lager dan € 33.748.\n- Kindgebonden budget: Nee, want het kind van Rita is geboren in 1999 en dus meerderjarig / volwassen.\nindien drie antwoorden volledig juist gemotiveerd 2\nindien twee antwoorden volledig juist gemotiveerd 1\nindien een of geen antwoord volledig juist gemotiveerd 0",
 "pnt": 2,
+"top": [
+"prive"
+],
 "img": [
 "h25-2-b-8",
 "h25-2-o-8"
@@ -7062,6 +8173,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een reden dat het financieel onverstandig is om structureel een deel van de huur met spaargeld te betalen.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- De spaarrekening is dan na een tijdje leeg, terwijl Rita nog wel extra middelen / geld nodig heeft om de huur te betalen.\n- Door je spaargeld te gebruiken om huur te betalen, verminder je je financiële buffer (voor noodgevallen).",
 "pnt": 1,
+"top": [
+"interest"
+],
 "img": [
 "h25-2-b-8",
 "h25-2-o-8"
@@ -7082,6 +8196,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken of Rita de huur van de aangeboden woning kan betalen zonder dat haar spaarrekening moet worden aangesproken.",
 "model": "Voorbeeld van een juiste berekening zijn:\n• inkomen na belasting 33.782,80 x (1 – 0,167) = € 28.141,07 per jaar (1p)\n28.141,07\n• inkomen per maand = 2.345,09 12 2.345,09 + 50 + 65 = 2.460,09 > 2.400 (1.600 + 800) Ja, Rita kan de huur van de woning betalen, zonder haar spaarrekening te hoeven aanspreken. (2p)\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"interest"
+],
 "img": [
 "h25-2-b-6",
 "h25-2-b-7",
@@ -7104,6 +8221,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem de drie p’s van maatschappelijk verantwoord ondernemen.",
 "model": "- people\n- planet\n- profit\nindien drie antwoorden juist 2\nindien twee antwoorden juist 1\nindien een of geen antwoord juist 0",
 "pnt": 2,
+"top": [
+"mvo",
+"rechtsvorm"
+],
 "img": [
 "h25-2-o-9"
 ]
@@ -7123,6 +8244,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg met behulp van bovenstaande tekst en afbeelding voor twee andere marketingmixinstrumenten uit hoe Zeeman deze inzet.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- product(beleid): een basic T-shirt\n- plaats(beleid): 1.300 winkels in 7 landen / fysieke winkels en webshop\n- promotie(beleid): de poster met Zeemanshirt\nOpmerking Per juiste p met juiste toelichting 1 scorepunt toekennen.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h25-2-o-9"
 ]
@@ -7142,6 +8266,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de beloningsvorm waaronder het aanbieden van een online leeromgeving aan het personeel valt.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- mogelijkheid tot het volgen van opleidingen\n- professionele ontwikkeling\n- aanbieden van carrièreperspectief",
 "pnt": 1,
+"top": [
+"personeel"
+],
 "img": [
 "h25-2-o-10"
 ]
@@ -7161,6 +8288,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee maatregelen die Zeeman bij de sollicitatieprocedure kan inzetten om diversiteit te bevorderen.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- door sollicitaties te anonimiseren\n- door actief te werven via media die door ondervertegenwoordigde groepen worden gebruikt\n- door het uitnodigen van kandidaten met een afstand tot de arbeidsmarkt\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"mvo"
+],
 "img": [
 "h25-2-o-10"
 ]
@@ -7180,6 +8310,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een reden voor het gebruik van een vacaturebank bij de werving naast de eigen website.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Een vacaturebank heeft een groot bereik.\n- Werkzoekenden zoeken een vacature vaak in een vacaturebank.\n- Een vacaturebank is gericht op de doelgroep.",
 "pnt": 1,
+"top": [
+"personeel"
+],
 "img": [
 "h26-1-o-2"
 ]
@@ -7199,6 +8332,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg voor beide partijen uit waarom dit zo is.",
 "model": "Voorbeeld van een juist antwoord is:\n• Voor de school: het is belangrijk dat kandidaten met de juiste bevoegdheden/competenties solliciteren. (1p)\n• Voor de sollicitant: het is belangrijk dat de sollicitant weet wat de functie-inhoud is en welke taken hij/zij moet verrichten / kan beoordelen of de beloning passend is bij de functie. (1p)",
 "pnt": 2,
+"top": [
+"organisatie",
+"personeel"
+],
 "img": [
 "h26-1-o-3"
 ]
@@ -7218,6 +8355,10 @@ EXAMEN.vragen.push(...[
 "q": "Wat moet bij arbeidsvoorwaarden (letter a) en bij type arbeidsovereenkomst (letter b) staan? Neem deze letters over op je antwoordblad en vul verder in. Letter a: noem een juist antwoord. Letter b: kies uit: bepaalde tijd of onbepaalde tijd.",
 "model": "Voorbeeld van een juist antwoord is:\n• a) de mogelijkheid tot professionele ontwikkeling / het volgen van cursussen / loon in natura / competentiebeloningen (1p)\n• b) bepaalde tijd (1p)",
 "pnt": 2,
+"top": [
+"arbeidsrecht",
+"personeel"
+],
 "img": [
 "h26-1-o-3"
 ]
@@ -7237,6 +8378,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het totale inkomen dat Inge in het schooljaar 2024-2025 bij de school verdient.",
 "model": "• 0,7 x 3.814 x 2 x 1,08 + 0,7 x 4.001 x 7 x 1,08 = € 26.940,06 (2p)\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "h26-1-o-3"
 ]
@@ -7256,6 +8400,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee redenen voor de omzetting van een vof naar een bv.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De eigenaren van de bv / aandeelhouders zijn niet privé-aansprakelijk voor de schulden van de onderneming.\n- Het kan fiscaal voordeliger uitpakken.\n- De bv is (door aandelen) gemakkelijker overdraagbaar.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "h26-1-b-2",
 "h26-1-b-3",
@@ -7279,6 +8426,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem drie marketinginstrumenten die door SED anders ingezet zullen worden. Geef bij deze marketinginstrumenten een toelichting (zie informatiebron 1).",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Product(beleid): aan de van tevoren bereide maaltijden (in productiekeukens) worden andere eisen gesteld voor wat betreft de kwaliteit, verpakking of service.\n- Plaats(beleid): SED zal de nieuwe doelgroepen moeten bevoorraden (, want de gasten komen niet meer naar het restaurant).\n- Promotie(beleid): SED maakt reclame in vakbladen (in plaats van via sociale media).\n- Prijs(beleid): de prijzen van kant-en-klare maaltijden zullen lager zijn (dan de prijzen van in de horeca bereide maaltijden).\nPer juist antwoord (met bijbehorende toelichting) 1",
 "pnt": 3,
+"top": [
+"marketingmix"
+],
 "img": [
 "h26-1-b-2",
 "h26-1-b-3",
@@ -7300,6 +8450,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat het succes van Stichting SED een voordeel kan opleveren voor SED bv.",
 "model": "Voorbeeld van een juist antwoord is: Wanneer Stichting SED veel belangstelling trekt bij kook- en kennismakingsmiddagen / aandacht in de media krijgt, kan deze naamsbekendheid leiden tot een hogere afzet voor SED bv.\nOpmerking\nEen juist antwoord bevat informatie over een positieve situatie bij de Stichting SED die een positieve invloed kan hebben op de afzet van SED bv.\nAanvulling van het CvTE, bij vraag 7 moet bij de opmerking de zinsnede ‘de afzet van’ geschrapt worden.",
 "pnt": 1,
+"top": [
+"marktaandeel"
+],
 "img": [
 "h26-1-b-2",
 "h26-1-b-3",
@@ -7323,6 +8476,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee bevoegdheden van een raad van toezicht.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- toezicht houden op het beleid van het bestuur\n- advies geven aan het bestuur\n- schorsen of ontslaan van de bestuurder(s)\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"organisatie"
+],
 "img": [
 "h26-1-b-2",
 "h26-1-b-3",
@@ -7344,6 +8500,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat in het tweede kwartaal wordt ontvangen als gevolg van de verkopen in het tweede kwartaal (letter a).",
 "model": "120.000 45.000\n• + x 2 + 15.000 = 85.000 (2p)\n3 3\n• 85.000 x 1,09 = € 92.650 (a) (1p)\nOpmerking Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 3,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h26-1-b-4",
 "h26-1-b-5",
@@ -7365,6 +8524,10 @@ EXAMEN.vragen.push(...[
 "q": "Bepaal het bedrag van de uitgaven als gevolg van de 1,2%-lening op de liquiditeitsbegroting (letter b).",
 "model": "(b): € 848",
 "pnt": 1,
+"top": [
+"liquiditeitsbegroting",
+"vreemdvermogen"
+],
 "img": [
 "h26-1-b-2",
 "h26-1-b-3",
@@ -7388,6 +8551,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de interestkosten als gevolg van de 1,2%-lening op de exploitatiebegroting (letter c). Rond af op hele euro’s.",
 "model": "• 15.000 – (848 – 0,012 x 15.000) = 14.332 (1p)\n• (c): 0,012 x 14.332 = € 172 (1p)\nOpmerking Wanneer niet is afgerond op hele euro’s 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h26-1-b-2",
 "h26-1-b-3",
@@ -7411,6 +8577,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag aan btw dat door SED bv op de laatste dag van het tweede kwartaal aan de belastingdienst moet worden afgedragen (letter d).",
 "model": "• te betalen btw: 0,09 x 180.000 = 16.200 (1p)\n• af te dragen btw (d): 16.200 – 13.140 = € 3.060 (1p)",
 "pnt": 2,
+"top": [
+"btw"
+],
 "img": [
 "h26-1-b-2",
 "h26-1-b-3",
@@ -7434,6 +8603,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat SED bv een kwart van het verwachte resultaat van het tweede kwartaal van 2025 zal overmaken aan de stichting SED.",
 "model": "• liquide middelen eind tweede kwartaal voor donatie: 6.500 + 9.682 = 16.182 (1p)\n• 16.182 – 0,25 x 24.428 = € 10.075 (> 6.000) (1p)",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "h26-1-b-2",
 "h26-1-b-3",
@@ -7457,6 +8629,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit welke aanpassing van de rechtsvorm van Coolblue nodig is, wanneer het bedrijf besluit naar de beurs te gaan.",
 "model": "• De bv moet worden omgezet in een nv. (1p)\n• Alleen een nv kan volgens de wet aandelen uitgeven op de effectenbeurs / Aandelen van een bv zijn niet vrij overdraagbaar en die van een nv wel. (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.\nAanvulling van het CvTE, bij vraag 14 moet bij de tweede deelscore de zinsnede ‘volgens de wet’ geschrapt worden.",
 "pnt": 2,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "h26-1-o-6"
 ]
@@ -7476,6 +8651,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat een emissie van nieuwe aandelen leidt tot een verbetering van de solvabiliteit van Coolblue. Betrek in het antwoord zowel de teller als de noemer.",
 "model": "• Door een emissie van aandelen stijgt het eigen vermogen. (1p)\n• Het vreemd vermogen blijft gelijk(, waardoor de solvabiliteit verbetert). (1p)",
 "pnt": 2,
+"top": [
+"aandelen",
+"kengetallen"
+],
 "img": [
 "h26-1-o-6"
 ]
@@ -7495,6 +8674,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de komst van Amazon invloed kan hebben op de toekomstige beurskoers van het aandeel Coolblue, waardoor potentiële beleggers geen interesse hebben in de aandelenemissie van Coolblue.",
 "model": "Voorbeeld van een juist antwoord is:\n• Door de komst van een concurrent kan de winst van Coolblue dalen. (1p)\n• Door lagere winst (verwachting) zal de vraag naar aandelen van Coolblue dalen / het aanbod van aandelen Coolblue toenemen, waardoor de koers van het aandeel Coolblue zal dalen / de beurskoers te laag is om de aandelenemissie te laten slagen. (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h26-1-o-6"
 ]
@@ -7514,6 +8696,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de drie balansposten die veranderen als Coolblue wasmachines op rekening inkoopt.",
 "model": "- voorraad (wasmachines)\n- te vorderen btw\n- crediteuren\nindien drie juist 2\nindien twee juist 1\nindien een of geen juist 0",
 "pnt": 2,
+"top": [
+"balans"
+],
 "img": [
 "h26-1-o-6"
 ]
@@ -7533,6 +8718,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de rentabiliteit van het eigen vermogen (REV) na belasting over 2025.",
 "model": "600.000 + 250.000 + 247.500 + 800.000\n• GEV = = 948.750 (1p)\n 2\n247.500\n• x 100% = 26,09% (1p)\n948.750",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "h26-1-o-7"
 ]
@@ -7552,6 +8740,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de current ratio op 1 januari 2026 na het beschikbaar stellen en uitbetalen van het dividend volgens het voorstel van Jansen.",
 "model": "• vlottende activa na uitbetaling dividend: 200.000 + 25.000 + 197.500 – 300.000 x 0,50 = 272.500 (2p)\n272.500\n• current ratio = = 0,47 (1p)\n225.000 + 350.000\nOpmerking Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"winstverdeling",
+"kengetallen"
+],
 "img": [
 "h26-1-o-7"
 ]
@@ -7571,6 +8763,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat een verslechterde liquiditeit van N@Home nadelige gevolgen kan hebben voor de aandeelhouders van N@Home in de toekomst.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n• Een verslechterde liquiditeit leidt tot het mogelijk niet kunnen voldoen aan de betalingsverplichtingen op korte termijn. (1p)\n• Het voortbestaan van N@Home kan hierdoor in gevaar komen wat leidt tot (minder vraag naar dit aandeel en dus) een daling van de beurskoers van dit aandeel. (1p)\nof (voor de tweede deelscore):\n• Bij een eventueel faillissement zijn de aandeelhouders de laatste in de rij. (1p)\nof\n• Door een verslechterde liquiditeit blijft er minder geld over voor investeringen. (1p)\n• Dit kan ten koste gaan van een positief resultaat en minder beschikbaar dividend in de toekomst / Door lagere winstverwachting van N@Home daalt (de vraag naar dit aandeel en dus) de beurskoers van dit aandeel. (1p)",
 "pnt": 2,
+"top": [
+"aandelen",
+"kengetallen"
+],
 "img": [
 "h26-1-o-7"
 ]
@@ -7590,6 +8786,9 @@ EXAMEN.vragen.push(...[
 "q": "Onder welk onderdeel van het ondernemingsplan wordt de passie van Elles voor koken opgenomen?",
 "model": "persoonlijk plan",
 "pnt": 1,
+"top": [
+"starten"
+],
 "img": [
 "h26-1-b-6",
 "h26-1-b-7",
@@ -7612,6 +8811,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het verwachte aantal gewerkte uren van Elles in 2026 (zie informatiebronnen 3 en 4).",
 "model": "120 x (2 + 1) + 52 x 1,5 = 438 uur\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "h26-1-b-6",
 "h26-1-b-7",
@@ -7634,6 +8836,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de dekkingsbijdrage per kinderfeestje van 6 kinderen (zie informatiebronnen 3 en 4).",
 "model": "138 – 6 x (6,90 + 2,10) = € 84",
 "pnt": 1,
+"top": [
+"breakeven"
+],
 "img": [
 "h26-1-b-6",
 "h26-1-b-7",
@@ -7656,6 +8861,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte totale constante kosten over 2026 (zie informatiebron 4). Vul de uitwerkbijlage bij deze vraag in.",
 "model": "kostensoort berekening getal x €1 afschrijvingskosten 6.000 – 4.350 300 = keukenblokken 5,5 afschrijvingskosten 1.200 – 300 60 = inventaris 15 interestkosten 5%-lening aflossing per halfjaar = 85 4.000 = 200 2 x 10 schuld eerste helft 2026 = 4.000 – 11 x 200 = 1.800 schuld tweede helft 2026 = 4.000 – 12 x 200 = 1.600 6\n1.800 x 0,05 x + 1.600 x 12 6\n0,05 x = 12 verzekeringskosten 120 372 310 x = 100 overige constante kosten 40 x 12 = 480 totale constante kosten 1.297\n• € 300 (1p)\n• € 60 (1p)\n• € 85 (2p)\n• € 372 (1p)\n• € 480 en € 1.297 (1p)\nOpmerking Bij de derde deelscore voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 6,
+"top": [
+"kostprijs"
+],
 "img": [
 "h26-1-b-7",
 "h26-1-b-8",
@@ -7677,6 +8885,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening van het resultaat per uur aan of Elles haar verkoopprijzen voor het jaar 2026 gaat verhogen (zie informatiebron 4).",
 "model": "84 x 120 – 1.297\n• = € 20,05 (1p)\n438\n• Dit is lager dan € 22,50, dus Elles gaat de verkoopprijzen verhogen. (1p)\nof\n• totale opbrengsten: 40 x (138 + 147 + 156) = 17.640 totale kosten per feestje\n- inkoopwaarde: 40 x (6 + 7 + 8) x 6,90 -/-5.796\n- schorten: 40 x (6 + 7 + 8) x 2,10 = -/-1.764\n- constante kosten: -/-1.297 resultaat 8.783 8.783 = € 20,05 1\n438\n• Dit is lager dan € 22,50, dus Elles gaat de verkoopprijzen verhogen. (1p)",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "h26-1-b-7",
 "h26-1-b-8",
@@ -7698,6 +8909,9 @@ EXAMEN.vragen.push(...[
 "q": "In welke vorm trouwen Ada en Chris?\nA met huwelijkse voorwaarden\nB in gemeenschap van goederen\nC in beperkte gemeenschap van goederen",
 "model": "A\nAanvulling van het CvTE, bij vraag 26 moet, naast voor antwoord A, ook voor antwoord C een scorepunt toegekend worden.\nNB c. Als de aanvulling niet is verwerkt in de naar Cito gezonden Wolf-scores, voert Cito dezelfde wijziging door die de correctoren op de verzamelstaat doorvoeren. Dit dient om de onderzoeksgegevens gelijk te trekken aan de gegevens zoals die, na wijziging, in de schooladministratie voorkomen.\nd. In Wolf worden de totaalscores op basis van de door eerste en/of tweede corrector toegekende deelscores automatisch herberekend. Let op: dit geldt niet voor de tussen eerste en tweede corrector overeengekomen en gefiatteerde scores.\nHet CvTE is zich ervan bewust dat dit leidt tot enkele aanvullende handelingen van administratieve aard. Deze extra werkzaamheden zijn in het belang van een goede beoordeling van de kandidaten.",
 "pnt": 1,
+"top": [
+"aandelen"
+],
 "img": [
 "h26-1-o-10"
 ]
@@ -7717,6 +8931,10 @@ EXAMEN.vragen.push(...[
 "q": "Zijn Ada en Chris hypotheekgevers of hypotheeknemers bij deze hypothecaire lening?",
 "model": "de hypotheekgevers",
 "pnt": 1,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h26-1-o-10"
 ]
@@ -7736,6 +8954,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat zowel het inbrengen van eigen geld als het in onderpand geven van het huis, het risico voor de bank verkleint.",
 "model": "• Voorbeeld van een juist antwoord voor de inbreng van eigen geld is: Door de inbreng van eigen geld verbetert de schuld- marktwaardeverhouding. Dit verkleint het risico dat bij (executie) verkoop de opbrengst te laag is om de hypothecaire lening af te lossen. (1p)\n• Voorbeeld van een juist antwoord voor het in onderpand geven is: Doordat de bank een onderpand heeft kan de bank bij wanbetaling via een (executie)verkoop / veiling het onderpand, het geleende bedrag (gedeeltelijk) terugkrijgen. (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h26-1-o-10"
 ]
@@ -7755,6 +8976,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening van de totale interestkosten van de lening met aflossing op basis van annuïteiten aan dat Ada en Chris voor een hypothecaire lening met lineaire aflossing kiezen.",
 "model": "30 x 21.032,86 – 375.000 = 255.985,80 (€ 255.985,80 > € 217.968,75 dus kiezen ze voor een hypotheek met lineaire aflossing).",
 "pnt": 1,
+"top": [
+"vreemdvermogen",
+"woning"
+],
 "img": [
 "h26-1-o-11"
 ]
@@ -7774,6 +8999,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale uitgaven in 2025 na belastingvoordeel van deze hypothecaire lening.",
 "model": "• 0,0375 x 375.000 x (1 – 0,40) = 8.437,50 (1p)\n375.000\n• + 8.437,50 = € 20.937,50 (1p)\n30",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "h26-1-o-11"
 ]
@@ -7793,6 +9022,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een verschil tussen een levensverzekering en een schadeverzekering.",
 "model": "Een levensverzekering keert uit bij overlijden, (of op een afgesproken moment bij leven) in plaats van bij een schade, zoals bij een schadeverzekering.",
 "pnt": 1,
+"top": [
+"prive"
+],
 "img": [
 "h26-2-o-2"
 ]
@@ -7812,6 +9044,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee andere financiële redenen waarom Jessie en Bianca hebben gekozen voor een verschil in het verzekerde percentage van de schuldrest van de hypothecaire lening.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n• Bianca heeft een minder hoog inkomen dan Jessie. (1p)\n• Bianca heeft minder spaargeld / een kleiner vermogen dan Jessie. (1p)",
 "pnt": 2,
+"top": [
+"prive",
+"woning"
+],
 "img": [
 "h26-2-o-2"
 ]
@@ -7831,6 +9067,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem een financieel voordeel voor Jessie en Bianca om te kiezen voor een hypothecaire lening met aflossing op basis van annuïteiten ten opzichte van een hypothecaire lening met lineaire aflossing.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Bij een hypothecaire lening op basis van annuïteiten zijn de uitgaven (na hypotheekrenteaftrek) aan het begin van de looptijd lager (in vergelijking met een hypothecaire lening met lineaire aflossing)\n- Bij een hypothecaire lening op basis van annuïteiten profiteer je (over de gehele looptijd van de lening) meer van hypotheekrenteaftrek.",
 "pnt": 1,
+"top": [
+"vreemdvermogen",
+"woning"
+],
 "img": [
 "h26-2-o-2"
 ]
@@ -7850,6 +9090,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de uitkeringsverplichting die door het overlijden van Jessie op 1 januari 2027 ontstaat.",
 "model": "• aflossing in jaar 1: 11.621 – 240.000 x 0,026 = 5.381 schuldrest 1 januari 2026: 240.000 – 5.381 = 234.619 (1p)\n• interest jaar 2: 234.619 x 0,026 = 6.100,09 aflossing jaar 2: 11.621 – 6.100,09= 5.520,91 schuldrest 1 januari 2027: 234.619 – 5.520,91= 229.098,09 (1p)\n• De uitkeringsverplichting bedraagt: 229.098,09 x 0,6 = € 137.458,86 (1p)\nOpmerking Wanneer de interest niet is berekend maximaal 1 scorepunt toekennen.",
 "pnt": 3,
+"top": [
+"prive"
+],
 "img": [
 "h26-2-o-3"
 ]
@@ -7869,6 +9112,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem de drie P’s van maatschappelijk verantwoord ondernemen en licht met behulp van informatiebron 1 toe hoe KRING deze P’s heeft uitgewerkt.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n• People: door mensen met een arbeidsbeperking in dienst te nemen, (laat KRING zien dat zij bijdragen aan een inclusievere samenleving). (1p)\n• Planet: door met tweedehands meubels (en accessoires) te werken, (zijn er minder negatieve effecten op het milieu). (1p)\n• Profit: er wordt gewerkt aan een positief resultaat. (1p)",
 "pnt": 3,
+"top": [
+"mvo",
+"rechtsvorm"
+],
 "img": [
 "h26-2-b-2",
 "h26-2-o-4"
@@ -7889,6 +9136,7 @@ EXAMEN.vragen.push(...[
 "q": "Noteer de letters a en b op het antwoordblad. Kies uit: breedte / diepte.",
 "model": "(a) breedte (b) diepte",
 "pnt": 1,
+"top": [],
 "img": [
 "h26-2-b-2",
 "h26-2-b-3",
@@ -7913,6 +9161,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarom de neef van Lisa deze voorwaarde stelt. Betrek zowel de rechtsvorm als de onderhandse lening in het antwoord.",
 "model": "• Bij een rechtsvorm zonder rechtspersoonlijkheid is Lisa hoofdelijk aansprakelijk voor de schulden van de onderneming, (1p)\n• waardoor de neef de mogelijkheid heeft om haar privé aansprakelijk te stellen bij wanbetaling van de (onderhandse) lening / hij minder risico loopt dat de lening niet wordt terugbetaald. (1p)",
 "pnt": 2,
+"top": [
+"rechtsvorm",
+"vreemdvermogen"
+],
 "img": [
 "h26-2-b-2",
 "h26-2-b-3",
@@ -7937,6 +9189,9 @@ EXAMEN.vragen.push(...[
 "q": "Stel met behulp van informatiebron 2 de balans van KRING per 1 januari 2025 op. Vul hiervoor de uitwerkbijlage bij deze vraag verder in.",
 "model": "debet | balans per 1 januari 2025 | credit (getallen x € 1)\nVaste activa | Eigen vermogen | 13.000\nBestelbus | 15.000 Lang vreemd\nInventaris | 12.675 | vermogen\nVlottende activa | 5% Onderhandse\nlening | 30.000\nVoorraad meubelen en | Kort vreemd\naccessoires | 6.000 | vermogen\nVoorraad koffiebar | 1.650 | Crediteuren | 825\nVooruitbetaalde huur Liquide middelen | 7.500\nBank | 1.000\n43.825 | 43.825\n• Bestelbus, inventaris, voorraad meubelen en accessoires, voorraad koffiebar, onderhandse lening, met juiste bedragen (1p)\n• Vooruitbetaalde huur en: (3 x 2.500 =) 7.500 (1p)\n• Crediteuren (0,50 x 1.650 =) 825 (1p)\n• Eigen vermogen en: (43.825 – 30.000 – 825 =) 13.000 en 43.825 (1p)\nOpmerkingen Als het rekening-courantkrediet met 0 op de balans is opgenomen geen scorepunt aftrekken. Als de Voorraad meubelen en accessoires en de Voorraad koffiebar als één balanspost zijn opgenomen, geen scorepunt aftrekken.",
 "pnt": 4,
+"top": [
+"balans"
+],
 "img": [
 "h26-2-b-3",
 "h26-2-u-1",
@@ -7958,6 +9213,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de uitgaven aan de onderhandse lening die op 31 maart 2025 betaald moeten worden (zie informatiebron 2).",
 "model": "30.000\n• aflossing onderhandse lening: = 833,33 (1p)\n3 x 12 1\n• interest: (30.000 – 2 x 833,33) x 0,05 x = 118,06 12 833,33 + 118,06 = € 951,39 (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"liquiditeitsbegroting"
+],
 "img": [
 "h26-2-b-3",
 "h26-2-o-5"
@@ -7978,6 +9237,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag aan contante inkopen in de maand maart 2025.",
 "model": "• Contante inkopen koffiebar 6.000 x 0,3 x 0,5 = 900 (1p)\n• Contante inkopen meubelen en accessoires 5.500 x 0,4 = 2.200 + Contante inkopen maart 2025 € 3.100 (1p)",
 "pnt": 2,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "h26-2-b-4",
 "h26-2-b-5",
@@ -7999,6 +9261,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan of Lisa in de maand maart van 2025 gebruik moet maken van het rekening-courantkrediet om een privéopname van € 3.800 te kunnen doen. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in (zie informatiebronnen 2 tot en met 4).",
 "model": "januari ontvangsten | februari | maart\nverkoop meubels en accessoires | 6.500\nverkopen koffiebar | 6.000\nloonkostensubsidie | ______ | _______ | 4.116\ntotale ontvangsten | 18.616 | 17.116 | 16.616\nuitgaven\ncontante inkopen (vraag 10) | 3.100\nbetaling crediteuren | 1.200\nhuur | 7.500\nloon medewerkers uitgaven onderhandse lening | 9.030\n(vraag 9) | 951\nprivéopnames | 3.800 | 3.800 | 3.800\ntotale uitgaven | 18.203 | 18.410 | 25.581\nverandering van liquide middelen beginsaldo liquide middelen op | + 413 | - 1.294 | - 8.965\nde eerste dag van de maand eindsaldo liquide middelen | 1.000 | 1.413 | 119\nop de laatste dag van de maand. | 1.413 | 119 | - 8.846\nconclusie: Lisa heeft in maart 2025 wel / geen gebruik moeten maken van het rekening-courantkrediet om maandelijks ook een privéopname van € 3.800 te kunnen doen, want in de maand maart is het eindsaldo liquide middelen (€ 8.846,39) negatief.\n• loon medewerkers 3 x 1.960 + 3.150 = 9.030 loonkostensubsidie 3 x 1.960 x 0,7 = 4.116 (1p)\n• betaling crediteuren 8.000 x 0,3 x 0,5 = 1.200 (1p)\n• huur en eindsaldo liquide middelen (1p)\n• conclusie (1p)",
 "pnt": 4,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h26-2-b-3",
 "h26-2-b-4",
@@ -8023,6 +9288,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat Devin zal overstappen naar Bank D.",
 "model": "10 x 5 + 10 x 4 + 8 x 2 + 7 x 1 + 8 x 3 Bank D: = 9,1 (> 8,8) 15",
 "pnt": 1,
+"top": [
+"mvo"
+],
 "img": [
 "h26-2-o-7"
 ]
@@ -8042,6 +9310,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het totale bedrag dat Devin na aftrek van de boete op 1 juli 2025 kan beleggen bij Bank D.",
 "model": "• (10.000 x 1,0255 + 12.500) x 1,01510 = 27.637,21 (1p)\n• 22.500 x 0,01 x 5 = 1.125 27.637,21 – 1.125 = € 26.512,21 (1p)",
 "pnt": 2,
+"top": [
+"beleggen"
+],
 "img": [
 "h26-2-o-7"
 ]
@@ -8061,6 +9332,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee financiële voordelen voor het beleggen in een beleggingsfonds in plaats van zelf geselecteerde aandelen.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Er is meer kennis / expertise.\n- De kosten zijn lager dan bij zelf beleggen.\n- Beleggingsrisico’s kunnen beter worden gespreid.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "h26-2-o-7"
 ]
@@ -8080,6 +9354,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de variabele kosten per boekje.",
 "model": "Voorbeeld van een juiste berekening is: 33.000 - 3.000 =€6 5.000",
 "pnt": 1,
+"top": [
+"kostprijs"
+],
 "img": [
 "h26-2-o-8"
 ]
@@ -8099,6 +9376,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem het prijsbeleid dat Nadal toepast. Licht het antwoord toe.",
 "model": "• penetratiepolitiek (1p)\n• Door een lagere prijs te kiezen dan die van zijn concurrenten (hoopt hij een deel van de markt te veroveren). (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h26-2-o-9"
 ]
@@ -8118,6 +9398,7 @@ EXAMEN.vragen.push(...[
 "q": "Bereken hoeveel leerlingen ABC zullen kopen. Bereken hiervoor eerst hoeveel procent van de leerlingen in zijn klassen bereid is om € 10 te betalen. Rond af op hele leerlingen.",
 "model": "• percentage havoleerlingen in zijn klassen dat ABC koopt: 52 x 100% = 65% (1p)\n80\n• totaal aantal havoleerlingen dat bedrijfseconomie heeft: 172.000 x 0,27 x 0,30 = 13.932 (1p)\n• aantal leerlingen dat ABC koopt: (0,65 – 0,50) x 13.932 = 2.090 (1p)\nOpmerkingen Afronden naar beneden niet fout rekenen. De derde deelscore mag ook worden toegekend aan het antwoord: 52 + (0,65 – 0,50) x (13.932 – 80) = 2.130.",
 "pnt": 3,
+"top": [],
 "img": [
 "h26-2-o-9"
 ]
@@ -8137,6 +9418,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het resultaat dat Nadal bij dit aantal boeken zal behalen.",
 "model": "2.090 x (10 – 6) – 3.000 = € 5.360\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "h26-2-o-9"
 ]
@@ -8156,6 +9440,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een ander marketinginstrument dan prijsbeleid en leg uit hoe Nadal dit instrument kan inzetten.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n• Promotie(beleid) (1p)\n• Nadal zou (op social media) meer reclame kunnen maken voor zijn boekje. (1p)\nof\n• Plaats(beleid) (1p)\n• Nadal kan zijn boekje via een platform (Bol.com) verkopen / via scholen aanbieden. (1p)\nof\n• Product(beleid) (1p)\n• Nadal gaat zijn boekje nog overzichtelijker maken / meer relevante opgaven toevoegen dan de concurrent. (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "h26-2-o-9"
 ]
@@ -8175,6 +9462,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef aan wat er bij (a) moet komen te staan. Kies bij (a) uit: het functieprofiel / de functiewaardering.",
 "model": "(a) het functieprofiel",
 "pnt": 1,
+"top": [
+"personeel",
+"waardering"
+],
 "img": [
 "h26-2-b-7",
 "h26-2-b-8",
@@ -8197,6 +9488,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit of deze kosten variabele of constante kosten zijn\nDe exploitatiebegroting 2025-2026 wordt door de introductiecommissie verder ingevuld, waarna deze begroting wordt voorgelegd aan de directie. Bij de exploitatiebegroting wordt uitgegaan van:\n- hetzelfde percentage niet-betalende studenten voor het studiejaar 2025-2026 als in het studiejaar 2024-2025;\n- het verwachte aantal studenten voor het studiejaar 2025-2026 (zie informatiebron 6).",
 "model": "Constante kosten, omdat deze niet afhankelijk zijn van het aantal studenten / als de kosten variabel zijn, zouden de kosten toenemen met de groei van het aantal studenten.",
 "pnt": 1,
+"top": [
+"kostprijs"
+],
 "img": [
 "h26-2-b-8",
 "h26-2-o-10"
@@ -8217,6 +9511,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken welke bijdrage er van de directie nodig is om de exploitatiebegroting sluitend te krijgen (zie informatiebronnen 5 tot en met 7). Vul de uitwerkbijlage bij deze vraag volledig in.",
 "model": "Exploitatiebegroting introductieweek 2025-2026 (getallen x € 1) opbrengsten\nbijdrage directie | 17.607\neigen bijdrage studenten | 6.615\ntotale opbrengsten | 24.222\nkosten\ncadeaubonnen mentoren | 700\nlunch maandag en dinsdag | 2.464\nT-shirts | 1.568\nfotograaf | 432\ncadeau sprekers | 50\nboothuur | 4.536\nhuur feestlocatie | 14.472\ntotale kosten | 24.222\nresultaat 0\nberekeningen (getallen x € 1) verwachte opbrengsten (180 x 25) – 4.050 = 450 eigen bijdrage 450 x 100% = 10% 4.500 (1– 0,10) x 210 x 35 = 6.615 cadeaubonnen 210 = 14 mentoren 15 14 x 50 = 700 lunch maandag en (2,75 + 1 + 0,75 + 1) x (210 + 14) x 2 = 2.464 dinsdag fotograaf 400 x 1,08 = 432 bijdrage directie 700 + 2.464 +1.568 + 432 + 50 + 4.536 + 14.472 – 6.615 = 17.607\n• 6.615 (2p)\n• 700 (1p)\n• 2.464 (1p)\n• 432 (1p)\n• 17.607 (1p)\nOpmerking Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 6,
+"top": [
+"resultaat"
+],
 "img": [
 "h26-2-b-7",
 "h26-2-b-8",
@@ -8240,6 +9537,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee andere bedrijfseconomische voordelen voor de introductiecommissie van het vooraf laten betalen van de eigen bijdrage.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De commissie/hogeschool beschikt direct over geld om de betalingen te kunnen doen.\n- De commissie kan nauwkeuriger inkopen nu er meer zekerheid is over de studentenaantallen.\n- minder administratieve kosten\n- meer interestopbrengsten\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "h26-2-o-11"
 ]
@@ -8259,6 +9559,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee bedrijfseconomische redenen waarom de roeivereniging genoegen neemt met alleen een vergoeding van gemaakte kosten voor het verzorgen van een roeiclinic tijdens de introductieweek.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Een vereniging heeft niet als doel om winst te maken / een vereniging is geen commerciële organisatie.\n- de (mogelijke) werving van nieuwe leden\n- het vergroten van de naamsbekendheid\n- Het is goed voor het imago van de roeivereniging.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"personeel"
+],
 "img": [
 "h26-2-o-11"
 ]
@@ -8278,6 +9581,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem het orgaan binnen de onderneming dat de verdeling van het resultaat goedkeurt.",
 "model": "de algemene vergadering van aandeelhouders / AvA",
 "pnt": 1,
+"top": [
+"winstverdeling"
+],
 "img": [
 "h26-2-o-12"
 ]
@@ -8297,6 +9603,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het totale bedrag dat Neero reserveert als gevolg van de verdeling van het resultaat over 2025.",
 "model": "• vennootschapsbelasting: 200.000 x 0,19 + (500.000 – 200.000) x 0,258 = 115.400 (1p)\n• dividend: 250.000 x 1,45 = 362.500 toevoegen aan reserves: 500.000 – 115.400 – 362.500 = € 22.100 (1p)",
 "pnt": 2,
+"top": [
+"winstverdeling"
+],
 "img": [
 "h26-2-o-12"
 ]
@@ -8316,6 +9625,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de solvabiliteit op 1 januari 2026 (EV/VV) na verdeling van het resultaat, maar voordat het dividend en de vennootschapsbelasting zijn betaald.",
 "model": "• vreemd vermogen: 5.000.000 + 1.800.000 + 200.000 + 115.400 + 362.500 = 7.477.900 (1p)\n• eigen vermogen: 4.000.000 + 1.500.000 + 22.100 = 5.522.100 5.522.100 solvabiliteit (EV/VV): = 0,74 (1p)\n7.477.900",
 "pnt": 2,
+"top": [
+"winstverdeling",
+"vpb"
+],
 "img": [
 "h26-2-o-13"
 ]
@@ -8335,6 +9648,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een andere manier dan winstinhouding om het eigen vermogen te laten toenemen.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- de emissie van aandelen (boven pari)\n- herwaardering (van activa)",
 "pnt": 1,
+"top": [
+"balans"
+],
 "img": [
 "h26-2-o-13"
 ]
@@ -8354,6 +9670,7 @@ EXAMEN.vragen.push(...[
 "q": "Noem een verschil tussen trouwen op huwelijkse voorwaarden en trouwen in gemeenschap van goederen. Betrek beide vormen van huwelijk in het antwoord.",
 "model": "• Bij huwelijkse voorwaarden maken beide partners afspraken over de verdeling van het vermogen (1p)\n• Bij gemeenschap van goederen zijn het door de partners in het huwelijk ingebrachte vermogen en het tijdens het huwelijk verworven vermogen gemeenschappelijk (1p)\nAanvulling van het CvTE, bij vraag 1 moet bij de tweede deelscore ook goed gerekend worden:\nBij beperkte gemeenschap van goederen geldt dat bezittingen en schulden die vóór het huwelijk van beide partners samen waren of die tijdens het huwelijk gevormd worden, gemeenschappelijk vermogen zijn. Bezittingen en schulden die vóór het huwelijk van één partner waren blijven alleen van die partner.",
 "pnt": 2,
+"top": [],
 "img": [
 "v21-1-o-2"
 ]
@@ -8373,6 +9690,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken per 1 maart 2021 de contante waarde van alle partneralimentatieverplichtingen van Julie aan August (zie formuleblad).",
 "model": "150 x (1,002-59 + 1,002-58 + ….+ 1) = 1 1,00260 -1 150 x ( x )= 1,00259 1,002-1 150 x 56,5996073462 = € 8.489,94 (hierbij: 1\na= r = 1,002 n = 60 dus S = 56,5996073462) 1,00259\nOpmerking Aan elk antwoord groter dan of gelijk aan € 9.000 (60 x € 150) worden geen scorepunten toegekend.",
 "pnt": 2,
+"top": [
+"interest"
+],
 "img": [
 "v21-1-o-2"
 ]
@@ -8392,6 +9712,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de erfenis na erfbelasting van elk kind van Julie. Gebruik hierbij informatie uit onderstaande tabel.",
 "model": "• erfenis: 200.000 x 0,5 = 100.000,00 per kind (1p)\n• erfbelasting: (100.000 – 20.616) x 0,10 = 7.938,40 per kind 92.061,60 per kind (1p)",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "v21-1-o-3"
 ]
@@ -8411,6 +9734,9 @@ EXAMEN.vragen.push(...[
 "q": "Wat is de juridische term voor het onder deze voorwaarde aanvaarden van een erfenis?",
 "model": "beneficiair aanvaarden",
 "pnt": 1,
+"top": [
+"erven"
+],
 "img": [
 "v21-1-b-3",
 "v21-1-b-4",
@@ -8435,6 +9761,9 @@ EXAMEN.vragen.push(...[
 "q": "Welk punt uit informatiebron 1 hoort bij de O van de SWOT-analyse? Vermeld het bijbehorende nummer en onderbouw het antwoord met twee argumenten.",
 "model": "• punt 2 (1p)\n• Het is een externe factor én Juicy Lucy kan hieruit haar voordeel halen doordat de inkoopprijs van groenten lager kan worden en daardoor de verkoopprijs van de sappen (1p)\nOpmerkingen Het tweede scorepunt kan alleen behaald worden als het eerste scorepunt is behaald. Om het tweede scorepunt te behalen, moeten beide argumenten genoemd worden.",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "v21-1-b-3",
 "v21-1-o-4"
@@ -8455,6 +9784,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken op basis van het marktonderzoek het verwachte aantal klanten voor Juicy Lucy per dag in Bottendaal. Rond het antwoord naar beneden af op hele personen.",
 "model": "2.286 x 0,15 x 1,1 + 1.143 x 0,06 x 0,6 + 1.714 x 0,01 x 0,2 = 7\n60 per dag, afgerond\nOpmerking Wanneer niet juist is afgerond, wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"marktonderzoek"
+],
 "img": [
 "v21-1-b-4",
 "v21-1-o-4"
@@ -8475,6 +9807,7 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee mogelijke redenen voor haar twijfel en licht ze toe.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Het is niet zeker of de ja-zeggers ook werkelijk zullen gaan kopen.\n- Het is niet zeker of de leeftijdsopbouw van de wijk gelijk zal blijven.\n- De respondenten kunnen ook een sapbar in een andere wijk gaan of blijven bezoeken.\nper juiste reden 1",
 "pnt": 2,
+"top": [],
 "img": [
 "v21-1-b-3",
 "v21-1-b-4",
@@ -8499,6 +9832,10 @@ EXAMEN.vragen.push(...[
 "q": "Stel de verwachte openingsbalans per 1 januari 2021 op. Vul hiervoor de uitwerkbijlage bij deze vraag verder in.",
 "model": "debet | Beginbalans Juicy Lucy per | credit 1 januari 2021 (bedragen in €)\nPand | 340.000 | Eigen vermogen | 184.000\nBestelauto | 4.000 | Hypothecaire lening | 170.000\nInventaris | 8.000 | Crediteuren | 3.000\nVoorraad | 6.000 | Rekening-\ncourantkrediet Vooruitbetaalde | 2.800\nbedragen | 1.200\nKas | 600\n359.800 | 359.800\n• Vooruitbetaalde bedragen en 1.200 (1p)\n• 184.000 (1p)\n• 170.000 en 3.000 (1p)\n• 359.800 (1p)",
 "pnt": 4,
+"top": [
+"vreemdvermogen",
+"periodisering"
+],
 "img": [
 "v21-1-b-5",
 "v21-1-b-6",
@@ -8522,6 +9859,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het totaal van de beloningen die Lucy in 2021 via privé-opnames uit de sapbar wil onttrekken.",
 "model": "50.000 + 184.000 x 0,04 = € 57.360",
 "pnt": 1,
+"top": [
+"personeel"
+],
 "img": [
 "v21-1-b-3",
 "v21-1-b-4",
@@ -8546,6 +9886,9 @@ EXAMEN.vragen.push(...[
 "q": "Motiveer waarom deze voorwaarde door de bank wordt gesteld. Betrek beide rechtsvormen in het antwoord.",
 "model": "• Minder risico voor de bank (1p)\n• In geval van faillissement kan de bank bij een eenmanszaak aanspraak doen op het privévermogen van Lucy en bij een besloten vennootschap niet: alleen op het vermogen van de bv zelf (1p)",
 "pnt": 2,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "v21-1-b-3",
 "v21-1-b-4",
@@ -8570,6 +9913,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte constante kosten van Juicy Lucy over 2021. Vul hiervoor de uitwerkbijlage bij deze vraag verder in.",
 "model": "Verwachte constante kosten over 2021 ruimte voor berekeningen constante personeelskosten 23.115,46 343 x 4 x 12 x 1,08 x 1,30 800 + (170.000 x 0,02) + ((170.000 – (7.590,49 – 3.400)) interestkosten 7.516,19 x 0,02 8.000 – 1.200 + 1.000 afschrijvingskosten 1.850 8\noverige constante kosten 10.000\n• 23.115,46 (1p)\n• 7.516,19 (1p)\n• 1.850 (1p)",
 "pnt": 3,
+"top": [
+"kostprijs"
+],
 "img": [
 "v21-1-b-7",
 "v21-1-u-1",
@@ -8591,6 +9937,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte EBIT over 2021, gegeven het aantal te verwachten klanten van vraag 6. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "De verwachte EBIT van Juicy Lucy over 2021 ruimte voor berekeningen omzet 164.640,00 343 x 60 x 8 inkoopwaarde van de omzet 41.160,00 164.640 x 0,25 variabele personeelskosten 4.939,20 164.640 x 0,03 voor de EBITDA 23.115,46 relevante constante (zie vraag 11) + kosten 33.115,46 10.000 EBITDA 85.425,34 afschrijvingskosten 1.850,00 (zie vraag 11) EBIT 83.575,34\n• 164.640 en 41.160 en 4.939,20 (1p)\n• 33.115,46 (1p)\n• afschrijvingskosten en 1.850 (1p)\n• 83.575,34 (1p)",
 "pnt": 4,
+"top": [
+"resultaat"
+],
 "img": [
 "v21-1-b-3",
 "v21-1-b-4",
@@ -8616,6 +9965,10 @@ EXAMEN.vragen.push(...[
 "q": "Zal Juicy Lucy van start gaan? Licht het antwoord toe met een berekening en een verwijzing naar voorwaarden 1 tot en met 5 uit informatiebron 3. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "rentedekkingsfactor over 2021 | ruimte voor berekening\n11,1 | 83.575,34 7.516,19\nvoorwaarde | onderwerp | voldaan | ruimte voor uitleg /\nja/nee | berekening\n1, 2 en 5 | beloning Lucy is | ja | (83.575,34 – 7.516,19) >\nmogelijk | 57.360\n3 | rechtsvorm | ja | ‘Jucy stemt in’\n4 Conclusie: Juicy Lucy gaat van start (aan alle voorwaarden wordt voldaan). | rentedekking | ja | 11,1 > 7,0\n• voorwaarden 1, 2 en 5 (1p)\n• 11,1 (1p)\n• voorwaarden 3 en 4 (1p)\n• conclusie (1p)\nOpmerking De juiste uitleg of berekening bij elke voorwaarde is noodzakelijk voor toekenning van het scorepunt.",
 "pnt": 4,
+"top": [
+"rechtsvorm",
+"personeel"
+],
 "img": [
 "v21-1-b-5",
 "v21-1-u-2",
@@ -8637,6 +9990,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit op welke manier de komst van social media voor TMB zowel een kans als een bedreiging zou kunnen zijn.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Kans: tv en bioscoop zijn dure kanalen. De komst van goedkopere social media vergroot het aantal mogelijke klanten van TMB, want TMB kan ook filmpjes maken ten behoeve van het gebruik van social media.\n- Bedreiging: de komst van digitale technologieën maakt het voor nieuwe aanbieders (bijvoorbeeld vloggers en influencers) mogelijk om tegen lage kosten tot de markt toe te treden.\nof\n- Bedreiging: bedrijven willen niet meer adverteren op tv, maar op social media.\nper juiste kans 1\nper juiste bedreiging 1",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v21-1-o-6"
 ]
@@ -8656,6 +10012,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het aantal geplaatste aandelen TMB per 29 december 2020.",
 "model": "1.800.000 + 200.000 + 1.600.000 + 400.000 = 80.000 aandelen 50\nof 1.800.000 = 80.000 aandelen 22,50",
 "pnt": 1,
+"top": [
+"aandelen"
+],
 "img": [
 "v21-1-o-7"
 ]
@@ -8675,6 +10034,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef in de uitwerkbijlage bij deze vraag de mutaties op de balans aan die het gevolg zijn van bovenstaande financiële feiten.",
 "model": "Mutaties balans TMB als gevolg van de financiële feiten op 30 december 2020 debet +/- mutaties balans TMB +/- credit Bedrijfspand + 2.000.000 Agio op obligaties + 242.500 Converteerbare + + Bank 592.500 obligatielening 4.850.000 5% Hypothecaire\n- lening 2.500.000\nruimte voor berekeningen:\nBank | + (3.000.000 – 2.500.000) + 5.092.500\n- 5.000.000\nConverteerbare obligatielening | 5.092.500 = 4.850.000 1,05\nAgio op obligaties | 5.092.500 – 4.850.000 = 242.500\n5% Hypothecaire lening | – 2.500.000\nBedrijfspand | – 3.000.000 + 5.000.000\n• Agio op obligaties en + 242.500 (2p)\n• Bank: + 592.500 (1p)\n• Converteerbare obligatielening: + 4.850.000 (1p)\n• 5% Hypothecaire lening: – 2.500.000 Bedrijfspand: + 2.000.000 (1p)\nOpmerking Wanneer is geantwoord ‘Agio’ in plaats van ‘Agio op obligaties’, wordt 1 scorepunt in mindering gebracht.",
 "pnt": 5,
+"top": [
+"balans"
+],
 "img": [
 "v21-1-u-3",
 "v21-1-o-7"
@@ -8695,6 +10057,9 @@ EXAMEN.vragen.push(...[
 "q": "Bij (1) moet staan\na nominale waarde\nb emissiekoers\nc beurskoers\nd intrinsieke waarde Noteer de letter van het juiste antwoord en leg de keuze uit.",
 "model": "• c (1p)\n• Als de beurskoers lager is dan de conversiekoers, is het voordeliger om de aandelen te kopen tegen de (lagere) beurskoers (1p)\nOpmerking Het tweede scorepunt kan alleen worden behaald als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v21-1-o-7"
 ]
@@ -8714,6 +10079,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met welk bedrag de agioreserve van TMB toeneemt als 1.000 obligaties worden ingewisseld.",
 "model": "(1.000 + 200 – 15 x 22,50) x 1.000 = € 862.500",
 "pnt": 2,
+"top": [
+"aandelen",
+"obligaties"
+],
 "img": [
 "v21-1-o-7"
 ]
@@ -8733,6 +10102,9 @@ EXAMEN.vragen.push(...[
 "q": "Tot welk onderdeel van de marketingmix van Brait behoort de mogelijkheid tot aankoop via de webshop?",
 "model": "(p van) plaats",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "v21-1-o-8"
 ]
@@ -8752,6 +10124,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken als gevolg van de verkopen en het onderhoud de bedragen die op de winst- en verliesrekening of op het liquiditeitsoverzicht of op beide met betrekking tot het eerste kwartaal van 2021 moeten worden opgenomen. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "winst- en verliesrekening | liquiditeitsoverzicht\n(in €) over | (in €) in\neerste kwartaal 2021 | eerste kwartaal 2021\nverkopen | 330.578,51 | 389.500\nonderhoud | 3.000 | 20.000\nruimte voor berekeningen:\nwinst- en verliesrekening liquiditeitsoverzicht (in €) (in €) over eerste kwartaal in eerste kwartaal 2021 2021 verkopen 125.000 + 135.000 + 140.000 debiteuren: 1, 21 0,6 x 0,5 x 120.000 + + 0,6 x 130.000 + 0,6 x 125.000 + 0,6 x 0,5 x 135.000 contante verkopen: 0,4 x (125.000 + 135.000 +140.000)\n• 330.578,51 en op winst- en verliesrekening (1p)\n• 389.500 en op liquiditeitsoverzicht (2p)\n• 3.000 en op winst- en verliesrekening (1p)\n• 20.000 en op liquiditeitsoverzicht (1p)",
 "pnt": 5,
+"top": [
+"resultaat"
+],
 "img": [
 "v21-1-u-4",
 "v21-1-o-9"
@@ -8772,6 +10147,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken als gevolg van de verdeling van het resultaat over 2020 de bedragen die op de winst- en verliesrekening of op het liquiditeitsoverzicht of op beide met betrekking tot het eerste kwartaal van 2021 moeten worden opgenomen. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "winst- en verliesrekening | liquiditeitsoverzicht\n(in €) over | (in €) in\neerste kwartaal 2021 | eerste kwartaal 2021\nverdeling resultaat | 188.000\nruimte voor berekeningen:\nwinst- en liquiditeitsoverzicht (in €) in verliesrekening (in €) eerste kwartaal 2021 over eerste kwartaal 2021 verdeling vennootschapsbelasting: resultaat 500.000 – 390.000 + cash dividend: 390.000 x 2 x 0,5 5\n• 188.000 (1p)\n• en op liquiditeitsoverzicht (1p)",
 "pnt": 2,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v21-1-u-4",
 "v21-1-o-9"
@@ -8792,6 +10170,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem een instelling die toezicht houdt op financiële markten.",
 "model": "- AFM/ Autoriteit Financiële Markten\n- DNB/De Nederlandsche Bank",
 "pnt": 1,
+"top": [
+"interest",
+"aandelen"
+],
 "img": [
 "v21-1-b-8",
 "v21-1-b-9",
@@ -8813,6 +10195,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de aandelen die voldoen aan beide criteria van Stijn. Motiveer het antwoord en betrek hierbij beide criteria.",
 "model": "• Een aandeel moet een lage volatiliteit hebben (1p)\n• en een lage koers/winstverhouding. Aandelen Eduard nv en Ferdinand nv voldoen aan deze criteria (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v21-1-b-8",
 "v21-1-o-10"
@@ -8833,6 +10218,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee rechten die een aandeelhouder wel heeft en een optiehouder niet.",
 "model": "• zeggenschap / stemrecht (1p)\n• (recht op) dividend (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v21-1-b-8",
 "v21-1-b-9",
@@ -8854,6 +10242,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg dit antwoord van de professionele belegger uit.",
 "model": "Hoe verder de afloopdatum is, hoe groter de kans op winst bij uitoefenen van de putoptie, omdat de kans dat de uitoefenprijs een keer boven de beurskoers plus optiepremie komt dan groter is.",
 "pnt": 1,
+"top": [
+"beleggen"
+],
 "img": [
 "v21-1-b-8",
 "v21-1-o-11"
@@ -8874,6 +10265,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het verwachte resultaat over 2021, wanneer\na Stijn alleen 100 aandelen Jacobsen koopt en\nb Stijn 100 aandelen Jacobsen én 1 putoptie Jacobsen koopt. Stijn zal de putoptie tot de afloopdatum in bezit houden. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "resultaat over 2021 bij\neen stijgende beurskoers | een dalende beurskoers\nvan 8% 100 aandelen | van 15%\nJacobsen | 158,40 | –124,50\n100 aandelen Jacobsen én 128,40 – 24,50 1 putoptie Jacobsen\nruimte voor berekeningen:\nresultaat over 2021 bij\neen stijgende | een dalende beurskoers\nbeurskoers van 8% | van 15%\n100 aandelen | 100 x 12 x 0,08 = 96,00 | 100 x 12 x – 0,15 = – 180\nJacobsen | 100 x 0,05 x | 100 x 0,05 x\n12 + (12 x 1,08) | 12 + (12 x 0,85)\n= 62,40 | = | 55,50\n2 | 2\n158,40 | – 124,50\n100 aandelen 158,40 – (100 x 0,30) = 100 x (11,50 – (0,85 x 12)) Jacobsen én 128,40 = 130 1 putoptie 130 – 124,50 – 30 = Jacobsen – 24,50\nof 100 x (12 – 11,50) = – 50 100 x 0,05 x 12 + (12 x 0,85) = 55,50 2\n- 50 + 55,50 – 30 = – 24,50\n• 158,40 en –124,50 (2p)\n• 128,40 (1p)\n• – 24,50 (2p)",
 "pnt": 5,
+"top": [
+"aandelen"
+],
 "img": [
 "v21-1-b-8",
 "v21-1-b-9",
@@ -8896,6 +10290,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat uit de grafiek in informatiebron 8 de volgende algemene financiële regel blijkt: “hoe hoger het risico van effecten, des te hoger de potentiële winsten en verliezen”.",
 "model": "• Bij het kopen van alleen 100 aandelen Jacobsen wordt een hoger risico gelopen (1p)\n• De doorlopende lijn is van ‘alleen 100 aandelen Jacobsen’. Deze laat bij een lagere beurskoers een lager resultaat zien en bij hogere beurskoersen een hoger resultaat zien dan de gestippelde lijn (100 aandelen Jacobsen én 1 putoptie Jacobsen) (1p)\nof\n• Het resultaat bij het kopen van alleen 100 aandelen Jacobsen ligt hoger dan dat van 100 aandelen Jacobsen én 1 putoptie Jacobsen (1p)\n• maar het verlies is ook groter (1p)\nof\n• Het resultaat bij alleen aandelen is hoger dan bij aandelen gecombineerd met putopties (1p)\n• maar het verlies kan ook groter zijn (1p)",
 "pnt": 2,
+"top": [
+"beleggen"
+],
 "img": [
 "v21-1-b-9",
 "v21-1-o-11"
@@ -8916,6 +10313,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem voor Vermeer een voordeel en een nadeel van een nul- urencontract, vergeleken met een contract voor onbepaalde tijd. Licht de antwoorden toe.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Voordeel: flexibiliteit. Een schilder met een nul-urencontract wordt alleen opgeroepen en betaald als er werk is. Een werknemer met een contract voor onbepaalde tijd wordt ook doorbetaald als er tijdelijk geen werk is.\n- Nadeel: mogelijk gebrek aan binding. Een schilder met een nul- urencontract kan mogelijk sneller op zoek gaan naar een andere werkgever die hem meer vastigheid kan geven dan een werknemer met een contract voor onbepaalde tijd.\nOpmerkingen\n- Aan antwoorden met de strekking: “Een werknemer met een nul- urencontract hoeft niet te komen als hij niet wil” of “kan direct ontslag nemen” worden geen scorepunten toegekend.\n- De juiste motivatie per voordeel/nadeel is noodzakelijk voor het behalen van ieder scorepunt.",
 "pnt": 2,
+"top": [
+"arbeidsrecht",
+"personeel"
+],
 "img": [
 "v21-1-o-12"
 ]
@@ -8935,6 +10336,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een andere manier waarop Vermeer de loonkosten van de opzichter in de voorcalculatie zou kunnen doorberekenen.",
 "model": "Voorbeelden van juiste antwoorden zijn: Door het doorberekenen van:\n- een vast bedrag per offerte\n- een vast bedrag per te werken dag\n- een opslag in de vorm van een percentage van de totale kosten",
 "pnt": 1,
+"top": [
+"personeel"
+],
 "img": [
 "v21-1-o-12"
 ]
@@ -8954,6 +10358,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het uurtarief dat Vermeer per schilder hanteert in de voorcalculatie.",
 "model": "47.309,18 | 60.000\n+ | = € 45,15\n30 x (52 – 6) | 4 x 30 x ( 52 – 6 )",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v21-1-o-13"
 ]
@@ -8973,6 +10380,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een mogelijke oorzaak dat de beurskoers van een aandeel afwijkt van de intrinsieke waarde per aandeel. Betrek in het antwoord zowel de beurskoers als de intrinsieke waarde per aandeel.",
 "model": "• De beurskoers is gebaseerd op toekomstverwachtingen en men verwacht dat het resultaat in de toekomst tegenvalt / de beurskoers kan gebaseerd zijn op sentiment en/of speculatie (1p)\n• De intrinsieke waarde is gebaseerd op het heden / de balansdatum (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v21-2-o-2"
 ]
@@ -8992,6 +10402,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat als gevolg van de verdeling van het resultaat over 2019 aan de Dividendreserve wordt toegevoegd.",
 "model": "600.000\n• aantal geplaatste aandelen = = 240.000 (1p)\n2,50\n• toevoeging aan Dividendreserve: (279.500 – 50.000 – 240.000 x 0,40) x 0,5 = € 66.750 (2p)",
 "pnt": 3,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v21-2-o-3"
 ]
@@ -9011,6 +10424,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de grootte van de Dividendreserve nadat de uitkeringen van het resultaat van 2020 aan de aandeelhouders verwerkt zijn.",
 "model": "• beschikbaar dividend over de winst van 2020: 92.000 – 50.000 = 42.000 gewenst dividend = 240.000 x 0,40 = 96.000 (1p)\n• onttrekking aan Dividendreserve = 96.000 – 42.000 = 54.000 resterend in Dividendreserve = 66.750 – 54.000 = € 12.750 (1p)\nOpmerking Wanneer een kandidaat uitkomt op een negatieve Dividendreserve, wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"aandelen",
+"winstverdeling"
+],
 "img": [
 "v21-2-o-3"
 ]
@@ -9030,6 +10447,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef van twee krachten uit het model van Porter aan op welke wijze de opkomst van webwinkels het winstpotentieel van kledingwinkels zonder webwinkel bedreigt. Motiveer het antwoord.",
 "model": "twee van de drie volgende antwoorden:\n- Mate van competitie: door de opkomst van webwinkels neemt de concurrentie op de interne markt toe.\n- (Dreiging van) nieuwe toetreders: door de opkomst van webwinkels komen er nieuwe spelers op de markt.\n- Onderhandelingspositie kopers: de klant kan lagere prijzen afdwingen (omdat hij kan dreigen het product op internet te kopen).\nper juist antwoord 1\nOpmerking Zowel de kracht als de motivatie moeten correct zijn om 1 scorepunt toe te kennen per antwoord.",
 "pnt": 2,
+"top": [
+"personeel"
+],
 "img": [
 "v21-2-b-3",
 "v21-2-b-4",
@@ -9055,6 +10475,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met behulp van een berekening van het verwachte marktaandeel op basis van de omzet van Apeldoorn aan dat Apeldoorn niet de eerste stad is waarin Broekenhuis een nieuwe vestiging zal openen (zie informatiebron 2).",
 "model": "marktaandeel op basis van omzet van Apeldoorn = 5.000 x 40 x 100% = 4,07%. Dit is < 5,00% van Emmen. 120.000 x 41",
 "pnt": 2,
+"top": [
+"marktaandeel"
+],
 "img": [
 "v21-2-b-4",
 "v21-2-b-5",
@@ -9076,6 +10499,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met behulp van een berekening aan dat, afgerond op een veelvoud van € 1.000, de contante waarde van de toekomstige betalingen op 1 januari 2021 in totaal afgerond € 24.847.000 is (zie formuleblad).",
 "model": "1 1,000260 - 1\n• 250.000 x x = 1,000260 1,0002 - 1 250.000 x 59,63550805 = 14.908.877,01 (1p)\n(Hierbij is: a = r = 1,0002 n = 60) 2\n1,000260\nOpmerking Aan elk deelantwoord > 15.000.000 geen scorepunten toekennen.\n• 2.000.000,00 3.000.000 = 2.985.635,94 1,000224 5.000.000 = 4.952.234,42 1,000248 24.846.747,37 Afgerond € 24.847.000,00 (2p)\nOpmerking Aan elk deelantwoord > 10.000.000 (= 2.000.000 + 3.000.000 + 5.000.000) geen scorepunten toekennen.",
 "pnt": 4,
+"top": [
+"interest"
+],
 "img": [
 "v21-2-b-3",
 "v21-2-b-4",
@@ -9101,6 +10527,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee bedrijfseconomische redenen waarom beleggers bereid zijn voor een converteerbare obligatie meer dan de nominale waarde te betalen.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De interestvergoeding op de obligaties (0,05% per maand) is hoger dan de interestvergoeding op een bankrekening.\n- De converteerbare obligatie biedt een financieel interessante mogelijkheid om aandelen te verkrijgen tegen een koers die lager is dan de beurskoers.\n- Converteerbare obligaties hebben weinig risico, omdat er een vaste interestvergoeding is, maar kunnen wel profiteren van een waardestijging van de onderliggende aandelen.\nper juiste reden 1",
 "pnt": 2,
+"top": [
+"obligaties"
+],
 "img": [
 "v21-2-b-6",
 "v21-2-b-7",
@@ -9122,6 +10551,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarom de uitgifte van een converteerbare obligatielening hier als een compromis van vreemd vermogen en eigen vermogen kan worden gezien.",
 "model": "• Een converteerbare obligatielening is vreemd vermogen, (1p)\n• maar wordt bij een conversie omgezet in eigen vermogen (in de vorm van geplaatst aandelenkapitaal) (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"obligaties"
+],
 "img": [
 "v21-2-b-3",
 "v21-2-b-4",
@@ -9147,6 +10580,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee bedrijfseconomische redenen waarom de aandeelhouders een eis stellen aan het maximumaantal uit te geven aandelen.",
 "model": "Voorbeelden van juiste redenen zijn:\n- Er treedt anders (te veel) stemverwatering op.\n- Het dividend per aandeel zal in de toekomst anders (te veel) zakken.\n- De beurskoers zal anders (te veel) zakken.\n- De intrinsieke waarde per aandeel zal anders (te veel) zakken.\nper juiste reden 1",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v21-2-b-3",
 "v21-2-b-4",
@@ -9172,6 +10608,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de maximale hoogte van het totale vreemd vermogen per 1 januari 2021 na het aantrekken van € 24.847.000.",
 "model": "• nieuw totaal vermogen = 125.153.000 + 24.847.000 = 150.000.000 (1p)\n150.000.000\n• maximaal vreemd vermogen: x 100% = 160% vreemd vermogen VV = 93.750.000 (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v21-2-b-8",
 "v21-2-o-7"
@@ -9192,6 +10631,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met behulp van een berekening aan of de directie van Broekenhuis het plan zal doorzetten. Vul hiertoe de uitwerkbijlage bij deze vraag volledig in.",
 "model": "in € | berekening\nfinancieringsbehoefte | 24.847.000 | zie vraag 6\nemissie obligaties | 8.000.000 | 3.200 x 2.000 x 1,25\nophoging lening bij de | 12.497.000 | 93.750.000 (vraag 10) –\nRoetbank | 8.000.000 – 5.800.000 – 12.000.000 – 42.919.000 – 11.600.000 – 934.000\nte verkrijgen uit | 4.350.000 | 24.847.000 – 8.000.000 –\naandelenemissie | 12.497.000\naantal te plaatsen | 181.174,51 | 24,50 x (1 – 0,02) = 24,01\naandelen | 4.350.000 / 24,01\nConclusie:\nBroekenhuis zet het plan wel/niet door, want het aantal geplaatste 181.174,51 aandelen stijgt met x 100% = 4,53% 2.000.000 0,5 (Dit is minder dan 5%.)\nof\n2.000.000 Er mogen maximaal x 0,5 = 200.000 aandelen worden geplaatst 0,05 (181.174,51 < 200.000).\n• 8.000.000 (1p)\n• 12.497.000 (1p)\n• 4.350.000 (1p)\n• 181.174,51 (2p)\n• niet + berekening conclusie (1p)\nOpmerking Als 181.174,51 is afgerond, geen scorepunt in mindering brengen.\nAanvulling van het CvTE, het antwoordmodel is aangepast. Nieuw antwoordmodel:\n2.000.000 Er mogen maximaal x 0,05 = 200.000 aandelen worden geplaatst 0,05 0,50 (181.174,51 < 200.000).",
 "pnt": 6,
+"top": [
+"aandelen",
+"vreemdvermogen"
+],
 "img": [
 "v21-2-b-3",
 "v21-2-b-4",
@@ -9218,6 +10661,9 @@ EXAMEN.vragen.push(...[
 "q": "Tot welke P van de marketingmix behoort de toevoeging van een ondertitel?",
 "model": "promotie",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "v21-2-o-8"
 ]
@@ -9237,6 +10683,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de voorgecalculeerde verkoopprijs inclusief btw per ijsje (hoorn + bol ijs) in 2021.",
 "model": "19,00\n• variabele kosten = 0,21 + = 0,21 + 0,19 = 0,40 (1p)\n5 x 20 15.000\n• constante kosten = = 0,60 25.000 standaardkostprijs 1,00 (1p)\n• resultaat per product 1,00 verkoopprijs exclusief btw 2,00 btw 0,18 verkoopprijs inclusief btw € 2,18 (1p)",
 "pnt": 3,
+"top": [
+"btw"
+],
 "img": [
 "v21-2-o-9"
 ]
@@ -9256,6 +10705,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met behulp van het voorcalculatorisch verkoopresultaat en het voorcalculatorisch bezettingsresultaat het voorcalculatorisch bedrijfsresultaat. Geef aan of het voordelige of nadelige resultaten betreft.",
 "model": "• voorcalculatorisch verkoopresultaat = (2,00 – 1,00) x 20.000 = 20.000 (voordelig) (1p)\n• voorcalculatorisch bezettingsresultaat = (20.000 – 25.000) x 0,60 = 3.000 nadelig voorcalculatorisch bedrijfsresultaat = € 17.000 voordelig (1p)",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v21-2-o-9"
 ]
@@ -9275,6 +10727,10 @@ EXAMEN.vragen.push(...[
 "q": "Teken de lijn die het verband weergeeft tussen de verwachte afzet/productie en het voorcalculatorisch bezettingsresultaat over 2021. Gebruik hiertoe de uitwerkbijlage bij deze vraag.",
 "model": "• De lijn start bij – 15.000 (1p)\n• De lijn snijdt de x-as bij 25.000 en eindigt bij 50.000 op de x-as op de hoogte van 15.000 op de y-as (1p)",
 "pnt": 2,
+"top": [
+"marktaandeel",
+"kostprijs"
+],
 "img": [
 "v21-2-u-2",
 "v21-2-o-9"
@@ -9295,6 +10751,9 @@ EXAMEN.vragen.push(...[
 "q": "Wat moet bij (1) ingevuld worden om een bedrijfseconomisch juiste zin te krijgen? Kies uit:\na meer\nb minder\nDe ontwikkeling van de kapitaalmarktrente heeft in 2020 invloed gehad op de solvabiliteit in de branche.",
 "model": "b minder",
 "pnt": 1,
+"top": [
+"kengetallen"
+],
 "img": [
 "v21-2-o-10"
 ]
@@ -9314,6 +10773,10 @@ EXAMEN.vragen.push(...[
 "q": "Wat moet bij a, b en c ingevuld worden om een bedrijfseconomisch juiste zin te krijgen? Kies uit: bij a: gestegen / gedaald bij b: groter / kleiner bij c: verbeterd / verslechterd\nDe balans per 31 december 2020 en de winst- en verliesrekening over 2020 van Schrijf & Zo zijn hieronder weergegeven.",
 "model": "• a = gedaald b = groter (1p)\n• c = verslechterd (1p)",
 "pnt": 2,
+"top": [
+"resultaat",
+"balans"
+],
 "img": [
 "v21-2-o-11"
 ]
@@ -9333,6 +10796,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de rentabiliteit van het totaalvermogen (RTV) van Schrijf & Zo over 2020 met behulp van het Dupontschema. Vul hiertoe het Dupontschema in de uitwerkbijlage volledig in.",
 "model": "EBIT = € 30.000 (25.000 + 5.000) : EBIT-marge = 15%\nomzet = € 200.000\nx RTV = 13,6%\nomzet = € 200.000\nomloopsnelheid van : het GTV 0,9091\nGTV = € 220.000\n• 30.000 en 220.000 (1p)\n• alle twee begrippen (EBIT en GTV) op de juiste plek (1p)\n• 15% en 0,9091 en 13,6% (1p)",
 "pnt": 3,
+"top": [
+"kengetallen"
+],
 "img": [
 "v21-2-u-2",
 "v21-2-o-12"
@@ -9353,6 +10819,9 @@ EXAMEN.vragen.push(...[
 "q": "Welk gevolg heeft de verkoop met korting voor de current ratio van Schrijf & Zo? Motiveer het antwoord en betrek in het antwoord zowel het teller- als het noemereffect.",
 "model": "• De teller neemt af doordat de voorraden met een groter bedrag afnemen dan de liquide middelen toenemen (1p)\n• De noemer blijft gelijk omdat het kort vreemd vermogen gelijk blijft. De current ratio verslechtert (1p)",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v21-2-o-12"
 ]
@@ -9370,6 +10839,9 @@ EXAMEN.vragen.push(...[
 "nr": 20,
 "ctx": "Bij deze opgave blijft de btw buiten beschouwing.\nSchrijf & Zo bv is een groothandel in kantoormiddelen. Per 31 december 2020 zijn onderstaande kengetallen van Schrijf & Zo en van de kantoormiddelenbranche bekend:\nkengetal (op 31 december 2020) Schrijf kantoormiddelenbranche & Zo (gemiddeld) current ratio: vlottende activa 1,13 1,0 kort vreemd vermogen quick ratio: vlottende activa exclusief voorraden 0,5 0,5 kort vreemd vermogen solvabiliteit: vreemd vermogen 71% 60% x 100% totaalvermogen\nDe financieel directeur van Schrijf & Zo merkt op dat de current ratio van Schrijf & Zo groter is dan het gemiddelde van die in de kantoorartikelenbranche. In vergelijking met de kantoormiddelenbranche is bij Schrijf & Zo een bepaalde omvang van de vlottende activa met relatief … (1) … kort vreemd vermogen gefinancierd dan met eigen vermogen en/of lang vreemd vermogen.\n…\nOndanks de uitverkoop van de incourante voorraden komt Schrijf & Zo in de financiële problemen. Er wordt in de loop van 2021 surseance van betaling aangevraagd.",
 "q": "Wie kan deze surseance van betaling aanvragen?",
+"top": [
+"faillissement"
+],
 "img": [
 "v21-2-o-12"
 ],
@@ -9397,6 +10869,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken of Paul op basis van een gemiddelde oogst tegen de gemiddelde prijs het minimaal gewenste resultaat kan behalen. Vul hiertoe de uitwerkbijlage bij deze vraag volledig in.",
 "model": "Resultaat uit een gemiddelde aardappeloogst tegen de gemiddelde prijs € € ruimte voor berekeningen 2\nx 12 = 8 3\nomzet 88.000 8 x 50 = 400 ton 400 x 220 zaaigoed 12.000 400 x 30 loonwerkers 16.000 8 x 2.000 overige kosten 15.200 totale kosten 43.200 verwacht resultaat 44.800\nConclusie: Paul kan wel/niet het minimaal gewenste resultaat behalen, want 44.800 > 42.000.\n• 88.000 (1p)\n• 44.800 (1p)\n• conclusie (1p)",
 "pnt": 3,
+"top": [
+"resultaat"
+],
 "img": [
 "v21-2-b-9",
 "v21-2-b-10",
@@ -9420,6 +10895,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een instantie die in Nederland toezicht houdt op de financiële markten.",
 "model": "een van de volgende antwoorden:\n- Autoriteit Financiële Markten / AFM\n- De Nederlandsche Bank / DNB",
 "pnt": 1,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v21-2-b-9",
 "v21-2-b-10",
@@ -9440,6 +10918,7 @@ EXAMEN.vragen.push(...[
 "nr": 23,
 "ctx": "In deze opgave blijven de belastingen buiten beschouwing.\nPaul van Haperen is een aardappelteler uit Zeeuws-Vlaanderen. Uit de aardappelteelt wil hij jaarlijks een resultaat van minimaal € 42.000 behalen. In informatiebron 5 staan gegevens over het bedrijf van Paul en de aardappelmarkt.\n…\nAankoop termijncontract\nPaul koopt via de EPX een termijncontract met voor hem een gegarandeerde minimumprijs (zie informatiebron 6).",
 "q": "Dit termijncontract kan het beste vergeleken worden met",
+"top": [],
 "img": [
 "v21-2-b-10",
 "v21-2-o-14"
@@ -9468,6 +10947,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken bij de verschillende marktprijzen de opbrengsten en kosten. Vul hiertoe de uitwerkbijlage bij deze vraag in.",
 "model": "Verwacht resultaat bij een gemiddelde oogst, met een gekocht en verkocht termijncontract, bij verschillende marktprijzen\nmarktprijs per ton in € 210 220 230 240 opbrengsten\n- oogst 88.000 88.000 92.000 92.000\n- verkocht 3.200 3.200 3.200 3.200 termijncontract kosten\n- oogst (vraag 21) 43.200 43.200 43.200 43.200\n- gekocht 4.800 4.800 4.800 4.800 termijncontract\nverwacht resultaat 43.200 43.200 47.200 47.200\ngemiddelde oogst in ton (zie vraag 21) opbrengsten oogst bij marktprijs van: | 400 ton\n€ 210: | 400 x 220 (minimumprijs) = 88.000\n€ 220: | 400 x 220 | = 88.000\n€ 230: | 400 x 230 | = 92.000\n€ 240: | 400 x 230 (maximumprijs) = 92.000\nopbrengst verkocht termijncontract | 16 x 200 = 3.200\nkosten gekocht termijncontract | 16 x 300 = 4.800\nVoor de rijen:\n• oogst (1p)\n• verkocht termijncontract (1p)\n• gekocht termijncontract (1p)\n• verwacht resultaat (1p)",
 "pnt": 4,
+"top": [
+"resultaat"
+],
 "img": [
 "v21-2-b-10",
 "v21-2-b-11",
@@ -9490,6 +10972,9 @@ EXAMEN.vragen.push(...[
 "q": "Teken in de uitwerkbijlage bij deze vraag het verloop van het resultaat dat Paul in 2020 uit de aardappelteelt verwacht te behalen bij een marktprijs van 200 tot 250 euro, als Paul gebruikmaakt van beide termijncontracten. Nummer de lijn (2).",
 "model": "• horizontale delen van lijn (2) (1p)\n• schuin deel van lijn (2) (1p)",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v21-2-b-9",
 "v21-2-b-10",
@@ -9513,6 +10998,9 @@ EXAMEN.vragen.push(...[
 "q": "Voldoet de situatie met beide termijncontracten aan de eis van Paul van een resultaat van € 42.000? Motiveer het antwoord.",
 "model": "• Ja, de situatie met beide termijncontracten voldoet (1p)\n• want zie antwoord vraag 24: zijn gegarandeerde resultaat is > € 42.000.\nof zie bij lijn (2): zijn gegarandeerde resultaat blijft > € 42.000 1",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v21-2-b-9",
 "v21-2-b-10",
@@ -9535,6 +11023,9 @@ EXAMEN.vragen.push(...[
 "q": "Hoe zijn de drie begrippen ‘bedrijfseconomische doelstelling’, ‘kernwaarden’ en ‘personeelsbeleid’ gerelateerd aan elkaar? Noteer het antwoord door achter de nummers (1), (2) en (3) het juiste begrip te zetten.Noteer het als volgt: (1) = (2) = (3) =\nMarit Groenendijk heeft sinds 1 maart 2019 bij Verma een arbeidsovereenkomst voor onbepaalde tijd. Marit heeft medio 2020 een officieel gesprek met haar werkgever waarin Marit aangeeft tevreden te zijn over haar werk en werkzaamheden. Haar werkgever is ook tevreden over de kwaliteit van het werk dat Marit levert, maar heeft ook een aantal verbeterpunten. Ze maken in onderling overleg afspraken over hoe Marit voor 1 januari 2021 verbetering kan gaan laten zien in haar werkzaamheden en op welke ondersteuning ze daarbij mag rekenen.",
 "model": "(1) = kernwaarden (2) = personeelsbeleid (3) = bedrijfseconomische doelstelling\nAanvulling van het CvTE:\nOok goed rekenen: (1) = kernwaarden (2) = bedrijfseconomische doelstelling (3) = personeelsbeleid",
 "pnt": 1,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v21-2-o-15"
 ]
@@ -9554,6 +11045,7 @@ EXAMEN.vragen.push(...[
 "q": "Hoe wordt een dergelijk gesprek tussen Marit en haar werkgever formeel genoemd? Motiveer het antwoord door een kenmerk van een dergelijk gesprek te noemen.",
 "model": "• Een functioneringsgesprek / voortgangsgesprek (1p)\n• omdat dit een gelijkwaardig gesprek is / om afspraken gaat over het verbeteren van het functioneren door de werknemer en de wijze waarop de werkgever dat gaat ondersteunen / op de toekomst gericht is (1p)\nOpmerking Het tweede scorepunt kan alleen worden toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [],
 "img": [
 "v21-2-o-15"
 ]
@@ -9571,6 +11063,9 @@ EXAMEN.vragen.push(...[
 "nr": 29,
 "ctx": "Verma bv is een verzekeringsmaatschappij voor particulieren. De bedrijfseconomische doelstelling van Verma is ‘het duurzaam realiseren van een positief bedrijfsresultaat’. Verma heeft als kernwaarden ‘rechtvaardigheid’ en ‘zorgvuldigheid’. Onlangs heeft Verma het personeelsbeleid herzien. De bedrijfseconomische doelstelling, kernwaarden en personeelsbeleid zijn aan elkaar gerelateerd volgens onderstaande structuur:\n... (1) … leidt tot => ... (2) … leidt tot => … (3) …\n…\nHaar werkgever is van mening dat Marit zich niet aan de gemaakte afspraken gehouden heeft en wil haar per 31 december 2020 ontslaan. Marit denkt dat dit ontslag ongegrond is en wil zich hiertegen verzetten.",
 "q": "Bij welke onafhankelijk(e) instelling/orgaan kan Marit voor hulp bij dit verzet terecht, gelet op de aard van de werkzaamheden van deze/dit instelling/orgaan?",
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v21-2-o-16"
 ],
@@ -9598,6 +11093,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem voor een organisatie in het algemeen twee nadelen van het inhuren van zzp’ers ten opzichte van personeel in loondienst. Licht het antwoord toe.",
 "model": "• Een zzp’er kan in tijden van krapte op de arbeidsmarkt onderhandelen over een hogere beloning, terwijl het ziekenhuis een medewerker met een contract voor onbepaalde tijd kan houden aan een cao. De organisatie moet dus vaker onderhandelen (1p)\n• Een zzp’er heeft minder binding met de organisatie / geringere loyaliteit met de opdrachtgever (1p)",
 "pnt": 2,
+"top": [
+"starten"
+],
 "img": [
 "v21-3-o-2"
 ]
@@ -9617,6 +11115,7 @@ EXAMEN.vragen.push(...[
 "q": "Noem een voordeel en een ander nadeel voor het CarolusUMC van het werken met een headhunter in plaats van het zelf aantrekken van personeel.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Voordeel: een headhunter is gespecialiseerd / kent de arbeidsmarkt.\n- Nadeel: een headhunter kent de cultuur van een afdeling niet / kan ‘op papier’ een kandidaat beoordelen, maar heeft geen ervaring als werknemer in de organisatie.\nper juist antwoord 1",
 "pnt": 2,
+"top": [],
 "img": [
 "v21-3-o-2"
 ]
@@ -9636,6 +11135,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef een reden waarom de kernwaarde ‘persoonlijke zorg voor het personeel’ in een grote en hiërarchische organisatie als een academisch ziekenhuis mogelijk moeilijk waar te maken is.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- In een grote en hiërarchische organisatie is er sprake van een grote afstand tussen leiding en werkvloer, waardoor mensen makkelijk over het hoofd kunnen worden gezien.\n- Een ziekenhuis is een organisatie met verschillende diensten (dag/nacht). Personeel werkt daardoor in wisselende samenstelling met elkaar. Mensen worden minder snel ‘gemist’.",
 "pnt": 1,
+"top": [
+"rechtsvorm",
+"prive"
+],
 "img": [
 "v21-3-o-3"
 ]
@@ -9655,6 +11158,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef aan hoe uit bovenstaande personeelsadvertentie blijkt dat er bij het CarolusUMC sprake is van de mogelijkheid tot professionele ontwikkeling. Licht het antwoord toe.",
 "model": "• Werknemers bij een UMC zijn actief betrokken bij de opleiding van studenten (1p)\n• Door als opleider te fungeren, neemt de deskundigheid van de opleider zelf ook toe (1p)\nof\n• Het werken in teamverband (en het leren van anderen) (1p)\n• is een indicatie van geboden mogelijkheden voor persoonlijke ontwikkeling (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"personeel"
+],
 "img": [
 "v21-3-o-3"
 ]
@@ -9674,6 +11180,10 @@ EXAMEN.vragen.push(...[
 "q": "Is er bij een aansprakelijkheidsverzekering sprake van een schadeverzekering of van een levensverzekering? Licht het antwoord toe.",
 "model": "• schadeverzekering (1p)\n• Een aansprakelijkheidsverzekering is bedoeld voor de opvang van schade die aan anderen is aangericht (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"prive",
+"rechtsvorm"
+],
 "img": [
 "v21-3-o-3"
 ]
@@ -9693,6 +11203,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee gegevens uit informatiebron 1 die aantonen dat het ondernemersgedrag van Wagenaar sinds 2015 kenmerken heeft van effectuation. Licht je antwoorden toe.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Er worden nieuwe markten geïdentificeerd: uit het onderzoek blijkt dat de markt voor webshops verandert en daardoor ook de vraag naar bepaalde diensten.\n- Er wordt uitgegaan van beschikbare middelen: Wagenaar gebruikt het bestaande pand om andere / meerdere diensten aan te bieden.\n- Er worden strategische partners gevonden: Wagenaar sluit een samenwerkingsovereenkomst met PostNL.\nper juiste combinatie van antwoord en toelichting 1",
 "pnt": 2,
+"top": [
+"aandelen",
+"kostprijs"
+],
 "img": [
 "v21-3-b-3",
 "v21-3-o-4"
@@ -9713,6 +11227,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een financieel voordeel voor Wagenaars klanten om hun voorraden off-balance te halen. Motiveer het antwoord.",
 "model": "• Bij het off-balance halen van de voorraden zit er geen geld/vermogen meer ‘vast’ in voorraden (1p)\n• wat kan leiden tot (een van de volgende): (1p)\n- minder interestkosten indien gefinancierd met vreemd vermogen.\n- meer rendement, omdat webshops hun vrijgemaakte vermogen op een andere (rendabelere) wijze kunnen inzetten.\n- minder risico op kosten bij brand / diefstal / veroudering, omdat het economisch risico niet meer bij de webshops ligt.",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v21-3-b-3",
 "v21-3-b-4",
@@ -9737,6 +11254,10 @@ EXAMEN.vragen.push(...[
 "q": "Welke van deze twee oorzaken heeft de grootste invloed op het nadelige budgetresultaat op de loonkosten van de orderpickers? Motiveer het antwoord met behulp van een berekening van het efficiencyresultaat en een berekening van het prijsresultaat van de loonkosten van de orderpickers (zie formuleblad). Geef per resultaat aan of het een voordelig of een nadelig resultaat betreft.",
 "model": "• efficiencyresultaat: 6 (9p)\n(365.000 x – 365.000 x ) x 15 = € 273.750 nadelig/negatief/- 1\n60 60\n• prijsresultaat: (9p)\n(15 – 16) x 365.000 x = € 54.750 nadelig/negatief/- 1\n60\n• Het aantal minuten per orderpick heeft de grootste invloed (1p)\nOpmerking Als het efficiencyresultaat of het prijsresultaat via het budgetresultaat is berekend, worden hiervoor geen scorepunten in mindering gebracht.",
 "pnt": 3,
+"top": [
+"personeel",
+"verschillen"
+],
 "img": [
 "v21-3-b-4",
 "v21-3-o-5"
@@ -9757,6 +11278,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de krapte op de arbeidsmarkt een oorzaak kan zijn van het berekende efficiency- en prijsresultaat van de loonkosten van de orderpickers van Wagenaar. Betrek in het antwoord beide resultaten.",
 "model": "Door de krapte op de arbeidsmarkt:\n• kan het prijsresultaat negatief uitpakken, omdat het uitzendbureau in 2020 de uitzendkrachten een hoger salaris moest betalen dan van tevoren was gecalculeerd (1p)\n• kan het efficiencyresultaat negatief uitpakken, omdat mensen sneller elders een aanstelling voor onbepaalde tijd krijgen en daardoor vaker mensen ingewerkt moeten worden / geen gespecialiseerd personeel te vinden is (1p)",
 "pnt": 2,
+"top": [
+"personeel"
+],
 "img": [
 "v21-3-b-3",
 "v21-3-b-4",
@@ -9781,6 +11305,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de gerealiseerde loonkosten van de orderpicker per order een prestatie-indicator (PI) betreffen en geen kritische succesfactor (KSF). Betrek in het antwoord zowel PI als KSF.",
 "model": "• PI geeft een indicatie van de prestaties van de orderpickers die gemeten worden via de loonkosten per order (1p)\n• KSF zijn factoren die het succes van een onderneming verklaren/bepalen, in concreto de prestaties van de orderpickers (1p)",
 "pnt": 2,
+"top": [
+"strategie",
+"personeel"
+],
 "img": [
 "v21-3-b-3",
 "v21-3-b-4",
@@ -9805,6 +11333,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het verwachte minimumaantal fte aan orderpickers voor onbepaalde tijd per week over 2021 (zie informatiebron 3).",
 "model": "Voorbeelden van een juist antwoord zijn: 35 x 60\n• = 525 orders per week per fte (1p)\n 4\n7 x 600\n• = 8 fte per week 525\nof 4 7\n600 x x = 8 fte per week 1\n60 35\nAanvulling van het CvTE, het antwoordmodel is aangepast. Nieuw antwoordmodel:\nmaximumscore 2\nVoorbeelden van een juist antwoord zijn: 35 x 60\n• = 525 orders per week per fte (1p)\n 4\n7 x 600\n• = 8 fte per week (1p)\n525\nof\n4 | 7\n600 x | x | = 8 fte per week\n60 | 35",
 "pnt": 2,
+"top": [
+"personeel",
+"vreemdvermogen"
+],
 "img": [
 "v21-3-b-5",
 "v21-3-b-6",
@@ -9826,6 +11358,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat aan de gewenste PI van € 1,50 over 2021 zal worden voldaan (zie informatiebron 3).",
 "model": "7 x (1.000 – 600 ) x 6\n• aantal uur uitzendkrachten per week: = 280 uur (1p)\n60\n• loonkosten 2021: (8 x 500 x 52) + (280 x 16 x 52) = 440.960 (1p)\n440.960\n• = € 1,21 (1,21 < 1,50 dus voldaan) (1p)\n365 x 1.000\nOpmerking Als er is gerekend met 366 dagen omdat 2020 een schrikkeljaar is, wordt dit niet fout gerekend.",
 "pnt": 3,
+"top": [
+"arbeidsrecht",
+"personeel"
+],
 "img": [
 "v21-3-b-5",
 "v21-3-b-6",
@@ -9847,6 +11383,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte toename van de interestkosten over 2021 als gevolg van het plan van Wagenaar (zie informatiebron 4).",
 "model": "• benodigd vreemd vermogen: 0,6 x (544.500 + 36.300) = 348.480 interestkosten eerste halfjaar: 0,04 x 0,5 x 348.480 = 6.969,60 (2p)\n• interestkosten tweede halfjaar: 19 348.480 x x 0,5 x 0,04 = 6.621,12 + 20 totaal: € 13.590,72 (1p)",
 "pnt": 3,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v21-3-b-7",
 "v21-3-o-6"
@@ -9867,6 +11406,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte toename van de afschrijvingskosten over 2021 als gevolg van het plan van Wagenaar (zie informatiebron 4).",
 "model": "544.500 x 0,75 1,21\n• orderpicksysteem: = 33.750 (1p)\n10 36.300 1,21\n• software: = 3.000 + 10 totaal: € 36.750 (1p)",
 "pnt": 2,
+"top": [
+"afschrijving"
+],
 "img": [
 "v21-3-b-7",
 "v21-3-o-6"
@@ -9887,6 +11429,10 @@ EXAMEN.vragen.push(...[
 "q": "Zal Wagenaar het plan per 1 januari 2021 uitvoeren? Motiveer het antwoord met behulp van een berekening.",
 "model": "• verwachte afname loonkosten orderpickers in 2021: 876.000 – 440.960 (vraag 12) = 435.040 (1p)\n• verwachte toename interestkosten en afschrijvingskosten in 2021: 13.590,72 (vraag 13) + 36.750 (vraag 14) = 50.340,72 435.040 > 50.340,72 (1p)\n• én de gewenste PI van € 1,50 over 2021 wordt naar verwachting behaald (vraag 12), dus Wagenaar zal het plan uitvoeren (1p)",
 "pnt": 3,
+"top": [
+"personeel",
+"afschrijving"
+],
 "img": [
 "v21-3-b-3",
 "v21-3-b-4",
@@ -9911,6 +11457,7 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de reissom per leerling in 2021. Rond af op hele euro’s.",
 "model": "Een voorbeeld van een juiste berekening is: 375 x 107,89 = € 410 98,68",
 "pnt": 1,
+"top": [],
 "img": [
 "v21-3-o-8"
 ]
@@ -9930,6 +11477,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken per leerling de eindwaarde per 1 november 2021 van de maandelijkse stortingen door een leerling (zie formuleblad).",
 "model": "10 x (1 + 1,0015 … + 1,001526) = € 275,33\n1,001527 - 1 S=1x = 27,53314089 1,0015 - 1\n(Hierbij is voor de somformule a = 1 r = 1,0015 n = 27)",
 "pnt": 2,
+"top": [
+"interest"
+],
 "img": [
 "v21-3-o-9"
 ]
@@ -9949,6 +11499,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat de school op 1 september 2020 op de spaarrekening heeft bijgestort.",
 "model": "( 410 – 275,33 ) x 56 = € 7.384,92 1,001514",
 "pnt": 2,
+"top": [
+"interest"
+],
 "img": [
 "v21-3-o-9"
 ]
@@ -9968,6 +11521,9 @@ EXAMEN.vragen.push(...[
 "q": "Tot welke P van de marketingmix van LOTTRAVEL behoort deze geleverde service?",
 "model": "product",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "v21-3-o-9"
 ]
@@ -9987,6 +11543,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag met betrekking tot de verkoop van knipbehandelingen dat Patty opneemt in de exploitatiebegroting over 2021.",
 "model": "29 x 3.000 + 57.200 + 15.300 = € 146.330,28 1,09",
 "pnt": 1,
+"top": [
+"resultaat"
+],
 "img": [
 "v21-3-o-10"
 ]
@@ -10006,6 +11565,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte inkoopwaarde van de omzet van kappersproducten in 2021.",
 "model": "900 + 800 + 950 + 875 + (1.200 – 1.400) = € 2.713,22 1,21",
 "pnt": 2,
+"top": [
+"btw"
+],
 "img": [
 "v21-3-o-11"
 ]
@@ -10025,6 +11587,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de bijdrage van de verkopen van kappersproducten aan het totale bedrijfsresultaat van Patkap over 2021. Geef aan of het een voordelige of een nadelige bijdrage betreft.",
 "model": "1.647 + 1.553 + 1.275 + 1.619\n• = 5.036,36 (1p)\n1,21\n• 5.036,36 – 2.713,22 – 600 = € 1.723,14 voordelig/positief/+ (1p)",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v21-3-o-11"
 ]
@@ -10044,6 +11609,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken op basis van informatiebron 5 de verwachte variabele kosten per motor in 2021 voor Motormuis.",
 "model": "Voorbeeld van een juiste berekening is: Bij een toename van de afzet van bijvoorbeeld 100 naar 200 stuks stijgen de totale kosten van 100 x 2.250 = 225.000 naar 200 x 1.350 = 270.000. Deze stijging betreft alleen variabele kosten. Dus variabele kosten per 270.000 - 225.000 stuk: = € 450 200 - 100",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v21-3-b-8",
 "v21-3-o-12"
@@ -10064,6 +11632,9 @@ EXAMEN.vragen.push(...[
 "q": "Beargumenteer de stelling van de financieel directeur met behulp van informatiebron 6.",
 "model": "• De vennootschapsbelasting in België is hoger dan in Zwitserland (1p)\n• (Daarom is het gunstiger voor Schavuyt om de winst zoveel mogelijk te laten plaatsvinden in Zwitserland.) Bij een zo laag mogelijke transfer price zal de winst voor Motormuis in België minimaal zijn en voor Das Boot in Zwitserland maximaal (1p)",
 "pnt": 2,
+"top": [
+"vpb"
+],
 "img": [
 "v21-3-b-9",
 "v21-3-o-13"
@@ -10084,6 +11655,7 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de transfer price per motor in 2021.",
 "model": "• omzet bij uitsluitend levering aan externen: 900 x 740 = 666.000 (1p)\n• (Bij levering aan Das Boot moet deze omzet minimaal gehaald worden: de kosten blijven immers gelijk) omzet bij externe levering = (900 – 180) x 755 = 543.600 666.000 – 543.600 transfer price = = € 680 (1p)\n180",
 "pnt": 2,
+"top": [],
 "img": [
 "v21-3-b-8",
 "v21-3-b-9",
@@ -10105,6 +11677,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het verwachte totale resultaat na aftrek van vennootschapsbelasting voor Schavuyt over 2021. Geef aan of het een voordelig of een nadelig resultaat betreft.",
 "model": "• Motormuis: 666.000 – 900 x 450 – 180.000 = 81.000 81.000 x (1 – 0,25) = 60.750 (2p)\n• Das Boot: 180 x (3.450 – 680 – 700) – 270.000 = 102.600 102.600 x (1 – 0,14) = 88.236 totaal: € 148.986 voordelig/positief/+ (2p)",
 "pnt": 4,
+"top": [
+"vpb"
+],
 "img": [
 "v21-3-b-8",
 "v21-3-b-9",
@@ -10126,6 +11701,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef van elk van de bovenstaande drie maatregelen a, b en c aan of die zal leiden tot een verbetering van de quick ratio. Motiveer de antwoorden. Betrek in het antwoord zowel het teller- als het noemereffect van de quick ratio. Vul de uitwerkbijlage bij deze vraag volledig in.",
 "model": "maatregel wel / geen motivatie verbetering quick ratio a wel - De teller stijgt door een stijging van de liquide middelen én\n- het kort vreemd vermogen / de noemer blijft gelijk. b geen - De teller blijft gelijk én\n- het kort vreemd vermogen / de noemer blijft gelijk. c geen - De liquide middelen nemen net zoveel toe als de vlottende activa afnemen, dus de teller blijft gelijk én\n- het kort vreemd vermogen / de noemer blijft gelijk.\nper juist antwoord per maatregel 1",
 "pnt": 3,
+"top": [
+"kengetallen"
+],
 "img": [
 "v21-3-u-1",
 "v21-3-o-14"
@@ -10146,6 +11724,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een reden waarom Sensios een maximum stelt aan de hoogte van de quick ratio. Motiveer het antwoord.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Als de quick ratio te hoog is, worden er meer liquide middelen achter de hand gehouden dan benodigd voor betalingsverplichtingen op korte termijn. Dit geld kan beter worden geïnvesteerd in zaken die leiden tot een hoger rendement.\n- Er kan sprake zijn van een hoog debiteurensaldo met een risico dat deze debiteuren niet zullen betalen.",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v21-3-o-15"
 ]
@@ -10165,6 +11746,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken hoeveel eigen aandelen hiervoor worden teruggekocht.",
 "model": "• (145.000 + 35.000 + 60.000) x 1,4 = 336.000 (1p)\n• 91.000 + 212.000 + 153.000 – 336.000 = 120.000 (1p)\n120.000\n• = 240 aandelen (1p)\n500",
 "pnt": 3,
+"top": [
+"aandelen"
+],
 "img": [
 "v21-3-o-15"
 ]
@@ -10184,6 +11768,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een positief gevolg voor de aandeelhouders van Sensios die hun aandelen behouden. Motiveer het antwoord.",
 "model": "• Het dividend per aandeel stijgt (bij gelijkblijvend totaal dividend) / beurskoers stijgt / intrinsieke waarde per aandeel stijgt / zeggenschap per geplaatst aandeel stijgt (1p)\n• door het terugkopen zijn er minder geplaatste aandelen (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v21-3-o-15"
 ]
@@ -10203,6 +11790,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef voor deze salarisregeling een argument. Licht het antwoord toe.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Vanwege de kwaliteit van het werk: als een medewerker per advies wordt betaald, kan het werk worden afgeraffeld en is de kwaliteit mogelijk onder de maat. Dit is op termijn slecht voor het imago.\n- Vanwege de werksfeer: medewerkers kunnen elkaar onderling beconcurreren op opdrachten.\n- De bereidheid om elkaar te helpen kan verdwijnen: de tijd die een medewerker besteedt aan het helpen van een andere medewerker, gaat ten koste van het eigen werk.\nvoor een juist antwoord 2\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 2,
+"top": [
+"kostprijs",
+"personeel"
+],
 "img": [
 "v22-1-o-2"
 ]
@@ -10222,6 +11813,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de kostprijs van elk van de adviezen, basic én comfort.",
 "model": "• N is (5 x 36) x 46 = 8.280 uur per jaar (1p)\nC 89.600 + 490.000\n• = = € 70 per uur (1p)\nN 8.280\n• basic 15 x 70 + 150 = € 1.200 comfort 18 x 70 + 150 = € 1.410 (1p)",
 "pnt": 3,
+"top": [
+"kostprijs"
+],
 "img": [
 "v22-1-o-2"
 ]
@@ -10241,6 +11835,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gerealiseerde verkoopresultaat van het kantoor in Hypoveen over 2021. Geef aan of dit een voordelig/positief/+ of een nadelig/negatief/– resultaat is.",
 "model": "200 x (1.400 – 1.200) + 300 x (1.800 – 1.410) = € 157.000 voordelig/ positief/+\nOpmerking Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v22-1-o-3"
 ]
@@ -10260,6 +11857,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gerealiseerde bezettingsresultaat op de constante kosten van het kantoor in Hypoveen over 2021. Geef aan of dit een voordelig/positief/+ of een nadelig/negatief/– resultaat is.",
 "model": "(3.100 + 5.100 – 8.280) x 70 = € 5.600 nadelig/negatief/-\nOpmerking Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v22-1-o-3"
 ]
@@ -10279,6 +11879,9 @@ EXAMEN.vragen.push(...[
 "q": "Hoe blijkt uit informatiebron 1 dat Hiero kiest voor gedifferentieerde marketing? Licht het antwoord toe met twee P’s van de marketingmix.",
 "model": "• Er worden meerdere doelgroepen onderscheiden met een verschillende invulling van de marketingmix: (1p)\n• en twee van de volgende P’s (2p)\n- Product: ze hebben een kleiner aanbod van producten voor mensen die niet met de app kunnen omgaan.\n- Plaats: voor de mensen die niet met de app kunnen omgaan, is er een papieren bestelformulier in plaats van digitaal.\n- Promotie: mensen die niet met de app kunnen omgaan, worden bereikt via de wijkkrant en de hulpverlening. Anderen worden bereikt via de app en sociale media.\nOpmerking Voor elke van de twee beantwoorde P’s, 1 scorepunt toekennen.",
 "pnt": 3,
+"top": [
+"marketingmix"
+],
 "img": [
 "v22-1-b-3",
 "v22-1-o-4"
@@ -10299,6 +11902,7 @@ EXAMEN.vragen.push(...[
 "q": "Ondersteun de bewering van Selma met behulp van twee argumenten uit informatiebron 2.",
 "model": "• De subsidie is per bezorging en niet per bezorging aan een 65–plusser (1p)\n• Het bestelbedrag is in West lager dan in Engelen en daarmee ook de variabele vergoeding voor Hiero (1p)",
 "pnt": 2,
+"top": [],
 "img": [
 "v22-1-b-4",
 "v22-1-b-5",
@@ -10320,6 +11924,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met behulp van informatiebron 2 de verwachte wekelijkse opbrengst in de periode van 1 april 2021 tot en met 31 maart 2022. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "aantal bestellingen berekening West 416 43.680 x 0,2 x 0,1 2,1 Engelen 208 21.840 x 0,2 x 0,1 2,1\nVerwachte opbrengst van Hiero per week van 1 april 2021 tot en met 31 maart 2022\nsoort opbrengst | bedrag | berekening\nvariabele vergoeding | € 2.600 | (416 x 70 + 208 x 110) x 0,05\nvast bezorgtarief | € 1.560 | (416 + 208) x 2,5\nsubsidie gemeente | € | 312 | 1.560 x 0,20\ntotaal | € 4.472\n• 416 en 208 (1p)\n• 2.600 (1p)\n• 1.560, 312 en 4.472 (1p)",
 "pnt": 3,
+"top": [
+"resultaat"
+],
 "img": [
 "v22-1-b-4",
 "v22-1-b-5",
@@ -10342,6 +11949,10 @@ EXAMEN.vragen.push(...[
 "q": "Stel voor Hiero de openingsbalans per 1 april 2021 op. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "debet | Openingsbalans Hiero per | credit 1 april 2021 (getallen x € 1)\nApp | 12.500 | Aandelenkapitaal | 42.500 4% Onderhandse\nBezorgauto’s | 44.000 | lening | 29.000\nBezorgkratten | 10.000 | Crediteuren | 5.000\nOverige vaste activa | 7.000\nBank | 3.000\n76.500 | 76.500\nruimte voor berekeningen: Bezorgauto’s 22.000 x 2 = 44.000 Crediteuren 10.000 = 5.000 2\n4% Onderhandse tv = 12.500 + 44.000 + 10.000 + 7.000 + 3.000 lening = 76.500 tv = 2,25 dus vv = 76.500 = 34.000 vv 2,25 4% Onderhandse lening = 34.000 - 5.000 = 29.000\nAandelenkapitaal 76.500 – 34.000 = 42.500\n• 44.000 en 5.000 (1p)\n• 29.000 (1p)\n• 42.500 en 76.500 (1p)",
 "pnt": 3,
+"top": [
+"vreemdvermogen",
+"aandelen"
+],
 "img": [
 "v22-1-b-6",
 "v22-1-u-2",
@@ -10363,6 +11974,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte jaarlijkse totale afschrijvingskosten als gevolg van de aanschaf van de elektrische Goupils.",
 "model": "22.000 - (1.500 - 500) x 2 = € 7.000 6",
 "pnt": 1,
+"top": [
+"afschrijving"
+],
 "img": [
 "v22-1-b-7",
 "v22-1-o-5"
@@ -10383,6 +11997,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte jaarlijkse totale variabele kosten van beide elektrische Goupils.",
 "model": "1.000\n• = 0,10 per km kostenvoordeel. 10.00 0 km Variabele kosten per km: 0,14 – 0,10 = 0,04 voor elektrisch (1p)\n• 2 x 300 x 50 x 0,04 = € 1.200 (1p)\nToelichting Bij 0 kilometer is het kostenvoordeel van de elektrische auto € 1.000 negatief. Dat kan alleen maar door de constante kosten komen. In 10.000 km is er € 1.000 aan totale kosten door de elektrische auto ingehaald. Dat kan alleen maar komen door de variabele kosten en die zijn € 1.000 dan = € 0,10 per km aan verschil. 10 .0 00 km",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v22-1-b-3",
 "v22-1-b-4",
@@ -10408,6 +12025,9 @@ EXAMEN.vragen.push(...[
 "q": "Stel voor Hiero de exploitatiebegroting op over het boekjaar van 1 april 2021 tot en met 31 maart 2022. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "Exploitatiebegroting (getallen x € 1) boekjaar 1 april 2021 – 31 maart 2022\nopbrengsten kosten | 232.544\nkosten vergoed aan Noor | 16.800\nvariabele kosten Goupils | 1.200\nloonkosten | 186.756\ntotaal | 204.756\nEBITDA | 27.788\ninterestkosten | 1.110\nafschrijvingskosten Goupils | 7.000\noverige afschrijvingskosten | 1.250\ntotaal | 9.360\nresultaat voor belasting | 18.428\nruimte voor berekeningen:\nopbrengsten | 52 x 4.472 (zie vraag 7)\ninterestkosten | 9 | 3\n29.000 x 0,04 x | + (29.000 - 5.000) x 0,04 x\n12 | 12\nloonkosten | 3 x 44.000 + 75 x 52 x 10 x 1,08 x 1,30\n• 232.544 (1p)\n• 16.800, 1.200, 186.756, 204.756 en 27.788 (1p)\n• 1.110, 7.000, 1.250, 9.360 en 18.428 (1p)\n• alle posten op de juiste plaats (1p)",
 "pnt": 4,
+"top": [
+"resultaat"
+],
 "img": [
 "v22-1-b-8",
 "v22-1-u-3",
@@ -10429,6 +12049,10 @@ EXAMEN.vragen.push(...[
 "q": "Onderbouw met twee argumenten de opvatting van de begeleider.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De vennootschapsbelasting moet er nog af.\n- Over het beschikbare dividend wordt dividendbelasting ingehouden.\n- Resultaat kan ook worden gebruikt om via de reserves het Eigen vermogen te versterken.\n- Hun bruto-inkomen is hoger: ze staan immers ook op de loonlijst als DGA’s.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"vpb",
+"winstverdeling"
+],
 "img": [
 "v22-1-b-3",
 "v22-1-b-4",
@@ -10454,6 +12078,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een andere vermogenstitel waarin kan worden belegd, naast aandelen en opties.",
 "model": "obligatie",
 "pnt": 1,
+"top": [
+"aandelen"
+],
 "img": [
 "v22-1-o-6"
 ]
@@ -10473,6 +12100,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef aan wat er bij (a), (b) en (c) moet komen te staan. Kies bij (a) uit call–opties / put–opties bij (b) uit shortpositie / longpositie en vul bij (c) het juiste begrip in.",
 "model": "• (a) put-opties (1p)\n• (b) longpositie (1p)\n• (c) hedgen / (risico)hedging (1p)",
 "pnt": 3,
+"top": [
+"aandelen"
+],
 "img": [
 "v22-1-o-6"
 ]
@@ -10492,6 +12122,10 @@ EXAMEN.vragen.push(...[
 "q": "Welke bedragen moeten er bij (d) en (e) worden ingevuld? Motiveer de antwoorden.",
 "model": "• d: € 18. Vanaf deze aandelenkoers zal Sibel niet van haar uitoefenrecht gebruikmaken, omdat ze op de beurs meer kan krijgen dan de € 18 bij uitoefening van haar optierecht. Het rendement is dan 100% verlies (is de betaalde optiepremie) (1p)\n• e: bij een beurskoers van € 14 is de totale winst € 0. De winst die gemaakt wordt bij uitoefening op het aandeel is dan gelijk aan de optiepremie, dus 18 – 14 – e = 0 → e = € 4 (1p)\nof e: bij beurskoers van € 0 is het verwachte rendement + 350% 18 - 4 x 100% = 350% belegging belegging = optiepremie = € 4 1",
 "pnt": 2,
+"top": [
+"aandelen",
+"prive"
+],
 "img": [
 "v22-1-o-7"
 ]
@@ -10511,6 +12145,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het rendement in procenten dat Sibel behaalt met haar beleggingen. Geef aan of het een voordelig/positief /+ of een nadelig/ negatief/– rendement betreft.",
 "model": "• resultaat in euro’s = 200 x (18 – 14,75 – 4) = – 150 (1p)\n• belegging = 200 x (14,75 + 4) = 3.750\n- 150 rendement in procenten = x 100% = – 4% dus negatief 1\n3 .750\nof\n18 – 14,75 – 4\n• x 100% = – 4% dus negatief (2p)\n14,75 + 4",
 "pnt": 2,
+"top": [
+"beleggen"
+],
 "img": [
 "v22-1-o-7"
 ]
@@ -10530,6 +12167,9 @@ EXAMEN.vragen.push(...[
 "q": "Indien Henk Verhaas geen testament heeft laten opmaken, wie zijn dan de erfgenamen van Henk Verhaas? Noteer de letter(s) van het/de juiste antwoord(en).\na Willem\nb Frederik\nc Sander\nd Willemijn\ne Linda\nHenk wil zijn zoon Sander een bedrag van € 80.000 geven. Sander wil dit geld beleggen. Het bedrag van € 80.000 kan in de vorm van een schenking op 1 januari 2022, maar dit kan ook door een testament op te stellen en hierin op te nemen dat Henk bij zijn overlijden (een deel van) de erfenis aan Sander nalaat. Sander geeft aan dat bij een schenking minder belasting betaald hoeft te worden dan wanneer hij het geld krijgt uit de erfenis.",
 "model": "c en d",
 "pnt": 1,
+"top": [
+"erven"
+],
 "img": [
 "v22-1-b-9",
 "v22-1-o-8"
@@ -10550,6 +12190,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg zonder berekening uit of Sanders redenering klopt (zie informatiebron 6).",
 "model": "• Sanders redenering klopt niet, omdat de vrijstelling bij schenken voor Sander lager is (€ 5.515) dan bij erven (€ 20.946) (1p)\n• en verder de tarieven van erven en schenken gelijk zijn (1p)",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "v22-1-b-9",
 "v22-1-o-8"
@@ -10570,6 +12213,9 @@ EXAMEN.vragen.push(...[
 "q": "Waarom is het voor Sander fiscaal aantrekkelijker om dit bedrag over meerdere jaren te ontvangen?",
 "model": "Dan kan hij ieder jaar gebruikmaken van het vrijstellingsbedrag.",
 "pnt": 1,
+"top": [
+"erven"
+],
 "img": [
 "v22-1-o-9"
 ]
@@ -10589,6 +12235,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan, met behulp van het berekenen van de contante waarde per 1 januari 2022 van de schenkingen na belasting, dat keuze 1 voor Sander financieel aantrekkelijker is dan keuze 2 (zie formuleblad).",
 "model": "keuze 2: 80.000\n• = 8.000 10 8.000 – ((8.000 – 5.515) x 0,1) = 7.751,50 7.751,50 x (1,08-9 + 1,08-8 + ….+ 1) (1p)\n• a = 1,08-9 r = 1,08 n = 10 S = 7,24688791085 7.751,50 x 7,24688791085 = 56.174,25 (1p)\nKeuze 1:\n• 80.000 – ((80.000 – 5.515) x 0,1) = 72.551,50 (72.551,50 > 56.174,25, dus keuze 1 is voor Sander financieel het meest aantrekkelijk) (1p)\nAanvulling van het CvTE, het antwoordmodel is aangepast. Nieuw antwoordmodel:\nkeuze 2: 80.000\n• = 8.000 10 8.000 – ((8.000 – 5.515) x 0,1) = 7.751,50 (1p)\n• 7.751,50 x (1,08 -9 + 1,08 -8 + ….+ 1) a = 1,08 -9 r = 1,08 n = 10 S = 7,24688791085 7.751,50 x 7,24688791085 = 56.174,25 (1p)",
 "pnt": 3,
+"top": [
+"erven",
+"interest"
+],
 "img": [
 "v22-1-o-9"
 ]
@@ -10608,6 +12258,9 @@ EXAMEN.vragen.push(...[
 "q": "Op welk bedrag kan Sander na Henks overlijden aanspraak maken als erfgenaam? Noteer de letter van het juiste antwoord.\na €0\nb € 20.000\nc € 50.000\nd € 100.000 Motiveer het antwoord met een berekening.",
 "model": "b 200.000\n- 80.000 2",
 "pnt": 1,
+"top": [
+"erven"
+],
 "img": [
 "v22-1-o-9"
 ]
@@ -10627,6 +12280,9 @@ EXAMEN.vragen.push(...[
 "q": "Beschrijf de klantwaarde die de app van Klusstudent genereert voor de plaatsers van de klussen. Geef hiervoor een voorbeeld van een ‘opbrengst’ en een ‘kostenpost’ die de app met zich meebrengt.",
 "model": "Voorbeelden van juiste opbrengsten en kosten zijn: Opbrengsten:\n- het in contact komen met een klusstudent\n- het kunnen zien dat een klusstudent goed is beoordeeld\n- het werkt eenvoudig Kosten:\n- de tijd/inspanning van het plaatsen van een klus\n- het geven van een beoordeling\n- het vergelijken van de profielen van de geïnteresseerde studenten\nOpmerking Per juiste opbrengst 1 scorepunt en per juiste kostenpost 1 scorepunt toekennen.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v22-1-b-10",
 "v22-1-b-11",
@@ -10648,6 +12304,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met behulp van de break-evenafzet over 2022 aan dat het verwachte resultaat over 2022 voor Klusstudent positief is. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "Break–evenafzet over het jaar 2022 voor Klusstudent (verwachte bedragen)\nopbrengst per klus | 6,50\nvariabele kosten per klus | 1,30 -\ndekkingsbijdrage per klus | 5,20\ntotale constante kosten | 17.600\nbreak–evenafzet | 3.385\nConclusie: Het verwachte resultaat over 2022 is positief, omdat: 300 x 12 = 3.600 ( > 3.385)\nen\n• 6,50 en 1,30 en 5,20 (1p)\n• 17.600 en 3.385 (1p)\n• conclusie (1p)\nvervangen worden door:\n• 6,50 en 1,30 en 5,20 (1p)\n• 17.600 en 3.385 (1p)\n• 3.600 (1p)\nruimte voor berekeningen:\nopbrengst per klus | 2 + 0,25 x 18 = 6,50\nvariabele kosten per klus | 0,2 x 6,50 = 1,30\ntotale constante kosten over | app: 6.800 + 450 x 4 = 8.600\nhet jaar 2022 | personeel: 500 x 12 = 6.000 8.600 + 6.000 + 3.000 = 17.600\nbreak-evenafzet over het jaar | 17.600 = 3.385 klussen per jaar\n2022 | 5,20\n• 6,50 en 1,30 en 5,20 (1p)\n• 17.600 en 3.385 (1p)\n• conclusie (1p)\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 3,
+"top": [
+"breakeven"
+],
 "img": [
 "v22-1-b-11",
 "v22-1-u-4",
@@ -10669,6 +12328,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat het hebben van relatief veel constante kosten in verhouding tot variabele kosten het bedrijfsrisico vergroot. Betrek in het antwoord zowel de constante kosten als de variabele kosten.",
 "model": "• Indien een onderneming relatief veel constante kosten heeft, zullen bij een daling van de afzet de variabele kosten wel meedalen, maar blijven de constante kosten gelijk (1p)\n• Hierdoor blijven bij een dalende afzet de kosten relatief hoger, waardoor het resultaat meer zal dalen dan wanneer er relatief meer variabele kosten waren geweest (1p)",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v22-1-b-10",
 "v22-1-b-11",
@@ -10690,6 +12352,10 @@ EXAMEN.vragen.push(...[
 "q": "Wat moet worden ingevuld bij a en b om te komen tot een bedrijfseconomisch juiste zin? a. verlaging / verhoging b. verkorting / verlenging\nOsman geeft aan dat door de afschrijvingskosten te verlagen het bedrijfsrisico weliswaar daalt, maar vraagt zich af welke gevolgen dit heeft voor de cashflow na belastingen van Klusstudent. Cashflow na belastingen = resultaat na belasting + afschrijvingskosten.",
 "model": "a: verhoging b: verlenging",
 "pnt": 1,
+"top": [
+"afschrijving",
+"cashflow"
+],
 "img": [
 "v22-1-b-10",
 "v22-1-b-11",
@@ -10711,6 +12377,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit welk gevolg het verlagen van de afschrijvingskosten heeft voor de cashflow na belastingen van Klusstudent. Motiveer het antwoord.",
 "model": "• De daling van de afschrijvingskosten is gelijk aan de stijging van het resultaat voor belasting (1p)\n• echter door een stijging van het resultaat voor belasting, zal de te betalen winstbelasting / inkomstenbelasting stijgen. Per saldo verslechtert de cashflow na belasting van Klusstudent (1p)\nOpmerking Aan het antwoord ‘de afschrijvingskosten nemen toe, dus de cashflow neemt toe’ worden geen scorepunten toegekend.",
 "pnt": 2,
+"top": [
+"afschrijving",
+"cashflow"
+],
 "img": [
 "v22-1-b-10",
 "v22-1-b-11",
@@ -10732,6 +12402,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee andere vormen van zakelijke inbreng, waarop de verdeling van het resultaat gegrond kan zijn.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- hoeveel tijd beide partners voor de vof werken\n- welke kennis en kunde (diploma’s / vergunningen) de partners hebben, die van belang zijn voor de vof.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v22-1-b-10",
 "v22-1-b-11",
@@ -10753,6 +12426,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met behulp van de berekening van de RTV over 2021 van Schaeffer aan dat bij Schaeffer in 2021 sprake moet zijn geweest van een positief hefboomeffect.",
 "model": "• gemiddelde onderhandse lening: 3 (9p)\n(800 x + 700 x ) = 725 1\n12 12\n• gemiddeld totaalvermogen: ((1.500 + 500 + 600 + 100) + (1.500 + 600 + 400 + 600 + 150)) + 725 = (2p)\n2.975 + 725 = 3.700 1\n400 + 29\n• RTV = x 100% = 11,6% 3.700 IVV < RTV is de oorzaak van het positieve hefboomeffect (1p)",
 "pnt": 3,
+"top": [
+"kengetallen"
+],
 "img": [
 "v22-1-o-12"
 ]
@@ -10772,6 +12448,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de hoogte van de IVV wordt beïnvloed door de hoogte van de hefboomfactor.",
 "model": "vv\n• Als de hefboomfactor dus de verhouding toeneemt, neemt het ev risico op wanbetaling toe (1p)\n• waardoor de vreemdvermogenverschaffers een hogere (interest)vergoeding zullen vragen (1p)",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v22-1-o-12"
 ]
@@ -10791,6 +12470,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een verklaring voor dit verschil en verwijs hierbij naar de samenstelling van het vreemd vermogen van Schaeffer.",
 "model": "Schaeffer heeft ook vreemd vermogen: Vooruitontvangen bedragen en/of Crediteuren waarover geen interest betaald wordt.",
 "pnt": 1,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v22-1-o-13"
 ]
@@ -10810,6 +12492,7 @@ EXAMEN.vragen.push(...[
 "q": "Welke wet gaat over veiligheid op het werk?",
 "model": "de Arbo-wet",
 "pnt": 1,
+"top": [],
 "img": [
 "v22-2-o-2"
 ]
@@ -10829,6 +12512,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee voordelen voor een werkgever van het in dienst hebben van medewerkers met een contract voor bepaalde tijd boven een contract voor onbepaalde tijd.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Er hoeft geen ontslagvergunning te worden aangevraagd bij afloop van het contract.\n- Er is geen opzegtermijn van toepassing bij afloop van het contract.\n- Er hoeft geen gegronde reden voor het niet verlengen van het contract gegeven te worden bij afloop van het contract.\n- Tijdelijk personeel is mogelijk meer gemotiveerd omdat het een vast contract wil.",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v22-2-o-2"
 ]
@@ -10848,6 +12534,9 @@ EXAMEN.vragen.push(...[
 "q": "Wat is het gevolg van het uitvoeren van dit advies voor het resultaat van de onderneming in het eerste jaar? Motiveer het antwoord.",
 "model": "• Hoe lager de restwaarde, hoe hoger de jaarlijkse afschrijvingskosten (1p)\n• Hoe hoger de (afschrijvings)kosten, des de lager het resultaat (1p)",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v22-2-o-3"
 ]
@@ -10867,6 +12556,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het boekresultaat, na verwerking van de commissie, van de verkoop per 1 oktober 2021 van de Hyster. Geef aan of het een voordelig of een nadelig boekresultaat betreft.",
 "model": " 8\n• 19.000 + 2.000 – (1 + ) x 3.600 = 15.000 (1p)\n12 16.940\n• x (1– 0,015) – 15.000 = € 1.210 nadelig (1p)\n1,21",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v22-2-o-3"
 ]
@@ -10886,6 +12578,7 @@ EXAMEN.vragen.push(...[
 "q": "Geef een pijnpunt en een bijbehorende pijnverzachter van een webwinkel.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n• Pijnpunt: je kan het product niet fysiek zien / passen (waardoor je mogelijk iets koopt wat je toch niet wilt hebben) (1p)\n• Pijnverzachter: je kan de artikelen gratis retourneren / je kunt de kleding digitaal passen (door inzoomen en roteren) (1p)",
 "pnt": 2,
+"top": [],
 "img": [
 "v22-2-b-4",
 "v22-2-b-5",
@@ -10910,6 +12603,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit op welke wijze affiliatie tot kosten van Timo’s webwinkel leidt.",
 "model": "Wanneer een bezoeker op een (vergelijkings)website een product van Timo’s webshop aanklikt / koopt, moet Timo aan de (vergelijkings)website betalen (en heeft hij kosten).",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "v22-2-b-4",
 "v22-2-b-5",
@@ -10931,6 +12627,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het resultaat van Timo’s webwinkel over 2020 (zie informatiebron 1). Geef aan of het een voordelig of een nadelig resultaat betreft. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "winst- en verliesrekening Timo over 2020 getallen berekeningen (x € 1) omzet 625.600 7.820 x 4 x 20\nkosten:\ninkoopwaarde van de omzet | 312.800 | 0,5 x 625.600\nfinancieringskosten | 3.085,15 | 60 | 312.800\nx | x 0,06 x 4\n365 | 4\ntransportkosten | 12.000 | 4 x 3.000\nhuurkosten | 52.000\nafschrijvingskosten | 3.120 | ( 30.000 + 5.200 ) – ( 6.000 – 2.000 )\ninrichting magazijn | 10\nbezorgkosten | 54.740 | 3,50 x 15.640\nwebsite- en marketingkosten | 125.000\ntotaal kosten | 562.745,15\nresultaat 62.854,85 voordelig\n• 625.600 en 312.800 en 12.000 en 3.120 (2p)\n• 3.085,15 (1p)\n• 54.740 en 562.745,15 en 62.854,85 voordelig (1p)",
 "pnt": 4,
+"top": [
+"resultaat"
+],
 "img": [
 "v22-2-b-4",
 "v22-2-b-5",
@@ -10953,6 +12652,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee van zulke kritische succesfactoren van Bol.com.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- betrouwbaarheid\n- traceerbaarheid\n- bereikbaarheid\n- klanttevredenheid\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "v22-2-b-6",
 "v22-2-o-5"
@@ -10973,6 +12675,7 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat met het door Timo geschatte aantal werknemers per dag in 2021 alle orders tijdig gereedgemaakt worden. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "geschat | aantal | verwacht | benodigd | beschikbaar\naantal | orders | aantal | aantal | aantal\nbenodigde | per | orders | minuten | minuten per\nwerknemers | dag in | per dag | per dag | dag voor\nper dag in | 2020 | in 2021 | voor | gereed-\n2021 | gereed- | maken en\nmaken en | verzenden\nverzenden | van orders\nvan | in 2021 orders in 2021\nmaandag | 2 | 20 | 28 | 329 | 360\ndinsdag | 2\nwoens- | 2 | op dinsdag en woensdag: per dag idem aan\ndag | maandag\ndonder- | 4\ndag | op donderdag en vrijdag: per dag 2 keer\nvrijdag | 4 | zoveel als op maandag\nzaterdag 8\nzondag 8 op zaterdag en zondag: per dag 4 keer zoveel als op maandag\nruimte voor berekeningen: verwacht aantal orders op maandag in 20 x 1,4 2021 benodigd aantal minuten op maandag 28 x (0,5 x 10 + 0,25 x 12 + voor gereedmaken en verzenden van 0,25 x 15) orders in 2021 beschikbaar aantal minuten op 2 x 3 x 60 maandag voor gereedmaken en verzenden van orders in 2021\n• 28 en 360 (1p)\n• 329 (1p)",
 "pnt": 2,
+"top": [],
 "img": [
 "v22-2-b-7",
 "v22-2-u-2",
@@ -10994,6 +12697,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte loonkosten over 2021 bij het door Timo geschatte aantal werknemers.",
 "model": "(3 x 2 + 2 x 4 + 2 x 8) x 3 x 52 x 5 = € 23.400",
 "pnt": 1,
+"top": [
+"personeel"
+],
 "img": [
 "v22-2-b-4",
 "v22-2-b-5",
@@ -11018,6 +12724,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met behulp van de verwachte dekkingsbijdrage per order aan of het Timo lukt zijn doel te bereiken. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "verwachte constante | getallen | ruimte voor berekeningen of\nkosten 2021 | x€1 | verwijzing naar eerdere vraag\nfinancieringskosten | 3.887\ntransportkosten | 12.000 | zie vraag 8\nhuurkosten afschrijvingskosten | 52.000\ninrichting magazijn website- en | 3.120 | zie vraag 8\nmarketingkosten | 0\nloonkosten werknemers | 23.400 | zie vraag 11\ntotaal | 94.407\nverwachte variabele kosten per order in 2021: bezorgkosten 3,50 commissie Bol.com 8,86 gemiddeld aantal artikelen per order: (0,5 x 1) + (0,25 x 2) + (0,25 x 4) =2 2 x ((20 x 0,9 x 0,20) + 0,83) inkoopprijs 20,00 2 x 10 totaal 32,36\nverwachte dekkingsbijdrage per order in 2021 | 3,64 | (2 x 20 x 0,9) – 32,36\ngewenst aantal orders in | 43.203,80 | 94.407 + 62.854,85\n2021 | = 43.204 | 3,64\nConclusie: Het lukt Timo wel/niet zijn doel te bereiken, omdat 43.204 > 15.640 x 1,4\n• 12.000 en 3.120 en 0 en 23.400 en 94.407 (1p)\n• 8,86 (2p)\n• 3,64 (1p)\n• 43.204 (1p)\n• conclusie (1p)\nOpmerking Bij het antwoord 43.204: wanneer niet op hele orders of niet naar beneden is afgerond, wordt geen deelscore toegekend.",
 "pnt": 6,
+"top": [
+"breakeven"
+],
 "img": [
 "v22-2-b-8",
 "v22-2-u-3",
@@ -11039,6 +12748,9 @@ EXAMEN.vragen.push(...[
 "q": "Van welk plaatsbeleid maakt Guerrilla Games gebruik?\na directe distributie\nb indirecte distributie\nc zowel directe als indirecte distributie Noteer de letter van het juiste antwoord en motiveer het antwoord.",
 "model": "• b (1p)\n• De games worden (zowel fysiek als digitaal) via een tussenhandel verkocht aan de consument (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v22-2-o-6"
 ]
@@ -11058,6 +12770,7 @@ EXAMEN.vragen.push(...[
 "q": "Geef een reden waarom toetreding tot een markt moeilijk kan zijn.",
 "model": "Potentieel nieuwe toetreders ondervinden hoge opstartkosten / ontwikkelkosten / investeringsbedragen.",
 "pnt": 1,
+"top": [],
 "img": [
 "v22-2-o-6"
 ]
@@ -11077,6 +12790,9 @@ EXAMEN.vragen.push(...[
 "q": "Welke twee onderdelen van de SWOT-analyse kunnen afgeleid worden uit bovenstaand model van Porter? Motiveer het antwoord.",
 "model": "• Opportunities/O en de Threats/T (1p)\n• want het vijfkrachtenmodel van Porter kan worden gebruikt voor externe analyse (1p)",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "v22-2-o-6"
 ]
@@ -11096,6 +12812,9 @@ EXAMEN.vragen.push(...[
 "q": "Welke ‘kracht’ uit het vijfkrachtenmodel van Porter pleit ervoor dat Guerrilla Games kiest voor een afroomprijspolitiek? Motiveer het antwoord.",
 "model": "• dreiging nieuwe toetreders (1p)\n• Deze is laag, waardoor Guerrilla Games bij een nieuwe game een hogere prijs kan vragen, omdat de kans dat een nieuwe speler een vergelijkbare game (tegen een lagere prijs) op de markt brengt niet groot is (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v22-2-o-7"
 ]
@@ -11115,6 +12834,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef per strategie aan op welke wijze Guerrilla Games deze strategie zou kunnen toepassen.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n• Push–strategie: (activiteit gericht op de tussenhandel): afspraken maken met fysieke winkels over de plaats van de game in de schappen / de tussenhandel kortingen geven / de tussenhandel beloven snel en in ruime mate te leveren (1p)\n• Pull–strategie: (activiteit gericht op de consument): reclame (1p)",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v22-2-o-7"
 ]
@@ -11134,6 +12856,9 @@ EXAMEN.vragen.push(...[
 "q": "Kies de letter van het juiste antwoord en motiveer het antwoord.",
 "model": "• a (ontvangen leverancierskrediet) (1p)\n• Knoopweg ontvangt de producten eerst en mag ze later betalen (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v22-2-o-9"
 ]
@@ -11153,6 +12878,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de ontvangsten in het tweede kwartaal van 2022 als gevolg van de verkoop van massageproducten.",
 "model": "• AfterPay beginbalans: 145,00 (1p)\n• contante verkopen: 2.541 x 0,6 = 1.524,60 (1p)\n• iDeal: 2.541 x 0,20 x (1 – 0,05) = 482,79 AfterPay: (930 + 771 + 0,5 x 840) x 0,20 x (1 – 0,05) = 402,99 € 2.555,38 (2p)",
 "pnt": 4,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "v22-2-o-9"
 ]
@@ -11172,6 +12900,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de waarde van de balanspost Crediteuren op de balans van 30 juni 2022.",
 "model": "(399 + 412) x 1,21 = € 981,31",
 "pnt": 2,
+"top": [
+"balans"
+],
 "img": [
 "v22-2-o-9"
 ]
@@ -11191,6 +12922,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de waarde van de balanspost Voorraad massageproducten op de balans van 30 juni 2022.",
 "model": "• 1.790 + 1.231 – 245 = 2.776 (1p)\n2.541\n• x 0,65 = – 1.365 1,21 € 1.411 (2p)",
 "pnt": 3,
+"top": [
+"balans"
+],
 "img": [
 "v22-2-o-9"
 ]
@@ -11210,6 +12944,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een verschil tussen een termijncontract en een call-optie.",
 "model": "Voorbeeld van een juist antwoord is:\n- Bij een call-optie is het niet verplicht om de onderliggende (financiële) waarde te kopen, bij een termijncontract wel.\n- De onderliggende waarde van een call-optie bestaat uit aandelen / financiële producten en de onderliggende waarde van een termijncontract kunnen ook grondstoffen / valuta’s zijn.",
 "pnt": 1,
+"top": [
+"aandelen"
+],
 "img": [
 "v22-2-b-9",
 "v22-2-b-10",
@@ -11231,6 +12968,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het maximale tarief per dag dat OilExperts bereid is te betalen voor het huren van de olietanker.",
 "model": "Y = tarief huur olietanker per dag 2.000.000 x (30 + 5 – 10) – (325 x Y) = 5.000.000 45.000.000 = 325 x Y Y = $ 138.461,54 per dag.",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v22-2-b-9",
 "v22-2-b-10",
@@ -11252,6 +12992,7 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat OilExperts op 20 april 2020 aan de rederij betaalt (zie formuleblad).",
 "model": "1 | 1,00512 -1\n4.000.000 x | x | = $ 46.708.106,91 | 2\n1,00511 | 1,005-1\nof:\n4.000.000 (1,005-11 + 1,005-10 + ….+ 1) a = 1,005-11 r = 1,005 n =12 → S = 11,677026726 4.000.000 x 11,67702673 = $ 46.708.106,91 2",
 "pnt": 2,
+"top": [],
 "img": [
 "v22-2-b-9",
 "v22-2-b-10",
@@ -11273,6 +13014,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef voor elke uitspraak aan of dit een juiste of onjuiste uitspraak is. Motiveer beide antwoorden.",
 "model": "• Bewering 1 is onjuist, omdat door vreemd vermogen interestkosten toenemen en hierdoor het resultaat afneemt. Hierdoor moet er minder vennootschapsbelasting betaald worden. De vergoeding voor eigen vermogen, dividend, beïnvloedt het fiscaal belastbare resultaat niet (1p)\n• Bewering 2 is juist, omdat door vreemd vermogen het faillissementsrisico toeneemt in tegenstelling tot financiering met eigen vermogen (1p)\nAanvulling van het CvTE, het antwoordmodel is aangepast. Nieuw antwoordmodel:\n• Bewering 1 is onjuist, omdat door vreemd vermogen interestkosten toenemen en hierdoor het resultaat afneemt. Hierdoor moet er minder (vennootschaps)belasting betaald worden. De vergoeding voor eigen vermogen (dividend,) beïnvloedt het fiscaal belastbare resultaat niet (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"winstverdeling"
+],
 "img": [
 "v22-2-b-9",
 "v22-2-b-10",
@@ -11294,6 +13039,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat bij (I) en het aantal converteerbare obligaties dat bij (II) ingevuld moet worden. Rond bij (II) naar boven af op hele obligaties.",
 "model": "• I: 2.000.000 x (-5 + 10) + 46.708.106,91= $ 56.708.106,91 (1p)\n56.708.106,91 1,07\n• II: = 2.649.911,53 = 2.649.912 (1p)\n20\nOpmerking: Wanneer het euroteken in plaats van het dollarteken wordt gebruikt, worden geen scorepunten in mindering gebracht.",
 "pnt": 2,
+"top": [
+"obligaties"
+],
 "img": [
 "v22-2-b-9",
 "v22-2-b-10",
@@ -11315,6 +13063,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef per combinatie aan of met deze getallen alle converteerbare obligaties omgewisseld worden in aandelen. Motiveer de antwoorden met behulp van een berekening.",
 "model": "Combinatie a\nVoorbeelden van een juiste berekening:\n• a: dit kan wel, want: 5 x $ 20 + $ 40 < 3 x $ 60 (1p)\n• b: dit kan niet, want: 4 x $ 20 + $ 110 > 3 x $ 60 (1p)\nof\n• a: dit kan wel, want: (5 x $ 20 + $ 40) : 3 = $ 46,67 < $ 60 (1p)\n• b: dit kan niet, want: (4 x $ 20 + $ 110) : 3 = $ 63,33 > $ 60 (1p)",
 "pnt": 2,
+"top": [
+"aandelen",
+"obligaties"
+],
 "img": [
 "v22-2-b-9",
 "v22-2-b-10",
@@ -11336,6 +13088,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee andere redenen voor reservering van het resultaat.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- (eenvoudiger) aantrekken van nieuw vreemd vermogen\n- aflossen op vreemd vermogen\n- opvangen toekomstige verliezen\n- dividendstabilisatie\n- (niet-uitgekeerde) liquide middelen aanwenden voor toekomstige investeringen\nOpmerking Voor elk juist antwoord 1 scorepunt toekennen.",
 "pnt": 2,
+"top": [
+"resultaat",
+"balans"
+],
 "img": [
 "v22-2-o-13"
 ]
@@ -11355,6 +13111,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verschuldigde vennootschapsbelasting over het resultaat over 2021.",
 "model": "0,15 x 245.000 + (1.200.000 – 245.000) x 0,25 = € 275.500\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"vpb"
+],
 "img": [
 "v22-2-o-13"
 ]
@@ -11374,6 +13133,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef de mutaties in de balans van Van der Made per 1 januari 2022 als gevolg van deze verdeling van het resultaat over 2021. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "Mutaties in balans per 1 januari 2022\ndebet | credit\ngetal | stijging | getal | stijging\n(x € 1) | (+), | (x € 1) | (+),\ndaling | daling\n(ˉ/-) of | (ˉ/-) of\ngeen | geen\nverande- | verande-\nring (=) | ring (=)\nAandelenkapitaal | 400.000 | +\n5% Preferent | = aandelenkapitaal\nAlgemene | +\nreserve | 224.500\nResultaat over | ˉ/- 2021 voor\nbelasting | 1.200.000\nTe betalen | + vennootschaps-\nbelasting | 275.500\nLiquide | 195.000 | ˉ/- | Te betalen | +\nmiddelen | dividendbelasting | 105.000\nruimte voor berekeningen: balanspost berekening van de verandering Aandelenkapitaal 2.000.000 700.000 – ( x 0,50) = 600.000 10 600.000 x 2 = 400.000 3\nAlgemene reserve 924.500 – 700.000 Te betalen dividendbelasting 0,15 x 700.000 = 105.000 Liquide middelen: 100.000 (preferent dividend) + 200.000 (cashdividend) – dividendbelasting (105.000) = 195.000\nOpmerking Wanneer de mutatie van de liquide middelen via de creditzijde is berekend, dit ook goed rekenen.\n• + 400.000 (1p)\n• = (0) en + 224.500 en ˉ/- 1.200.000 en + 275.500 (1p)\n• + 105.000 (1p)\n• ˉ/- 195.000 (1p)",
 "pnt": 4,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v22-2-u-4",
 "v22-2-o-14"
@@ -11394,6 +13156,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de toename van de Algemene Reserve als gevolg van de verdeling van het resultaat over 2021.",
 "model": "Aantal geplaatste aandelen = 3.000.000 = 120.000 25 Vennootschapsbelasting = 245.000 x 0,15 + (640.000 – 245.000) x 0,25 = 135.500 Toevoeging aan Algemene Reserve = 640.000 – 135.500 – 120.000 x 1,50 = 324.500\nOpmerking Per fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v22-3-o-3"
 ]
@@ -11413,6 +13178,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de intrinsieke waarde per aandeel op 3 januari 2022 nadat aan alle verplichtingen als gevolg van de verdeling van het resultaat over 2021 is voldaan.",
 "model": "• Eigen Vermogen = 3.000.000 + 120.000 x 0,60 + 6.500.000 + 5.000.000 + 324.500 = 3.072.000 + 6.500.000 + 5.324.500 = 14.896.500 (1p)\n14.896.500\n• = € 121,23 (1p)\n3.072.000 25",
 "pnt": 2,
+"top": [
+"aandelen",
+"winstverdeling"
+],
 "img": [
 "v22-3-o-3"
 ]
@@ -11432,6 +13201,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Bernhard op zijn bankrekening krijgt overgemaakt als gevolg van de verdeling van het resultaat over 2021.",
 "model": "Voorbeelden van een juiste berekening zijn:\n- 2.500 x 0,90 – (0,15 x 2.500 x 1,50) = € 1.687,50\n- 2.500 x (0,90 – 0,15 x 1,50) = € 1.687,50\nOpmerkingen\n- Per fout wordt 1 scorepunt in mindering gebracht.\n- Afrondingsverschillen niet fout rekenen.",
 "pnt": 2,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v22-3-o-3"
 ]
@@ -11451,6 +13223,10 @@ EXAMEN.vragen.push(...[
 "q": "Welk gevolg hebben de resultaatverdeling en het voldoen aan alle verplichtingen die hieruit voortkomen voor de solvabiliteit van Ringeling? Motiveer het antwoord zonder een berekening te maken. Betrek in het antwoord zowel het teller- als het noemereffect van de solvabiliteit.",
 "model": "• Door resultaatverdeling daalt het totale vermogen (de teller) doordat (voorbeelden van een juiste reden):\n- creditzijde: daling Eigen vermogen door winstverdeling\n- debetzijde: daling Liquide middelen door winstuitkeringen 1\n• Omdat het vreemd vermogen (de noemer) gelijk blijft daalt de solvabiliteit (1p)",
 "pnt": 2,
+"top": [
+"kengetallen",
+"winstverdeling"
+],
 "img": [
 "v22-3-o-4"
 ]
@@ -11470,6 +13246,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de twee stakeholders die het personeel vertegenwoordigen bij een reorganisatie.",
 "model": "• de ondernemingsraad (OR) (1p)\n• de vakbond (1p)",
 "pnt": 2,
+"top": [
+"mvo"
+],
 "img": [
 "v22-3-b-3",
 "v22-3-b-4",
@@ -11494,6 +13273,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit wat het verschil is tussen een bedrijfseconomische reden voor ontslag en een dringende reden voor ontslag. Betrek beide redenen voor ontslag in het antwoord.",
 "model": "• Bij ontslag wegens een bedrijfseconomische reden ligt de reden voor ontslag buiten de werknemer (1p)\n• Bij ontslag wegens een dringende reden is de reden voor ontslag het functioneren van de werknemer zélf (1p)",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v22-3-b-3",
 "v22-3-o-5"
@@ -11514,6 +13296,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee niet-financiële voordelen voor Biohuis van ontslagbepaling volgens het afspiegelingsbeginsel ten opzichte van vrije ontslagkeuze. Licht het antwoord toe.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Een werkgever hoeft nu niet te beargumenteren waarom hij een bepaalde medewerker wel ontslaat en anderen niet.\n- Gelijkmatige leeftijdsopbouw (diversiteit) blijft gehandhaafd: hierdoor is kennisbehoud beter gewaarborgd / verschillende leeftijdsgroepen hebben een verschillende inbreng.\nper juist voordeel 1",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v22-3-b-3",
 "v22-3-b-4",
@@ -11538,6 +13323,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef hier twee redenen voor.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Het is voor de sfeer binnen het bedrijf beter indien er minder gedwongen ontslagen in fase 2 vallen.\n- De bijkomende kosten van gedwongen ontslagen (fase 2), zoals juridisch advies of door de rechter opgelegde vergoedingen aan de werknemer zijn hoog.\n- Biohuis behoudt graag de laatst binnengekomen medewerkers.\n- Werknemers van Biohuis die al niet gemotiveerd waren, zullen nu hopelijk opstappen.\nper juiste reden 1",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v22-3-b-3",
 "v22-3-b-4",
@@ -11562,6 +13350,10 @@ EXAMEN.vragen.push(...[
 "q": "Welk belang heeft Biohuis bij dit verbod?",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Lot kan zich negatief uitlaten over Biohuis.\n- Biohuis wil voorkomen dat Lot contacten meeneemt naar een nieuwe werkgever.\n- Lot is vanaf het moment van ontslagaanzegging niet meer verzekerd voor bedrijfsongevallen, waardoor Biohuis zelf voor kosten bij bedrijfsongevallen aansprakelijk wordt.",
 "pnt": 1,
+"top": [
+"rechtsvorm",
+"prive"
+],
 "img": [
 "v22-3-b-4",
 "v22-3-o-6"
@@ -11582,6 +13374,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de gemiddelde provisie inclusief vakantiegeld per maand van Lot in deze afgelopen 12 maanden (zie informatiebron 3 en 4). Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.\n\nLet op, correctie op het examen: „omzet overige variabele kosten exclusief provisiekosten” is vervangen door: omzet – totale variabele kosten exclusief provisiekosten",
 "model": "getallen x € 1 Biohuis tweede derde + eerste totaal kwartaal vierde kwartaal 2021 kwartaal 2022 2021 omzet – inkoopwaarde van de omzet 1.430.000 variabele bedrijfskosten exclusief provisiekosten 333.500 omzet – totale variabele kosten exclusief provisiekosten 218.000 2.355.000 1.096.500 3.669.500\nomzet – inkoopwaarde van de omzet in eerste 44 3\n3.640.000 x x = 1.430.000 kwartaal 2022 56 6\nvariabele bedrijfskosten 3\n667.000 x = 333.500 exclusief provisiekosten in 6\neerste kwartaal 2022\ngemiddelde provisie | 3.669.500 | 24\n0,025 x | x | x 1,08 = 3.302,55\ninclusief vakantiegeld per maand voor Lot (+ berekening) | 12 | 60\n• 1.430.000 (1p)\n• 333.500 en 1.096.500 en 3.669.500 (1p)\n• 3.302,55 (2p)\nOpmerking Per fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 4,
+"top": [
+"personeel",
+"kostprijs"
+],
 "img": [
 "v22-3-b-5",
 "v22-3-b-6",
@@ -11604,6 +13400,9 @@ EXAMEN.vragen.push(...[
 "q": "Onderbouw de mening van Lot. Betrek in het antwoord het begin en het einde van het dienstverband van Lot en informatiebron 3 en 4.",
 "model": "• In het begin van haar dienstverband wordt de provisie voor Lot bepaald op basis van de omzet/orders, waarvoor haar voorganger heeft gezorgd: deze omzet kan veel lager zijn dan dat wat Lot behaald zou hebben (1p)\n• De provisie over de door Lot binnengehaalde orders in het laatste halfjaar van haar dienstverband zal ze nooit ontvangen (1p)",
 "pnt": 2,
+"top": [
+"personeel"
+],
 "img": [
 "v22-3-b-5",
 "v22-3-b-6",
@@ -11625,6 +13424,9 @@ EXAMEN.vragen.push(...[
 "q": "Zal Lot haar vrijwillig ontslag indienen? Motiveer het antwoord met behulp van een berekening.",
 "model": "• brutoloon inclusief provisie = 1.320 x 1,08 + 3.302,55 = 4.728,71 (1p)\n• Lot is 5 jaar en 5 maanden in dienst. Ze heeft recht op een transitievergoeding van 8.125 (1p)\n• Vrijwillig ontslag levert haar een bedrag op van 15.000 x 24 = € 9.000 40 Lot zal haar vrijwillig ontslag indienen, want € 9.000 > € 8.125 (1p)",
 "pnt": 3,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v22-3-b-7",
 "v22-3-o-7"
@@ -11645,6 +13447,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de grootte van de balanspost Voorraden per 31 maart 2022 (I).",
 "model": "423.500\n• 500.000 + = 850.000 (1p)\n1,21 1.149.500\n• x 0,4 = 380.000 – 1,21 € 470.000 (1p)\nOpmerking Als de kandidaat de btw foutief meeneemt bij de berekening, wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"balans"
+],
 "img": [
 "v22-3-o-8"
 ]
@@ -11664,6 +13469,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de grootte van de balanspost Crediteuren per 31 december 2021 (II).",
 "model": "1,21 1\n210.000 x x = € 605.000 0,21 2\nOpmerking Per fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"balans"
+],
 "img": [
 "v22-3-o-8"
 ]
@@ -11683,6 +13491,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de grootte van de balanspost Voorziening onderhoud per 31 maart 2022 (III).",
 "model": "5.000 + (3 x 500) – (3.630 – 630) = € 3.500",
 "pnt": 1,
+"top": [
+"waardering"
+],
 "img": [
 "v22-3-o-9"
 ]
@@ -11702,6 +13513,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale privéopnames door de eigenaar van Sporty in het eerste kwartaal van 2022. Vergelijk hiervoor het eigen vermogen per 31 maart 2022 met het eigen vermogen per 31 december 2021.",
 "model": "1.149.500 150.000 + x (1 – 0,4) – 3 x 500 – 500.000 – privéopnames = 1,21 188.500 Privéopnames = 30.000 in het eerste kwartaal.",
 "pnt": 2,
+"top": [
+"balans"
+],
 "img": [
 "v22-3-o-9"
 ]
@@ -11721,6 +13535,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de overige drie krachten en geef per kracht aan hoe deze een bedreiging zou kunnen vormen voor de winstgevendheid van de fitnessbranche.",
 "model": "- (Onderhandelingspositie van) leveranciers: er is een beperkte hoeveelheid leveranciers van fitnessapparatuur, waardoor de prijs voor de fitnessstudio’s hoog is.\n- (Onderhandelingspositie van) afnemers: er zijn veel fitnessstudio’s in de buurt, waardoor de klant een lagere prijs / betere service kan afdwingen / makkelijk kan overstappen naar een concurrent.\n- (Bedreiging van) substituten: er zijn veel andere vormen van lichaamsbeweging, die een vergelijkbaar resultaat opleveren als fitnessen bij een fitnessstudio, zoals fitness thuis / op het werk, andere sporten, etc.\nper juiste kracht en juiste motivatie 1",
 "pnt": 3,
+"top": [
+"personeel"
+],
 "img": [
 "v22-3-o-10"
 ]
@@ -11740,6 +13557,7 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee voorbeelden van de manier waarop de overheid invloed kan hebben op het winstpotentieel van de fitnessbranche. Licht de voorbeelden toe.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Wetgeving: er kunnen wetten/regels worden vervaardigd, die invloed hebben op het aantal klanten / kosten van fitnessstudio’s.\n- Subsidies / overheidssteun: de overheid kan fitnessstudio’s geld geven bijvoorbeeld voor het bevorderen van innovaties.\nper juiste combinatie van antwoord en toelichting 1\nOpmerking Wanneer er twee verschillende wetten of twee vormen van subsidies / overheidssteun worden genoemd en juist toegelicht: dit ook goed rekenen.",
 "pnt": 2,
+"top": [],
 "img": [
 "v22-3-o-10"
 ]
@@ -11759,6 +13577,7 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de omzet per klant in 2021 voor Wanders Sport.",
 "model": "Omzet 2020: 229 x 228 = 52.212 97 omzet 2021: 52.212 x = 51.157,21 99 51.157,21 omzet per klant 2021: = € 237,94 215\nOpmerking Per fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [],
 "img": [
 "v22-3-o-11"
 ]
@@ -11778,6 +13597,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het marktaandeel in procenten op basis van omzet van Wanders Sport in Puttershoek in 2021.",
 "model": "215 x 237,94 x 100% = 23,16% 880 x 251\nOpmerking voor de volgende berekening moeten ook scorepunten worden toegekend:\n215 x 237,94 x 100% = 0,01% 2.356.000 x 203\nOpmerking Per fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"marktaandeel"
+],
 "img": [
 "v22-3-o-11"
 ]
@@ -11797,6 +13619,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef een verklaring voor dit verschil.",
 "model": "Voorbeelden van een juist antwoord:\n• De beloning voor het werk van de eigenaar / DGA (1p)\n• is niet als kostenpost opgevoerd bij de berekening van het resultaat van een eenmanszaak / is wel als kostenpost opgevoerd bij de berekening van het resultaat van een bv (1p)\nof\n• Een bv heeft een betere continuïteit omdat deze niet afhankelijk is van een eigenaar (1p)\n• hierdoor zal bij het berekenen van de overnamesom bij de bv het resultaat van meer jaren dan bij de overnamesom bij een eenmanszaak worden meegenomen (1p)",
 "pnt": 2,
+"top": [
+"rechtsvorm",
+"personeel"
+],
 "img": [
 "v22-3-b-8",
 "v22-3-o-12"
@@ -11817,6 +13643,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de contante waarde per 1 januari 2022 van Jans gewenste maandelijkse inkomens in de jaren 2022 tot met 2028 (zie formuleblad).",
 "model": "r = 1,001 n = 84 a = 1,001-83 S = 80,61068283 80,61068283 x 4.700 = € 378.870,21\nOpmerking Per fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"interest"
+],
 "img": [
 "v22-3-o-12"
 ]
@@ -11836,6 +13665,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem, in het algemeen, twee bedrijfseconomische redenen waarom overnamekandidaten bereid zijn om voor een bedrijf meer te betalen dan de intrinsieke waarde.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- de goede naam\n- het klantenbestand\n- de orderportefeuille\n- de komende winsten / kasstromen\n- goed geschoold personeel\nper juiste reden 1",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v22-3-o-13"
 ]
@@ -11855,6 +13687,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef de veranderingen op de balans van het schildersbedrijf (ten opzichte van de balans vóór resultaatverdeling) aan als het resultaat op deze wijze verdeeld wordt. Vul hiervoor de uitwerkbijlage bij deze vraag waar nodig in.",
 "model": "balanspost | +/– | mutatie | balanspost | +/– | mutatie\nLiquide middelen | – | € 70.000 | Reserves | + | € 50.000\nResultaat | – | € 120.000",
 "pnt": 2,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v22-3-u-2",
 "v22-3-o-13"
@@ -11875,6 +13710,7 @@ EXAMEN.vragen.push(...[
 "q": "Laat met een berekening zien of dit compromis voor beide partijen acceptabel is en de overname doorgaat.",
 "model": "• eis Jan: 360.000 + (120.000 – 50.000) = 430.000 430.000 > € 378.870,21 (1p)\n322.500\n• eis personeel: 1,5 x ( + 50.000) = 397.500 1,5 360.000 < € 397.500 (1p)\n• Voor beide partijen is het compromis acceptabel, de overname gaat door (1p)",
 "pnt": 3,
+"top": [],
 "img": [
 "v22-3-o-13"
 ]
@@ -11894,6 +13730,9 @@ EXAMEN.vragen.push(...[
 "q": "Wie is/zijn de hypotheekgever(s)? Motiveer het antwoord.",
 "model": "• Birgit en Moshaber zijn de hypotheekgevers (1p)\n• Zij geven de ING-bank het recht hun huis te verkopen wanneer zij in betalingsgebreke blijven (1p)\nOpmerking Het tweede scorepunt kan alleen toegekend worden als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"woning"
+],
 "img": [
 "v22-3-o-15"
 ]
@@ -11913,6 +13752,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de aflossing in het eerste jaar bij de lineaire hypotheek hoger is dan de aflossing in het eerste jaar bij de annuïteitenhypotheek. Motiveer het antwoord door gebruik te maken van de getoonde hypotheekuitgaven voor belastingvoordeel, maar motiveer zonder een berekening te maken.",
 "model": "• omdat de interest in het eerste jaar bij beide hypotheekvormen gelijk is (1p)\n• De hypotheekuitgaven exclusief belastingvoordeel bij de lineaire hypotheek liggen hoger, dus is de aflossing (= hypotheekuitgaven exclusief belastingvoordeel – interest) bij de lineaire hypotheek hoger (1p)",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "v22-3-o-15"
 ]
@@ -11932,6 +13775,10 @@ EXAMEN.vragen.push(...[
 "q": "Leid het belastingtarief af waarvan De Hypotheker is uitgegaan in bovenstaande rekentool. Ga hierbij uit van de lineaire lening. Vul de uitwerkbijlage bij deze vraag in.",
 "model": "getallen x € 1\nschuld | aflossing | inte- | hypotheek– | hypotheek– | belasting–\nbegin | jaar 1 | rest | uitgaven | uitgaven na | voordeel\njaar 1 | jaar | voor | belasting- | jaar 1\n1 | belasting- | voordeel\nvoordeel | jaar 1 jaar 1\n329.500 Het belastingpercentage: 30% | 10.983,33 | 6.590 | 17.573,33 | 15.596,33 | 1.977\nberekeningen: aflossing jaar 1 329.500 30 interest jaar 1 17.573,33 – 10.983,33\nbelastingvoordeel 17.573,33 – 15.596,33\nbelastingpercentage 1.977 x 100 6.590\n• 10.983,33 (1p)\n• 6.590 en 1.977 (1p)\n• 30% (1p)",
 "pnt": 3,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "v22-3-u-2",
 "v22-3-o-15"
@@ -11952,6 +13799,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit, zonder gebruik te maken van een berekening, dat de hypotheekuitgaven na belastingvoordeel bij de annuïteitenhypotheek elk jaar toenemen.",
 "model": "• Bij aflossing op basis van annuïteiten wordt elke volgende periode meer afgelost doordat de annuïteit gelijkblijft en het interestdeel van de annuïteit daalt (1p)\n• Alleen het interestdeel is aftrekbaar, het aflossingsdeel niet. Hierdoor daalt het belastingvoordeel (1p)",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "v22-3-o-15"
 ]
@@ -11971,6 +13822,10 @@ EXAMEN.vragen.push(...[
 "q": "Wat is de functie van de notaris in het aankoopproces van een huis?",
 "model": "Voorbeeld van een juist antwoord:\n- het opstellen van akte(s) (zoals de eigendomsakte en hypotheekakte) / de inschrijving in het kadaster\n- het regelen van alle juridische zaken rond de aankoop en financiering",
 "pnt": 1,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "v22-3-o-15"
 ]
@@ -11990,6 +13845,10 @@ EXAMEN.vragen.push(...[
 "q": "Tot welk onderdeel van het ondernemingsplan wordt een SWOT-analyse gerekend?",
 "model": "marketingplan",
 "pnt": 1,
+"top": [
+"starten",
+"strategie"
+],
 "img": [
 "v23-1-o-2"
 ]
@@ -12009,6 +13868,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat dit niet correct is en leg uit onder welk onderdeel van de SWOT-analyse dit wel geplaatst had moeten worden.",
 "model": "• Het is niet extern (1p)\n• Het is geen bedreiging (T), het is een zwakte (W), want het is intern en negatief (1p)",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "v23-1-o-2"
 ]
@@ -12028,6 +13890,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee kenmerken van marktsegmentatie.",
 "model": "• opdelen van de afzetmarkt in verschillende doelgroepen, (waarbij iedere doelgroep een aantal gemeenschappelijke kenmerken heeft) (1p)\n• iedere doelgroep heeft een eigen marketingstrategie (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marktonderzoek"
+],
 "img": [
 "v23-1-o-2"
 ]
@@ -12047,6 +13912,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit welk onderdeel van de marketingmix Clip & Go gebruikt bij het benaderen van (kinder)kappers (zie b).",
 "model": "plaatsbeleid / distributiebeleid, omdat het gaat om het afzetkanaal (de manier waarop de haarclipjes bij de consument komen)\nAanvulling van het CvTE:\nOpmerking Als een leerling promotiebeleid noemt en uitlegt vanuit het perspectief van persoonlijke verkoop moeten scorepunten worden toegekend.",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "v23-1-o-2"
 ]
@@ -12066,6 +13934,9 @@ EXAMEN.vragen.push(...[
 "q": "Welke vorm van prijspolitiek (zie a) paste Johanna direct na de oprichting van haar onderneming toe? Verklaar het antwoord door aan te geven wat het doel van de prijspolitiek is.",
 "model": "• prijspenetratiepolitiek (1p)\n• Johanna beoogt een marktaandeel te veroveren door onder de prijs van de concurrentie te gaan zitten (1p)",
 "pnt": 2,
+"top": [
+"marktaandeel"
+],
 "img": [
 "v23-1-o-2"
 ]
@@ -12085,6 +13956,9 @@ EXAMEN.vragen.push(...[
 "q": "Van welke ondernemingsvorm is er sprake bij de oprichting van de onderneming van Jaap en Ineke de Waard? Motiveer het antwoord met twee argumenten.",
 "model": "• vennootschap onder firma / vof, omdat (1p)\n• er twee (meerdere) eigenaren zijn en De Baddertobbe geen rechtspersoon is (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "v23-1-b-3",
 "v23-1-b-4",
@@ -12109,6 +13983,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem een fase uit informatiebron 1 die hoort bij effectuation. Motiveer tot welk kenmerk van effectuation deze randvoorwaarde hoort.",
 "model": "• a (1p)\n• want “het uitgaan van nieuwe markten” is een fase van effectuation. Er wordt een nieuwe doelgroep met een nieuwe behoefte: duurzaam energiegebruik, bereikt (1p)\nof:\n• e (1p)\n• want zoeken naar samenwerking / strategische partners is een fase van effectuation (1p)",
 "pnt": 2,
+"top": [
+"mvo",
+"marktonderzoek"
+],
 "img": [
 "v23-1-b-3",
 "v23-1-o-4"
@@ -12129,6 +14007,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Jaap, na de opname van € 30.000 op 31 maart 2022, na bijschrijving van de interest, nog op de spaarrekening heeft staan (zie formuleblad).",
 "model": "• stortingen van € 500 op 1 maart 2014 tot 1 maart 2019:\n500 x 1,000424 x (1,000424 – 1) = 60\n30.391,22 1\n(1,000424 – 1)\n• welkomstbonus van € 100 op 1 maart 2019: 100 x 1,00042460 = 102,58 30.493,80 (1p)\n• periode 1 maart 2019 - 31 maart 2022: (30.493,80+500) x 1,00024937 = €31.280,63 31.280,63 - € 30.000 = € 1.280,63 (1p)\nOpmerking Voor een juiste berekening uitgaande van stortingen van € 500 op 1 maart 2014 tot 1 maart 2019 moeten scorepunten worden toegekend.\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 3,
+"top": [
+"interest"
+],
 "img": [
 "v23-1-b-4",
 "v23-1-o-4"
@@ -12149,6 +14030,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met behulp van informatiebron 3 en 4 aan dat de verhuurprijs inclusief btw van een aanhanger met hottub € 166,38 per week is. Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "totale constante kosten | berekening | bedrag\nhuur | 4 x 1.200 | 4.800\nafschrijving inventaris | 2.750\n5 | 550\nafschrijving aanhangwagens | 48.000 – 15% van 48.000\nen hottubs | 6 | 6.800\ninterest | 6 | 6\nx 6% van 30.000 + | x\n12 | 12\n6% van (30.000 – 3.000) | 1.710\nverzekering | 9 x 125 + 3 x 104% van 125 | 1.515\nonderhoud | 1.200\ntotaal | 16.575\nbedrag constante kosten in | 16.575\nkostprijs bedrag variabele kosten in | 75% van 52 x 5 | 85,00\nkostprijs | 25,00\nkostprijs | 110,00\nwinstopslag | 25% van 110,00 | 27,50\nverhuurprijs exclusief btw | 137,50\nbtw | 28,88\nverhuurprijs inclusief btw | 166,38\n• 4.800 en 550 en 6800 en 1.710 en 1.515 en 16.575 (3p)\n• 85 (1p)\n• 25 en 110 en 27,50 (1p)\n• 137,50 en 28,88 (1p)",
 "pnt": 6,
+"top": [
+"btw"
+],
 "img": [
 "v23-1-b-5",
 "v23-1-b-6",
@@ -12171,6 +14055,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gerealiseerde resultaat voor belasting over de periode 1 april 2022 tot en met 31 maart 2023. Geef aan of er sprake is van een voordelig of van een nadelig resultaat.",
 "model": "• omzet: 210 x 137,50 = 28.875 (1p)\ntotale constante kosten 17.025 100 totale variabele kosten: 210 x x 31,46 = 5.460 121 totale kosten 22.485\n• gerealiseerd resultaat voor belasting € 6.390 voordelig / + /positief (1p)\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v23-1-b-7",
 "v23-1-o-4"
@@ -12191,6 +14078,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de omvang van het eigen vermogen van Jaap per 31 maart 2023.\n\nLet op, correctie op het examen: „1 oktober 2023” is vervangen door: 1 oktober 2022",
 "model": "3 0.000 30.000 + x 6.390 – 25.000 = € 10.809,09 3 3 .000\nOpmerking Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"balans"
+],
 "img": [
 "v23-1-b-3",
 "v23-1-b-4",
@@ -12215,6 +14105,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken voor Jaap het rendement op zijn gemiddeld geïnvesteerde vermogen.",
 "model": "30.000 + 10.809,09\n• gemiddeld geïnvesteerd vermogen Jaap is = (2p)\n20.404,55 1\n30.000\n• deel van het resultaat dat Jaap toekomt: ( x 6.390 )= 5.809,09 (1p)\n33.000 5.809,09\n• rendement : x 100% = 28,46% (1p)\n20.404,55\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 3,
+"top": [
+"resultaat"
+],
 "img": [
 "v23-1-b-3",
 "v23-1-b-4",
@@ -12239,6 +14132,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit of het door Jaap ingelegde vermogen in De Baddertobbe gedurende 1 april 2022 tot en met 31 maart 2023 meer rendement heeft opgeleverd dan wanneer het bedrag op een spaarrekening was blijven staan.",
 "model": "Het door Jaap ingelegde vermogen in De Baddertobbe heeft meer rendement opgeleverd dan wanneer het bedrag op een spaarrekening was blijven staan / Ja, want 28,47% > 0,299%.",
 "pnt": 1,
+"top": [
+"interest"
+],
 "img": [
 "v23-1-b-3",
 "v23-1-b-4",
@@ -12263,6 +14159,9 @@ EXAMEN.vragen.push(...[
 "q": "Hoort de indeling van een werknemer in een functiegroep tot de collectieve arbeidsovereenkomst of tot de individuele arbeidsovereenkomst? Motiveer het antwoord.",
 "model": "• individuele arbeidsovereenkomst (1p)\n• Indeling in een functiegroep is voor het individu (op basis van opleiding en ervaring) (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.\nAanvulling van het CvTE, bij vraag 14 vervalt de aanvulling van 26 mei. Voor een correctie beoordeling moet het eerste scorepunt worden toegekend voor zowel de individuele arbeidsovereenkomst als de collectieve arbeidsovereenkomst.",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v23-1-o-7"
 ]
@@ -12282,6 +14181,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee bedrijfseconomische redenen voor de werkgever om een overeenkomst voor onbepaalde tijd aan te bieden in plaats van een overeenkomst voor bepaalde tijd.",
 "model": "Voorbeelden van juiste redenen zijn:\n- De werkgever (van Margot) kan moeilijk personeel vinden.\n- De werkgever (van Margot) wil niet telkens nieuw personeel aannemen.\n- De werkgever is bang dat de werknemer (Margot) na afloop van een tijdelijk contract kiest voor een andere werkgever.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v23-1-o-7"
 ]
@@ -12301,6 +14203,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee redenen voor een werkgever om een contract voor onbepaalde tijd voortijdig te beëindigen.",
 "model": "Voorbeelden van juiste redenen zijn:\n- bedrijfseconomische redenen\n- het niet functioneren van de werknemer\n- De werknemer is twee jaar of langer arbeidsongeschikt.\n- De werknemer laat verwijtbaar gedrag zien of laat verwijtbaar iets na.\n- Er is een verstoorde arbeidsrelatie.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"prive"
+],
 "img": [
 "v23-1-o-7"
 ]
@@ -12320,6 +14225,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat Margot gelijk heeft met betrekking tot het salaris.",
 "model": "maandsalaris in september voor 24 uur:\n100 | 24\nx | x 2.024 = € 1.393,86\n102,5 | 34\nOpmerking Per gemaakte fout wordt 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v23-1-o-7"
 ]
@@ -12339,6 +14247,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de toename van de reserves van Verdonk als gevolg van de verdeling van het resultaat van 2022.",
 "model": "• resultaat 2022 na belasting 50.000 250.000 preferent dividend: x8 = 20.000 (1p)\n100 30.000 dividend gewone aandeelhouders: 600.000 x 0,50 = 12.000 25\n• toevoeging aan de reserves € 18.000 (1p)\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 2,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v23-1-o-9"
 ]
@@ -12358,6 +14269,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verandering van het banksaldo van Verdonk door de betaling van het netto cashdividend en de totale dividendbelasting.",
 "model": "• te betalen dividendbelasting: 0,15 x (20.000 + 12.000) 4.800 (1p)\nnetto preferent dividend: 0,85 x 20.000 17.000\n• mutatie/ verandering 21.800 (1p)\nof\n• brutodividend: 32.000 af: 600.000/25 x 0,425 = 10.200 (stockdividend) (1p)\n• mutatie / verandering: 32.000 - 10.200 = 21.800 (1p)\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 2,
+"top": [
+"winstverdeling",
+"vpb"
+],
 "img": [
 "v23-1-o-9"
 ]
@@ -12377,6 +14292,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het totale beleggersrendement van de heer Vrieling op de gewone aandelen Verdonk in 2022 op basis van de gemiddelde beurskoers over 2022 in ten minste één decimaal.",
 "model": "28,75 + 26,35\n• gemiddelde beurskoers is = 27,55 (2p)\n0,50 dividendrendement: x 100% = 1,81% 1\n27,55 26,35 – 28,75\n• koersrendement: x 100% = -/- 8,71% 27,55 rendement op een gewoon aandeel Verdonk nv -/- 6,90% (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v23-1-o-9"
 ]
@@ -12396,6 +14314,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem een andere bevoegdheid van de Algemene vergadering van Aandeelhouders dan het vaststellen van de hoogte van het dividend.",
 "model": "Voorbeeld van een goed antwoord is:\n- Grote besluiten goedkeuren, zoals fusies en overnames Beslissen over:\n- benoeming en ontslag van de bestuurders;\n- het beloningsbeleid voor bestuurders;\n- de vaststelling van de jaarrekening;\n- wijzigingen van de statuten.",
 "pnt": 1,
+"top": [
+"aandelen",
+"winstverdeling"
+],
 "img": [
 "v23-1-o-9"
 ]
@@ -12415,6 +14337,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarom de quick ratio van Verdonk daalt door het beschikbaar stellen van cash dividend. Betrek in het antwoord zowel de teller als de noemer.",
 "model": "• Door het ter beschikking stellen van cashdividend verandert de teller niet (1p)\n• De noemer wordt groter doordat Verdonk nv een nog grotere schuld aan de bank krijgt, waardoor de quick ratio verslechtert (1p)",
 "pnt": 2,
+"top": [
+"winstverdeling",
+"kengetallen"
+],
 "img": [
 "v23-1-o-9"
 ]
@@ -12434,6 +14360,9 @@ EXAMEN.vragen.push(...[
 "q": "Hoe heet het gedeelte van de erfenis waarop een kind dat in een testament is onterfd toch recht heeft?",
 "model": "legitieme portie",
 "pnt": 1,
+"top": [
+"erven"
+],
 "img": [
 "v23-1-b-8",
 "v23-1-b-9",
@@ -12455,6 +14384,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het deel van de erfenis in euro’s voor belasting waar Bente recht op heeft.",
 "model": " 1\n(167.500 + 45.000) x = € 106.250 2",
 "pnt": 1,
+"top": [
+"erven"
+],
 "img": [
 "v23-1-b-8",
 "v23-1-b-9",
@@ -12476,6 +14408,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het totaal aan belasting dat Bente en haar stiefzusjes moeten betalen als gevolg van haar erfenis en schenking. Gebruik hiervoor de tarieven uit informatiebron 6.",
 "model": "• Bente (106.250 – 20.371) x 10% = € 8.587,90 erfbelasting (1p)\n• 106.250 – 8.587,90 = € 97.662,10 = erfenis na aftrek van erfbelasting Bente (1p)\n97.662,10\n• = € 32.554,03 = schenking stiefzusje (3p)\n(32.554,03 – 2.147) x 30% = € 9.122,11 schenkbelasting stiefzusje 1\n• Totaal te betalen belasting: € 8.587,90 + 2 x € 9.122,11 = € 26.832,12 (1p)\nOpmerking Naar beneden afgeronde bedragen ook goed rekenen, dus € 8.587, € 97.663, € 9.122 en € 26.831.",
 "pnt": 4,
+"top": [
+"erven"
+],
 "img": [
 "v23-1-b-8",
 "v23-1-o-11"
@@ -12496,6 +14431,9 @@ EXAMEN.vragen.push(...[
 "q": "Hoe kan in zijn algemeenheid, binnen de wettelijke regels, worden voorkomen dat er bij de schenkingen belasting moet worden betaald?",
 "model": "De schenking wordt verdeeld over meerdere jaren en jaarlijks wordt een bedrag geschonken dat binnen de schenkingsvrijstelling blijft (net zo lang tot het totale schenkingsbedrag is weggeschonken).\nAanvulling van het CvTE, bij vraag 27 moet\nDe schenking wordt verdeeld over meerdere jaren en jaarlijks wordt een bedrag geschonken dat binnen de schenkingsvrijstelling blijft (net zo lang tot het totale schenkingsbedrag is weggeschonken).\nvervangen worden door\n(De schenking wordt verdeeld over meerdere jaren en) jaarlijks wordt een bedrag geschonken dat binnen de schenkingsvrijstelling blijft (net zo lang tot het totale schenkingsbedrag is weggeschonken).",
 "pnt": 1,
+"top": [
+"erven"
+],
 "img": [
 "v23-1-b-8",
 "v23-1-b-9",
@@ -12517,6 +14455,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Kira op deze spaarrekening heeft staan op 2 september 2022.",
 "model": "• Ontvangen wettelijke interest: Op 1 september 2021: 4.750 x 0,06 = 285 Op 1 september 2022: 2 x 4.750 x 0,06 = 570 (1p)\n• Op de spaarrekening op 2 september 2022 van Kira staat dan: (285 x 1,02) + 570 = € 860,70 (1p)",
 "pnt": 2,
+"top": [
+"interest"
+],
 "img": [
 "v23-1-b-9",
 "v23-1-o-12"
@@ -12537,6 +14478,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarom de overheid alleen een subsidie verstrekte voor compensatie van constante kosten en niet voor de variabele kosten.",
 "model": "Wanneer de omzet in een kwartaal afneemt ten opzichte van hetzelfde kwartaal een jaar eerder, nemen de variabele kosten ook af, maar de constante kosten niet.",
 "pnt": 1,
+"top": [
+"kostprijs"
+],
 "img": [
 "v23-1-o-13"
 ]
@@ -12556,6 +14500,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met behulp van de dekkingsbijdrage per shared-dining box hoeveel boxen er minimaal verkocht moeten zijn in het vierde kwartaal van 2020 om bij het verwachte subsidiebedrag break-even te spelen.",
 "model": "• dekkingsbijdrage: 95 – 0,40 x 95 – 5,50 = 51,50 (1p)\n• te dekken bedrag: 3 x 35.000 – 20.000 = 85.000 (1p)\n85.000\n• aantal te verkopen boxen: = 1.651 (1p)\n51,50\nOpmerking Wanneer naar 1.650 is afgerond, geen scorepunt toekennen.",
 "pnt": 3,
+"top": [
+"breakeven"
+],
 "img": [
 "v23-1-o-13"
 ]
@@ -12575,6 +14522,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee mogelijke redenen voor een lager rendement bij zelf beleggen voor het opbouwen van het pensioen vergeleken met zelf deelnemen in een pensioenfonds.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Marloes heeft vergeleken met het pensioenfonds minder kennis van beleggen (waardoor het rendement lager zal zijn dan bij deelneming in een pensioenfonds).\n- Bij zelf beleggen zijn er geen schaalvoordelen / zijn de kosten van beleggen hoger, (waardoor het rendement lager is).\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"beleggen"
+],
 "img": [
 "v23-2-o-2"
 ]
@@ -12594,6 +14544,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee andere financiële voordelen die Marloes opgeeft wanneer ze haar baan als werknemer in het onderwijs opzegt en ondernemer wordt.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- In loondienst kan Marloes aanspraak maken op werknemersverzekeringen (dit kan niet als ondernemer).\n- In loondienst is haar inkomen zekerder (dan als ondernemer).\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"prive"
+],
 "img": [
 "v23-2-o-2"
 ]
@@ -12613,6 +14566,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit of deze twee uitgangspunten van Marloes juist zijn.",
 "model": "• Een vergoeding bij ontslag: onjuist: Omdat Marloes zelf ontslag neemt, krijgt ze geen transitievergoeding (1p)\n• Direct pensioen ontvangen: onjuist: Marloes zal minimaal tot haar pensioengerechtigde leeftijd moeten wachten om een uitkering van het pensioenfonds te krijgen (1p)",
 "pnt": 2,
+"top": [
+"arbeidsrecht",
+"prive"
+],
 "img": [
 "v23-2-o-2"
 ]
@@ -12632,6 +14589,9 @@ EXAMEN.vragen.push(...[
 "q": "Van welke drie onderdelen van de marketingmix maakt Marloes op basis van bovenstaande veronderstellingen gebruik? Leg je antwoord uit.",
 "model": "• Productbeleid: Marloes weet haar product (dienst) af te stemmen op wat de klant nodig heeft / (oud) stagiaires kunnen huiswerkbegeleiding geven (1p)\n• Plaatsbeleid: Marloes kan gebruik maken van de klaslokalen van de ex-middelbare school (1p)\n• Promotiebeleid: Marloes zal de plaatselijke voetbalclub gaan sponsoren (1p)",
 "pnt": 3,
+"top": [
+"marketingmix"
+],
 "img": [
 "v23-2-o-3"
 ]
@@ -12651,6 +14611,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de bank gezien de rechtsvorm van Peel borgstellingen eist (zie informatiebron 2).",
 "model": "• Bij een bv zijn de aandeelhouders niet aansprakelijk met hun privé- vermogen / hoofdelijk aansprakelijk voor schulden van de bv (1p)\n• De borgstellingen zorgen ervoor dat ze (door het afgeven) wel privé aansprakelijk zijn voor schulden van de bv, waardoor de bank meer zekerheid heeft dat aan de betalingsverplichting wordt voldaan (1p)",
 "pnt": 2,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "v23-2-b-4",
 "v23-2-o-4"
@@ -12671,6 +14634,9 @@ EXAMEN.vragen.push(...[
 "q": "Behoren de borgstellingen van Eline en Peter tot de “niet uit de balans blijkende verplichtingen en risico’s” van Peel? Motiveer het antwoord.",
 "model": "Nee, want dit is een risico voor de eigenaren privé en niet voor het bedrijf/ de onderneming.",
 "pnt": 1,
+"top": [
+"balans"
+],
 "img": [
 "v23-2-b-3",
 "v23-2-b-4",
@@ -12695,6 +14661,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale jaarlijkse afschrijvingen (zie informatiebron 3 en 4).",
 "model": "505.000\nafschrijving pand: | = | 12.625 40\nafschrijving licentie: | 10.000\ntotaal | € 22.625",
 "pnt": 1,
+"top": [
+"afschrijving"
+],
 "img": [
 "v23-2-b-5",
 "v23-2-b-6",
@@ -12716,6 +14685,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening met behulp van het totale vermogen en het totale vreemde vermogen op de balans aan dat, gezien de aannames van Peter en Eline, de bankborgstelling na zes jaar kan komen te vervallen (zie informatiebron 1 en 3).",
 "model": "• totale activa na 6 jaar: licentie: 80.000 – 6 x 10.000 = 20.000 pand: 505.000 – 6 x 12.625 = 429.250 voorraad: 400.000 debiteuren: 140.000 liquide middelen: 55.000 totale activa 1.044.250 (1p)\n• totaal vreemd vermogen na 6 jaar: 505.000 + 280.000 – 6 x 25.250 = 633.500 (1p)\n1.044.250\n• x 100% = 165% (1p)\n633.500\nof\n• totaal vreemd vermogen na 6 jaar: 505.000 + 280.000 – 6 x 25.250 = 633.500 (1p)\n• totaal vermogen na 6 jaar: 300.000 + 95.000 + 15.750 + 633.500 = 1.044.250 (1p)\n1.044.250\n• x 100% = 165% (1p)\n633.500",
 "pnt": 3,
+"top": [
+"balans"
+],
 "img": [
 "v23-2-b-3",
 "v23-2-b-5",
@@ -12737,6 +14709,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de hoogte van het begrote resultaat over 2022 na aftrek van vennootschapsbelasting van Peel (zie informatiebron 4).",
 "model": "1.250.000 – 810.000 – 22.625 (vraag 7) – 287.050 = 130.325 130.325 x (1 – 0,149) = € 110.906,58\nOpmerking Wanneer niet op eurocenten wordt afgerond geen scorepunten aftrekken.",
 "pnt": 1,
+"top": [
+"vpb"
+],
 "img": [
 "v23-2-b-6",
 "v23-2-o-5"
@@ -12757,6 +14732,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat het begrote resultaat na winstbelasting van Peel hoog genoeg is om het dividend aan HUP en Peter en Eline te kunnen uitkeren over 2022 (zie informatiebron 3 en 4).",
 "model": "• resultaat na vpb: 110.906,58 (zie vraag 9) reserve: 50.000,00 beschikbaar voor dividend: € 60.906,58 (1p)\n300.000\n• 5.000 aandelen: 2.000 aan HUB + 3.000 ( ) van Eline en Peter. 100 totaal benodigd dividend 5.000 x 10,27 = € 51.350 (2p)",
 "pnt": 3,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v23-2-b-5",
 "v23-2-b-6",
@@ -12778,6 +14756,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het totale agio op aandelen als gevolg van deze emissie (zie informatiebron 3).",
 "model": "• agio per aandeel: ( 131,67 x 1,20 – 100) = 58 (1p)\n• totale agio op aandelen 2.000 x 58 = € 116.000 (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v23-2-b-5",
 "v23-2-o-6"
@@ -12798,6 +14779,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef aan waarom de cashflow bij het verstrekken van een lening een betere maatstaf is dan het resultaat. Betrek in het antwoord zowel de cashflow als het resultaat.",
 "model": "• De cashflow bestaat uit resultaat + afschrijvingen (1p)\n• Het resultaat wordt beïnvloed door de gekozen afschrijvingsmethode en is dus te beïnvloeden (Het resultaat geeft oom Zuiker een vertekend beeld hoe de onderneming gepresteerd heeft) (1p)\nof\n• Het risico voor oom Zuiker is dat hij geen interest en aflossing ontvangt. De cashflow geeft (bij benadering) de geldstroom weer, waaruit de interest en aflossing betaald worden (1p)\n• Het resultaat geeft niet aan of er voldoende geld beschikbaar is om de interest en aflossing te betalen (1p)",
 "pnt": 2,
+"top": [
+"cashflow",
+"vreemdvermogen"
+],
 "img": [
 "v23-2-b-7",
 "v23-2-o-6"
@@ -12818,6 +14803,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan dat Peel voldoet aan de cashflow-eis van oom Zuiker.",
 "model": "110.906,58 (vraag 9) + 22.625 (vraag 7) = € 133.531,58 (€133.531,58 is hoger dan € 130.000)",
 "pnt": 1,
+"top": [
+"cashflow"
+],
 "img": [
 "v23-2-b-3",
 "v23-2-b-4",
@@ -12842,6 +14830,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de hoogte van de aanvullende onderhandse lening van oom Zuiker. Ga er hierbij van uit dat de emissie van de aandelen door HUP wordt volgestort. Rond het bedrag van de lening af op duizendtallen.",
 "model": "• 2.000 x 158 = € 316.000 ontvangst uit emissie (1p)\n• 505.000 – 316.000 = € 189.000 is de hoogte van de aanvullende lening (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"aandelen"
+],
 "img": [
 "v23-2-b-3",
 "v23-2-b-4",
@@ -12866,6 +14858,10 @@ EXAMEN.vragen.push(...[
 "q": "Voor welke mogelijkheid kiezen Peter en Eline? Vul hiervoor de uitwerkbijlage bij deze vraag volledig in.",
 "model": "berekeningen:\nuitgaven | mogelijkheid a | mogelijkheid b\ntotale interest over de | 505.000 x 0,04 = 20.200\nlening voor 2 jaar | 479.750 x 0,04 = 19.190 | 18.614,20 39.390\ntotale aflossing over 2 jaar | 25.250 x 2 = 50.500 | 11.717,49\nuitgekeerd dividend | 2.000 x 10,27 x 2\naan HUP | = 41.080,00\ntotale uitgaven | € 89.890 | € 71.411,69\nBedragen ten behoeve van mogelijkheid b:\nschuld op 1 | interest 5% | annuïteit | aflossing januari\n2022 | € 189.000,00 | € 9.450,00 | € 15.165,85 | € 5.715,85\n2023 totaal over | € 183.284,15 | € 9.164,21 | € 15.165,85 | € 6.001,64\n2 jaar | € 18.614,21 | € 11.717,49\n• 89.890 (1p)\n• 11.717,49 (1p)\n• 41.080,00 (1p)\n• 18.614,20 (1p)\n• Er wordt gekozen voor mogelijkheid b, omdat 71.411,69 < 89.890 (1p)",
 "pnt": 5,
+"top": [
+"vreemdvermogen",
+"liquiditeitsbegroting"
+],
 "img": [
 "v23-2-b-3",
 "v23-2-b-4",
@@ -12891,6 +14887,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat het streven naar een maximaal cashdividend met behoud van een gezonde solvabiliteit tegenstrijdig kan zijn.",
 "model": "Bij beschikbaar stellen van (maximaal) cashdividend daalt het eigen vermogen en neemt het kort vreemd vermogen toe (en verslechtert de solvabiliteit).\nOpmerking Bij het antwoord: ‘Bij uitkeren van (maximaal) cashdividend daalt het eigen vermogen na winstverdeling (en verslechtert de solvabiliteit)’, kunnen 2 scorepunten worden toegekend.",
 "pnt": 2,
+"top": [
+"winstverdeling",
+"kengetallen"
+],
 "img": [
 "v23-2-o-9"
 ]
@@ -12910,6 +14910,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat een gezonde solvabiliteit op langere termijn een positief effect kan hebben op de koers van het aandeel Beter Bed.",
 "model": "Voorbeeld van een juist antwoord is:\n• Een gezonde solvabiliteitspositie kan leiden tot een lager interestpercentage / Als gevolg van een gezondere vermogenspositie kan er tegen een lagere interestvergoeding geleend worden (1p)\n• Lagere interestkosten verbeteren het resultaat, wat kan leiden tot meer vraag naar aandelen Beter Bed/hogere beurskoers (1p)",
 "pnt": 2,
+"top": [
+"aandelen",
+"kengetallen"
+],
 "img": [
 "v23-2-o-9"
 ]
@@ -12929,6 +14933,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een voorbeeld van een belangenconflict tussen werknemers en aandeelhouders. Licht voor beide partijen toe hoe dit belangenconflict kan ontstaan.",
 "model": "• Conflict: behoud koopkracht versus winstgevendheid / dividend. Werknemers willen behoud van koopkracht / een zo hoog mogelijk loon, wat kan leiden tot een lagere winst (1p)\n• Voor aandeelhouders zijn hogere winsten en dividenduitkeringen van belang (1p)\nof\n• Conflict: behoud werkgelegenheid versus winstgevendheid/dividend. Om hoge winsten te behalen zullen aandeelhouders goedkoop willen produceren / de loonkosten verlagen / personeel ontslaan (1p)\n• Werknemers zullen hiermee niet akkoord gaan (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v23-2-o-9"
 ]
@@ -12948,6 +14955,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit wat de rechtsvorm is waaronder Belles Antiquités staat ingeschreven bij de Kamer van Koophandel.",
 "model": "• besloten vennootschap / bv (1p)\n• De aandelen worden niet in het openbaar verhandeld (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"rechtsvorm",
+"starten"
+],
 "img": [
 "v23-2-o-10"
 ]
@@ -12967,6 +14978,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de voorwaarde van de bank als een liquiditeitseis beschouwd kan worden.",
 "model": "• Door reservering te verplichten, kan er minder dividend uitgekeerd worden (1p)\n• en nemen de liquide middelen minder af (1p)",
 "pnt": 2,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v23-2-o-10"
 ]
@@ -12986,6 +15000,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Nesrin op 1 januari 2022 aan Dilan zal moeten betalen om Dilan uit te kopen (zie formuleblad).",
 "model": "• Afspraak 1 en 3: deel van het eigen vermogen op 1 januari 2010: (1p)\nvan 30.000 x 1,0612 = 20.121,96 1\n 3\n• Afspraak 2 en 3: deel van de winstreserveringen (1p)\n2012: deel van (9.000+ 9.000) x 1,0610 = 10.745,09 1\n 3\n• a = 1 ; r = 1,06; n = 10; S = 13,18079494 (1p)\n2013 tot en met 2022: deel van 9.000 x 13,18079494 = 39.542,38 2\n 3\n• uitkoopsom: 20.121,96 +10.745,09 +39.542,38 = € 70.409,43 (1p)\nof bij stortingen tot en met 1 januari 2017:\n• Afspraak 1 en 3: deel van het eigen vermogen op 1 januari 2010: (1p)\n2012: deel van 30.000 x 1,06 12 = 20.121,96 1\n 3\n• Afspraak 2 en 3: deel van de winstreserveringen (1p)\n2012: deel van (9.000+ 9.000) x 1,0610 = 10.745,09 1\n 3\n• a =1,06⁵ ; r = 1,06; n =5; S = 7,543701982 (1p)\n2013 tot en met 2017: deel van 9.000 x 7,543701982 = 22.631,11 2\n 3\n• uitkoopsom: 20.121,96 +10.745,09 +22.631,11 = € 53.498,16 (1p)",
 "pnt": 5,
+"top": [
+"interest"
+],
 "img": [
 "v23-2-o-11"
 ]
@@ -13005,6 +15022,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit of de aandelenovername gevolgen heeft voor de rechtsvorm van Belles Antiquités.",
 "model": "De rechtsvorm blijft onveranderd, omdat het eigen vermogen van de onderneming bestaat uit aandelen die niet openbaar te verhandelen zijn.",
 "pnt": 1,
+"top": [
+"rechtsvorm",
+"aandelen"
+],
 "img": [
 "v23-2-o-11"
 ]
@@ -13024,6 +15045,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een prestatie-indicator waarmee klantloyaliteit en een prestatie- indicator waarmee de tevredenheid van werknemers kan worden gemeten.",
 "model": "Voorbeelden van een goed antwoord zijn:\n- klantloyaliteit: (prestatie-indicator) herhalingsaankopen\n- tevredenheid van werknemers: (prestatie-indicator) percentage ziekteverzuim / personeelsverloop\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "v23-2-b-8",
 "v23-2-b-9",
@@ -13045,6 +15069,9 @@ EXAMEN.vragen.push(...[
 "q": "Is er bij de distributie van mondkapjes sprake van een push- of pull- strategie? Licht je antwoord toe.",
 "model": "• push-strategie (1p)\n• de onderneming probeert de verkoop te stimuleren door het geven van kortingen aan de bedrijven (organisaties) / de actie is gericht op de directe afnemers (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v23-2-b-8",
 "v23-2-o-12"
@@ -13065,6 +15092,9 @@ EXAMEN.vragen.push(...[
 "q": "Onder welke groep vaste activa worden deze ontwikkelingskosten opgenomen?",
 "model": "Immateriële vaste activa",
 "pnt": 1,
+"top": [
+"balans"
+],
 "img": [
 "v23-2-b-8",
 "v23-2-b-9",
@@ -13086,6 +15116,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de kostprijs van een medisch mondkapje.",
 "model": "4 x 60.000 + 150.000 + 224.400\n• Constant (C/N): 12 = 0,08 (2p)\n0,80 x 800.000\n 1\n• Filtermateriaal: x4= 0,80 (5p)\nOverig variabele kosten 0,22 Variabel 1,02\n• Kostprijs (1,02 + 0,08) € 1,10 (1p)\nOpmerking: Als er wordt gerekend met 16 medewerkers geen scorepunt aftrekken.",
 "pnt": 3,
+"top": [
+"kostprijs"
+],
 "img": [
 "v23-2-b-8",
 "v23-2-b-9",
@@ -13107,6 +15140,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken bij deze verwachtingen het verkoopresultaat voor het vierde kwartaal van 2020. Geef aan of er sprake is van positief of van negatief resultaat.",
 "model": "0,90 x 800.000 x 3 x (1,25 – 1,10) = € 324.000 positief/+/ voordelig\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v23-2-b-8",
 "v23-2-b-9",
@@ -13128,6 +15164,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat door het doorberekenen van deze kostenstijging in de verkoopprijs het bezettingsresultaat kan dalen.",
 "model": "• De verhoging van de verkoopprijs kan hebben geleid tot minder afzet (1p)\n• waardoor er een afwijking is tussen werkelijke en normale afzet en het bezettingsresultaat afneemt (1p)",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v23-2-b-9",
 "v23-2-o-14"
@@ -13148,6 +15187,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de werkelijke hoeveelheid verbruikt filtermateriaal in het vierde kwartaal van 2020.",
 "model": "Efficiencyresultaat (sh – wh) x sp: (2.040.000 x 0,2 – wh ) x 4 = – 40.800 wh = 418.200 meter\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v23-2-b-8",
 "v23-2-b-9",
@@ -13169,6 +15211,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gerealiseerde prijsresultaat op het filtermateriaal in het vierde kwartaal van 2020. Geef aan of er sprake is van voordelig of van nadelig resultaat.",
 "model": "Prijsresultaat: (sp – wp) x wh: (4 – 4,40) x 418.200 = € 167.280 nadelig/ - / negatief\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v23-2-b-8",
 "v23-2-b-9",
@@ -13190,6 +15235,10 @@ EXAMEN.vragen.push(...[
 "q": "Aan welke drie wettelijke eisen moet voldaan worden opdat er sprake is van een individuele arbeidsovereenkomst en niet van een zzp- overeenkomst?",
 "model": "- gezagsverhouding\n- arbeidsverplichting\n- loon/vergoeding voor arbeid\nIndien drie antwoorden juist 2\nIndien twee antwoorden juist 1\nIndien minder dan twee antwoorden juist 0",
 "pnt": 2,
+"top": [
+"starten",
+"arbeidsrecht"
+],
 "img": [
 "v23-2-o-15"
 ]
@@ -13209,6 +15258,9 @@ EXAMEN.vragen.push(...[
 "q": "Citeer de zin uit de bron waaruit blijkt dat deze werknemer bij Ikea een arbeidsovereenkomst voor bepaalde tijd heeft.",
 "model": "Bij deze vraag moet het scorepunt altijd worden toegekend, ongeacht of er wel of geen antwoord is gegeven en ongeacht het gegeven antwoord.\nToelichting De zin die in het antwoord moet worden geciteerd is niet eenduidig. Hierdoor is de vraag voor leerlingen niet goed te beantwoorden.",
 "pnt": 1,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v23-2-o-15"
 ]
@@ -13228,6 +15280,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg met behulp van twee gegevens uit de bovenstaande tekst uit dat het ondernemerschap van Ton en Huib kenmerken heeft van effectuation.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Er wordt uitgegaan van beschikbare middelen/ ‘bird in hand’: garage en slowjuicer.\n- Er worden strategische partners bij betrokken / crazy quilt: plaatselijke leveranciers en verkooppunten van groente en fruit.\nper juist gegeven met juiste uitleg 1\nOpmerking Onjuist is: ‘pilot in the plane’. De broers benutten de trend naar een gezonde levensstijl en nemen niet het heft in eigen handen.",
 "pnt": 2,
+"top": [
+"starten"
+],
 "img": [
 "v24-1-o-2"
 ]
@@ -13247,6 +15302,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een voorbeeld van een Threat en een voorbeeld van een Weakness aan de hand van de gegeven informatie over Sap&Bro. Leg beide voorbeelden uit.",
 "model": "Voorbeelden van juiste antwoorden zijn: Threat:\n- De overheid heeft plannen om een suikertaks te heffen. Dit is een externe factor / het bedrijf heeft hier geen invloed op en het is negatief (negatieve invloed op de afzet).\n- Er zijn veel concurrenten bijgekomen. Dit is een externe factor / het bedrijf heeft hier geen invloed op en het is negatief (negatieve invloed op de afzet). Weakness:\n- Ze zijn maar met z’n tweeën. Als één broer uitvalt komt de productie in gevaar. Dit is een interne factor en het is negatief (negatieve invloed op de afzet).\n- Hun prijs is hoger dan die van de concurrentie (door het ontbreken van schaalvoordelen). Dit is een interne factor en het is negatief (negatieve invloed op de afzet).\nper juist toegelichte Threat 1\nper juist toegelichte Weakness 1\nOpmerking Als er bij zowel Threat als Weakness niet aangegeven is dat het negatief is, dan wordt hiervoor maximaal 1 scorepunt in mindering gebracht.",
 "pnt": 2,
+"top": [
+"marktaandeel"
+],
 "img": [
 "v24-1-o-2"
 ]
@@ -13266,6 +15324,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef bij twee van deze kritische succesfactoren een prestatie-indicator.",
 "model": "Voorbeelden van juiste antwoorden zijn: a de cash flow / current ratio / solvabiliteit b het suikergehalte van het product c het aantal verkooppunten / de openingsduur\nper juist toegelichte prestatie-indicator 1",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "v24-1-o-3"
 ]
@@ -13285,6 +15346,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg het begrip klantwaardepropositie uit en verklaar waarom door de uitbreiding van het gebied de klantwaardepropositie van Fenix verandert.",
 "model": "Voorbeeld van een juist antwoord is:\n• Een klantwaardepropositie geeft aan welk probleem een product of dienst oplost voor de klant / welke voordelen de klant ervaart door de aankoop van het product of dienst. (1p)\n• Omdat de elektrische scooter nu in meer gebieden te gebruiken is (als duurzaam alternatief) / de elektrische scooter nu een beter alternatief is geworden door het OV vanwege de ruimere inzetbaarheid (1p)\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v24-1-b-3",
 "v24-1-b-4",
@@ -13307,6 +15371,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat bij de financieringsronde op 1 januari 2023 is opgehaald door een aandelenemissie.",
 "model": "• toename geplaatst aandelenkapitaal: 750.000 – 600.000 = 150.000 (1p)\n• agio op aandelen: 4.000.000 – 1.600.000 = 2.400.000 totale vermogenstoename door aandelenemissie: 150.000 + 2.400.000 = € 2.550.000 (1p)",
 "pnt": 2,
+"top": [
+"aandelen",
+"vreemdvermogen"
+],
 "img": [
 "v24-1-b-3",
 "v24-1-o-4"
@@ -13327,6 +15395,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat verschaffers van vreemd vermogen de aandelenemissie als voorwaarde stellen.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n• Wanneer alleen vreemd vermogen wordt aangetrokken, verslechtert de vermogenspositie / solvabiliteit (1p)\n• en neemt het risico voor verschaffers van vreemd vermogen toe dat ze bij faillissement (een deel van) hun ingebrachte vermogen kwijtraken. (1p)\nof\n• Wanneer aandeelhouders bij een aandelenemissie aandelen kopen/ vanuit privé storten naar de bv, neemt het eigen vermogen toe / laten ze zien dat ze vertrouwen hebben in het bedrijf. (1p)\n• Verschaffers van vreemd vermogen lopen dan minder risico dat ze (een deel van) hun ingebrachte vermogen kwijtraken. (1p)",
 "pnt": 2,
+"top": [
+"aandelen",
+"vreemdvermogen"
+],
 "img": [
 "v24-1-b-3",
 "v24-1-b-4",
@@ -13349,6 +15421,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee voorbeelden van andere manieren die Fenix kan gebruiken om werknemers aan te trekken én te behouden.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- aanbieden van opleidingsmogelijkheden\n- aanbieden van carrièrekansen\n- aanbieden van een gunstige werk-privébalans\n- aanbieden van een contract voor onbepaalde tijd\nper juist antwoord 1\nOpmerking De gegeven antwoorden moeten zowel over het aantrekken als het behouden van personeel gaan.",
 "pnt": 2,
+"top": [
+"personeel"
+],
 "img": [
 "v24-1-b-3",
 "v24-1-b-4",
@@ -13371,6 +15446,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem voor de aandeelhouders van Fenix twee verschillende nadelen van het uitgeven van aandelen aan het personeel.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- vermindering van zeggenschap\n- winstverwatering / dividendverwatering\n- daling intrinsieke waarde per aandeel\nper juist antwoord 1\nOpmerking ‘Daling van de beurskoers’ is onjuist.",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v24-1-b-4",
 "v24-1-o-5"
@@ -13391,6 +15469,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de uitgifte van SARs kan leiden tot een beter resultaat van Fenix.",
 "model": "Voorbeeld van een juist antwoord is: De inzet van SARs kan leiden tot een hogere productiviteit van werknemers met SARs vanwege een verwachte hogere SAR-uitkering, waardoor het resultaat van Fenix kan toenemen.",
 "pnt": 1,
+"top": [
+"personeel"
+],
 "img": [
 "v24-1-b-3",
 "v24-1-b-4",
@@ -13413,6 +15494,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de waarde van het aandeel Fenix op het moment van afsluiten van de SAR-overeenkomst (het vesting-event) op 31 december 2023 (zie informatiebron 1, 2 en 3).",
 "model": "• EBIT 2023: 82.500 + 480.000 = 562.500 (1p)\n• waarde per aandeel: 5.000 x 562.500 = € 1.875 (1p)\n750.000 0,50",
 "pnt": 2,
+"top": [
+"personeel",
+"aandelen"
+],
 "img": [
 "v24-1-b-3",
 "v24-1-b-4",
@@ -13435,6 +15520,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte totale SAR-uitkering op 31 december 2026 (zie informatiebron 1 en 3).",
 "model": "• De waardestijging van het aandeel bedraagt: 1.875 x 1,125³ – 1.875 = 794,68. (1p)\n• De verwachte totale SAR-uitkering bedraagt 30% x 180 x 20 x 794,68 = € 858.251,95. (1p)\nAanvulling van het CvTE, ook goed:\nof\n• De waardestijging van het aandeel bedraagt: 1.875 x 0,125 x 3 = 703,13. (1p)\n• De verwachte totale SAR-uitkering bedraagt 30% x 180 x 20 x 703,13 = € 759.375. (1p)",
 "pnt": 2,
+"top": [
+"prive",
+"personeel"
+],
 "img": [
 "v24-1-b-3",
 "v24-1-b-5",
@@ -13456,6 +15545,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat door gebruik te maken van SARs een verslechtering van de liquiditeit in de opstartfase bij Fenix kan worden voorkomen.",
 "model": "Voorbeeld van een juist antwoord is: Met een SAR-uitkering wordt voorkomen dat talentvolle werknemers geldelijk moeten worden beloond, wat leidt tot afname van liquide middelen (en verslechtering van de liquiditeit).",
 "pnt": 1,
+"top": [
+"personeel",
+"kengetallen"
+],
 "img": [
 "v24-1-b-3",
 "v24-1-b-4",
@@ -13478,6 +15571,10 @@ EXAMEN.vragen.push(...[
 "q": "Welk effect heeft een toevoeging aan een voorziening voor de SAR- uitkeringen op de solvabiliteit (EV/VV)? Betrek in het antwoord zowel de verandering van de teller als de verandering van de noemer.",
 "model": "• De kostenstijging (door de SARs) leidt tot afname van het resultaat en daling van het eigen vermogen (teller). (1p)\n• Een toevoeging aan de voorziening (door de SARs) leidt tot een toename van het vreemd vermogen (noemer), wat leidt tot een verslechtering van de solvabiliteit. (1p)",
 "pnt": 2,
+"top": [
+"prive",
+"personeel"
+],
 "img": [
 "v24-1-b-3",
 "v24-1-b-4",
@@ -13500,6 +15597,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de twee andere keuzemogelijkheden die Thom heeft op basis van het erfrecht.",
 "model": "• verwerpen (1p)\n• beneficiair aanvaarden / aanvaarden onder voorrecht van boedelbeschrijving (1p)",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "v24-1-o-7"
 ]
@@ -13519,6 +15619,9 @@ EXAMEN.vragen.push(...[
 "q": "Gebruik bij vraag 15 en 16 de inventarisatielijst.\nStel de volledige balans van de eenmanszaak op het moment van overlijden van Rob Berends samen. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "debet | Balans eenmanszaak Rob | credit Berends per 6 december 2023 (x € 1)\nVaste activa | Eigen vermogen | 186.000\nBedrijfspand | 350.000 Lang vreemd\nOverige vaste activa | 25.000 | vermogen\nHypothecaire lening Vlottende activa | 180.000\nVooruitbetaalde | Kort vreemd\nbedragen / verstrekt | vermogen\nafnemerskrediet | 2.000 Vooruit ontvangen bedragen / ontvangen\nVoorraden | 12.000 | afnemerskrediet | 2.500 Crediteuren /\nDebiteuren / verstrekt | ontvangen\nleverancierskrediet | 10.000 | leverancierskrediet | 6.000 Bank / Rekening\ncourantkrediet | 24.500\n399.000 | 399.000\nOpmerkingen\n- Voor elke post die niet in de juiste categorie is geplaatst, 1 scorepunt in mindering brengen.\n- Wanneer ontvangen en verstrekt leverancierskrediet zijn verwisseld, 1 scorepunt in mindering brengen.\n- Voor iedere foute berekening ook 1 scorepunt in mindering brengen.",
 "pnt": 4,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "v24-1-u-1",
 "v24-1-o-8"
@@ -13539,6 +15642,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag voor belasting in euro’s dat Thom zal erven. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "Privébezittingen\nEffectenportefeuille | 25.000\nPositief saldo bankrekening | 3.000\nInboedel | 60.000\nTotaal van de privébezittingen Privéschulden | 88.000\nCreditcardschuld | 4.000\nTotaal van de privéschulden Totaal privévermogen Rob | 4.000\nBerends Eigen vermogen eenmanszaak | 84.000\n(vraag 15) | 186.000\nTotale erfenis | 270.000\n• totaal privévermogen Rob Berends: 84.000 (1p)\n• totale erfenis: 270.000 en grootte erfdeel Thom: (1p)\nx 270.000 = € 9.000 1\n30",
 "pnt": 2,
+"top": [
+"erven",
+"rechtsvorm"
+],
 "img": [
 "v24-1-u-2",
 "v24-1-o-8"
@@ -13559,6 +15666,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Thom na aftrek van de erfbelasting van zijn erfenis overhoudt.",
 "model": "9.000 – 30% van (9.000 – 2.274) = € 6.983 (6.982,20)",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "v24-1-o-8"
 ]
@@ -13578,6 +15688,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de dekkingsbijdrage per pizza in de maand december 2023.",
 "model": "106.000 – 50.000\n• variabele kosten per pizza: =4 (1p)\n14.000\n140.000\n• dekkingsbijdrage per pizza: ( – 4) = € 6 (1p)\n14.000",
 "pnt": 2,
+"top": [
+"breakeven"
+],
 "img": [
 "v24-1-o-9"
 ]
@@ -13597,6 +15710,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het resultaat in de maand december 2023. Geef aan of er sprake is van een positief of een negatief resultaat.",
 "model": "resultaat: 9.200 x 6 – 50.000 = € 5.200 voordelig / + / positief",
 "pnt": 1,
+"top": [
+"resultaat"
+],
 "img": [
 "v24-1-o-9"
 ]
@@ -13616,6 +15732,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat de aandeelhouders aan nieuw kapitaal moeten inbrengen voor de financiering van de nieuwe ovens, gelet op de solvabiliteitseis van de bank.",
 "model": "• totaalbedrag investering in de ovens: 3 x (12.000 + 800) x 1,21 = 46.464 (1p)\n• Na de investering en afname liquide middelen stijgt het balanstotaal met 46.464 – 10.000 = 36.464. (1p)\n• maximaal vreemd vermogen na de financiering: 70% x (225.000 + 36.464) = 183.024,80 (1p)\n• De zakelijke banklening is maximaal 183.024,80 – 157.500 = 25.524,80. door aandeelhouders zelf in te brengen: 36.464 – 25.524,80 = € 10.939,20 (1p)\nof\n• totaalbedrag investering in de ovens: 3 x (12.000 + 800) x 1,21 = 46.464 (1p)\n• Na de investering en afname liquide middelen stijgt het balanstotaal met 46.464 – 10.000 = 36.464. (1p)\n• door aandeelhouders zelf in te brengen: 30% x (225.000 + 36.464) – 67.500 = € 10.939,20 (2p)\nOpmerking Als de ‘x 3’ in de vragen 20, 21 en 22 wordt vergeten, slechts één keer een scorepunt in mindering brengen.",
 "pnt": 4,
+"top": [
+"aandelen",
+"vreemdvermogen"
+],
 "img": [
 "v24-1-o-10"
 ]
@@ -13635,6 +15755,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag waarmee de vlottende activa inclusief liquide middelen op de balans van 1 januari 2024 veranderen door de investering en financiering.",
 "model": "• 0,21 x 3 x (12.000 + 800) = 8.064 (te vorderen btw) (1p)\n• Liquide middelen: – 10.000 Vlottende activa inclusief liquide middelen: 8.064 – 10.000 = – € 1.936 (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v24-1-o-10"
 ]
@@ -13654,6 +15777,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken hoeveel pizza’s er in januari 2024 moeten worden verkocht om de resultaatdoelstelling van januari 2024 te behalen.",
 "model": "• totale constante kosten: 12.000 + 800 – 920 50.000 + 3 x + 0,5% x 26.000 = 51.615 (2p)\n24 51.615 + 1.500 + 5.200 (vraag 19)\n• = 11.663 pizza’s (1p)\n 5",
 "pnt": 3,
+"top": [
+"resultaat"
+],
 "img": [
 "v24-1-o-11"
 ]
@@ -13673,6 +15799,9 @@ EXAMEN.vragen.push(...[
 "q": "Tot welk instrument van de marketingmix wordt de verpakking van stroopwafels gerekend?",
 "model": "product(beleid)",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "v24-1-b-6",
 "v24-1-b-7",
@@ -13694,6 +15823,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem het verschil tussen constante en variabele kosten. Betrek beide begrippen in je antwoord.",
 "model": "De constante kosten zijn de kosten die onafhankelijk van de productie/afzet zijn en de variabele kosten zijn de kosten die afhankelijk van de productie/afzet zijn.",
 "pnt": 1,
+"top": [
+"kostprijs"
+],
 "img": [
 "v24-1-b-6",
 "v24-1-o-12"
@@ -13714,6 +15846,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verkoopprijs exclusief btw van een aardewerken pot met 12 stroopwafels.",
 "model": "• constante kosten 1.150 loon: 100 x 6 x 20,00 = 12.000 verzekeringskosten 350 13.500 13.500 constante kosten per pot: = 2,25 (1p)\n6.000 80\n• inkoopprijs 12 stroopwafels: x 12 3,84 250 energieverbruik 0,27 6,36 (1p)\n2.190,21 1,21\n• aardewerken pot: = 7,24 250 13,60 (1p)\n20\n• winstmarge: x 13,60 = 3,40 80 verkoopprijs exclusief btw € 17,00 (1p)",
 "pnt": 4,
+"top": [
+"btw"
+],
 "img": [
 "v24-1-b-6",
 "v24-1-b-7",
@@ -13735,6 +15870,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het verwachte resultaat van het afbakken en verkopen van de stroopwafels in 2023 met behulp van het verkoopresultaat en het bezettingsresultaat. Geef telkens aan of er sprake is van een positief of negatief resultaat (zie informatiebron 4).",
 "model": "• verwacht verkoopresultaat: 5.000 x 3,40 (vraag 25) = 17.000 positief / + / voordelig (1p)\n• verwacht bezettingsresultaat: (5.000 – 6.000) x 2,25 = 2.250 negatief/\n- /- / nadelig verwacht resultaat: 17.000 – 2.250 = € 14.750 positief / + / voordelig 1",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v24-1-b-6",
 "v24-1-o-12"
@@ -13755,6 +15893,9 @@ EXAMEN.vragen.push(...[
 "q": "Maak de verschillenanalyse van 2023 af door de uitwerkbijlage bij deze vraag volledig in te vullen (zie informatiebron 4 tot en 5 en formuleblad).",
 "model": "ruimte voor berekeningen bedrag x € 1 Gerealiseerd 4.000 x (16,75 – 13,60) 12.600,00 verkoopresultaat Gerealiseerd -/- 4.500,00 bezettingsresultaat Prijsresultaat op 4.000 x 3,84 – 16.800 -/- 1.440,00 inkoop stroopwafels Prijsresultaat op 13.500 – 12.500 1.000,00 constante kosten Budgetresultaat op 4.000 x 0,27 – 1.687,50 -/- 607,50 energie Efficiencyresultaat 4.000 x 7,24 – 30.408 -/-1.448,00 stroopwafelpotten Totaal + 5.604,50\n• gerealiseerde verkoopresultaat: 12.600,00 (1p)\n• prijsresultaat op inkoop stroopwafels: -/- 1.440 (1p)\n• prijsresultaat op constante kosten: + 1.000 (1p)\n• budgetresultaat energie: -/- 607,50 (1p)\n• efficiencyresultaat op stroopwafelpotten: -/- 1.448,00 en totaal + 5.604,50 (1p)",
 "pnt": 5,
+"top": [
+"verschillen"
+],
 "img": [
 "v24-1-b-6",
 "v24-1-u-3",
@@ -13776,6 +15917,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem drie voorwaarden waaraan een individuele arbeidsovereenkomst moet voldoen.",
 "model": "Voorbeeld van een juist antwoord is:\n- een gezagsverhouding\n- de verplichting van de werknemer om arbeid te verrichten\n- de verplichting van de werkgever om loon te betalen\nindien drie antwoorden goed 2\nindien twee antwoorden goed 1\nindien een of geen antwoord goed 0\nAanvulling: het antwoordmodel is aangepast door het CvTE.",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v24-1-o-14"
 ]
@@ -13795,6 +15939,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het saldo van de spaarrekening van Alin op 31 december 2022 na bijschrijving van de interest op 31 december 2022 (zie formuleblad).",
 "model": "• 652,75 x 1,0015 12 = 664,60 (1p)\n440\n• x (1,0015 + 1,00152 … + 1,001512) = 2.665,88 (2p)\n 2\n• 195 x 1,001510 = 197,94 300 x 1,00157 = 303,16 195 x 1,00152 = 195,59 totaal € 4.027,17 (1p)\nof voor de tweede deelscore: rn - 1\n• S=ax r-1 a = 1,0015; r = 1,0015; n = 12 → S = 12,1176459197 440 2 x 12,1176459197 = 2.665,88 (2p)\nOpmerking Per fout 1 scorepunt in mindering brengen.",
 "pnt": 4,
+"top": [
+"interest"
+],
 "img": [
 "v24-1-o-14"
 ]
@@ -13814,6 +15961,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale interestkosten wanneer Alin gebruikmaakt van de aanbieding voor financiering.",
 "model": "199 x 12 + 1.500 – 3.800 = € 88",
 "pnt": 1,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v24-1-o-15"
 ]
@@ -13833,6 +15983,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een reden, behalve het maken van winst, waarom De Gitaargrossier een hoger interestpercentage in rekening brengt dan het interestpercentage dat De Gitaargrossier op zijn spaarrekening ontvangt.",
 "model": "Voorbeelden van een juist antwoord:\n- vanwege het debiteurenrisico\n- administratiekosten",
 "pnt": 1,
+"top": [
+"interest"
+],
 "img": [
 "v24-1-o-15"
 ]
@@ -13852,6 +16005,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg met behulp van een onderdeel uit de tekst Juuls strategische keuze uit. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "Voorbeeld van een juist antwoord is: Tekstonderdeel: e-bikes zijn steeds complexer geworden.\nDit speelt: extern, omdat: Juul heeft geen invloed op de complexiteit van e-bikes.\nDit is: negatief, omdat: het bijhouden van de kennis over het repareren van e-bikes daardoor bijna onmogelijk is geworden.\nDit onderdeel is daarom een: Threat.\n• extern en negatief en juiste toelichting (1p)\n• Threat (1p)\nOpmerking Het tweede scorepunt wordt alleen toegekend als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v24-2-o-2"
 ]
@@ -13871,6 +16027,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee kostenbesparingen die het gevolg kunnen zijn van de verandering in Juuls bedrijfsmodel. Licht het antwoord toe.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Minder opslagkosten: door minder verschillende fietsmerken te verkopen / repareren, kunnen er gerichter onderdelen worden ingekocht / kan er met minder voorraad worden gewerkt.\n- Minder financieringskosten: er is minder vermogen nodig voor het aanhouden van de voorraden.\n- Minder personeelskosten: door te werken op afspraak kan personeel beter worden ingepland.\nper juist toegelicht antwoord 1",
 "pnt": 2,
+"top": [
+"personeel",
+"vreemdvermogen"
+],
 "img": [
 "v24-2-o-2"
 ]
@@ -13890,6 +16050,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit welke twee instrumenten van de marketingmix Juul heeft veranderd.",
 "model": "• promotie(beleid): gebruik van social media (YouTube) (1p)\n• product(beleid): alleen nog werken op afspraak / Het assortiment is aangepast. (1p)",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v24-2-o-3"
 ]
@@ -13909,6 +16072,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat Juul als ondernemer kenmerken van effectuation vertoont. Maak gebruik van de gegeven informatie.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- gebruik maken van een stakeholder / crazy quilts / strategische partners\n- Juul heeft samen met een leverancier de winkel gemoderniseerd.\nper juist uitgelegd antwoord 1",
 "pnt": 2,
+"top": [
+"mvo"
+],
 "img": [
 "v24-2-o-3"
 ]
@@ -13928,6 +16094,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verandering van de balansposten door dit financieel feit en vul de mutatiebalans in. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "debet | mutatiebalans 1 juni 2023 | credit getal x € 1\nbalanspost | +/- | bedrag | balanspost | +/- | bedrag\nvoorraad | -/- | 3.500 | eigen vermogen / | + | + 1.400 resultaat\ndebiteuren | + | 5.929 | te betalen btw | + | + 1.029\ntotaal | + | 2.429 | totaal | + | + 2.429\nbalanspost | ruimte voor berekening | getallen x € 1\nvoorraad | 100 | 3.500 2 x 2.450 x 140\ndebiteuren | 2 x 2.450 x 1,21 | 5.929\nte betalen btw | 2 x 2.450 x 0,21 | 1.029\neigen vermogen / resultaat | 2 x 2.450 – 3.500 | 1.400\n• voorraad: -/- 3.500 (1p)\n• debiteuren: + 5.929 en te betalen btw: + 1.029 (1p)\n• eigen vermogen / resultaat: + 1.400 en totale verandering balans: + 2.429 (1p)",
 "pnt": 3,
+"top": [
+"balans"
+],
 "img": [
 "v24-2-u-2",
 "v24-2-o-3"
@@ -13948,6 +16117,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale constante kosten van de bezorgdienst over 2022 (zie informatiebron 1).",
 "model": "4.235\n- 500 1, 21\n• afschrijving ( ) = 1.000 (1p)\n 3\n260 x 400 x 4 x 5,50\n• loonkosten = 11.440 (1p)\n200\n• verzekering 12 x 55 = 660 overige kosten 120 totaal per scooter 13.220 totale constante kosten per jaar 13.220 x 200 = € 2.644.000 (1p)",
 "pnt": 3,
+"top": [
+"kostprijs"
+],
 "img": [
 "v24-2-b-3",
 "v24-2-o-4"
@@ -13968,6 +16140,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de kostprijs per bezorging van de bezorgdienst in 2022. Rond af op eurocenten.",
 "model": "1,50\n• aandeel variabele kosten in kostprijs (V/B): ( + 0,025 ) x 2 = 0,20 (1p)\n20 2.644.000\n• aandeel constante kosten in kostprijs (C/N): = 1,32 2.000.000 kostprijs 1,32 + 0,20 = € 1,52 (1p)",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v24-2-b-3",
 "v24-2-b-4",
@@ -13989,6 +16164,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gerealiseerde bedrijfsresultaat over 2022 van de bezorgdienst met behulp van het verkoopresultaat en het budgetresultaat. Geef telkens aan of het een voordelig of een nadelig resultaat betreft.",
 "model": "• verkoopresultaat: 1.900.000 x (1,75 – 1,52) = 437.000 voordelig/ positief/ + (1p)\n• budgetresultaat: 1.900.000 x 1,52 – (400.000 + 264.000 + 2.451.800 + 50.000 + 294.525 + 95.000) = 667.325 nadelig/negatief /-/- bedrijfsresultaat: 437.000 – 667.325 = € 230.325 nadelig/negatief/ -/- (1p)",
 "pnt": 2,
+"top": [
+"verschillen"
+],
 "img": [
 "v24-2-b-4",
 "v24-2-o-4"
@@ -14009,6 +16187,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gerealiseerde bezettingsresultaat op de constante kosten. Geef aan of het een positief of een negatief resultaat betreft.",
 "model": "het gerealiseerde bezettingsresultaat: (1.900.000 – 2.000.000) x 1,32 = € 132.000 nadelig/negatief/ -/-",
 "pnt": 1,
+"top": [
+"kostprijs"
+],
 "img": [
 "v24-2-b-3",
 "v24-2-b-4",
@@ -14030,6 +16211,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gerealiseerde prijsresultaat op de constante kosten. Geef aan of het een voordelig of een nadelig resultaat betreft.",
 "model": "het gerealiseerde prijsresultaat op de constante kosten: 2.644.000 (vraag 6) – (400.000 + 264.000 + 2.451.800 + 50.000) = € 521.800 nadelig/negatief/ -/-",
 "pnt": 1,
+"top": [
+"kostprijs"
+],
 "img": [
 "v24-2-b-3",
 "v24-2-b-4",
@@ -14051,6 +16235,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gerealiseerde prijsresultaat op de benzinekosten. Geef aan of het een voordelig of een nadelig resultaat betreft.",
 "model": "het gerealiseerde prijsresultaat op de benzinekosten: standaardprijs: 1,50 294.525 werkelijke prijs: = 1,53 192.500 werkelijke hoeveelheid: 192.500 (1,50 – 1,53) x 192.500 = € 5.775 nadelig/negatief/ -/-\nOpmerking Bij elke gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v24-2-b-3",
 "v24-2-b-4",
@@ -14072,6 +16259,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het efficiencyresultaat op de benzinekosten. Geef aan of het een positief of een negatief resultaat betreft.",
 "model": "het gerealiseerde efficiencyresultaat op benzinekosten: 2\n• standaardhoeveelheid: 1.900.000 x = 190.000 (1p)\n20\n• (190.000 – 192.500) x 1,50 = € 3.750 nadelig/negatief/ -/- (1p)",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v24-2-b-3",
 "v24-2-b-4",
@@ -14093,6 +16283,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarom het leasen van de e-scooters vanuit liquiditeitsoogpunt in het eerste jaar voordeliger is dan kopen.",
 "model": "Voorbeeld van een juist antwoord is: De liquide middelen nemen in het eerste jaar minder af, omdat de uitgaven aan lease in het eerste jaar lager zijn dan de uitgaven van de totale investering.",
 "pnt": 1,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v24-2-b-3",
 "v24-2-b-4",
@@ -14114,6 +16307,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg zonder een berekening uit dat zowel het verwachte verkoopresultaat als het verwachte bezettingsresultaat een positieve bijdrage zullen hebben op het verwachte resultaat van de bezorgdienst in 2023 (zie informatiebron 1).",
 "model": "• Het verwachte verkoopresultaat zal een positieve bijdrage leveren, omdat het budget per bezorging € 1,75 bedraagt, terwijl de kostprijs € 1,45 bedraagt / daalt. (1p)\n• Het verwachte bezettingsresultaat zal een positieve bijdrage aan het resultaat geven, omdat het verwachte aantal bezorgingen groter is dan het normale aantal bezorgingen. (1p)",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v24-2-b-3",
 "v24-2-o-5"
@@ -14134,6 +16330,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg voor twee groepen stakeholders, anders dan de aandeelhouders van Leijten, het belang van maatschappelijk verantwoord ondernemen uit.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Werknemers: als werknemers zich kunnen blijven ontwikkelen, zullen zij productiever zijn (en dit is gunstig voor het resultaat van Leijten).\n- Overheid: wanneer de leefbaarheid van de omgeving gewaarborgd blijft, kan de overheid gemakkelijker klimaatdoelen realiseren.\n- Omwonenden: wanneer er milieuvriendelijker wordt geproduceerd, ervaren omwonenden minder negatieve effecten van de productie (minder uitstoot van schadelijke stoffen).\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"mvo",
+"aandelen"
+],
 "img": [
 "v24-2-o-6"
 ]
@@ -14153,6 +16353,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de rentabiliteit van het totale vermogen in 2023.",
 "model": "• het gemiddelde totale vermogen: 880.000 880.000 – 160.000 + = 800.000.000 (1p)\n2 2\n180.000.000\n• rentabiliteit van het totale vermogen: x 100% = 22,5% (1p)\n800.000.000",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v24-2-o-7"
 ]
@@ -14172,6 +16375,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken welk bedrag van het resultaat (EBT) van 2023, gegeven het dividendvoorstel, zal worden gereserveerd.",
 "model": "• 160.000.000 x (1 – 0,235) = 122.400.000 (1p)\n200.000.000\n• 122.400.000 – ( x 3,75) = € 92.400.000 (1p)\n25",
 "pnt": 2,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v24-2-o-7"
 ]
@@ -14191,6 +16397,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg voor zowel het herfinancieren van de obligatielening als voor de investering in een duurzaam bedrijfspand uit dat dit op de lange termijn gunstig kan zijn voor het resultaat van Leijten.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Door af te lossen en te herfinancieren tegen een lagere interest, dalen de interestkosten en kan het resultaat toenemen.\n- Investering in zonnepanelen / energiebesparende maatregelen kan op langere termijn goedkoper zijn en tot een kostenbesparing / toename resultaat leiden.\nper juist toegelicht antwoord 1",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"mvo"
+],
 "img": [
 "v24-2-o-7"
 ]
@@ -14210,6 +16420,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag waarmee het rekening-courantkrediet van Workspace verhoogd zou moeten worden op 31 maart 2024 om uit de liquiditeitsproblemen te blijven. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "liquiditeitsbegroting maart 2024 (getallen x €)\nberekening bedrag contante ontvangsten 1.900.000 x 1,21 x 0,25 = 574.750 ontvangsten verkopen op rekening 1.700.000 x 1,21 x 0,75 = 1.542.750 totale ontvangsten 2.117.500 contante uitgaven 1.650.000 x 1,21 x 0,1 = 199.650 uitgaven aan crediteuren 1.862.190 uitgaven aan loon en overige uitgaven 125.000 + 130.000 255.000 totale uitgaven 2.316.840 ontvangsten - uitgaven 2.117.500 – 2.316.840 = -/- 199.340 benodigd rekening- courantkrediet per 31 maart 2024 3.900.660 + 199.340 = 4.100.000 verhoging rekening- courantkrediet per 31 maart 2024 4.100.000 – 4.000.000 = 100.000\n• ontvangsten verkopen op rekening: 1.542.750 (1p)\n• contante ontvangsten 574.750 en totale ontvangsten: 2.117.500 (1p)\n• contante uitgaven 199.650 en totale uitgaven: 2.316.840 (1p)\n• ontvangsten – uitgaven: -/- 199.340, benodigd rekening-courantkrediet: per 31 maart 2024: 4.100.000 en verhoging rekening-courantkrediet per 31 maart 2024: € 100.000 (1p)\nOpmerking Wanneer de btw wordt vergeten, maximaal 1 scorepunt in mindering brengen.",
 "pnt": 4,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v24-2-o-9"
 ]
@@ -14229,6 +16442,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee verschillende argumenten waarom de current ratio van Workspace maar beperkte informatie geeft over de liquiditeitspositie.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Er is geen inzicht in de mate van verkoopbaarheid van de voorraad. (aangezien het om een hoge voorraad gaat).\n- Het is een momentopname. (Wanneer een deel van de crediteuren net is betaald, is het beeld onterecht gunstig).\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v24-2-o-9"
 ]
@@ -14248,6 +16464,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarom de bank naar de solvabiliteit van Workspace kijkt bij verhoging van het rekening-courantkrediet.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- De solvabiliteit geeft aan in hoeverre een onderneming een verlies kan opvangen met het eigen vermogen.\n- De solvabiliteit geeft aan hoe waarschijnlijk het is dat de financiers van vreemd vermogen (bij een faillissement van Workspace) het uitgeleende geld nog terugkrijgen.",
 "pnt": 1,
+"top": [
+"vreemdvermogen",
+"kengetallen"
+],
 "img": [
 "v24-2-o-9"
 ]
@@ -14267,6 +16487,9 @@ EXAMEN.vragen.push(...[
 "q": "Wat is het gevolg voor de leveranciers bij toekenning van surseance van betaling aan Workspace?",
 "model": "Het gevolg voor de leveranciers is dat de betalingen aan leveranciers worden opgeschort / uitgesteld.",
 "pnt": 1,
+"top": [
+"faillissement"
+],
 "img": [
 "v24-2-o-9"
 ]
@@ -14286,6 +16509,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat zowel het volgen van een studie als het starten van een eigen bedrijf kunnen worden beschouwd als een investering.",
 "model": "Voorbeeld van een juist antwoord is:\n- In beide gevallen gaan de kosten voor de baten uit.\n- Je moet nu iets opofferen, tijd of geld, voor een naar verwachting hoger inkomen / zinvoller werk in de toekomst.",
 "pnt": 1,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v24-2-b-5",
 "v24-2-b-6",
@@ -14307,6 +16533,9 @@ EXAMEN.vragen.push(...[
 "q": "Wanneer is er bij de beleggingen van Job sprake van een positief hefboomeffect?",
 "model": "wanneer er met de beleggingen een hoger rendement (RTV) wordt behaald dan de interestkosten van het bij DUO geleende bedrag (IVV), (dat hij gebruikt om te beleggen)",
 "pnt": 1,
+"top": [
+"kengetallen"
+],
 "img": [
 "v24-2-b-5",
 "v24-2-b-6",
@@ -14328,6 +16557,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat de totale studieschuld van Job per 1 januari 2026 € 62.412,46 bedraagt (zie informatiebron 3 en 4).",
 "model": "Voorbeeld van een juiste berekening is: 1.011,50 x 60 x 1,001²⁸ = € 62.412,46.\nOpmerking Per fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"prive"
+],
 "img": [
 "v24-2-b-5",
 "v24-2-b-6",
@@ -14349,6 +16581,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken of Job met de maandelijkse betaling van € 182,06 voldoet aan de plicht om zijn totale studieschuld van € 62.412,46 in 35 jaar af te lossen. Maak hierbij gebruik van een samengesteld interestpercentage van 0,1% per maand (zie formuleblad in de bijlage).",
 "model": "Voorbeeld van een juiste berekening is: rn - 1\n• S=ax r-1 a = 1,001-420 r = 1,001 n = 420 S = 342,8152778 (2p)\n• 182,06 x 342,8152778 = € 62.412,95 Job heeft de totale studieschuld in 35 jaar afgelost: € 62.412,95 > € 62.412,46. (1p)\nOpmerking Per fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"prive"
+],
 "img": [
 "v24-2-b-5",
 "v24-2-b-6",
@@ -14370,6 +16605,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit of er bij een annuïtaire of bij een lineaire hypothecaire lening een hoger bedrag aan interest wordt betaald over de gehele looptijd. Ga uit van een gelijke looptijd en een gelijk interestpercentage van beide leningen.",
 "model": "• Bij een lineaire lening wordt in het begin van de looptijd meer afgelost dan bij een annuïtaire lening, (1p)\n• waardoor de schuld bij een lineaire lening sneller daalt, waardoor er over de gehele looptijd minder interest hoeft te worden betaald. (1p)\nof voor de tweede deelscore:\n• waardoor de schuld bij een annuïtaire lening minder snel afneemt en je dus over de gehele looptijd een hoger bedrag aan interest betaalt dan bij de lineaire lening. (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"woning"
+],
 "img": [
 "v24-2-b-5",
 "v24-2-b-6",
@@ -14391,6 +16630,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de omvang van de resterende studieschuld op 1 januari 2031. Ga uit van de maandelijkse betaling van € 182,06.",
 "model": "• totale interest over gehele looptijd: 35 x 12 x 182,06 – 62.412,46 = € 14.052,74 (1p)\n• interest in de eerste 5 jaar: 25,1% x 14.052,74 = € 3.527,24 (1p)\n• aflossing in de eerste 5 jaar: 60 x 182,06 – 3.527,24 = € 7.396,36 schuld op 1 januari 2031: 62.412,46 – 7.396,36 = € 55.016,10 (1p)\nOpmerkingen\n- Per fout 1 scorepunt in mindering brengen.\n- Een benadering via de somformule levert een uitkomst van € 55.018,20 op en dient ook juist te worden gerekend.",
 "pnt": 3,
+"top": [
+"prive"
+],
 "img": [
 "v24-2-b-5",
 "v24-2-b-6",
@@ -14412,6 +16654,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de bank vanwege deze vervroegde aflossing bereid zal zijn een hoger bedrag aan Job uit te lenen voor de aankoop van een huis.",
 "model": "• Door de vervroegde aflossing op de studieschuld houdt Job maandelijks een groter deel van zijn inkomen over / heeft Job minder schuld. (1p)\n• Deze ruimte maakt hogere maandlasten en dus een hogere hypothecaire lening mogelijk. / Hierdoor loopt de bank minder risico dat hij zijn hypothecaire lening niet kan aflossen. (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v24-2-b-5",
 "v24-2-b-6",
@@ -14433,6 +16678,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee verschillende bedrijfseconomische redenen waarom Henkel een arbeidsovereenkomst voor bepaalde tijd aanbiedt.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De werkgever heeft de mogelijkheid om de arbeidsovereenkomst niet te verlengen als er geen ruimte is / werkzaamheden zijn voor de werknemer.\n- De werknemer kan gemotiveerder zijn, omdat de werknemer een contract voor onbepaalde tijd wil bemachtigen.\nper juist toegelicht antwoord 1",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v24-2-o-13"
 ]
@@ -14452,6 +16700,10 @@ EXAMEN.vragen.push(...[
 "q": "Hoe blijkt uit de vacaturetekst dat er wordt voldaan aan deze drie wettelijke eisen? Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "wettelijke eis blijkt op basis van de vacaturetekst uit het volgende: 1. arbeidsverplichting De medewerker krijgt projecten/werkzaamheden toegewezen die (persoonlijk) uitgevoerd moeten worden. 2. loon De medewerker ontvangt een marktconform salaris en vakantiegeld. 3. gezagsverhouding De werkzaamheden vinden in opdracht van en in overleg met de marketingmanager plaats / Je legt verantwoording af aan de marketingmanager.\nper juist toegelichte wettelijke eis 1",
 "pnt": 3,
+"top": [
+"marketingmix",
+"personeel"
+],
 "img": [
 "v24-2-u-3",
 "v24-2-o-13"
@@ -14472,6 +16724,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit wat het verschil in relatiemanagement is tussen b2b-marketing en b2c-marketing. Betrek beide begrippen in het antwoord.",
 "model": "Voorbeeld van een juist antwoord is:\n- Bij b2b wordt de nadruk gelegd op persoonlijke relaties, terwijl bij b2c de relatie meer gericht is op het doen van een transactie / onpersoonlijk is (massacommunicatie).\n- Bij b2b wordt een relatie met meerdere personen op verschillende niveaus in de organisatie onderhouden, bij b2c wordt de relatie op één niveau onderhouden.",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "v24-2-o-13"
 ]
@@ -14491,6 +16746,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee verschillende maatschappelijke behoeften waarin Ahold Delhaize voorziet. Motiveer beide antwoorden met een verwijzing naar het bovenstaande financiële overzicht.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Ahold Delhaize voorziet in werkgelegenheid – gezien de post loonkosten.\n- Ahold Delhaize voorziet in inkomen – gezien de post loonkosten.\n- Ahold Delhaize voorziet in de behoefte aan producten – gezien de post omzet.\n- Ahold Delhaize voorziet in belastinginkomsten – gelet op de “T” in het EBIT / het resultaat voor vennootschapsbelasting.\nper juist toegelicht antwoord 1",
 "pnt": 2,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "v25-1-o-2"
 ]
@@ -14510,6 +16768,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening van de resultaatmarge aan of er in 2022 sprake is geweest van graaiflatie.",
 "model": "3.768 x 100% = 4,33% < 4,39 % / de resultaatmarge is niet gestegen, dus 86.984 is er in 2022 geen sprake geweest van graaiflatie.",
 "pnt": 1,
+"top": [
+"resultaat"
+],
 "img": [
 "v25-1-o-3"
 ]
@@ -14529,6 +16790,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met hoeveel eurocent het resultaat voor vennootschapsbelasting per aandeel in 2022 is gestegen ten opzichte van 2021 als gevolg van het inkopen van eigen aandelen.",
 "model": "2.805 miljoen\n• aantal aandelen 2021: = 1.020 miljoen aandelen (1p)\n2,75\n• stijging resultaat per aandeel als gevolg van inkoop eigen aandelen: 3.213 miljoen 3,25 – = € 0,10 (1p)\n1.020 miljoen\nof\n3.213 – 2.805\n• x 100% = 14,5% (1p)\n2.805\n• 3,25 – 2,75 x 1,145 = € 0,10 (1p)\nOpmerking Aan het antwoord 3,25 - 2,75 = 0,50 geen scorepunt toekennen.",
 "pnt": 2,
+"top": [
+"aandelen",
+"vpb"
+],
 "img": [
 "v25-1-o-3"
 ]
@@ -14548,6 +16813,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg op twee manieren uit hoe de aandeleninkoop van Ahold Delhaize gunstig kan zijn voor het beleggersrendement van aandeelhouders van Ahold Delhaize.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Door het inkopen van eigen aandelen kan het dividend per aandeel stijgen, (omdat het resultaat / dividend over minder aandelen verdeeld hoeft te worden).\n- Door het inkopen van eigen aandelen stijgt de vraag naar aandelen en stijgt de beurskoers (en het koersresultaat).\n- Door het inkopen van eigen aandelen is er minder aanbod van aandelen op de beurs waardoor de beurskoers stijgt (en daarmee het koersresultaat).\nper juist toegelicht antwoord 1",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v25-1-o-3"
 ]
@@ -14567,6 +16835,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem de rechtsvorm van Camping Vogelhof.",
 "model": "vof / vennootschap onder firma",
 "pnt": 1,
+"top": [
+"rechtsvorm"
+],
 "img": [
 "v25-1-b-3",
 "v25-1-b-4",
@@ -14591,6 +16862,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken voor Camping Vogelhof de omzet in 2024 uit de verhuur van standplaatsen. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "voorseizoen | hoogseizoen | naseizoen\nberekening + | berekening + | berekening +\nbedrag | bedrag | bedrag\nweekboekingen | 110 x 186 = | 280 x 300 = | 120 x 210 =\n20.460 | 84.000 | 25.200\ndagboekingen | 700 x 30 = | 728 x 35 =\n21.000 | 25.480\ntotale omzet per week | 41.460 | 84.000 | 50.680\nTotale omzet heel 2024 voor aftrek van kortingen: 41.460 x 13 + 84.000 x 8 + 50.680 x 5 = 1.464.380 Totale omzet heel 2024 na aftrek van kortingen: 0,75 x 1.464.380 + 0,95 x 0,25 x 1.464.380 = € 1.446.075,25\n• 20.460 en 84.000 en 25.200 (1p)\n• 41.460 en 84.000 en 50.680 (1p)\n• 1.464.380 (1p)\n• 1.446.075,25 (1p)\nOpmerkingen Als de btw is meegerekend, 1 scorepunt op het totaal in mindering brengen. Als de kandidaat in de tabel van de uitwerkbijlage de omzet per seizoen uitrekent, geen scorepunt in mindering brengen.",
 "pnt": 4,
+"top": [
+"btw"
+],
 "img": [
 "v25-1-b-3",
 "v25-1-u-1",
@@ -14612,6 +16886,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem het onderdeel van het ondernemingsplan waaronder een concurrentieanalyse valt.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- marketingplan\n- externe analyse",
 "pnt": 1,
+"top": [
+"starten"
+],
 "img": [
 "v25-1-b-3",
 "v25-1-b-4",
@@ -14636,6 +16913,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee van deze bijkomende kosten.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- notariskosten\n- taxatiekosten\n- (hypotheek)adviseurskosten / bemiddelingskosten\n- makelaarskosten\nper juist toegelicht antwoord 1",
 "pnt": 2,
+"top": [
+"woning"
+],
 "img": [
 "v25-1-b-7",
 "v25-1-o-5"
@@ -14656,6 +16936,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de hoogte van de af te sluiten onderhandse lening bij de oom van Flohr (zie informatiebronnen 2 en 3).",
 "model": "120 aantal chalets: 60 x = 40 180 aanschafprijs inclusief bijkomende uitgaven en inventaris per chalet: 63.500 + 5.500 + 6.000 = 75.000 40 x 75.000 x 0,6 = € 1.800.000\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.\nAanvulling van het CvTE, bij vraag 9 moeten voor een berekening waarin de transportkosten van € 5.500 niet zijn opgenomen, wel scorepunten worden toegekend.",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v25-1-b-4",
 "v25-1-b-5",
@@ -14678,6 +16961,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken hoeveel uur per week de zzp’ers gemiddeld moeten worden ingezet (zie informatiebron 2).",
 "model": " 7\n• 40 x 0,9 x = 63 (keer per week een eindschoonmaak doen) (1p)\n 4\n40\n• 63 x = 42 uur (1p)\n60",
 "pnt": 2,
+"top": [
+"starten"
+],
 "img": [
 "v25-1-b-4",
 "v25-1-o-5"
@@ -14698,6 +16984,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee verschillende bedrijfseconomische voordelen van het inhuren van zzp’ers ten opzichte van het aannemen van personeel in loondienst.",
 "model": "Voorbeelden van juiste antwoorden zijn: (De inzet van zzp’ers kan leiden tot lagere kosten want,)\n- zzp’ers kunnen pieken in bedrijfsdrukte opvangen.\n- zzp’ers hebben geen ontslagbescherming.\n- zzp’ers hebben geen loondoorbetaling bij ziekte / werkloosheid / arbeidsongeschiktheid / sociale zekerheid.\nper juist toegelicht antwoord 1",
 "pnt": 2,
+"top": [
+"starten"
+],
 "img": [
 "v25-1-b-3",
 "v25-1-b-4",
@@ -14722,6 +17011,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale verwachte kosten van het Toekanveld voor 2025 (zie informatiebronnen 2, 3 en 4). Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "kostensoort | berekening | bedrag\nafschrijvingskosten | 63.500 + 5.500 – 3.000 | 176.000 x 40\nchalets | 15\nafschrijvingskosten | 6.000 | 16.000 x 40\ninventaris | 15\ninterestkosten | 6\n1.800.000 x 0,06 x | +\nlening oom van | 12\nFlohr | 1.800.000\n(1.800.000 – | ) x 0,06 x\n15 x 2 | 106.200 6 12\nschoonmaak door zzp’ers | 42 (vraag 10) x 26 x 25 | 27.300\noverige kosten totale verwachte | 260.000\nkosten | € 585.500\n• 176.000 (1p)\n• 16.000 (1p)\n• 106.200 (1p)\n• 27.300 en 585.500 (1p)",
 "pnt": 4,
+"top": [
+"afschrijving",
+"vreemdvermogen"
+],
 "img": [
 "v25-1-b-4",
 "v25-1-b-5",
@@ -14746,6 +17039,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een voorbeeld van off-balance-financiering waardoor de omvang van de activa op de balans kan worden verlaagd.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- lease\n- (meerjarige) huurovereenkomsten\n- factoring van debiteuren\n- het aanhouden van een consignatievoorraad",
 "pnt": 1,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v25-1-o-8"
 ]
@@ -14765,6 +17061,7 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat de inkopen in week 5 lager zijn dan in week 1. Maak gebruik van grafieken 1 en 2.",
 "model": "inkoopwaarde van de omzet in week 1: 0,40 x 3.000 = 1.200 inkopen in week 1: 6.800 – 5.000 + 1.200 = € 3.000 inkoopwaarde van de omzet in week 5: 0,40 x 3.050 = 1.220 inkopen in week 5: 4.620 – 3.340 + 1.220 = € 2.500 (2.500 < 3.000)\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.\nAanvulling van het CvTE, bij vraag 15 en bij vraag 16 moeten ook scorepunten worden toegekend aan antwoorden waarin wel rekening is gehouden met de vermenigvuldiging x 1.000.",
 "pnt": 2,
+"top": [],
 "img": [
 "v25-1-o-9"
 ]
@@ -14784,6 +17081,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de omvang van de balanspost Debiteuren aan het einde van week 9.",
 "model": "Voorbeelden van een juiste berekening zijn: (2.700 + 2.600) x 0,80 x 1,21 = € 5.130,40\nof\n5.324 – (2.800 x 0,80 x 1,21) + 2.600 x 0,80 x 1,21 = € 5.130,40\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"balans"
+],
 "img": [
 "v25-1-o-9"
 ]
@@ -14803,6 +17103,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Klaas na betaling van de erfbelasting overhoudt van zijn erfdeel.",
 "model": "belastbaar deel erfenis: 150.000 – 2.658 = 147.342 erfbelasting: 138.642 x 0,30 + (147.342 – 138.642) x 0,40 = 45.072 (45.072,60) bedrag erfdeel na erfbelasting: 150.000 – 45.072 = € 104.928\nOpmerkingen Als niet is afgerond, dit niet fout rekenen. Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "v25-1-o-10"
 ]
@@ -14822,6 +17125,9 @@ EXAMEN.vragen.push(...[
 "q": "Zet de letters a tot en met d in de juiste volgorde van minst risicovol naar meest risicovol.",
 "model": "d–c–a–b",
 "pnt": 1,
+"top": [
+"beleggen"
+],
 "img": [
 "v25-1-o-11"
 ]
@@ -14841,6 +17147,9 @@ EXAMEN.vragen.push(...[
 "q": "Kan Klaas 8 jaar lang maandelijks € 1.200 opnemen en op 31 december 2033 nog € 25.000 op de spaarrekening hebben staan, nadat de laatste maandelijkse opname op deze datum heeft plaatsgevonden? Motiveer het antwoord met een berekening (zie formuleblad).",
 "model": "• eindwaarde spaarsaldo op 31 december 2033 bij geen opnames: 128.441,92 x 1,001105 = 142.654,32 (1p)\n• eindwaarde opnames op 31 december 2033: 1.200 x 100,706264 = 120.847,52 (2p)\n• spaarsaldo op 31 december 2033 na opnames: € 21.806,80 Het is niet mogelijk 8 jaar lang maandelijks € 1.200 op te nemen en na de laatste opname nog € 25.000 op de spaarrekening te hebben staan. (1p)\nToelichting bij de tweede deelscore: rn - 1 S=ax r-1 a = 1 ; r = 1,001 ; n = 96 ; S = 100,706264\nof\n• contante waarde opnames op 1 april 2025: 1.200 x 90,6730761 = 108.807,69 contante waarde spaargeld na opnames: 128.441,92 – 108.807,69 = 19.634,23 (2p)\n• contante waarde van € 25.000 op 1 april 2025: 25.000 x 1,001-105 = € 22.509,29 (1p)\n• Het is niet mogelijk 8 jaar lang maandelijks € 1.200 op te nemen en na de laatste opname nog € 25.000 op de spaarrekening te hebben staan. (1p)\nToelichting bij de eerste deelscore rn - 1 S=ax r-1 a = 1,001-105 r = 1,001 ; n = 96 S = 90,6730761",
 "pnt": 4,
+"top": [
+"interest"
+],
 "img": [
 "v25-1-o-11"
 ]
@@ -14860,6 +17169,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem een bedrijfseconomisch voordeel van deze overheidsgarantie voor Air France-KLM.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- goedkoper lenen / een lager interestpercentage\n- onder gunstigere voorwaarden lenen",
 "pnt": 1,
+"top": [
+"vreemdvermogen",
+"aandelen"
+],
 "img": [
 "v25-1-b-8",
 "v25-1-b-9",
@@ -14881,6 +17194,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de toename van het resultaat in euro’s in het derde kwartaal van 2022 ten opzichte van het resultaat van het derde kwartaal van 2021.",
 "model": "• resultaat kwartaal 3 in 2022: 232 + 228 = 460 en resultaat kwartaal 3 in 2021: -3.164 + 2.971 = -193 (1p)\n• toename resultaat kwartaal 3 2022 t.o.v. 2021: 460 + 193 = € 653 miljoen (1p)\nof\n• toename resultaat eerste halfjaar 2022 ten opzichte van 2021: 2.971 – 228 = 2.743 en toename resultaat kwartaal eerste negen maanden 2022 ten opzichte van 2021: 3.164 + 232 = 3.396 (1p)\n• toename resultaat kwartaal 3 2022 ten opzichte van 2021: 3.396 – 2.743 = € 653 miljoen (1p)",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v25-1-b-8",
 "v25-1-b-9",
@@ -14902,6 +17218,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan met een berekening of de solvabiliteit van Air France-KLM op 30 september 2022 is verbeterd ten opzichte van 31 december 2021 (zie informatiebron 5).",
 "model": "• solvabiliteit (EV/TV) op 31 december 2021:\n- 3.816 x 100% = -12%\n- 3.816 + 22.773 + 11.726 solvabiliteit (EV/TV) op 30 september 2022:\n- 2.797 x 100% = -8% 1\n- 2.797 + 22.775 + 14.585\n• De verhouding EV/TV is gestegen, wat duidt op een verbetering van de solvabiliteit. (1p)\nof\n• solvabiliteit (VV/TV) op 31 december 2021: 22.773 + 11.726 x 100% = 112%\n- 3.816 + 22.773 + 11.726 solvabiliteit (VV/TV) op 30 september 2022: 22.775 + 14.585 x 100% = 108% 1\n34.563\n• De verhouding VV/TV is gedaald, wat duidt op een verbetering van de solvabiliteit. (1p)\nOpmerkingen Het totale vermogen kan ook berekend worden door de vaste en vlottende activa op te tellen. Aan een correcte berekening van EV/VV 1 scorepunt toekennen.\nAanvulling van het CvTE, bij vraag 22 moeten de zinsdelen ‘De verhouding EV/TV is gestegen’ en ‘De verhouding VV/TV is gedaald’ tussen haakjes worden geplaatst.",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v25-1-b-8",
 "v25-1-o-13"
@@ -14922,6 +17241,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat door een emissie van converteerbare obligaties op korte termijn de solvabiliteit verslechtert, maar op lange termijn de solvabiliteit kan verbeteren.",
 "model": "Een juist antwoord bevat: Een toelichting van de verslechtering van de solvabiliteit op korte termijn:\n- Door uitgifte van converteerbare obligaties stijgt het vreemd vermogen op korte termijn (en blijft het eigen vermogen gelijk), waardoor de solvabiliteit verslechtert. Een toelichting van de verbetering van de solvabiliteit op lange termijn:\n- De converteerbare obligaties zullen bij een stijging van de aandelenkoers (boven conversieprijs) worden omgewisseld in aandelen, waardoor na conversie het eigen vermogen stijgt, het vreemd vermogen daalt en de solvabiliteit verbetert.\nper juist toegelicht antwoord 1\nAanvulling van het CvTE, bij vraag 23 moeten de woorden ‘het vreemd vermogen daalt’ tussen haakjes worden geplaatst.",
 "pnt": 2,
+"top": [
+"kengetallen",
+"aandelen"
+],
 "img": [
 "v25-1-b-8",
 "v25-1-b-9",
@@ -14943,6 +17266,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale interestopbrengst voor de Nederlandse staat over de gehele looptijd van de converteerbare obligatielening als de Nederlandse staat deelneemt voor dat percentage. Ga ervan uit dat er niet wordt geconverteerd en dat de marktinterest gedurende de gehele looptijd 3% is.",
 "model": "Voorbeeld van een juiste berekening is: 0,093 x 300 miljoen x 0,065 x 3 + 0,093 x 300 miljoen x (0,03 + 0,013) x 7 = € 13.838.400\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"obligaties"
+],
 "img": [
 "v25-1-b-9",
 "v25-1-o-13"
@@ -14963,6 +17290,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg de stelling van het Kamerlid uit.",
 "model": "• Wanneer de Nederlandse staat niet deelneemt aan de converteerbare obligatielening, zal zijn aandelenbelang in Air France-KLM mogelijk dalen. (1p)\n• Hierdoor krijgt de Nederlandse staat minder zeggenschap waardoor die minder goed kan opkomen voor de werkgelegenheid. (1p)\nof\n• Wanneer de Nederlandse staat niet deelneemt, bestaat de kans dat er minder vermogen wordt opgehaald (door minder vertrouwen van beleggers). (1p)\n• Hierdoor zijn er minder investeringen mogelijk, waardoor de verkopen (en winst) mogelijk dalen en de werkgelegenheid daalt. (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"aandelen"
+],
 "img": [
 "v25-1-b-8",
 "v25-1-b-9",
@@ -14984,6 +17315,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een financiële reden waarom sommige beleggers er in deze situatie voor hebben gekozen hun obligaties niet te converteren.",
 "model": "Voorbeeld van een juist antwoord is: Het verwachte rendement op de obligaties (interest en/of koersresultaat) ligt volgens hen boven het verwachte rendement op aandelen (dividend en/of koersresultaat).\nOpmerking Aan een verdere stijging van de aandelenkoers afwachten en dan pas overgaan tot conversie geen scorepunt toekennen.",
 "pnt": 1,
+"top": [
+"obligaties"
+],
 "img": [
 "v25-1-b-8",
 "v25-1-b-9",
@@ -15005,6 +17339,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het verwachte resultaat voor Uw Krant over de eerste periode van 4 weken in 2025. Maak hierbij gebruik van het verkoopresultaat en het bezettingsresultaat. Geef telkens aan of er sprake is van een positief of negatief resultaat.",
 "model": "• verkoopresultaat: 34.500 x 4 x 6 x 0,05 + 25.000 x 4 x 6 x 0,22 = 173.400 voordelig / positief / + (2p)\n• bezettingsresultaat: (59.500 – 60.000) x 4 x 6 x 0,75 = 9.000 negatief / nadelig / - resultaat: 173.400 – 9.000 = € 164.400 voordelig / positief / + (1p)",
 "pnt": 3,
+"top": [
+"kostprijs"
+],
 "img": [
 "v25-1-o-14"
 ]
@@ -15024,6 +17361,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee voordelen voor Uw Krant van het inzetten van social media in plaats van traditionele media.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Adverteren via social media kan goedkoper zijn (dan adverteren via traditionele media).\n- Social media geeft de mogelijkheid om op een gepersonaliseerde manier contact te maken met potentiële abonnees. (Bij traditionele media is dit niet het geval).\n- Uw Krant kan via social media gemakkelijker de behoeften van potentiële abonnees achterhalen en met hun content daarop inspelen. (Bij traditionele media is dit niet mogelijk).\n- De doelgroep maakt meer gebruik van social media (dan van traditionele media) en dus wordt de doelgroep gemakkelijker bereikt.\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v25-1-o-15"
 ]
@@ -15043,6 +17383,9 @@ EXAMEN.vragen.push(...[
 "q": "Welke abonnementsvorm heeft dan de voorkeur: papier of digitaal? Leg dit uit met behulp van een berekening van de dekkingsbijdrage per type krant in de actieperiode.",
 "model": "14,40\n• dekkingsbijdrage van een digitale krant: – 0,10 = € 0,50 24 27,60 dekkingsbijdrage van een papieren krant: – 1,20 = – € 0,05 (1p)\n24\n• De abonnementsvorm digitaal heeft de voorkeur (aangezien de dekkingsbijdrage hierbij het hoogste is). (1p)",
 "pnt": 2,
+"top": [
+"breakeven"
+],
 "img": [
 "v25-1-o-15"
 ]
@@ -15062,6 +17405,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit welk instrument van de marketingmix kan worden gebruikt om de abonnee goed te informeren over de achtergrond van de prijsverhoging.",
 "model": "• promotiebeleid (1p)\n• Wanneer de klant duidelijk uitgelegd wordt wat de reden is voor de prijsverhoging (uiteindelijk terugdringen van de externe kosten), zal de klant eerder bereid zijn deze hogere prijs te betalen. (1p)\nof\n• productbeleid (1p)\n• In het colofon / op de verpakking wordt duidelijk gemaakt dat Uw Krant true pricing inzet, (waardoor de verkoopprijs hoger is). (1p)\nOpmerking Het tweede scorepunt alleen toekennen wanneer het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v25-1-o-15"
 ]
@@ -15081,6 +17427,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat het volgen van een studie gezien kan worden als een investering.",
 "model": "Voorbeeld van een juist antwoord: Je betaalt nu geld voor het volgen van een opleiding en hoopt daar in de toekomst een (hoger) inkomen door te krijgen / een uitdagende(re) baan door te krijgen.",
 "pnt": 1,
+"top": [
+"personeel"
+],
 "img": [
 "v25-2-o-2"
 ]
@@ -15100,6 +17449,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de exacte hoogte van de studieschuld van Hasna op 31 augustus 2021, direct na de laatste storting van € 200 door DUO op die datum (zie formuleblad).",
 "model": "Voorbeelden van een juiste berekening zijn: 200 x (1 + 1,0005 … + 1,000547) = € 9.713,67\nof\n200 x 48,56834839 = € 9.713,67 rn - 1 S=ax r-1 a = 1; r = 1,0005; n = 48 S = 48,56834839\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"prive",
+"interest"
+],
 "img": [
 "v25-2-o-2"
 ]
@@ -15119,6 +17472,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale interestkosten over de studieschuld van Hasna, gerekend vanaf de allereerste ontvangst van de maandelijkse lening van € 200 van DUO tot aan de betaling van het laatste termijnbedrag van € 47,02.",
 "model": "Voorbeelden van een juiste berekening zijn: Er is betaald aan DUO: 15 x 12 x 47,02 + (9.713,67 – 8.000) = 10.177,27 Er is geleend: 4 x 12 x 200 = 9.600,00 totaal € 577,27\nof\ntijdens het studeren:\n9.713,67 (vraag 2) – 4 x 12 x 200 = na het studeren: | 113,67\n15 x 12 x 47,02 – 8.000 = | 463,60\ntotaal | € | 577,27\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"prive",
+"vreemdvermogen"
+],
 "img": [
 "v25-2-o-2"
 ]
@@ -15138,6 +17495,10 @@ EXAMEN.vragen.push(...[
 "q": "Welke aflosmogelijkheid gebruikt Hasna om haar studielening bij DUO af te lossen?\na lineaire aflossing\nb aflossing op basis van annuïteiten\nc aflossing in één keer aan het einde van de looptijd Noteer de letter van het juiste antwoord en motiveer het antwoord.",
 "model": "• b (1p)\n• het termijnbedrag is een gelijkblijvend bedrag, bestaande uit interest en aflossing (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"prive"
+],
 "img": [
 "v25-2-o-3"
 ]
@@ -15157,6 +17518,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag aan vakantiegeld dat in mei 2025 zal worden uitgekeerd aan werknemers (zie informatiebron 1 en 2).",
 "model": "12.180 + 0,08 x (2 x 26.250) x (1 – 0,40) = € 14.700\nOpmerkingen\n- Voor elke fout 1 scorepunt in mindering brengen.\n- Als is geantwoord met behulp van informatiebron 2: 12.180 x 12 = € 14.616 1 scorepunt toekennen. 10\n- Als is geantwoord met behulp van informatiebron 1: 0,08 x 12 x 26.250 x (1 – 0,40) = € 15.120 1 scorepunt toekennen .",
 "pnt": 2,
+"top": [
+"personeel"
+],
 "img": [
 "v25-2-b-3",
 "v25-2-b-4",
@@ -15178,6 +17542,9 @@ EXAMEN.vragen.push(...[
 "q": "Stel de liquiditeitsbegroting op over de maanden april en mei 2025 (zie informatiebron 1 en 2). Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "getallen x € 1\napril Ontvangsten | mei\nContante ontvangsten | 5.625 | 9.375\nOntvangsten van debiteuren | 81.000 | 50.625\nTotale ontvangsten | 86.625 | 60.000\nUitgaven:\nVervoer hei-installatie | 10.125 | 15.850\nBrandstof heien | 20.200 | 22.220\nVerzekeringspremie | 19.080 | 7.475\nNettoloon | 15.750 | 15.750\nNetto vakantiegeld (= vraag 5) | 14.700\nOverige uitgaven | 7.500 | 8.000\nLoonheffing | 42.525 | ______\nTotale uitgaven | 115.180 | 83.995\nOntvangsten – uitgaven | -/- 28.555 | -/- 23.995\nBeginsaldo liquide middelen | 103.200 | 74.645\nEindsaldo liquide middelen | 74.645 | 50.650\nBerekeningen:\n- Vervoer hei-installatie: 700 x 17,50 + 8 x 6 x 75 = 15.850\n- Brandstof heien: 500 x 22 x 2,02 = 22.220\n- Verzekeringspremie april: 12 x 1.500 x 1,06 = 19.080\n- Verzekeringspremie mei: 0,005 x 1.495.000 = 7.475\n- Nettoloon: 0,60 x 26.250 = 15.750\n• 15.850 en 22.220 (1p)\n• 19.080 en 7.475 (1p)\n• 15.750, 14.700, 7.500 en 8.000 (1p)\n• overige bedragen (1p)",
 "pnt": 4,
+"top": [
+"liquiditeitsbegroting"
+],
 "img": [
 "v25-2-b-3",
 "v25-2-b-4",
@@ -15200,6 +17567,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Beukers ontvangt bij de verkoop van de oude hei- installatie op 1 juni 2025.",
 "model": "opbrengst verkoop hei-installatie: (60.000 – 2 x 0,00375 x 600.000 x 0,95) x 1,20 = € 66.870\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"resultaat"
+],
 "img": [
 "v25-2-b-4",
 "v25-2-o-5"
@@ -15220,6 +17590,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de hoogte van de subsidie die op 1 juni 2025 wordt uitgekeerd. Rond het bedrag af op hele euro’s.",
 "model": "• subsidie: 0,50 x (1.495.000 – 995.000) = 250.000 (1p)\n• contante waarde: 250.000 x 1,005-6 = € 242.630 (1p)\nOpmerking Er moet op hele euro’s zijn afgerond voor het toekennen van de tweede deelscore.",
 "pnt": 2,
+"top": [
+"interest"
+],
 "img": [
 "v25-2-b-5",
 "v25-2-o-5"
@@ -15240,6 +17613,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat op 1 juni 2025 aan interest en aflossing wordt betaald op de 4% hypothecaire lening (zie informatiebron 2).",
 "model": "Voorbeelden van een juiste berekening zijn: 5\n• te betalen interest per 1 juni 2025: 0,04 x 180.000 x = 3.000 (1p)\n12\nof 1.800\n• te betalen interest per 1 juni 2025: x 5 = 3.000 (1p)\n 3\n• 180.000 + 3.000 = € 183.000 (1p)\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"woning"
+],
 "img": [
 "v25-2-b-4",
 "v25-2-o-6"
@@ -15260,6 +17637,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat op 1 juni 2025 nog geleend moet worden om de financiering van de elektrische hei-installatie rond te krijgen. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "financiering | getallen x € 1\nliquide middelen (vraag 6) | 50.650\nverkoop oude hei-installatie (vraag 7) | 66.870\nsubsidie (vraag 8) | 242.630 berekening\nhypothecaire | 0,80 x (200.000 + 625.000) – | 477.000\nleningen | 183.000 (vraag 9) =\ntotaal 50.650 + 66.870 +242.630+ 837.150 477.000 = af te sluiten nieuwe 1.495.000 – 837.150 = 657.850 8% lening\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v25-2-b-3",
 "v25-2-b-4",
@@ -15283,6 +17663,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat door een verslechterde solvabiliteit het resultaat van Beukers kan afnemen.",
 "model": "Voorbeeld van een juist antwoord is:\n• Het risico van het niet terugontvangen van het uitgeleende geld voor de geldverstrekker neemt toe, waardoor (1p)\n• er meer interest betaald moet worden / er tegen minder gunstige voorwaarden kan worden geleend, (waardoor de winst kan afnemen). (1p)",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v25-2-b-3",
 "v25-2-b-4",
@@ -15305,6 +17688,9 @@ EXAMEN.vragen.push(...[
 "q": "Voldoet Beukers ook aan voorwaarde b? Motiveer het antwoord met behulp van een berekening (zie informatiebron 2). Je mag er vanuit gaan dat de door de directie verwachte solvabiliteit van 1 juni 2025 correct is.",
 "model": "• solvabiliteit op 31 maart 2025: 36.945 + 180.000 + 12.180 + 42.525 + 1.800 x 100% = 62,4% (1p)\n438.450\n• Het solvabiliteitskengetal stijgt met 77,4% – 62,4% = 15,0%-punten. Dat is minder dan 18%-punten. Aan voorwaarde b wordt voldaan, (dus Beukers schaft de hei-installatie aan). (1p)",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v25-2-b-4",
 "v25-2-o-6"
@@ -15325,6 +17711,9 @@ EXAMEN.vragen.push(...[
 "q": "Onder welk instrument van de marketing mix valt het personaliseren van een wasmachinekast?",
 "model": "product(beleid)",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "v25-2-o-7"
 ]
@@ -15344,6 +17733,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee bedrijfseconomische redenen waarom Wasmachinekast.nl van haar klanten een aanbetaling vraagt.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Wasmachinekast heeft liquide middelen nodig om de in te kopen kasten / materialen (voor) te financieren.\n- Door de aanbetaling weet Wasmachinekast dat de klant daadwerkelijk de kast zal afnemen / het risico op wanbetaling neemt af\n- De liquiditeit neemt toe\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"kengetallen"
+],
 "img": [
 "v25-2-o-7"
 ]
@@ -15363,6 +17756,9 @@ EXAMEN.vragen.push(...[
 "q": "Voor Wasmachinekast.nl is de aanbetaling door de klant een vorm van\na ontvangen leverancierskrediet\nb ontvangen afnemerskrediet\nc verstrekt leverancierskrediet\nd verstrekt afnemerskrediet Noteer de letter van het juiste antwoord en motiveer het antwoord.",
 "model": "• b (1p)\n• De ontvangst van het geld vindt plaats voor de levering van het product / de dienst. (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v25-2-o-7"
 ]
@@ -15382,6 +17778,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de omzet in juni 2024.",
 "model": "in april wordt ontvangen: 75% van de omzet van april = 0,75 x 60.000 x 1,21 = 54.450 25% van de omzet van juni\n73.810 – 54.450 | 100\nomzet juni = | x | = € 64.000\n1,21 | 25\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"liquiditeitsbegroting",
+"btw"
+],
 "img": [
 "v25-2-o-8"
 ]
@@ -15401,6 +17801,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat zowel de solvabiliteit als de liquiditeit door een aandelenemissie verbeteren. Betrek in het antwoord zowel de teller als de noemer van beide kengetallen.",
 "model": "• Het eigen vermogen is relatief meer gestegen dan het totale vermogen (,dus de solvabiliteit is verbeterd). (1p)\n• De (vlottende activa inclusief ) liquide middelen zijn toegenomen / teller is gestegen en het kort vreemd vermogen / de noemer is gelijk gebleven (,dus de current ratio is verbeterd). (1p)",
 "pnt": 2,
+"top": [
+"kengetallen",
+"aandelen"
+],
 "img": [
 "v25-2-o-9"
 ]
@@ -15420,6 +17824,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het agio per aandeel van de emissie per 1 oktober 2024.",
 "model": "Voorbeelden van een juiste berekening zijn: 3.400.000 – 3.200.000\n• toename aantal aandelen = 10.000 aandelen (1p)\n20 1.325.000 - 1.225.000\n• agio per aandeel = € 10 (1p)\n10.000\nof\n1.325 – 1.225\n• De reserve is = 0,5 keer zo hard gestegen als het 3.400 – 3.200 geplaatste aandelenkapitaal. agio per aandeel = 0,5 x 20 = € 10 (2p)\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v25-2-o-10"
 ]
@@ -15439,6 +17846,9 @@ EXAMEN.vragen.push(...[
 "q": "Welk orgaan binnen Motherman keurt het voorstel tot winstverdeling goed of af?",
 "model": "de algemene vergadering van aandeelhouders / ava / aandeelhoudervergadering",
 "pnt": 1,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v25-2-o-10"
 ]
@@ -15458,6 +17868,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan of de winstverdeling zal worden goedgekeurd.",
 "model": "Voorbeeld van een juiste berekening is: 3\n• stockdividend = (600 – 200) x = 300 (x 1.000) (1p)\n 4\n• eigen vermogen na winstverdeling = 3.400 + 300 + 1.325 + 200 = 5.225 (x 1.000) (1p)\n3.400 + 300\n• aantal aandelen: = 185 (x 1.000) 20 5.225 = € 28,24 (1p)\n185\n• € 28,24 > € 27,50, dus het voorstel wordt goedgekeurd. (1p)",
 "pnt": 4,
+"top": [
+"winstverdeling"
+],
 "img": [
 "v25-2-o-10"
 ]
@@ -15477,6 +17890,7 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee bedrijfseconomische redenen waarom HWO de werkweek heeft verkort.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Installateurs zijn fitter, waardoor ze beter werk leveren / minder vaak ziek zijn / productiever zijn.\n- Het is voor installateurs aantrekkelijker om voor HWO te werken, waardoor het aantrekken van personeel makkelijker / goedkoper is.\nper juist antwoord 1",
 "pnt": 2,
+"top": [],
 "img": [
 "v25-2-b-6",
 "v25-2-b-7",
@@ -15498,6 +17912,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de verwachte dekkingsbijdrage per verkochte waterontharder als percentage van de verkoopprijs.",
 "model": "900 – 430 – 110 x 100% = 40% 900\nOpmerking Per gemaakte fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"breakeven"
+],
 "img": [
 "v25-2-b-6",
 "v25-2-b-7",
@@ -15519,6 +17936,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met behulp van een berekening aan dat de breakeven-omzet in 2025 naar verwachting niet wordt behaald.",
 "model": "Voorbeelden van een juiste berekening zijn:\n• Constante kosten heel 2025: (1.057,50 x 10 + 9.000) x 52 = € 1.017.900 (1p)\n1.017.900\n• Break-evenomzet 2025: = € 2.544.750 0,40 Verwachte omzet 2025: 2.500 x 900 = € 2.250.000 (1p)\nof\n• Verwachte omzet 2025: 2.500 x 900 = € 2.250.000 Constante kosten mogen maximaal 2.250.000 x 0,4 = € 900.000 zijn (1p)\n• Constante kosten zijn: (1.057,50 x 10 + 9.000) x 52 = € 1.017.900 (1p)",
 "pnt": 2,
+"top": [
+"breakeven"
+],
 "img": [
 "v25-2-b-6",
 "v25-2-b-7",
@@ -15540,6 +17960,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken met hoeveel fte’s het personeelsbestand verminderd kan worden in 2025. Rond het aantal fte’s af op één decimaal (zie informatiebron 4).",
 "model": "Voorbeeld van een juiste berekening is: 36\n• aantal geïnstalleerde waterontharders per 1,0 fte: 45 x = 405 (1p)\n 4\n2.500\n• gewenste aantal fte: + 1 = 7,2 fte 405 Er kan dus 10,0 – 7,2 = 2,8 fte worden bespaard. (1p)",
 "pnt": 2,
+"top": [
+"marktaandeel"
+],
 "img": [
 "v25-2-b-6",
 "v25-2-o-12"
@@ -15560,6 +17983,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken voor 2025 de verwachte omzet uit de verkoop en levering van het regeneratiezout.",
 "model": "• losse zakken: 22,95 x (500 + 2 x 800 + 3 x 300) = 68.850 (1p)\n• per 5 zakken: 99 x 600 = 59.400 bijdrage verzendkosten: (500 + 800 + 300) x 4,95 = 7.920+ totaal € 136.170 (1p)",
 "pnt": 2,
+"top": [
+"arbeidsrecht",
+"marktaandeel"
+],
 "img": [
 "v25-2-b-7",
 "v25-2-o-12"
@@ -15580,6 +18007,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat, op lange termijn, het cadeau geven van een zak regeneratiezout kan leiden tot een hogere winstgevendheid voor HWO.",
 "model": "Voorbeeld van een juist antwoord: Door het weggeven van het regeneratiezout is de kans groter dat klanten met een waterontharder (in de toekomst) het regeneratiezout bij HWO zullen kopen, (waardoor het resultaat kan verbeteren).",
 "pnt": 1,
+"top": [
+"resultaat"
+],
 "img": [
 "v25-2-b-6",
 "v25-2-b-7",
@@ -15601,6 +18031,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken of HWO door het nemen van de drie maatregelen in 2025 winstgevend zal zijn (zie informatiebron 5). Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "extra opbrengsten bedrag in euro’s opbrengsten zie vraag 25 136.170 regeneratiezout\nextra kosten | berekening | bedrag in euro’s\nvervoerskosten naar | 7,50 x (500 + 800 + 300 + 600) + | 21.300\nde klant en constante kosten | 400 x 12 =\ninkoopwaarde omzet | 500 + 2 x 800 + 3 x 300 + 5 x 600 | 57.000\nregeneratiezout | = 6.000 stuks 6.000 x 9,50 =\nkosten weggeven regeneratiezout | 2.500 x 9,50 = | 23.750\nkosten ontslaan installateurs | 18.000\ntotale extra kosten | 120.050\nbesparing op de loonkosten | 2,0 x 1.057,50 x 52 | 109.980\nverandering van het resultaat | 136.170 – 120.050 + 109.980 = | 126.100\noude resultaat | 2.500 x 900 x 0,40 – 1.017.900 | -/-117.900 (zie vraag 23)\nconclusie | Ja, want 126.100 > -/-117.900 …\n• 21.300 (1p)\n• 57.000, 23.750 en 120.050 (2p)\n• 109.980, 126.100, -/-117.900 en conclusie (2p)\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 5,
+"top": [
+"personeel",
+"kostprijs"
+],
 "img": [
 "v25-2-b-7",
 "v25-2-u-3",
@@ -15622,6 +18056,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een verklaring waarom stijgende interestpercentages ongunstig zijn voor een bedrijf met relatief veel kortetermijnleningen.",
 "model": "Voorbeelden van een juist antwoord\n- Bij een lening met een korte looptijd zal er in geval van herfinanciering een nieuwe lening moeten worden afgesloten met een hoger interestpercentage. Dit leidt tot hogere kosten.\n- Leningen met een korte looptijd hebben veelal een variabele interest, waardoor de interestkosten kunnen stijgen.",
 "pnt": 1,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v25-2-o-13"
 ]
@@ -15641,6 +18078,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee redenen waarom een toename van de interestkosten een ongunstig effect op het beleggersrendement van aandelen SBB kan hebben.",
 "model": "Dividendrendement:\n• Hogere interestkosten leiden tot een lager resultaat en kunnen leiden tot een lagere dividenduitkering. (1p)\nKoersresultaat:\n• Hoge interestuitgaven leiden tot een slechtere liquiditeit waardoor het faillissementsrisico toeneemt en de vraag naar het aandeel daalt. Dit leidt tot een lagere beurskoers en lager koersresultaat. (1p)\nof\n• Hoge interestuitgaven leiden tot een lagere winst(verwachting) / dividenduitkering, waardoor de vraag naar het aandeel daalt en de beurskoers en het koersresultaat lager worden. (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"aandelen"
+],
 "img": [
 "v25-2-o-14"
 ]
@@ -15660,6 +18101,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit welk type opties Carson moet kopen om zijn risico te beperken.",
 "model": "• putopties (1p)\n• Mochten de aandelen SBB toch verder dalen, dan kan Carson deze aandelen tegen de uitoefenprijs van de optie verkopen en beperkt hij zo zijn verlies. (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"beleggen"
+],
 "img": [
 "v25-2-o-14"
 ]
@@ -15679,6 +18123,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem dit item en leg uit bij welk ander onderdeel van de SWOT het hoort.",
 "model": "• Producten zijn duurder dan die van de concurrentie. (1p)\n• Het is intern (en negatief) / Pear heeft er zelf invloed op, dus hoort het bij W(eakness). (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"strategie"
+],
 "img": [
 "v26-1-o-2"
 ]
@@ -15698,6 +18145,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef van de volgende groepen vaste activa een voorbeeld:\na Immateriële vaste activa\nb Materiële vaste activa\nc Financiële vaste activa\nKyano heeft met behulp van de quick ratio onderzocht dat de liquiditeit van Pear op 31 december 2025 is verslechterd ten opzichte van een jaar eerder.",
 "model": "Voorbeelden van juiste antwoorden zijn: a (Immateriële vaste activa:) goodwill, vergunningen, patenten/ octrooien, licenties, concessies, software b (Materiële vaste activa:) pand, auto, machine, inventaris c (Financiële vaste activa): deelneming, (hypothecaire) lening uitgeleend geld, effecten langer dan 1 jaar\nindien 3 juist 2\nindien 2 juist 1\nindien 1 of 0 juist 0\nOpmerking Van iedere groep vaste activa hoeft maar één voorbeeld te worden gegeven.",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v26-1-o-3"
 ]
@@ -15717,6 +18167,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon aan of de liquiditeit van Pear in 2025 is verslechterd door een berekening te maken van de quick ratio op 31 december 2024 en op 31 december 2025.",
 "model": "5.332 + 936 + 6.720 31 december 2024: = 1,17 11.093 3.674 + 1.451 + 5.348 31 december 2025: = 0,95 11.071 de liquiditeit is verslechterd (, want 0,95 < 1,17)\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v26-1-o-3"
 ]
@@ -15736,6 +18189,10 @@ EXAMEN.vragen.push(...[
 "q": "Geef van elk van onderstaande adviezen aan of deze leiden tot een verbetering van de liquiditeit van Pear, gemeten met de quick ratio. Ga bij elk advies in op zowel het teller- als het noemereffect van de quick ratio:\na Herwaardeer de materiële vaste activa in 2026 op 1 januari 2026.\nb Geef een obligatielening met een looptijd van 10 jaar uit op 1 januari 2026.",
 "model": "• a: nee / geen gevolgen / blijft gelijk Een herwaardering heeft geen gevolgen voor de teller / vlottende activa (exclusief voorraden) en voor de noemer / het kort vreemd vermogen. (1p)\n• b: ja / verbetering De teller zal stijgen / de vlottende activa (exclusief voorraden) / liquide middelen zullen stijgen. De noemer / het kort vreemd vermogen zal gelijk blijven. (1p)\nOpmerking Als er een onjuiste toelichting wordt gegeven op het teller- of noemereffect bij a en/of b wordt voor dit onderdeel geen scorepunt toegekend.",
 "pnt": 2,
+"top": [
+"kengetallen",
+"vreemdvermogen"
+],
 "img": [
 "v26-1-o-3"
 ]
@@ -15755,6 +18212,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een factor die de macht van de afnemers van DroomKaas bepaalt (zie informatiebron 1). Licht het antwoord toe.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n• geen andere afzetkanalen / afnemers (dan de supermarktketens) (1p)\n• waardoor DroomKaas voor zijn afzet volledig afhankelijk is van de supermarktketens (1p)\nof\n• er zijn ook andere bedrijven voor kaasrijping actief (1p)\n• waardoor supermarktketens kunnen overstappen naar concurrenten (1p)",
 "pnt": 2,
+"top": [
+"marktaandeel"
+],
 "img": [
 "v26-1-b-3",
 "v26-1-b-4",
@@ -15776,6 +18236,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een risico dat is verminderd en licht het antwoord toe.",
 "model": "Voorbeelden van een juist antwoord zijn:\n• risico op prijsdaling (1p)\n• In het nieuwe bedrijfsmodel worden er vaste prijsafspraken per jaar gemaakt (, terwijl bij het oude bedrijfsmodel er ieder half jaar onderhandeld kon worden). (1p)\nof\n• voorraadrisico (1p)\n• In het nieuwe bedrijfsmodel is DroomKaas geen eigenaar meer van de voorraad (, terwijl in het oude bedrijfsmodel DroomKaas als eigenaar met onverkochte voorraad kon blijven zitten). (1p)\nof\n• risico op omzetdaling (1p)\n• In het nieuwe bedrijfsmodel hebben ze meer afnemers (boeren in plaats van supermarktketens), waardoor het wegvallen van één afnemer minder invloed heeft op de omzet. (1p)\nof\n• risico op afzetdaling (1p)\n• want er zijn contracten afgesloten met de boer over de hoeveelheid kaas. (1p)\nOpmerking Het risico mag ook omschreven worden voor de eerste deelscore.",
 "pnt": 2,
+"top": [
+"beleggen"
+],
 "img": [
 "v26-1-b-5",
 "v26-1-o-4"
@@ -15796,6 +18259,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een verklaring waarom DroomKaas het grootste deel van de constante kosten toerekent aan de oude kazen.",
 "model": "Voorbeeld van een juist antwoord is: De oude kazen liggen langer in het kaaspakhuis, leggen daardoor een groter beslag op de ruimte / kapitaal / personeel (en dus op een groter deel van de huur / interest / personeelskosten).\nOpmerking Het uitsluitend noemen van een langer rijpingsproces is onvoldoende voor het toekennen van het scorepunt.",
 "pnt": 1,
+"top": [
+"kostprijs"
+],
 "img": [
 "v26-1-b-5",
 "v26-1-o-5"
@@ -15816,6 +18282,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gerealiseerde verkoopresultaat over het eerste halfjaar van 2025. Bereken hiervoor eerst de kostprijs per kg kaasrijping van jonge en van oude kaas (zie informatiebronnen 2 en 3).",
 "model": "1 90.000\n• jonge kaas: 0,20 + x = 0,20 + 0,40 = € 0,60 3 75.000 2 90.000 oude kaas: 0,50 + x = 0,50 + 2,00 = € 2,50 (2p)\n3 30.000\n• 78.000 x (1,50 – 0,60) + 24.000 x (3,70 – 2,50) = € 99.000 (1p)\nOpmerking Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"kostprijs"
+],
 "img": [
 "v26-1-b-5",
 "v26-1-b-6",
@@ -15837,6 +18306,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit of DroomKaas in de individuele arbeidsovereenkomst mag afwijken van de cao.",
 "model": "Ja, DroomKaas mag bij de individuele arbeidsovereenkomst afwijken van de cao als dit in het voordeel van de werknemer is.",
 "pnt": 1,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v26-1-b-3",
 "v26-1-b-4",
@@ -15860,6 +18332,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de totale loonkosten over het eerste halfjaar van 2025 (zie informatiebron 3). Afronden op hele euro’s.",
 "model": "(3.566 x 6 x 1,08 + (0,5 x 3.200)) x 1,30 = € 32.120\nOpmerkingen Voor elke fout 1 scorepunt in mindering brengen. Als de sociale lasten alleen over het basisbrutoloon zijn berekend 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"personeel"
+],
 "img": [
 "v26-1-b-6",
 "v26-1-o-5"
@@ -15880,6 +18355,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het budgetresultaat over het eerste halfjaar van 2025 (zie informatiebronnen 2 en 3). Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "budgetresultaat op constante kosten\nberekening getal x € 1 positief of negatief bezettingsresultaat op jonge kaas 1.200 positief/+ bezettingsresultaat op oude kaas (24.000 – 30.000) x 2 12.000 negatief/– (vraag 8) = prijsresultaat overige constante kosten 0\nprijsresultaat 30.000 – 32.120 loonkosten (vraag 10) = 2.120 negatief/– budgetresultaat op constante kosten (12.920 negatief/–)\nbudgetresultaat op variabele kosten\nberekening getal x € 1 positief of negatief prijsresultaat op jonge kaas 7.800 negatief/– prijsresultaat op oude kaas 24.000 x (0,50 – 0,55) = 1.200 negatief/– budgetresultaat op variabele kosten (9.000 negatief/–)\nhet totale budgetresultaat\nberekening getal x € 1 positief of negatief totale budgetresultaat – 9.000 – 12.920 21.920 negatief/–\n• 12.000 negatief/– (1p)\n• 2.120 negatief/– (1p)\n• 1.200 negatief/– (1p)\n• 21.920 negatief/– (1p)",
 "pnt": 4,
+"top": [
+"verschillen"
+],
 "img": [
 "v26-1-b-5",
 "v26-1-b-6",
@@ -15901,6 +18379,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan of het resultaat van DroomKaas in het eerste halfjaar van 2025 voor Frans acceptabel is (zie informatiebronnen 1 tot en met 3).",
 "model": "Voorbeelden van een juiste berekening zijn: eerste deelscore:\n• Resultaat: verkoopresultaat + budgetresultaat = 99.000 (vraag 8) – 21.920 (vraag 11) = 77.080 (1p)\nof Resultaat: omzet – kosten = 78.000 x 1,50 + 24.000 x 3,70 – (78.000 x 0,3 + 24.000 x 0,55 + 60.000 + 32.120 (vraag 10) = 77.080 1\ntweede deelscore:\n• Het resultaat in het tweede halfjaar van 2024 bedraagt: 110.000 x 0,92 x 0,92 x 0,93 x 0,95 = 82.257,38. (1p)\nderde deelscore:\n• De procentuele daling in het eerste halfjaar 2025 ten opzichte van het tweede halfjaar 2024: 77.080 - 82.257,38 x 100% = – 6,3%. Dat is voor Frans acceptabel 82.257,38 (omdat het minder dan 10% daling is). (1p)\nof\n€ 77.080 > 0,90 x € 82.257,38, dus is het voor Frans acceptabel. 1",
 "pnt": 3,
+"top": [
+"resultaat"
+],
 "img": [
 "v26-1-b-3",
 "v26-1-b-4",
@@ -15924,6 +18405,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef een voorbeeld van lagere kosten voor de NLD bank door deze verbeterde risicoanalyse bij kredietverlening.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- minder afboeking van oninbare debiteuren\n- minder incassokosten / deurwaarderskosten\n- minder kosten van debiteurenbeheer\n- minder personeelskosten",
 "pnt": 1,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v26-1-o-6"
 ]
@@ -15943,6 +18427,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem twee instrumenten van de marketingmix anders dan prijsbeleid, waarop de NLD bank kan besparen als gevolg van de loyaliteit van haar klanten. Licht het antwoord telkens toe.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- Promotie(beleid): er kan met minder uitgaven aan reclame worden volstaan (om bestaande klanten van de bank te behouden).\n- Product(beleid): banken kunnen volstaan met minder service (om bestaande klanten tevreden te houden) / banken hoeven minder nieuwe producten te ontwikkelen (om bestaande klanten tevreden te houden / om te voorkomen dat ze overstappen) / banken kunnen een lagere rente op een spaarrekening aanbieden.\n- Plaats(beleid): banken kunnen volstaan met minder vestigingen (om bestaande klanten van de bank te behouden).\nper juist antwoord met bijbehorende toelichting 1",
 "pnt": 2,
+"top": [
+"marketingmix"
+],
 "img": [
 "v26-1-o-6"
 ]
@@ -15962,6 +18449,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het verwachte dividendrendement over 2025 bij beleggen in de aandelen van de NLD bank.",
 "model": "• resultaat na belasting: 2.800.000.000 – 0,19 x 200.000 – 0,258 x (2.800.000.000 – 200.000) = 2.077.613.600 (1p)\n1.796.000.000\n• aantal geplaatste aandelen: = 898.000.000 (2p)\n0,45 x 2.077.613.600 dividend per aandeel: = 1,04 1\n898.000.000\n• gemiddelde beurskoers: (13,16 + 13,42) / 2 = 13,29 1,04 dividendrendement: x 100% = 7,8% (1p)\n13,29",
 "pnt": 3,
+"top": [
+"winstverdeling",
+"aandelen"
+],
 "img": [
 "v26-1-o-7"
 ]
@@ -15981,6 +18472,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat het risico van beleggen in aandelen NLD hoger is dan het risico van sparen bij NLD. Betrek beide beleggingsvormen in het antwoord.",
 "model": "Voorbeelden van een juist antwoord zijn:\n• Voor de aandeelhouders: (1p)\n- Aandeelhouders lopen het risico op waardedaling van de aandelen.\nof\n- Het is onzeker of / hoeveel dividend er beschikbaar wordt gesteld.\n• Voor de spaarders: (1p)\n- Spaarders ontvangen (meestal) interest op het spaargeld.\nof\n- Voor spaarders geldt het depositogarantiestelsel (de Nederlandse overheid staat garant voor maximaal € 100.000) / In geval van faillissement gaan spaarders voor aandeelhouders bij het verdelen van de boedel.\nAanvulling van het CvTE, het antwoordmodel is aangepast. Nieuw antwoordmodel:\nVoorbeelden van een juist antwoord zijn:\n• Voor de aandeelhouders: (1p)\n- Aandeelhouders lopen het risico op waardedaling van de aandelen.\n- Het is onzeker of / hoeveel dividend er beschikbaar wordt gesteld.\n• Voor de spaarders: (1p)\n- Spaarders ontvangen (meestal) interest op het spaargeld.\n- Voor spaarders geldt het depositogarantiestelsel (de Nederlandse overheid staat garant voor maximaal € 100.000).\nof\n• In geval van faillissement gaan spaarders voor aandeelhouders bij het verdelen van de boedel. (2p)",
 "pnt": 2,
+"top": [
+"interest",
+"aandelen"
+],
 "img": [
 "v26-1-o-7"
 ]
@@ -16000,6 +18495,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit of er in bovenstaande situatie voor Wings sprake is van:\na alleen leverancierskrediet\nb alleen afnemerskrediet\nc zowel leverancierskrediet als afnemerskrediet. Kies de juiste letter en motiveer het antwoord.",
 "model": "• c (1p)\n• Bij de eerste termijn wordt eerst het geld ontvangen en daarna worden de goederen geleverd (afnemerskrediet). Bij de tweede termijn worden eerst de goederen geleverd en daarna wordt het geld ontvangen (leverancierskrediet). (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v26-1-o-8"
 ]
@@ -16019,6 +18517,7 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat in de tweede termijn aan Skybus wordt gefactureerd.",
 "model": "20 miljard x 0,60 x 0,75 x 1,21 = € 10,89 miljard\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [],
 "img": [
 "v26-1-o-9"
 ]
@@ -16038,6 +18537,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem voor Wings twee nadelige bedrijfseconomische gevolgen van een faillissement van Skybus.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- een afboeking van de vordering op Skybus uit 2025\n- een enorm omzetverlies voor Wings / het verlies van een grote klant voor Wings\n- extra kosten door ontslaan van personeel\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"faillissement"
+],
 "img": [
 "v26-1-o-9"
 ]
@@ -16057,6 +18559,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem voor Personal Gym een voordeel van financiering via crowdfunding ten opzichte van financiering met een onderhandse lening.",
 "model": "Voorbeelden van een juist antwoord zijn:\n- Crowdfunding kan ervoor zorgen dat Personal Gym bekender wordt.\n- De voorwaarden voor kredietverlening (interestpercentage en aflossing) via crowdfunding kunnen gunstiger zijn.",
 "pnt": 1,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v26-1-b-7",
 "v26-1-b-8",
@@ -16080,6 +18585,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit waarom er op de investeringen in fitnessapparaten geen recht van hypotheek kan worden gegeven.",
 "model": "Hypotheekrecht kan alleen gegeven worden bij leningen voor onroerende goederen (en fitnessapparaten zijn roerende goederen).\nOpmerking Onroerend goed expliciet benoemen of een voorbeeld van een onroerend goed geven is noodzakelijk voor 1 scorepunt.",
 "pnt": 1,
+"top": [
+"woning"
+],
 "img": [
 "v26-1-b-8",
 "v26-1-o-10"
@@ -16100,6 +18608,9 @@ EXAMEN.vragen.push(...[
 "q": "Stel de balans per 1 januari 2026 op na investering en financiering (zie informatiebron 6). Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "Balans Personal Gym per 1 januari 2026 (na investering en financiering)\ndebet | Balans per 1 januari 2026 | credit (getallen x € 1)\nVaste activa | 96.000 | Eigen vermogen | 75.444\nFitnessapparatuur (nieuwe vaste activa) | 35.000\nTe vorderen btw | 7.350 | Banklening | 45.556\nLiquide middelen | 15.000 | Crowdfunding | 32.350\n153.350 | 153.350\n42.350 Fitnessapparatuur = 35.000 1,21 Te vorderen btw: 0,21 x 35.000 = 7.350 Liquide middelen: 25.000 – 10.000 = 15.000 Crowdfunding: 42.350 – 10.000 = 32.350 en 153.350\n• 35.000 en 7.350 (1p)\n• 15.000, 153.350 en 32.350 (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v26-1-b-9",
 "v26-1-o-11"
@@ -16120,6 +18631,10 @@ EXAMEN.vragen.push(...[
 "q": "Welke CCS-waardering zal Personal Gym krijgen voor de solvabiliteit? Licht het antwoord toe met een berekening (zie informatiebronnen 5 en 6).",
 "model": "45.556 + 32.350 x 100% = 50,8%, dus de waardering is voldoende / 153.350 5 punten.",
 "pnt": 1,
+"top": [
+"waardering",
+"kengetallen"
+],
 "img": [
 "v26-1-b-8",
 "v26-1-b-9",
@@ -16141,6 +18656,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken voor het jaar 2026 de interest en aflossing van de banklening (zie informatiebronnen 6 en 7). Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "getallen x € 1\nschuld | interest | aflossing | annuïteit\neerste halfjaar | 45.556,00 | 1.366,68 | 2.666,32 | 4.033\ntweede halfjaar | 42.889,68 | 1.286,69 | 2.746,31 | 4.033\ntotaal | 2.653,37 | 5.412,63 | 8.066\nToelichting eerste halfjaar: 0,03 x 45.556,00 = 1.366,68 en 4.033 – 1.366,68 = 2.666,32 tweede halfjaar: 0,03 x 42.889,68 = 1.286,69 en 4.033 – 1.286,69 = 2.746,31\n• 1.366,68 en 2.666,32 (1p)\n• 2.653,37 en 5.412,63 (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v26-1-b-9",
 "v26-1-b-10",
@@ -16163,6 +18681,9 @@ EXAMEN.vragen.push(...[
 "q": "Stel de exploitatiebegroting voor 2026 verder op. Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "Exploitatiebegroting 2026 (getallen x €1) omzet 94.200\nkosten\nverzekeringskosten | 4.800\nhuisvestingskosten | 7.000\nafschrijvingskosten | 22.200\nmarketingkosten | 1.000\ninterestkosten banklening (zie vraag 24) | 2.653,37\ninterestkosten crowdfunding | 1.905,42\noverige kosten | 2.000\ntotale kosten | 41.558,79\nresultaat 52.641,21\n96.000 42.350\n• 0,12 x ( + ) = 22.200 (2p)\n0,64 1,21 32.350\n• (0,062 x 32.350 x 0,5) + 0,062 x (32.350 – ) x 0,5 = 1.905,42 (1p)\n10\n• 41.558,79 en 52.641,21 (1p)\nOpmerkingen Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen. Iedere juiste manier van afronden goedkeuren.",
 "pnt": 4,
+"top": [
+"resultaat"
+],
 "img": [
 "v26-1-b-10",
 "v26-1-u-3",
@@ -16184,6 +18705,10 @@ EXAMEN.vragen.push(...[
 "q": "Welke CCS-waardering zal Personal Gym krijgen voor de afloscapaciteit van de kredietaanvraag? Licht het antwoord toe met een berekening (zie informatiebronnen 5 tot en met 7).",
 "model": "5.412,63 + 2 x 3.235 x 100% = 15,88%, dus de waardering is zeer goed / 52.641,21 + 22.200 40 punten.\nOpmerking Voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"vreemdvermogen",
+"waardering"
+],
 "img": [
 "v26-1-b-8",
 "v26-1-b-9",
@@ -16206,6 +18731,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening van de CCS aan of Gerard en Maya de financiering via crowdfunding zullen doorzetten (zie informatiebron 5).",
 "model": "• Het totale aantal punten: 20 (zekerheden) + 5 (solvabiliteit) + 40 (afloscapaciteit) = 65. (1p)\n• 65 punten geeft een CCS met de waardering goed en daarmee kunnen ze de investering en financiering doorzetten. (1p)",
 "pnt": 2,
+"top": [
+"vreemdvermogen"
+],
 "img": [
 "v26-1-b-8",
 "v26-1-o-12"
@@ -16226,6 +18754,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het bedrag dat Kim op 1 februari 2025 van Tarik ontvangt. Bereken hiervoor eerst de restschuld van de hypothecaire lening op basis van de contante waarde van de toekomstige annuïteiten (zie formuleblad).",
 "model": "• 13.965,82 x 13,417312 = € 187.383,76 (a = 1,0375 -19 ; r = 1,0375 ; n = 19 S= 13,417312) (2p)\n756.000 - 187.383,76\n• Kim ontvangt: = € 284.308,12 (= 284.308) (1p)\n 2\nOpmerkingen Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen. Als de restschuld op een andere wijze is berekend bij de eerste deelscore maximaal 1 scorepunt toekennen.",
 "pnt": 3,
+"top": [
+"vreemdvermogen",
+"woning"
+],
 "img": [
 "v26-1-o-14"
 ]
@@ -16245,6 +18777,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het deel van de erfenis dat elk van haar dochters ontvangt, na aftrek van de erfbelasting. Gebruik hierbij de gegevens in onderstaande tabel.",
 "model": "• vermogen bij overlijden: 284.308,12 x 1,0012 9 = 287.393,43 (1p)\n• erfenis per dochter voor erfbelasting: 287.393,43 – 30.000 = 128.696,71 (1p)\n 2\n• 128.696,71 – 0,10 x (128.696,71– 25.490) = € 118.376(,04) (1p)\nOpmerkingen Als een kandidaat met een zelfverzonnen vermogen begint omdat opgave 28 niet is gemaakt, kunnen alle scorepunten worden behaald. Als er tussentijds naar beneden is afgerond op hele euro’s, dan moet dit goedgerekend worden.",
 "pnt": 3,
+"top": [
+"erven"
+],
 "img": [
 "v26-1-o-15"
 ]
@@ -16264,6 +18799,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem het type arbeidsovereenkomst dat bij a moet worden ingevuld in bovenstaande tekst en leg uit dat hiermee een bijdrage wordt geleverd aan het binden van personeel.",
 "model": "• arbeidsovereenkomst voor onbepaalde tijd / vast contract / vaste aanstelling (1p)\n• Bij een dergelijk contract is er sprake van meer zekerheid van werk en inkomen (, waardoor werknemers minder snel op zoek gaan naar een andere werkgever). (1p)\nOpmerking Het tweede scorepunt alleen toekennen als het eerste scorepunt is behaald.",
 "pnt": 2,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v26-2-o-2"
 ]
@@ -16283,6 +18821,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem een nadelig gevolg voor ProRail van een cao met een korte looptijd.",
 "model": "Voorbeeld van een juist antwoord is: Bij een kortlopende cao moet ProRail / de werkgever eerder om de tafel met de vakbonden. Deze onderhandelingen kunnen leiden tot: (één van de volgende):\n- hogere loonkosten\n- onrust / stakingen.",
 "pnt": 1,
+"top": [
+"arbeidsrecht"
+],
 "img": [
 "v26-2-o-2"
 ]
@@ -16302,6 +18843,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het verschil in maandelijkse loonkosten tussen de eis van de vakbonden en het aanbod van de directie.",
 "model": "Voorbeelden van juiste berekeningen zijn: oorspronkelijk aanbod van de directie:\n• Voor de groep met het inkomen van 4.700 geldt de voet: 4,2% van 4.700 < 260. Voor de groep met het inkomen van 7.050 geldt de voet niet: 4,2% van 7.050 > 260 1.200 x (4.700 + 260) x 1,30 + 4.400 x 7.050 x 1,042 x 1,30 = 49.757.292 (2p)\n• eis vakbonden (4.400 x 7.050 + 1.200 x 4.700) x 1,13 x 1,30 = 53.853.540 Verschil in maandelijkse loonkosten 53.853.540 – 49.757.292 = € 4.096.248 (1p)\nof\n• 1.200 x 4.700 x 1,30 x 0,13 – 1.200 x 260 x1,30 = 547.560 (2p)\n• 4.400 x 7.050 x (0,13 – 0,042) x 1,30 = 3.548.688 € 4.096.248 (1p)\nOpmerking Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"personeel"
+],
 "img": [
 "v26-2-o-3"
 ]
@@ -16321,6 +18865,10 @@ EXAMEN.vragen.push(...[
 "q": "Verklaar waarom Zondag de loonkosten van de docenten tot de constante kosten rekent.",
 "model": "Deze kosten zijn onafhankelijk van het aantal gedetacheerde uren / de afzet.",
 "pnt": 1,
+"top": [
+"personeel",
+"kostprijs"
+],
 "img": [
 "v26-2-b-3",
 "v26-2-b-4",
@@ -16343,6 +18891,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de kostprijs per gedetacheerd uur voor het schooljaar 2023-2024 (zie informatiebron 1).",
 "model": "Voorbeeld van een juiste berekening is:\n• constante kosten per jaar (C) = 100 (24 x 80 + 32 x 120 + 40 x 180) x 39 x x 52 + 2.073.600 = 75 35.043.840 + 2.073.600 = 37.117.440 (2p)\n37.117.440\n• C/N = = 89,50 414.720 kostprijs: 89,50 + 2,50 = € 92 (1p)\nOpmerking Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"kostprijs"
+],
 "img": [
 "v26-2-b-3",
 "v26-2-o-4"
@@ -16363,6 +18914,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef van elke lijn in de grafiek (A, B en C) aan welk voorcalculatorisch resultaat deze lijn weergeeft. Neem de letters A, B en C over op je antwoordblad. Kies uit\n- bedrijfsresultaat\n- bezettingsresultaat\n- efficiencyresultaat\n- prijsresultaat\n- verkoopresultaat\nNacalculatie 2023-2024\nAan het eind van het schooljaar blijkt dat er minder docenten gedetacheerd konden worden dan verwacht (zie informatiebron 2). Dat komt omdat de leerlingenaantallen op scholen dalen.",
 "model": "- lijn A = bedrijfsresultaat\n- lijn B = bezettingsresultaat\n- lijn C = verkoopresultaat\nindien drie juist 2\nindien twee juist 1\nindien een of geen juist 0",
 "pnt": 2,
+"top": [
+"kostprijs"
+],
 "img": [
 "v26-2-b-4",
 "v26-2-o-5"
@@ -16383,6 +18937,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het gerealiseerde resultaat over schooljaar 2023-2024. Geef bij ieder resultaat aan of het een voordelig (+) of een nadelig (-/-) resultaat betreft (zie informatiebronnen 1 en 2). Vul hiervoor de uitwerkbijlage bij deze vraag in.",
 "model": "ruimte voor berekeningen getal x € 1 gerealiseerd (125 – 92) x 400.000 + 13.200.000 verkoopresultaat gerealiseerd (400.000 – 414.720) x -/- 1.317.440 bezettingsresultaat 89,50 gerealiseerd prijsresultaat 37.117.440 – (35.000.000 + + 17.440 op constante kosten 2.100.000) gerealiseerd 0\nefficiencyresultaat op de variabele kosten gerealiseerd prijsresultaat (2,50 – 2,60) x 400.000 -/- 40.000 op de variabele kosten totaal gerealiseerd + 11.860.000 resultaat over schooljaar 2023-2024\n• 13.200.000 (1p)\n• -/- 1.317.440 (1p)\n• 17.440 (1p)\n• -/- 40.000 en + 11.860.000 (1p)\nOpmerking Wanneer een leerling op een andere manier duidelijk heeft gemaakt of een (deel)resultaat voordelig of nadelig is, hiervoor geen scorepunten in mindering brengen.",
 "pnt": 4,
+"top": [
+"resultaat"
+],
 "img": [
 "v26-2-b-3",
 "v26-2-b-4",
@@ -16405,6 +18962,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem de drie andere bevoegdheden van de ondernemingsraad.",
 "model": "- instemmingsrecht\n- informatierecht\n- initiatiefrecht\nindien drie juist 2\nindien twee juist 1\nindien een of geen juist 0",
 "pnt": 2,
+"top": [
+"organisatie",
+"arbeidsrecht"
+],
 "img": [
 "v26-2-b-5",
 "v26-2-o-6"
@@ -16425,6 +18986,7 @@ EXAMEN.vragen.push(...[
 "q": "Bereken hoeveel fte in fase 3 uitgekocht moet worden (zie informatiebronnen 1 en 3).",
 "model": "• aantal te besparen fte: 24 32 in dienst = 80 x + 120 x + 180 = 324 fte 40 40 324 – 300 = 24 fte moet ‘eruit’ (1p)\n24 32\n• 24 – 5 x –5x – 2 = 24 – 3 – 4 – 2 = 15 fte (1p)\n40 40",
 "pnt": 2,
+"top": [],
 "img": [
 "v26-2-b-3",
 "v26-2-b-5",
@@ -16446,6 +19008,10 @@ EXAMEN.vragen.push(...[
 "q": "Toon met behulp van een berekening aan of Ivoh het aanbod van Zondag zal accepteren (zie informatiebron 3 en het formuleblad).",
 "model": "Voorbeeld van een juiste berekening is:\n• wekelijks nettoloon = 39 x 40 x (1 – 0,4) = 936 netto transitievergoeding = 7,5 x 2 x 936 = 14.040 (1p)\n• contante waarde netto transitievergoeding: 14.040 x 1,001-13 = 13.858,75 (1p)\n• contante waarde wekelijks loon: 936 x (1,001-12 + 1,001-11 … + 1) = 12.095,33 (1p)\nof a=1,001-12 r=1,001 n=13 S=12,92236264 12,92236264 x 936 = 12.095,33\n• totaal te betalen aan Ivoh op 1 augustus 2024 € 25.954,08 Dus hij accepteert het aanbod (, want het is meer dan € 25.000). (1p)",
 "pnt": 4,
+"top": [
+"interest",
+"arbeidsrecht"
+],
 "img": [
 "v26-2-b-5",
 "v26-2-o-6"
@@ -16466,6 +19032,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de hoogte van de erfenis in euro’s van Femm na aftrek van de erfbelasting.",
 "model": "1.750.000 – 450.000\n• erfdeel: ( ) : 2 = 325.000 (1p)\n 2\n• 152.368 x 0,10 + (325.000 – 152.368 – 25.187) x 0,20 = 44.725,80 325.000 – 44.725,80 = € 280.274,20 (1p)\nOpmerking Wanneer is afgerond op hele euro’s (naar boven of beneden), hiervoor geen scorepunten in mindering brengen.",
 "pnt": 2,
+"top": [
+"erven"
+],
 "img": [
 "v26-2-o-8"
 ]
@@ -16485,6 +19054,10 @@ EXAMEN.vragen.push(...[
 "q": "Noem de toezichthouder van de Nederlandse effectenbeurs.",
 "model": "Autoriteit Financiële Markten / AFM",
 "pnt": 1,
+"top": [
+"aandelen",
+"prive"
+],
 "img": [
 "v26-2-o-8"
 ]
@@ -16504,6 +19077,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit dat de beurskoers van een putoptie Wager in deze periode stijgt als de beurskoers van het onderliggende aandeel daalt. Betrek de werking van een putoptie in het antwoord.",
 "model": "Voorbeeld van een juist antwoord is:\n• Een putoptie (Wager nv) geeft het recht om het onderliggende aandeel (Wager nv) te verkopen voor een vaste prijs (van € 17,50). (1p)\n• Als het aandeel (Wager nv) minder waard wordt, dan kan er meer winst (of minder verlies) behaald worden bij het uitoefenen van het optierecht (Wager nv). Er zullen meer beleggers de putoptie (Wager nv) willen kopen, waardoor de prijs stijgt. (1p)",
 "pnt": 2,
+"top": [
+"aandelen"
+],
 "img": [
 "v26-2-o-8"
 ]
@@ -16523,6 +19099,9 @@ EXAMEN.vragen.push(...[
 "q": "Verklaar dat in deze periode de koers van de putoptie Wager daalt.",
 "model": "Voorbeeld van een juist antwoord is: Hoe dichter de expiratiedatum in zicht komt, hoe kleiner de kans dat de beurskoers van het aandeel nog onder de uitoefenprijs uitkomt. (Daardoor is de putoptie Wager nv steeds minder interessant om te bezitten en zal de beurskoers van de putoptie dalen richting € 0).",
 "pnt": 1,
+"top": [
+"aandelen"
+],
 "img": [
 "v26-2-o-9"
 ]
@@ -16542,6 +19121,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken het resultaat in euro’s dat Femm in de periode 31 januari 2024 tot en met 31 december 2025 op haar beleggingen in opties en aandelen heeft behaald.",
 "model": "• belegging: 50.000 aantal gekochte aandelen = = 2.500 stuks 20 50.000 + 2.500 x 3,50 = 58.750 (1p)\n• opbrengst: aandelen: 2.500 x 0,4 x 17,50 + 2.500 x 0,6 x 17,90 = 44.350 putopties: 2.500 x 0,6 x 10,25 = 15.375 totale opbrengst: 59.725 belegging -/- 58.750 resultaat: € 975 (2p)\nOpmerking Bij de tweede deelscore voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"aandelen"
+],
 "img": [
 "v26-2-o-9"
 ]
@@ -16561,6 +19143,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem nog twee andere bevoegdheden van de AvA.",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- vaststellen van de winstverdeling\n- vaststellen van de jaarrekening\n- benoemen / ontslaan van een bestuurder\n- wijzigen van de statuten\nper juist antwoord 1",
 "pnt": 2,
+"top": [
+"organisatie"
+],
 "img": [
 "v26-2-o-10"
 ]
@@ -16580,6 +19165,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg dit voordeel uit zonder een berekening te maken.",
 "model": "In de oude structuur werd slechts eenmaal gebruikgemaakt van het lage belastingtarief (, terwijl hier in de nieuwe organisatiestructuur driemaal van gebruikgemaakt wordt).",
 "pnt": 1,
+"top": [
+"organisatie",
+"kostprijs"
+],
 "img": [
 "v26-2-o-11"
 ]
@@ -16599,6 +19188,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken voor Bladersale de break-evenomzet voor 2025. Bereken daartoe eerst de variabele kosten van Bladersale als percentage van de omzet.",
 "model": "• variabele kosten als percentage van de omzet 600.000 x 100% = 40% (1p)\n1.500.000 800.000 – 600.000 + 9.000 + 31.000\n• = € 400.000 (1p)\n1 – 0,40",
 "pnt": 2,
+"top": [
+"kostprijs",
+"breakeven"
+],
 "img": [
 "v26-2-o-11"
 ]
@@ -16618,6 +19211,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de stijging van het totale resultaat voor winstbelasting van Bladerblad bv in 2026 ten opzichte van 2025.",
 "model": "Voorbeelden van een juiste berekening zijn:\n• kosten: (360.000 + 600.000) x 1,2 + (200.000 + 3.000 + 22.000 + 412.000 – 360.000 + 5.000 + 41.000 + 800.000 – 600.000 + 9.000 + 31.000) x 1,05 = 1.152.000 + 591.150 = 1.743.150 (2p)\n• omzet: (360.000 + 600.000 + 1.500.000) x 1,2 = 2.952.000 nieuw resultaat: 2.952.000 – 1.743.150 = 1.208.850 stijging resultaat : 1.208.850 – 135.000 – 142.000 – 660.000 = € 271.850 (1p)\nof\n• stijging constante kosten: (200.000 + 3.000 + 22.000 + 412.000 – 360.000 + 5.000 + 41.000 + 800.000 – 600.000 + 9.000 + 31.000) x 0,05 = 28.150 (2p)\n• stijging resultaat: (1.500.000 x 0,2) – 28.150 = € 271.850 (1p)\nOpmerking Bij de eerste deelscore voor elke fout 1 scorepunt in mindering brengen.",
 "pnt": 3,
+"top": [
+"resultaat"
+],
 "img": [
 "v26-2-o-12"
 ]
@@ -16637,6 +19233,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit hoe de Efteling de investeringen in zonnepanelen kan terugverdienen.",
 "model": "Voorbeeld van een juist antwoord is: Door de investeringen in zonnepanelen kunnen de energiekosten dalen.",
 "pnt": 1,
+"top": [
+"aandelen",
+"mvo"
+],
 "img": [
 "v26-2-b-6",
 "v26-2-b-7",
@@ -16658,6 +19258,9 @@ EXAMEN.vragen.push(...[
 "q": "Noem het instrument van de marketingmix waar de uitbreiding van de Efteling onder valt.",
 "model": "Product(beleid)",
 "pnt": 1,
+"top": [
+"marketingmix"
+],
 "img": [
 "v26-2-b-6",
 "v26-2-o-13"
@@ -16678,6 +19281,9 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de current ratio per 31 december 2023 (zie informatiebron 5).",
 "model": "7.716 + 5.631 + 322 + 9.797 + 39.727 = 0,94 14.554 + 17.296 + 3.300 + 32.150\nOpmerking Per gemaakte fout een scorepunt in mindering brengen.",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v26-2-b-7",
 "v26-2-o-13"
@@ -16698,6 +19304,9 @@ EXAMEN.vragen.push(...[
 "q": "Geef twee verklaringen waarom een current ratio lager dan 1 bij de Efteling niet automatisch leidt tot een betalingsprobleem (zie informatiebron 5).",
 "model": "Voorbeelden van juiste antwoorden zijn:\n- De balanspost “Vooruit ontvangen bedragen” is geen betalingsverplichting.\n- De voorraad kan mogelijk voor een hoger bedrag verkocht worden dan dat deze op de balans gewaardeerd is.\n- De current ratio is een momentopname.\n- De betaling aan de verschillende crediteuren zal niet op hetzelfde moment zijn.\nper juist antwoord 1\nOpmerking Het antwoord dient betrekking te hebben op de Vlottende activa of Kort vreemd vermogen, of dat de current ratio een momentopname is.",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v26-2-b-7",
 "v26-2-o-14"
@@ -16718,6 +19327,9 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening aan dat de solvabiliteit van de Efteling op 31 december 2023 is verbeterd ten opzichte van 31 december 2022 (zie informatiebron 5).",
 "model": "13.393 + 201.281 + 37.753 x 100% = 67% 378.566",
 "pnt": 1,
+"top": [
+"kengetallen"
+],
 "img": [
 "v26-2-b-7",
 "v26-2-o-14"
@@ -16738,6 +19350,9 @@ EXAMEN.vragen.push(...[
 "q": "Leg uit hoe een verbetering van de solvabiliteit een positief effect kan hebben op het toekomstige resultaat.",
 "model": "Voorbeeld van een juist antwoord is:\n• Door een verbeterde solvabiliteit wordt het (faillissements)risico voor banken verlaagd. (1p)\n• Hierdoor kan de Efteling tegen een lager interestpercentage lenen. / Dit leidt tot lagere interestkosten (en daarmee tot een hoger resultaat). (1p)",
 "pnt": 2,
+"top": [
+"kengetallen"
+],
 "img": [
 "v26-2-b-6",
 "v26-2-b-7",
@@ -16759,6 +19374,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de REV na belasting over 2023 en geef aan of de geplande investeringen worden goedgekeurd door de aandeelhouder. (zie informatiebron 5)",
 "model": "223.248.000 + 252.427.000\n• GEV = = 237.837,50 (1p)\n 2\n37.753.000\n• REV = x 100% = 15,9% (1p)\n237.837.500\n• De solvabiliteit is verbeterd (zie vraag 25) en de REV (15,9% > 15%) voldoet aan de gestelde eis. Aan twee van de drie eisen wordt voldaan, dus de geplande investeringen worden goedgekeurd. (1p)",
 "pnt": 3,
+"top": [
+"aandelen",
+"kengetallen"
+],
 "img": [
 "v26-2-b-7",
 "v26-2-o-14"
@@ -16779,6 +19398,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de interestkosten voor jaar 13 van de lineaire hypotheek.",
 "model": "Voorbeelden van een juiste berekening zijn: 7.701,33\n• restschuld begin jaar 12: = 202.666,58 (1p)\n0,038\n• interest jaar 13: 0,038 x (202.666,67 – 10.666,67) = € 7.296 (1p)\nof\n• 30 x 10.666,67 = 320.000,06 320.000,06 – (12 x 10.666,67) = 192.000,06 (1p)\n• 192.000,06 x 0,038 = € 7.296 (1p)",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "v26-2-o-16"
 ]
@@ -16798,6 +19421,10 @@ EXAMEN.vragen.push(...[
 "q": "Bereken de aflossing in jaar 13 van de annuïteitenhypotheek.",
 "model": "De annuïteit is 8.890,81 + 9.168,08 = 18.058,89 18.058,89 – 0,038 x 232.374,45 = € 9.228,66",
 "pnt": 1,
+"top": [
+"vreemdvermogen",
+"woning"
+],
 "img": [
 "v26-2-o-16"
 ]
@@ -16817,6 +19444,10 @@ EXAMEN.vragen.push(...[
 "q": "Leg zonder berekening uit dat de hypotheekuitgaven van de annuïteitenhypotheek na belastingvoordeel jaarlijks stijgen.",
 "model": "• De brutojaaruitgaven blijven gelijk / De annuïteit is steeds hetzelfde. (1p)\n• Doordat de uitgaven aan interest dalen, neemt het belastingvoordeel af, waardoor de uitgaven na belastingvoordeel (jaarlijks) stijgen. (1p)",
 "pnt": 2,
+"top": [
+"woning",
+"vreemdvermogen"
+],
 "img": [
 "v26-2-o-16"
 ]
