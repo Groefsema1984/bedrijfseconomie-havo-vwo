@@ -64949,10 +64949,10 @@ function wereldStand(w){
   return {klaar:echte.filter(l=>(S.lv[l.id]||{}).best>=MEDAIL[0].min).length, totaal:echte.length, pct:Math.round(lvs.reduce((s,l)=>s+Math.min((S.lv[l.id]||{}).best||0,VRAGEN_PER_LEVEL),0)/(lvs.length*VRAGEN_PER_LEVEL)*100), diploma:!!(S.toets[w]&&S.toets[w].klaar)};
 }
 // Een level gaat open als het vorige level met vragen in hetzelfde hoofdstuk (hfd) brons heeft. Rekenlabs zijn altijd open.
-function levelOpen(w,i){ const lvs=lvsVoor(w).filter(speelbaar); const l=lvs[i]; if(!l||l.id.endsWith('.r')) return true;
+function levelOpen(w,i){ if(S&&S.alles) return true; const lvs=lvsVoor(w).filter(speelbaar); const l=lvs[i]; if(!l||l.id.endsWith('.r')) return true;
   const vorige=lvs.slice(0,i).filter(x=>!x.id.endsWith('.r')&&x.vragen.length&&(x.hfd||'')===(l.hfd||'')).pop();
   return !vorige||((S.lv[vorige.id]||{}).best||0)>=MEDAIL[0].min }
-function toetsOpen(w){ const alle=lvsVoor(w).filter(l=>l.vragen.length); const kern=alle.filter(l=>!l.extra); const lvs=kern.length?kern:alle; return lvs.length>0&&lvs.every(l=>((S.lv[l.id]||{}).best||0)>=MEDAIL[0].min) }
+function toetsOpen(w){ if(S&&S.alles) return true; const alle=lvsVoor(w).filter(l=>l.vragen.length); const kern=alle.filter(l=>!l.extra); const lvs=kern.length?kern:alle; return lvs.length>0&&lvs.every(l=>((S.lv[l.id]||{}).best||0)>=MEDAIL[0].min) }
 
 const SCHERMEN = {
 welkom(){
