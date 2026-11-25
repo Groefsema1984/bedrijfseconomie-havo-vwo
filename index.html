@@ -65112,6 +65112,7 @@ account(){
   const st=serverModus()?(syncStatus==='ok'?`<span class="sync ok">✔ Opgeslagen op de server${syncTijd?' om '+new Date(syncTijd).toLocaleTimeString('nl-NL',{hour:'2-digit',minute:'2-digit'}):''}</span>`:syncStatus==='fout'?`<span class="sync fout">Nog niet opgeslagen op de server (${esc(syncFout)}). Dit gebeurt vanzelf als er internet is.</span>`:'<span class="sync">Nog niet gesynchroniseerd</span>'):'<span class="sync">Testmodus: alleen op dit apparaat</span>';
   return `<div class="wrap" style="max-width:640px">${kop('Account','go(\'home\')')}
    <div class="kaart"><p style="margin-top:0"><b>${esc(S.naam)}</b> · ${esc(S.klas)}</p>
+    ${S.alles?`<label class="label">Docentaccount: bekijk als klas</label><select onchange="S.klas=this.value;bewaar();go('account')">${KLASSEN.map(k=>`<option${k===S.klas?' selected':''}>${k}</option>`).join('')}</select>`:''}
     <p class="zacht" style="margin-bottom:2px">Speler-ID</p><div class="code">${esc(S.id||'–')}</div>
     <p class="zacht" style="margin-bottom:2px">Herstelcode</p><div class="code">${esc(S.code||'–')}</div>
     <p id="syncStat" style="margin-top:12px">${st}</p>
